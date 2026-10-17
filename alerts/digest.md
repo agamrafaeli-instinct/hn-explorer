@@ -1,4 +1,5 @@
-HN digest 2026-10-17 (UTC): 14 new stories at 300+ points
+HN digest 2026-10-17 (UTC): 15 new stories at 300+ points
+- 412 pts, 68 comments: OpenCode Hacked: User credentials leaked https://news.ycombinator.com/item?id=50133401
 - 376 pts, 152 comments: Claude reveals ECDSA curve origins https://news.ycombinator.com/item?id=50122800
 - 350 pts, 301 comments: 90% of US working hours are spent on tasks not covered well by AI benchmarks https://news.ycombinator.com/item?id=50121179
 - 333 pts, 184 comments: Solar surpasses nuclear power globally for first time https://news.ycombinator.com/item?id=50131256
