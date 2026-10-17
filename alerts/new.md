@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-10-17 21:01 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-17 22:57 UTC. Forward only ids not sent before.
 50133401 | 412 pts, 68 comments | OpenCode Hacked: User credentials leaked | https://news.ycombinator.com/item?id=50133401
 50131256 | 333 pts, 184 comments | Solar surpasses nuclear power globally for first time | https://news.ycombinator.com/item?id=50131256
 50120224 | 304 pts, 195 comments | JPEG XL vs. AVIF for web use-cases | https://news.ycombinator.com/item?id=50120224
