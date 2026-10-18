@@ -1,8 +1,7 @@
-HN digest 2026-10-18 (UTC): 14 new stories at 300+ points
+HN digest 2026-10-18 (UTC): 13 new stories at 300+ points
 - 412 pts, 68 comments: OpenCode Hacked: User credentials leaked https://news.ycombinator.com/item?id=50133401
 - 375 pts, 183 comments: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day https://news.ycombinator.com/item?id=50136881
 - 368 pts, 182 comments: DeepSeek search and fetch – $0.75 per 1000 successful requests https://news.ycombinator.com/item?id=50138531
-- 333 pts, 184 comments: Solar surpasses nuclear power globally for first time https://news.ycombinator.com/item?id=50131256
 - 328 pts, 29 comments: Pele – Mermaid diagrams as themeable SVG https://news.ycombinator.com/item?id=50132193
 - 309 pts, 63 comments: Furifont, a Japanese font that shows furigana https://news.ycombinator.com/item?id=50100994
 - 308 pts, 85 comments: Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware https://news.ycombinator.com/item?id=50127979
