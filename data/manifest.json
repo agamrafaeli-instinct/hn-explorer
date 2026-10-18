@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-17T02:50:04.003739+00:00",
+  "generated_at": "2026-10-18T02:49:12.103867+00:00",
   "total_rows": 1000000,
   "columns": [
     {
@@ -91,6 +91,16 @@
     ]
   },
   "chunks": [
+    {
+      "path": "data/posts-inc-cb4a81447084421f04c05569.csv",
+      "rows": 10006,
+      "bytes": 3260738,
+      "sha256": "cb4a81447084421f04c055692ebb7a1f4c53448efd3b133deca4cfbc4a9fcb17",
+      "min_id": 50127399,
+      "max_id": 50137404,
+      "min_time": 1792205322,
+      "max_time": 1792291703
+    },
     {
       "path": "data/posts-inc-9d2edc07c154553d9f40115d.csv",
       "rows": 14011,
@@ -3032,24 +3042,14 @@
       "sha256": "c29a714bbb2305375e6e6d080bed13e2c47cda2bc5048a1d008a6ff364dff96a"
     },
     {
-      "path": "data/posts-00036.csv",
-      "rows": 23679,
-      "bytes": 8388599,
-      "min_id": 49134084,
+      "path": "data/posts-inc-95774b2d0514945e7d41d54a.csv",
+      "rows": 20358,
+      "bytes": 7179183,
+      "sha256": "95774b2d0514945e7d41d54a8af22ab8f9f4f98c1842805e64fc986474e539eb",
+      "min_id": 49137405,
       "max_id": 49157762,
-      "min_time": 1785589403,
-      "max_time": 1785773710,
-      "sha256": "f1168312070d1acf559a5973e5641314ed56f6ef04fe897402a17691bd5f4cfe"
-    },
-    {
-      "path": "data/posts-inc-d58eeb7eab737eb394dc3828.csv",
-      "rows": 6685,
-      "bytes": 2366559,
-      "sha256": "d58eeb7eab737eb394dc3828742559514d8393f03e17606ab4e3a3b926c013ac",
-      "min_id": 49127399,
-      "max_id": 49134083,
-      "min_time": 1785525221,
-      "max_time": 1785589385
+      "min_time": 1785611340,
+      "max_time": 1785773710
     }
   ],
   "summary_path": "data/summary.json",
@@ -3074,13 +3074,13 @@
     "daily_update_api": "https://hacker-news.firebaseio.com/v0",
     "selection_after_daily_update": "latest retained items by time DESC, id DESC; all item types; unavailable IDs retried"
   },
-  "total_csv_bytes": 344783151,
+  "total_csv_bytes": 344467914,
   "daily_update": {
-    "last_scanned_id": 50127398,
-    "previous_scanned_id": 50113387,
+    "last_scanned_id": 50137404,
+    "previous_scanned_id": 50127398,
     "unavailable_ids": [],
-    "new_rows": 14011,
-    "archived_stories": 1669,
+    "new_rows": 10006,
+    "archived_stories": 1139,
     "retention_rows": 1000000,
     "mode": "daily additions since last successful scan; catch-up included",
     "score_policy": "snapshot at first retrieval; older scores/comments are not refreshed",

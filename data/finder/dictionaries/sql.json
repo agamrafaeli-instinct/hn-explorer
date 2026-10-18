@@ -1,0 +1,61 @@
+{
+ "aliases": [
+  {
+   "count": 5931,
+   "text": "postgresql"
+  },
+  {
+   "count": 5130,
+   "text": "postgres"
+  },
+  {
+   "count": 2811,
+   "text": "sqlite"
+  },
+  {
+   "count": 766,
+   "text": "duckdb"
+  }
+ ],
+ "exclusions": [],
+ "label": "Postgres, SQLite and DuckDB",
+ "matches": 14638,
+ "near_misses_total": 9,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\b(postgres(ql)?|sqlite|duckdb)\\b",
+ "sample_matches": [
+  "PostgreSQL: Add expression compilation support to LLVM JIT provider",
+  "Comparison of Joins: MongoDB vs. PostgreSQL",
+  "Show HN: Farchive \u2013 SQLite-backed history-preserving compressed archive",
+  "Why iFood migrated from PostgreSQL to DynamoDB, and then to Scylla",
+  "\"The Duck and the DataFrame: A Data Engineer's Journey with DuckDB\" PyCon AU2025 [video]",
+  "Show HN: Set up HAProxy for an active-active Postgres cluster in docker",
+  "OrioleDB \u2013 building a modern cloud-native storage engine for PostgreSQL",
+  "PostgreSQL Workload Analyzer",
+  "Show HN: Metagration \u2013 Migrate Postgres with Postgres",
+  "SQLite 3.39.2",
+  "Bloom Filters and SQLite",
+  "PyCanopy: A spatial query layer for Polars, competitive with DuckDB, SedonaDB",
+  "Announcing Postgres pg_shard 1.1",
+  "Dexter: automatic indexer for PostgreSQL",
+  "A PostgreSQL Database for Every Agent: In-Database RAG, Graph, and Multitenancy",
+  "Best place to learn to use PostgreSQL",
+  "Indexes in PostgreSQL, Part 10: Bloom",
+  "Heroku Postgres Update: Configuration, Credentials, and CI \u2013 Heroku",
+  "PostgreSQL Foreign File Performance",
+  "Packet Labs IoT Workshop - bare-metal, k3s, MQTT, Postgresql & OpenFaaS"
+ ],
+ "sample_near_misses": [
+  "Invite HN: TeamPostgreSQL beta",
+  "Speed test between django_mongokit and postgresql_psycopg2",
+  "Some of My Favorite PostgreSQLisms",
+  "PostgreSQLsify Everything with Babelfish and MangoDB",
+  "MySQL5.7 and PostgreSQL11 db will be auto-enrolled into AWS RDS Extended Support",
+  "Use Cases for Merging, Splitting Partitions with Minimal Locking in PostgreSQL17",
+  "Google Web Toolkit showcase: TeamPostgreSQL",
+  "PostgreSQL10 Roadmap",
+  "TeamPostgreSQL (beta'd here) released, 20% HN discount"
+ ],
+ "schema": 1,
+ "term": "sql"
+}
