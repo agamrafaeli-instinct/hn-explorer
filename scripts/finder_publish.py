@@ -58,9 +58,17 @@ def make_card(e, today, root=None):
                 c = json.load(src)
         finally:
             film.ROOT = previous_root
+    existing_cards = []
+    replaced_ids = set()
     for existing_path in sorted(glob.glob(os.path.join(root, 'hypotheses', 'h*-*.json'))):
         with open(existing_path) as src:
             existing = json.load(src)
+        existing_cards.append(existing)
+        r = existing.get('replaces')
+        replaced_ids.update([r] if isinstance(r, str) else (r or []))
+    for existing in existing_cards:
+        if existing.get('id') in replaced_ids:
+            continue  # A replaced card is frozen history; reuse its successor's rule.
         if (existing.get('author') != 'story-finder' or existing.get('check') != c['check']
                 or existing.get('verdicts') != c['verdicts']):
             continue

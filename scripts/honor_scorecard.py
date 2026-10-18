@@ -92,14 +92,15 @@ def score_card(card, cards, rows, story_ids, stories_complete, log, root):
     r['relevant'] = aud and n >= MIN_COUNT
     r['insightful'] = (json.dumps(ga, sort_keys=True) != json.dumps(gb, sort_keys=True)
         and bool(re.search(r'\d', card.get('expect', ''))) and len(card.get('caveats', [])) >= 1)
-    key = lambda x: json.dumps([x['source'], x['path'], x.get('labels'), x['group_a'].get('field'), x['group_a'].get('per'),
-        x['group_a'].get('indices'), x['group_b'].get('field'), x['group_b'].get('indices')], sort_keys=True)
+    key = lambda x: json.dumps([x['check']['source'], x['check']['path'], x['check'].get('labels'), x['check']['group_a'].get('field'),
+        x['check']['group_a'].get('per'), x['check']['group_a'].get('indices'), x['check']['group_b'].get('field'),
+        x['check']['group_b'].get('indices'), x.get('verdicts')], sort_keys=True)
     me = words(card['title']); dup = False
     for oid, o in cards.items():
         if oid >= card['id'] or oid in ([card['replaces']] if isinstance(card.get('replaces'), str) else card.get('replaces', [])):
             continue  # a card is not a duplicate of the card it replaces
         ow = words(o['title'])
-        if len(me & ow) / max(1, len(me | ow)) >= DUP_JACCARD or key(o['check']) == key(k):
+        if len(me & ow) / max(1, len(me | ow)) >= DUP_JACCARD or key(o) == key(card):  # same comparison with the same verdict rules
             dup = True; break
     r['novel'] = not dup
     return r, n

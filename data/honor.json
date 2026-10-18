@@ -159,7 +159,7 @@
     "fresh": null,
     "insightful": false,
     "interesting": true,
-    "novel": false,
+    "novel": true,
     "relevant": true,
     "sharp": true
    },
@@ -167,7 +167,7 @@
    "group_a_count": 114563.0,
    "id": "h309",
    "replaced_by": "h379",
-   "score": 0.6,
+   "score": 0.8,
    "title": "SQLite and DuckDB stories punch above their weight"
   },
   {
@@ -329,7 +329,7 @@
     "fresh": null,
     "insightful": true,
     "interesting": true,
-    "novel": false,
+    "novel": true,
     "relevant": true,
     "sharp": true
    },
@@ -337,7 +337,7 @@
    "group_a_count": 70449.0,
    "id": "h320",
    "replaced_by": "h396",
-   "score": 0.8,
+   "score": 1.0,
    "title": "Data centers and grid: points premium, all-time base"
   },
   {
@@ -544,7 +544,7 @@
     "fresh": null,
     "insightful": true,
     "interesting": true,
-    "novel": false,
+    "novel": true,
     "relevant": true,
     "sharp": true
    },
@@ -552,7 +552,7 @@
    "group_a_count": 8738.0,
    "id": "h339",
    "replaced_by": "h403",
-   "score": 0.8,
+   "score": 1.0,
    "title": "Space has a higher hit rate"
   },
   {
@@ -1024,7 +1024,7 @@
     "fresh": null,
     "insightful": true,
     "interesting": true,
-    "novel": false,
+    "novel": true,
     "relevant": true,
     "sharp": true
    },
@@ -1032,7 +1032,7 @@
    "group_a_count": 239349.0,
    "id": "h368",
    "replaced_by": "h419",
-   "score": 0.8,
+   "score": 1.0,
    "title": "Business-software words sink"
   },
   {
@@ -1041,7 +1041,7 @@
     "fresh": null,
     "insightful": false,
     "interesting": true,
-    "novel": false,
+    "novel": true,
     "relevant": true,
     "sharp": true
    },
@@ -1049,7 +1049,7 @@
    "group_a_count": 8522.0,
    "id": "h369",
    "replaced_by": "h378",
-   "score": 0.6,
+   "score": 0.8,
    "title": "LLM, RAG and fine-tuning: a bigger share than before"
   },
   {
@@ -1891,7 +1891,7 @@
     "fresh": null,
     "insightful": false,
     "interesting": true,
-    "novel": false,
+    "novel": true,
     "relevant": true,
     "sharp": true
    },
@@ -1899,7 +1899,7 @@
    "group_a_count": 71.0,
    "id": "h422",
    "replaced_by": "h423",
-   "score": 0.6,
+   "score": 0.8,
    "title": "Vue: a bigger share than before"
   },
   {
@@ -1924,17 +1924,15 @@
     "fresh": null,
     "insightful": false,
     "interesting": true,
-    "novel": false,
+    "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [
-    "insightful",
-    "novel"
-   ],
+   "failing": [],
    "group_a_count": 3280.0,
    "id": "h424",
-   "score": 0.6,
+   "replaced_by": "h428",
+   "score": 0.8,
    "title": "GPU and chip hardware: a bigger share than before"
   },
   {
@@ -1959,16 +1957,14 @@
     "fresh": null,
     "insightful": true,
     "interesting": true,
-    "novel": false,
+    "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [
-    "novel"
-   ],
+   "failing": [],
    "group_a_count": 536.0,
    "id": "h426",
-   "score": 0.8,
+   "score": 1.0,
    "title": "Java: a bigger share than before"
   },
   {
@@ -1981,13 +1977,44 @@
     "relevant": true,
     "sharp": true
    },
-   "failing": [
-    "novel"
-   ],
+   "failing": [],
    "group_a_count": 2009.0,
    "id": "h427",
+   "replaced_by": "h429",
    "score": 0.8,
    "title": "Postgres, SQLite and DuckDB: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 3280.0,
+   "id": "h428",
+   "score": 1.0,
+   "title": "GPU and chip hardware: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 2009.0,
+   "id": "h429",
+   "score": 1.0,
+   "title": "Postgres, SQLite and DuckDB: a bigger slice than before"
   }
  ],
  "schema": 1,

@@ -10,7 +10,7 @@ RULE = {'sharp': 'two named groups, a source path that resolves, numeric support
         'fresh': 'verdict or confidence changed within the last 14 logged days',
         'relevant': 'an audience tag and at least 30 matching items in group A',
         'insightful': 'a different comparison group, a numeric rule in the text, and a caveat',
-        'novel': 'no older card with the same fields or a near-identical title'}
+        'novel': 'no older card with the same fields and verdict rules or a near-identical title'}
 
 def title(c):
     return PREFIX + c['id'] + ': ' + ', '.join(c['failing'])

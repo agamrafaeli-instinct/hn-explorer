@@ -80,6 +80,15 @@ class Publish(unittest.TestCase):
             json.dump(c, open(card_path, 'w'))
             json.dump(E, open(os.path.join(d, 'data/finder/2027-02-11.json'), 'w'))
             self.assertNotEqual(self.run_main(d, '2027-02-11')['card_id'], original['card_id'])
+    def test_reuse_skips_a_replaced_card(self):
+        with tempfile.TemporaryDirectory() as d:
+            setup(d); original = self.run_main(d)
+            succ = {'schema': 1, 'id': 'h999', 'title': 'Successor', 'replaces': original['card_id']}
+            json.dump(succ, open(os.path.join(d, 'hypotheses/h999-successor.json'), 'w'))
+            json.dump(E, open(os.path.join(d, 'data/finder/2027-02-11.json'), 'w'))
+            again = self.run_main(d, '2027-02-11')
+            self.assertNotEqual(again['card_id'], original['card_id'])
+            self.assertNotIn('reused', again['rule'])
     def test_no_pick_hides_home_line(self):
         with tempfile.TemporaryDirectory() as d:
             os.makedirs(os.path.join(d, 'data/finder')); lp = os.path.join(d, 'data/finder/latest.json'); open(lp, 'w').write('{}')

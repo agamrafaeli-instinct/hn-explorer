@@ -64,6 +64,15 @@ class T(unittest.TestCase):
     def test_novel_fails_for_newer_duplicate_only(self):
         e = copy.deepcopy(CARD); e['id'] = 'h901'; d = make(extra=[e])
         self.assertTrue(crit(d, 'h900')['novel']); self.assertFalse(crit(d, 'h901')['novel'])
+    def test_novel_same_check_different_verdicts_passes(self):
+        e = copy.deepcopy(CARD); e['id'] = 'h901'; e['title'] = 'Gamma delta epsilon'
+        e['verdicts'] = [{'when': {'op': '>=', 'value': 5}, 'verdict': 'supported', 'confidence': 'strong'},
+                         {'when': {'op': '<=', 'value': 0.5}, 'verdict': 'refuted', 'confidence': 'strong'},
+                         {'else': True, 'verdict': 'inconclusive', 'confidence': 'inconclusive'}]
+        self.assertTrue(crit(make(extra=[e]), 'h901')['novel'])
+    def test_novel_fails_for_near_identical_title(self):
+        e = copy.deepcopy(CARD); e['id'] = 'h901'; e['check'] = dict(CARD['check'], path='other')
+        self.assertFalse(crit(make(extra=[e]), 'h901')['novel'])
     def test_same_input_same_output(self):
         d = make(); self.assertEqual(h.run(d), h.run(d))
     def test_does_not_touch_card_files(self):

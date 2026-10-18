@@ -24,7 +24,7 @@ Inputs are only `hypotheses/*.json`, the data files the cards name, `stories/ind
 - The `expect` text states a number.
 - The card lists at least one caveat.
 
-**6. Novel.** Fail when an older card (a lower ID) has the same source, path, labels, fields and rows for both groups, or a title that shares 70 percent or more of its words (Jaccard, lower case, common words removed). The newer card fails, so frozen old cards never fail on this rule.
+**6. Novel.** Fail when an older card (a lower ID) has the same source, path, labels, fields and rows for both groups and the same verdict rules, or a title that shares 70 percent or more of its words (Jaccard, lower case, common words removed). The newer card fails, so frozen old cards never fail on this rule. Decision (2026-10-18): the same comparison with different verdict rules is a distinct test.
 
 ## Score and queue
 
