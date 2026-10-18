@@ -5,7 +5,7 @@
   {
    "effect": 0.6978,
    "generator": "cross_window",
-   "has_dictionary": false,
+   "has_dictionary": true,
    "label": "Postgres, SQLite and DuckDB",
    "note": "verdict is up against all earlier months and flat against the 12 months before",
    "rank": 1,
