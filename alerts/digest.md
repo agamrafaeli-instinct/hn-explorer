@@ -1,4 +1,4 @@
-HN digest 2026-10-18 (UTC): 16 new stories at 300+ points
+HN digest 2026-10-18 (UTC): 17 new stories at 300+ points
 - 412 pts, 68 comments: OpenCode Hacked: User credentials leaked https://news.ycombinator.com/item?id=50133401
 - 375 pts, 183 comments: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day https://news.ycombinator.com/item?id=50136881
 - 333 pts, 184 comments: Solar surpasses nuclear power globally for first time https://news.ycombinator.com/item?id=50131256
@@ -7,6 +7,7 @@ HN digest 2026-10-18 (UTC): 16 new stories at 300+ points
 - 318 pts, 100 comments: Ultramarine 1 Flash https://news.ycombinator.com/item?id=50106747
 - 314 pts, 74 comments: You could have invented transformers from memory https://news.ycombinator.com/item?id=50122878
 - 309 pts, 63 comments: Furifont, a Japanese font that shows furigana https://news.ycombinator.com/item?id=50100994
+- 308 pts, 111 comments: NY announces game ownership bill requiring ownership rather than licensing https://news.ycombinator.com/item?id=50136536
 - 308 pts, 68 comments: Bleached corals thrive within days when touching healthy neighbour https://news.ycombinator.com/item?id=50126253
 - 307 pts, 159 comments: Gold is now the top U.S. export https://news.ycombinator.com/item?id=50132870
 - 307 pts, 120 comments: DeepSeek-v4.1-Flash-1017 https://news.ycombinator.com/item?id=50129045
