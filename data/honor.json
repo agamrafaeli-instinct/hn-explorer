@@ -417,7 +417,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 2603.0,
+   "group_a_count": 2604.0,
    "id": "h325",
    "score": 1.0,
    "title": "Aerospace: share of stories, all-time base"
@@ -433,7 +433,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 512139.0,
+   "group_a_count": 512142.0,
    "id": "h326",
    "replaced_by": "h399",
    "score": 0.8,
@@ -516,7 +516,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 11263.0,
+   "group_a_count": 11264.0,
    "id": "h331",
    "score": 1.0,
    "title": "The six deep-tech themes together: share of stories, all-time base"
@@ -532,7 +532,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 1467466.0,
+   "group_a_count": 1467469.0,
    "id": "h332",
    "replaced_by": "h402",
    "score": 0.8,
@@ -697,7 +697,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 1102681.0,
+   "group_a_count": 1102688.0,
    "id": "h348",
    "replaced_by": "h407",
    "score": 0.8,
@@ -748,7 +748,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 732.0,
+   "group_a_count": 733.0,
    "id": "h351",
    "score": 1.0,
    "title": "Human languages are gaining share"
@@ -962,7 +962,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 1255921.0,
+   "group_a_count": 1256038.0,
    "id": "h364",
    "replaced_by": "h416",
    "score": 0.8,
@@ -1527,7 +1527,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 512139.0,
+   "group_a_count": 512142.0,
    "id": "h399",
    "score": 1.0,
    "title": "Aerospace stories vs solar energy stories on points"
@@ -1575,7 +1575,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 1467466.0,
+   "group_a_count": 1467469.0,
    "id": "h402",
    "score": 1.0,
    "title": "All six deep-tech themes stories vs Cursor, Claude Code, MCP, Copilot and Devin stories on points"
@@ -1655,7 +1655,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 1102681.0,
+   "group_a_count": 1102688.0,
    "id": "h407",
    "score": 1.0,
    "title": "Books and reading stories vs visual art stories on points"
@@ -1799,7 +1799,7 @@
     "sharp": true
    },
    "failing": [],
-   "group_a_count": 1255921.0,
+   "group_a_count": 1256038.0,
    "id": "h416",
    "score": 1.0,
    "title": "History words stories vs books and reading stories on points"
@@ -1970,6 +1970,24 @@
    "id": "h426",
    "score": 0.8,
    "title": "Java: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": false,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [
+    "novel"
+   ],
+   "group_a_count": 2009.0,
+   "id": "h427",
+   "score": 0.8,
+   "title": "Postgres, SQLite and DuckDB: a bigger share than before"
   }
  ],
  "schema": 1,
