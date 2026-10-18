@@ -5,7 +5,6 @@ HN digest 2026-10-18 (UTC): 16 new stories at 300+ points
 - 328 pts, 29 comments: Pele – Mermaid diagrams as themeable SVG https://news.ycombinator.com/item?id=50132193
 - 318 pts, 188 comments: Butlerian Jihad https://news.ycombinator.com/item?id=50127274
 - 318 pts, 100 comments: Ultramarine 1 Flash https://news.ycombinator.com/item?id=50106747
-- 317 pts, 295 comments: How the Claude Code team does code review https://news.ycombinator.com/item?id=50122951
 - 314 pts, 74 comments: You could have invented transformers from memory https://news.ycombinator.com/item?id=50122878
 - 309 pts, 63 comments: Furifont, a Japanese font that shows furigana https://news.ycombinator.com/item?id=50100994
 - 308 pts, 68 comments: Bleached corals thrive within days when touching healthy neighbour https://news.ycombinator.com/item?id=50126253
@@ -14,4 +13,5 @@ HN digest 2026-10-18 (UTC): 16 new stories at 300+ points
 - 307 pts, 76 comments: Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console https://news.ycombinator.com/item?id=50122431
 - 306 pts, 118 comments: DeepSeek: DeepSeek v4.1 Flash 1017 https://news.ycombinator.com/item?id=50129121
 - 304 pts, 195 comments: JPEG XL vs. AVIF for web use-cases https://news.ycombinator.com/item?id=50120224
-- 302 pts, 151 comments: Apple ML Research: Muse Spark Open with MLX on Mac Studio https://news.ycombinator.com/item?id=50118320
+- 301 pts, 81 comments: Making chicken transparent using Dorito dust https://news.ycombinator.com/item?id=50131213
+- 301 pts, 54 comments: MapQuest will now show you where Flock cameras are in your neighborhood https://news.ycombinator.com/item?id=50129947
