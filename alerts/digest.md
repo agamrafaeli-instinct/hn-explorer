@@ -1,11 +1,13 @@
-HN digest 2026-10-18 (UTC): 15 new stories at 300+ points
+HN digest 2026-10-18 (UTC): 16 new stories at 300+ points
 - 412 pts, 68 comments: OpenCode Hacked: User credentials leaked https://news.ycombinator.com/item?id=50133401
 - 375 pts, 183 comments: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day https://news.ycombinator.com/item?id=50136881
 - 333 pts, 184 comments: Solar surpasses nuclear power globally for first time https://news.ycombinator.com/item?id=50131256
+- 328 pts, 29 comments: Pele – Mermaid diagrams as themeable SVG https://news.ycombinator.com/item?id=50132193
 - 318 pts, 188 comments: Butlerian Jihad https://news.ycombinator.com/item?id=50127274
 - 318 pts, 100 comments: Ultramarine 1 Flash https://news.ycombinator.com/item?id=50106747
 - 317 pts, 295 comments: How the Claude Code team does code review https://news.ycombinator.com/item?id=50122951
 - 314 pts, 74 comments: You could have invented transformers from memory https://news.ycombinator.com/item?id=50122878
+- 309 pts, 63 comments: Furifont, a Japanese font that shows furigana https://news.ycombinator.com/item?id=50100994
 - 308 pts, 68 comments: Bleached corals thrive within days when touching healthy neighbour https://news.ycombinator.com/item?id=50126253
 - 307 pts, 120 comments: DeepSeek-v4.1-Flash-1017 https://news.ycombinator.com/item?id=50129045
 - 307 pts, 76 comments: Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console https://news.ycombinator.com/item?id=50122431
@@ -13,4 +15,3 @@ HN digest 2026-10-18 (UTC): 15 new stories at 300+ points
 - 304 pts, 195 comments: JPEG XL vs. AVIF for web use-cases https://news.ycombinator.com/item?id=50120224
 - 304 pts, 409 comments: Waymo in Toronto https://news.ycombinator.com/item?id=50118981
 - 302 pts, 151 comments: Apple ML Research: Muse Spark Open with MLX on Mac Studio https://news.ycombinator.com/item?id=50118320
-- 300 pts, 191 comments: I love software rendering https://news.ycombinator.com/item?id=50117746
