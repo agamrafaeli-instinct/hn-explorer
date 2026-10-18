@@ -1,6 +1,7 @@
-HN digest 2026-10-18 (UTC): 18 new stories at 300+ points
+HN digest 2026-10-18 (UTC): 17 new stories at 300+ points
 - 412 pts, 68 comments: OpenCode Hacked: User credentials leaked https://news.ycombinator.com/item?id=50133401
 - 375 pts, 183 comments: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day https://news.ycombinator.com/item?id=50136881
+- 368 pts, 182 comments: DeepSeek search and fetch – $0.75 per 1000 successful requests https://news.ycombinator.com/item?id=50138531
 - 333 pts, 184 comments: Solar surpasses nuclear power globally for first time https://news.ycombinator.com/item?id=50131256
 - 328 pts, 29 comments: Pele – Mermaid diagrams as themeable SVG https://news.ycombinator.com/item?id=50132193
 - 318 pts, 188 comments: Butlerian Jihad https://news.ycombinator.com/item?id=50127274
@@ -11,8 +12,6 @@ HN digest 2026-10-18 (UTC): 18 new stories at 300+ points
 - 308 pts, 68 comments: Bleached corals thrive within days when touching healthy neighbour https://news.ycombinator.com/item?id=50126253
 - 307 pts, 159 comments: Gold is now the top U.S. export https://news.ycombinator.com/item?id=50132870
 - 307 pts, 120 comments: DeepSeek-v4.1-Flash-1017 https://news.ycombinator.com/item?id=50129045
-- 307 pts, 76 comments: Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console https://news.ycombinator.com/item?id=50122431
-- 306 pts, 118 comments: DeepSeek: DeepSeek v4.1 Flash 1017 https://news.ycombinator.com/item?id=50129121
 - 304 pts, 195 comments: JPEG XL vs. AVIF for web use-cases https://news.ycombinator.com/item?id=50120224
 - 301 pts, 81 comments: Making chicken transparent using Dorito dust https://news.ycombinator.com/item?id=50131213
 - 301 pts, 54 comments: MapQuest will now show you where Flock cameras are in your neighborhood https://news.ycombinator.com/item?id=50129947
