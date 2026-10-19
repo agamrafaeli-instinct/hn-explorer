@@ -1,5 +1,4 @@
-HN digest 2026-10-19 (UTC): 14 new stories at 300+ points
-- 375 pts, 183 comments: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day https://news.ycombinator.com/item?id=50136881
+HN digest 2026-10-19 (UTC): 13 new stories at 300+ points
 - 368 pts, 182 comments: DeepSeek search and fetch – $0.75 per 1000 successful requests https://news.ycombinator.com/item?id=50138531
 - 346 pts, 163 comments: Namecheap just seized and disabled all my domains https://news.ycombinator.com/item?id=50142866
 - 328 pts, 29 comments: Pele – Mermaid diagrams as themeable SVG https://news.ycombinator.com/item?id=50132193
