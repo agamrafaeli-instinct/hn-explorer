@@ -1,10 +1,10 @@
 HN digest 2026-10-19 (UTC): 13 new stories at 300+ points
 - 368 pts, 182 comments: DeepSeek search and fetch – $0.75 per 1000 successful requests https://news.ycombinator.com/item?id=50138531
+- 352 pts, 168 comments: Hybrid Reasoning Agents: LLM agents that think in latent space, act through text https://news.ycombinator.com/item?id=50145337
 - 346 pts, 163 comments: Namecheap just seized and disabled all my domains https://news.ycombinator.com/item?id=50142866
-- 328 pts, 29 comments: Pele – Mermaid diagrams as themeable SVG https://news.ycombinator.com/item?id=50132193
+- 320 pts, 379 comments: There's never been a better time to go into math (by: 3blue1brown) [video] https://news.ycombinator.com/item?id=50136150
 - 311 pts, 48 comments: RepRapMicron https://news.ycombinator.com/item?id=50141076
 - 309 pts, 126 comments: Someone behind the software https://news.ycombinator.com/item?id=50142573
-- 309 pts, 63 comments: Furifont, a Japanese font that shows furigana https://news.ycombinator.com/item?id=50100994
 - 308 pts, 85 comments: Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware https://news.ycombinator.com/item?id=50127979
 - 308 pts, 111 comments: NY announces game ownership bill requiring ownership rather than licensing https://news.ycombinator.com/item?id=50136536
 - 307 pts, 414 comments: How the Elizabeth Holmes documentary “You Can See Everything” is deceiving https://news.ycombinator.com/item?id=50137620

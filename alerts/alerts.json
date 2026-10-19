@@ -1,5 +1,27 @@
 [
  {
+  "id": "50145337",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "points": 352,
+  "comments": 168,
+  "author": "allinonai",
+  "hn": "https://news.ycombinator.com/item?id=50145337",
+  "url": "https://arxiv.org/abs/2610.18861",
+  "created_at": "2026-10-18T20:48:14Z",
+  "reported_at": 1792394933
+ },
+ {
+  "id": "50136150",
+  "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+  "points": 320,
+  "comments": 379,
+  "author": "mdp2021",
+  "hn": "https://news.ycombinator.com/item?id=50136150",
+  "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+  "created_at": "2026-10-17T23:26:35Z",
+  "reported_at": 1792394933
+ },
+ {
   "id": "50142573",
   "title": "Someone behind the software",
   "points": 309,
