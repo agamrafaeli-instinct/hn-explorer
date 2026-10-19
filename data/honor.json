@@ -2015,6 +2015,22 @@
    "id": "h429",
    "score": 1.0,
    "title": "Postgres, SQLite and DuckDB: a bigger slice than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 4815.0,
+   "id": "h430",
+   "score": 1.0,
+   "title": "Rust, Zig and C++: a bigger share than before"
   }
  ],
  "schema": 1,
