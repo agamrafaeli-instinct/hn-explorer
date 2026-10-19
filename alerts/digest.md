@@ -1,4 +1,4 @@
-HN digest 2026-10-19 (UTC): 15 new stories at 300+ points
+HN digest 2026-10-19 (UTC): 14 new stories at 300+ points
 - 375 pts, 183 comments: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day https://news.ycombinator.com/item?id=50136881
 - 368 pts, 182 comments: DeepSeek search and fetch – $0.75 per 1000 successful requests https://news.ycombinator.com/item?id=50138531
 - 346 pts, 163 comments: Namecheap just seized and disabled all my domains https://news.ycombinator.com/item?id=50142866
@@ -8,7 +8,6 @@ HN digest 2026-10-19 (UTC): 15 new stories at 300+ points
 - 309 pts, 63 comments: Furifont, a Japanese font that shows furigana https://news.ycombinator.com/item?id=50100994
 - 308 pts, 85 comments: Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware https://news.ycombinator.com/item?id=50127979
 - 308 pts, 111 comments: NY announces game ownership bill requiring ownership rather than licensing https://news.ycombinator.com/item?id=50136536
-- 308 pts, 68 comments: Bleached corals thrive within days when touching healthy neighbour https://news.ycombinator.com/item?id=50126253
 - 307 pts, 414 comments: How the Elizabeth Holmes documentary “You Can See Everything” is deceiving https://news.ycombinator.com/item?id=50137620
 - 307 pts, 159 comments: Gold is now the top U.S. export https://news.ycombinator.com/item?id=50132870
 - 301 pts, 81 comments: Making chicken transparent using Dorito dust https://news.ycombinator.com/item?id=50131213
