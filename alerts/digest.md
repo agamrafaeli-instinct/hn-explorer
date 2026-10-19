@@ -1,6 +1,6 @@
-HN digest 2026-10-19 (UTC): 10 new stories at 300+ points
+HN digest 2026-10-19 (UTC): 11 new stories at 300+ points
 - 555 pts, 290 comments: Ousted Savannah police officer gave ICE agent husband access to Flock system https://news.ycombinator.com/item?id=50150750
-- 368 pts, 182 comments: DeepSeek search and fetch – $0.75 per 1000 successful requests https://news.ycombinator.com/item?id=50138531
+- 367 pts, 64 comments: Timestral: Mistral release time-series foundation models https://news.ycombinator.com/item?id=50150434
 - 357 pts, 158 comments: Linux 7.3 Released https://news.ycombinator.com/item?id=50149392
 - 352 pts, 168 comments: Hybrid Reasoning Agents: LLM agents that think in latent space, act through text https://news.ycombinator.com/item?id=50145337
 - 346 pts, 163 comments: Namecheap just seized and disabled all my domains https://news.ycombinator.com/item?id=50142866
@@ -9,3 +9,4 @@ HN digest 2026-10-19 (UTC): 10 new stories at 300+ points
 - 310 pts, 177 comments: Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky https://news.ycombinator.com/item?id=50136979
 - 309 pts, 126 comments: Someone behind the software https://news.ycombinator.com/item?id=50142573
 - 307 pts, 414 comments: How the Elizabeth Holmes documentary “You Can See Everything” is deceiving https://news.ycombinator.com/item?id=50137620
+- 300 pts, 89 comments: Anthropic assigned highest junk credit rating in June https://news.ycombinator.com/item?id=50122112
