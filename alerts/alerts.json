@@ -1,5 +1,38 @@
 [
  {
+  "id": "50154540",
+  "title": "MiniMax M3.1 Flash",
+  "points": 325,
+  "comments": 140,
+  "author": "jtg",
+  "hn": "https://news.ycombinator.com/item?id=50154540",
+  "url": "https://www.minimax.io/blog/minimax-m31f",
+  "created_at": "2026-10-19T16:39:09Z",
+  "reported_at": 1792451072
+ },
+ {
+  "id": "50153630",
+  "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+  "points": 300,
+  "comments": 57,
+  "author": "kensai",
+  "hn": "https://news.ycombinator.com/item?id=50153630",
+  "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+  "created_at": "2026-10-19T15:28:24Z",
+  "reported_at": 1792451072
+ },
+ {
+  "id": "50150927",
+  "title": "Alternatives to animal testing are finally taking off",
+  "points": 301,
+  "comments": 91,
+  "author": "rbanffy",
+  "hn": "https://news.ycombinator.com/item?id=50150927",
+  "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+  "created_at": "2026-10-19T11:10:54Z",
+  "reported_at": 1792451072
+ },
+ {
   "id": "50154518",
   "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
   "points": 331,
