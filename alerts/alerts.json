@@ -1,5 +1,16 @@
 [
  {
+  "id": "50152307",
+  "title": "Wine ported to OpenBSD",
+  "points": 377,
+  "comments": 106,
+  "author": "iamnothere",
+  "hn": "https://news.ycombinator.com/item?id=50152307",
+  "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+  "created_at": "2026-10-19T13:35:34Z",
+  "reported_at": 1792437339
+ },
+ {
   "id": "50150434",
   "title": "Timestral: Mistral release time-series foundation models",
   "points": 367,

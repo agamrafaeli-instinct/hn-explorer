@@ -1,5 +1,6 @@
-HN digest 2026-10-19 (UTC): 11 new stories at 300+ points
+HN digest 2026-10-19 (UTC): 12 new stories at 300+ points
 - 555 pts, 290 comments: Ousted Savannah police officer gave ICE agent husband access to Flock system https://news.ycombinator.com/item?id=50150750
+- 377 pts, 106 comments: Wine ported to OpenBSD https://news.ycombinator.com/item?id=50152307
 - 367 pts, 64 comments: Timestral: Mistral release time-series foundation models https://news.ycombinator.com/item?id=50150434
 - 357 pts, 158 comments: Linux 7.3 Released https://news.ycombinator.com/item?id=50149392
 - 352 pts, 168 comments: Hybrid Reasoning Agents: LLM agents that think in latent space, act through text https://news.ycombinator.com/item?id=50145337
