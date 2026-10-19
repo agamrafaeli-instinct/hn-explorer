@@ -1,0 +1,40 @@
+{
+ "audiences": {
+  "engineers": [
+   {
+    "source_line": "Source: data/compare/2026-W42.json, audiences.engineers.fell, key \"javascript\" (this 10, expected 27.6).",
+    "text": "JavaScript appeared in 10 story titles and texts this week, against about 27.6 expected from last week."
+   },
+   {
+    "source_line": "Source: data/compare/2026-W42.json, audiences.engineers.fell, key \"kubernetes\" (this 7, expected 22.3).",
+    "text": "kubernetes appeared in 7 story titles and texts this week, against about 22.3 expected from last week."
+   }
+  ],
+  "geeks": [
+   {
+    "source_line": "Source: data/compare/2026-W42.json, audiences.geeks.fell, key \"science\" (this 116, expected 153.8).",
+    "text": "science appeared in 116 story titles and texts this week, against about 153.8 expected from last week."
+   }
+  ],
+  "vcs": [
+   {
+    "source_line": "Source: data/compare/2026-W42.json, audiences.vcs.rose, key \"Tesla\" (this 45, expected 10.6).",
+    "text": "Tesla appeared in 45 story titles and texts this week, against about 10.6 expected from last week."
+   },
+   {
+    "source_line": "Source: data/compare/2026-W42.json, audiences.vcs.rose, key \"bankrupt\" (this 18, expected 3.2).",
+    "text": "bankrupt appeared in 18 story titles and texts this week, against about 3.2 expected from last week."
+   },
+   {
+    "source_line": "Source: data/compare/2026-W42.json, audiences.vcs.rose, key \"Meta\" (this 45, expected 23.3).",
+    "text": "Meta appeared in 45 story titles and texts this week, against about 23.3 expected from last week."
+   }
+  ]
+ },
+ "backfill": false,
+ "caveat": "Hacker News talking, not a measure of what is true.",
+ "dropped": [],
+ "flips": [],
+ "published": "2026-10-19",
+ "week": "2026-W42"
+}
