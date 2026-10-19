@@ -1,207 +1,207 @@
 {
  "window": {
-  "min": 1785616798,
-  "max": 1792302455,
-  "stories": 70190
+  "min": 1785701273,
+  "max": 1792378205,
+  "stories": 77468
  },
  "baskets": [
   {
    "name": "weird",
    "one": 1,
-   "stories": 472,
-   "points": 12978,
-   "comments": 5785,
-   "hit10": 101,
-   "rest_stories": 69718,
-   "rest_points": 1245120,
-   "rest_comments": 684633,
-   "rest_hit10": 9679,
-   "t_stories": 468,
-   "t_points": 9362,
-   "t_comments": 4133,
-   "t_hit10": 97,
-   "t_rest_stories": 69021,
-   "t_rest_points": 791855,
-   "t_rest_comments": 418712,
-   "t_rest_hit10": 8982,
-   "nd_stories": 471,
-   "nd_points": 10963,
-   "nd_comments": 4660,
-   "nd_hit10": 100,
+   "stories": 514,
+   "points": 13113,
+   "comments": 5820,
+   "hit10": 104,
+   "rest_stories": 76954,
+   "rest_points": 1297098,
+   "rest_comments": 708881,
+   "rest_hit10": 10156,
+   "t_stories": 509,
+   "t_points": 9119,
+   "t_comments": 4097,
+   "t_hit10": 99,
+   "t_rest_stories": 76185,
+   "t_rest_points": 814926,
+   "t_rest_comments": 426426,
+   "t_rest_hit10": 9387,
+   "nd_stories": 513,
+   "nd_points": 11098,
+   "nd_comments": 4695,
+   "nd_hit10": 103,
    "top_domain": "sancho.bearblog.dev"
   },
   {
    "name": "science",
    "one": 1,
-   "stories": 1184,
-   "points": 24886,
-   "comments": 13581,
-   "hit10": 184,
-   "rest_stories": 69006,
-   "rest_points": 1233212,
-   "rest_comments": 676837,
-   "rest_hit10": 9596,
-   "t_stories": 1173,
-   "t_points": 17381,
-   "t_comments": 8151,
-   "t_hit10": 173,
-   "t_rest_stories": 68316,
-   "t_rest_points": 783850,
-   "t_rest_comments": 415073,
-   "t_rest_hit10": 8906,
-   "nd_stories": 1181,
-   "nd_points": 22875,
-   "nd_comments": 11094,
-   "nd_hit10": 181,
+   "stories": 1300,
+   "points": 25421,
+   "comments": 13892,
+   "hit10": 189,
+   "rest_stories": 76168,
+   "rest_points": 1284790,
+   "rest_comments": 700809,
+   "rest_hit10": 10071,
+   "t_stories": 1287,
+   "t_points": 17157,
+   "t_comments": 7981,
+   "t_hit10": 176,
+   "t_rest_stories": 75407,
+   "t_rest_points": 806888,
+   "t_rest_comments": 422542,
+   "t_rest_hit10": 9310,
+   "nd_stories": 1297,
+   "nd_points": 23410,
+   "nd_comments": 11405,
+   "nd_hit10": 186,
    "top_domain": "openai.com"
   },
   {
    "name": "retro",
    "one": 1,
-   "stories": 273,
-   "points": 5901,
-   "comments": 1780,
-   "hit10": 63,
-   "rest_stories": 69917,
-   "rest_points": 1252197,
-   "rest_comments": 688638,
-   "rest_hit10": 9717,
-   "t_stories": 271,
-   "t_points": 5125,
-   "t_comments": 1583,
-   "t_hit10": 61,
-   "t_rest_stories": 69218,
-   "t_rest_points": 796083,
-   "t_rest_comments": 421362,
-   "t_rest_hit10": 9018,
-   "nd_stories": 241,
-   "nd_points": 4898,
-   "nd_comments": 1481,
-   "nd_hit10": 56,
+   "stories": 304,
+   "points": 6014,
+   "comments": 1793,
+   "hit10": 65,
+   "rest_stories": 77164,
+   "rest_points": 1304197,
+   "rest_comments": 712908,
+   "rest_hit10": 10195,
+   "t_stories": 301,
+   "t_points": 4879,
+   "t_comments": 1414,
+   "t_hit10": 62,
+   "t_rest_stories": 76393,
+   "t_rest_points": 819166,
+   "t_rest_comments": 429109,
+   "t_rest_hit10": 9424,
+   "nd_stories": 268,
+   "nd_points": 4989,
+   "nd_comments": 1493,
+   "nd_hit10": 57,
    "top_domain": "github.com"
   },
   {
    "name": "history",
    "one": 1,
-   "stories": 1111,
-   "points": 24332,
-   "comments": 12233,
-   "hit10": 213,
-   "rest_stories": 69079,
-   "rest_points": 1233766,
-   "rest_comments": 678185,
-   "rest_hit10": 9567,
-   "t_stories": 1100,
-   "t_points": 18399,
-   "t_comments": 8439,
-   "t_hit10": 202,
-   "t_rest_stories": 68389,
-   "t_rest_points": 782809,
-   "t_rest_comments": 414506,
-   "t_rest_hit10": 8877,
-   "nd_stories": 1110,
-   "nd_points": 23377,
-   "nd_comments": 11392,
-   "nd_hit10": 212,
+   "stories": 1220,
+   "points": 26445,
+   "comments": 13156,
+   "hit10": 220,
+   "rest_stories": 76248,
+   "rest_points": 1283766,
+   "rest_comments": 701545,
+   "rest_hit10": 10040,
+   "t_stories": 1208,
+   "t_points": 19481,
+   "t_comments": 8731,
+   "t_hit10": 208,
+   "t_rest_stories": 75486,
+   "t_rest_points": 804632,
+   "t_rest_comments": 421451,
+   "t_rest_hit10": 9278,
+   "nd_stories": 1219,
+   "nd_points": 25490,
+   "nd_comments": 12315,
+   "nd_hit10": 219,
    "top_domain": "techcrunch.com"
   },
   {
    "name": "puzzle",
    "one": 1,
-   "stories": 309,
-   "points": 3663,
-   "comments": 1271,
+   "stories": 332,
+   "points": 3705,
+   "comments": 1289,
    "hit10": 29,
-   "rest_stories": 69881,
-   "rest_points": 1254435,
-   "rest_comments": 689147,
-   "rest_hit10": 9751,
-   "t_stories": 306,
-   "t_points": 2202,
-   "t_comments": 917,
+   "rest_stories": 77136,
+   "rest_points": 1306506,
+   "rest_comments": 713412,
+   "rest_hit10": 10231,
+   "t_stories": 329,
+   "t_points": 2244,
+   "t_comments": 935,
    "t_hit10": 26,
-   "t_rest_stories": 69183,
-   "t_rest_points": 799006,
-   "t_rest_comments": 422028,
-   "t_rest_hit10": 9053,
-   "nd_stories": 307,
-   "nd_points": 2970,
-   "nd_comments": 1146,
+   "t_rest_stories": 76365,
+   "t_rest_points": 821801,
+   "t_rest_comments": 429588,
+   "t_rest_hit10": 9460,
+   "nd_stories": 330,
+   "nd_points": 3012,
+   "nd_comments": 1164,
    "nd_hit10": 28,
    "top_domain": "minesweeper.mikelacher.com"
   },
   {
    "name": "showhn",
    "one": 1,
-   "stories": 8844,
-   "points": 63999,
-   "comments": 22160,
-   "hit10": 668,
-   "rest_stories": 61346,
-   "rest_points": 1194099,
-   "rest_comments": 668258,
-   "rest_hit10": 9112,
-   "t_stories": 8756,
-   "t_points": 39389,
-   "t_comments": 13908,
-   "t_hit10": 580,
-   "t_rest_stories": 60733,
-   "t_rest_points": 775017,
-   "t_rest_comments": 422170,
-   "t_rest_hit10": 8499,
-   "nd_stories": 5827,
-   "nd_points": 43244,
-   "nd_comments": 16239,
-   "nd_hit10": 445,
+   "stories": 9817,
+   "points": 67438,
+   "comments": 23295,
+   "hit10": 696,
+   "rest_stories": 67651,
+   "rest_points": 1242773,
+   "rest_comments": 691406,
+   "rest_hit10": 9564,
+   "t_stories": 9719,
+   "t_points": 41216,
+   "t_comments": 14392,
+   "t_hit10": 598,
+   "t_rest_stories": 66975,
+   "t_rest_points": 796632,
+   "t_rest_comments": 428453,
+   "t_rest_hit10": 8888,
+   "nd_stories": 6474,
+   "nd_points": 45756,
+   "nd_comments": 17140,
+   "nd_hit10": 464,
    "top_domain": "github.com"
   },
   {
    "name": "askhn",
    "one": 1,
-   "stories": 1272,
-   "points": 13268,
-   "comments": 17303,
-   "hit10": 145,
-   "rest_stories": 68918,
-   "rest_points": 1244830,
-   "rest_comments": 673115,
-   "rest_hit10": 9635,
-   "t_stories": 1260,
-   "t_points": 8356,
-   "t_comments": 11067,
-   "t_hit10": 133,
-   "t_rest_stories": 68229,
-   "t_rest_points": 793305,
-   "t_rest_comments": 410436,
-   "t_rest_hit10": 8946,
-   "nd_stories": 13,
-   "nd_points": 28,
-   "nd_comments": 22,
+   "stories": 1383,
+   "points": 13508,
+   "comments": 17594,
+   "hit10": 147,
+   "rest_stories": 76085,
+   "rest_points": 1296703,
+   "rest_comments": 697107,
+   "rest_hit10": 10113,
+   "t_stories": 1370,
+   "t_points": 8326,
+   "t_comments": 11003,
+   "t_hit10": 134,
+   "t_rest_stories": 75325,
+   "t_rest_points": 816469,
+   "t_rest_comments": 418794,
+   "t_rest_hit10": 9353,
+   "nd_stories": 15,
+   "nd_points": 32,
+   "nd_comments": 32,
    "nd_hit10": 0,
    "top_domain": ""
   },
   {
    "name": "boring",
    "one": 1,
-   "stories": 421,
-   "points": 3943,
-   "comments": 2317,
+   "stories": 461,
+   "points": 4007,
+   "comments": 2326,
    "hit10": 34,
-   "rest_stories": 69769,
-   "rest_points": 1254155,
-   "rest_comments": 688101,
-   "rest_hit10": 9746,
-   "t_stories": 417,
-   "t_points": 2399,
-   "t_comments": 1477,
+   "rest_stories": 77007,
+   "rest_points": 1306204,
+   "rest_comments": 712375,
+   "rest_hit10": 10226,
+   "t_stories": 457,
+   "t_points": 2463,
+   "t_comments": 1486,
    "t_hit10": 30,
-   "t_rest_stories": 69072,
-   "t_rest_points": 799035,
-   "t_rest_comments": 421550,
-   "t_rest_hit10": 9049,
-   "nd_stories": 419,
-   "nd_points": 3305,
-   "nd_comments": 1868,
+   "t_rest_stories": 76237,
+   "t_rest_points": 821770,
+   "t_rest_comments": 429419,
+   "t_rest_hit10": 9456,
+   "nd_stories": 459,
+   "nd_points": 3369,
+   "nd_comments": 1877,
    "nd_hit10": 33,
    "top_domain": "openrouter.ai"
   }
@@ -336,92 +336,105 @@
    "rest_points": 71464,
    "rest_comments": 38114,
    "rest_hit10": 591
+  },
+  {
+   "week": "2026-10-12",
+   "stories": 7278,
+   "lift": 0.44746953381375637,
+   "weird_stories": 42,
+   "weird_points": 135,
+   "weird_comments": 35,
+   "weird_hit10": 3,
+   "rest_stories": 7236,
+   "rest_points": 51978,
+   "rest_comments": 24248,
+   "rest_hit10": 477
   }
  ],
  "weekday": [
   {
    "day": "Mon",
-   "stories": 10551,
-   "weird_stories": 70,
-   "weird_points": 1704,
-   "weird_comments": 984,
+   "stories": 11623,
+   "weird_stories": 76,
+   "weird_points": 1715,
+   "weird_comments": 987,
    "weird_hit10": 15,
-   "rest_stories": 10481,
-   "rest_points": 201221,
-   "rest_comments": 114817,
-   "rest_hit10": 1596
+   "rest_stories": 11547,
+   "rest_points": 204024,
+   "rest_comments": 115563,
+   "rest_hit10": 1617
   },
   {
    "day": "Tue",
-   "stories": 12006,
-   "weird_stories": 92,
-   "weird_points": 2145,
+   "stories": 13221,
+   "weird_stories": 97,
+   "weird_points": 2154,
    "weird_comments": 1163,
    "weird_hit10": 20,
-   "rest_stories": 11914,
-   "rest_points": 218429,
-   "rest_comments": 120800,
-   "rest_hit10": 1546
+   "rest_stories": 13124,
+   "rest_points": 221054,
+   "rest_comments": 121326,
+   "rest_hit10": 1568
   },
   {
    "day": "Wed",
-   "stories": 11416,
-   "weird_stories": 85,
-   "weird_points": 2354,
-   "weird_comments": 996,
-   "weird_hit10": 23,
-   "rest_stories": 11331,
-   "rest_points": 207889,
-   "rest_comments": 113582,
-   "rest_hit10": 1628
+   "stories": 12615,
+   "weird_stories": 94,
+   "weird_points": 2397,
+   "weird_comments": 1005,
+   "weird_hit10": 24,
+   "rest_stories": 12521,
+   "rest_points": 215089,
+   "rest_comments": 116956,
+   "rest_hit10": 1685
   },
   {
    "day": "Thu",
-   "stories": 11472,
-   "weird_stories": 61,
-   "weird_points": 1057,
-   "weird_comments": 238,
-   "weird_hit10": 8,
-   "rest_stories": 11411,
-   "rest_points": 186072,
-   "rest_comments": 99356,
-   "rest_hit10": 1473
+   "stories": 12704,
+   "weird_stories": 72,
+   "weird_points": 1097,
+   "weird_comments": 245,
+   "weird_hit10": 9,
+   "rest_stories": 12632,
+   "rest_points": 198054,
+   "rest_comments": 105606,
+   "rest_hit10": 1574
   },
   {
    "day": "Fri",
-   "stories": 10174,
-   "weird_stories": 67,
-   "weird_points": 2356,
+   "stories": 11291,
+   "weird_stories": 71,
+   "weird_points": 2368,
    "weird_comments": 787,
    "weird_hit10": 19,
-   "rest_stories": 10107,
-   "rest_points": 176020,
-   "rest_comments": 95203,
-   "rest_hit10": 1376
+   "rest_stories": 11220,
+   "rest_points": 186878,
+   "rest_comments": 100408,
+   "rest_hit10": 1497
   },
   {
    "day": "Sat",
-   "stories": 7312,
-   "weird_stories": 52,
-   "weird_points": 911,
-   "weird_comments": 325,
+   "stories": 8063,
+   "weird_stories": 55,
+   "weird_points": 916,
+   "weird_comments": 326,
    "weird_hit10": 9,
-   "rest_stories": 7260,
-   "rest_points": 121611,
-   "rest_comments": 65621,
-   "rest_hit10": 986
+   "rest_stories": 8008,
+   "rest_points": 130274,
+   "rest_comments": 69447,
+   "rest_hit10": 1064
   },
   {
    "day": "Sun",
-   "stories": 7259,
-   "weird_stories": 45,
-   "weird_points": 2451,
-   "weird_comments": 1292,
-   "weird_hit10": 7,
-   "rest_stories": 7214,
-   "rest_points": 133878,
-   "rest_comments": 75254,
-   "rest_hit10": 1074
+   "stories": 7951,
+   "weird_stories": 49,
+   "weird_points": 2466,
+   "weird_comments": 1307,
+   "weird_hit10": 8,
+   "rest_stories": 7902,
+   "rest_points": 141725,
+   "rest_comments": 79575,
+   "rest_hit10": 1151
   }
  ],
  "top_domains": {
@@ -482,27 +495,27 @@
    ],
    [
     "youtube.com",
-    955
+    965
    ],
    [
     "nobelprize.org",
     889
    ],
    [
+    "terrytao.wordpress.com",
+    821
+   ],
+   [
     "quantamagazine.org",
-    739
+    744
    ],
    [
     "med.stanford.edu",
     696
    ],
    [
-    "terrytao.wordpress.com",
-    690
-   ],
-   [
     "arxiv.org",
-    522
+    532
    ],
    [
     "mathstodon.xyz",
@@ -512,7 +525,7 @@
   "retro": [
    [
     "github.com",
-    1003
+    1025
    ],
    [
     "babyloniantwins.com",
@@ -520,7 +533,7 @@
    ],
    [
     "dfarq.homeip.net",
-    367
+    369
    ],
    [
     "bumbershootsoft.wordpress.com",
@@ -565,32 +578,32 @@
     745
    ],
    [
+    "huggingface.co",
+    726
+   ],
+   [
     "inference-docs.cerebras.ai",
     691
+   ],
+   [
+    "youtube.com",
+    656
    ],
    [
     "bbc.com",
     644
    ],
    [
-    "youtube.com",
-    633
+    "en.wikipedia.org",
+    570
    ],
    [
-    "en.wikipedia.org",
-    556
+    "api-docs.deepseek.com",
+    557
    ],
    [
     "dfarq.homeip.net",
-    519
-   ],
-   [
-    "arstechnica.com",
-    496
-   ],
-   [
-    "users.wpi.edu",
-    453
+    522
    ]
   ],
   "puzzle": [
@@ -612,7 +625,7 @@
    ],
    [
     "github.com",
-    122
+    124
    ],
    [
     "owntime.app",
@@ -632,17 +645,17 @@
    ],
    [
     "youtube.com",
-    81
+    83
    ]
   ],
   "showhn": [
    [
     "github.com",
-    20755
+    21682
    ],
    [
     "",
-    956
+    977
    ],
    [
     "bastardica.mitpit.com",
@@ -680,15 +693,15 @@
   "askhn": [
    [
     "",
-    13240
+    13476
+   ],
+   [
+    "github.com",
+    6
    ],
    [
     "drive.google.com",
     5
-   ],
-   [
-    "github.com",
-    4
    ],
    [
     "twitter.com",
@@ -746,7 +759,7 @@
    ],
    [
     "github.com",
-    182
+    185
    ],
    [
     "blog.sshh.io",
@@ -879,16 +892,16 @@
     "Steam Frame starts at $1059"
    ],
    [
+    723,
+    597,
+    "huggingface.co",
+    "DeepSeek-v4.1-Flash-1017"
+   ],
+   [
     691,
     228,
     "inference-docs.cerebras.ai",
     "Qwen 3.8 27B available on Cerebras at 1500 tokens/s"
-   ],
-   [
-    453,
-    445,
-    "users.wpi.edu",
-    "There Will Come Soft Rains (1950) [pdf]"
    ]
   ],
   "puzzle": [

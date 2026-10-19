@@ -1,0 +1,128 @@
+{
+ "aliases": [
+  {
+   "count": 20760,
+   "text": "rust"
+  },
+  {
+   "count": 11914,
+   "text": "c++"
+  },
+  {
+   "count": 1368,
+   "text": "zig"
+  },
+  {
+   "count": 1111,
+   "text": "/c++"
+  },
+  {
+   "count": 177,
+   "text": "(c++"
+  },
+  {
+   "count": 49,
+   "text": "[c++"
+  },
+  {
+   "count": 41,
+   "text": "-c++"
+  },
+  {
+   "count": 17,
+   "text": "\u201cc++"
+  },
+  {
+   "count": 16,
+   "text": ",c++"
+  },
+  {
+   "count": 8,
+   "text": "\"c++"
+  },
+  {
+   "count": 3,
+   "text": "\\c++"
+  },
+  {
+   "count": 3,
+   "text": "=c++"
+  },
+  {
+   "count": 2,
+   "text": ":c++"
+  },
+  {
+   "count": 1,
+   "text": "\u2013c++"
+  },
+  {
+   "count": 1,
+   "text": "'c++"
+  },
+  {
+   "count": 1,
+   "text": "\uff1cc++"
+  },
+  {
+   "count": 1,
+   "text": "_c++"
+  },
+  {
+   "count": 1,
+   "text": "&c++"
+  }
+ ],
+ "exclusions": [],
+ "label": "Rust, Zig and C++",
+ "matches": 35474,
+ "near_misses_total": 5000,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "(\\brust\\b|\\bzig\\b|(^|[^a-z0-9])c\\+\\+)",
+ "sample_matches": [
+  "Converting between different String types in Rust",
+  "Expose a Rust Library to Other Languages",
+  "Show HN: Schema-first codegen for SQL, Rust, Go, Python and TS (single binary)",
+  "Elemental: C++ library for distributed-memory linear algebra and optimization",
+  "Ubuntu 25.10 Replaces Sudo with a Rust-Based Equivalent",
+  "Constexpr and Consteval Functions in C++20",
+  "I built a video editor in Rust with extensive AI-powered features",
+  "Stegbrute \u2013 Fastest Steganography bruteforce tool written in Rust",
+  "Show HN: Shibuya \u2013 A High-Performance WAF in Rust with eBPF and ML Engine",
+  "Embedded TypeScript: Hosting a Front End on a ESP32 with Rust",
+  "Smoke Testing Rust HTTP Clients",
+  "Rust: Your code can be perfect",
+  "Rippled: Decentralized cryptocurrency blockchain daemon, XRP Ledger in C++",
+  "Hazard Pointers in C++26",
+  "My Dream C++ Additions",
+  "Write Rust lints without forking Clippy",
+  "2016 Underhanded Rust contest: the results",
+  "Why didn't C++ specify filename extensions?",
+  "When Zig is safer and faster than Rust",
+  "Ask HN: Is the Zig programming language dead?"
+ ],
+ "sample_near_misses": [
+  "Friend came from Lebanon to LA to act but found herself thrust in Tech startups",
+  "Critics of Google Antitrust Ruling Fault the Focus",
+  "Justice department 'uses aged computer system to frustrate Foia requests'",
+  "Spammers Abusing Trust in US .Gov Domains",
+  "Google's Purchase of ITA Software May Be Challenged by U.S. Antitrust Suit ",
+  "Why Ubuntu Won't Trust FSF's Secure Boot",
+  "Quick Stats on Zstandard (zstd) Performance \u2013 Rusty Russell's Coding Blog",
+  "Jeff Jarvis on How Facebook Could Regain Our Trust",
+  "Trend Micro cries \"antitrust\" over Microsoft Security Essentials",
+  "People love technology, but don't trust it",
+  "Ask HN: Who would you trust?",
+  "World War II Anecdote about Trust and Security",
+  "You Compiled This, Driver \u2013 Trust Me",
+  "How much do people trust scientists? Depends on the topic",
+  "Social networking with Frientegrity: security with an untrusted provider",
+  "Measurement of Impulsive Thrust from a Closed Radio-Frequency Cavity in Vacuum",
+  "Ask HN: Would you entrust your entire build process to a SaaS?",
+  "Thruster May Shorten Mars Trip From Six Months to a Week - Hacked From Off The Shelf Components!",
+  "The Words You Wear: We don't trust fashionable words",
+  "Show HN: Latest tool from thrust to be the first to know when your site breaks"
+ ],
+ "schema": 1,
+ "term": "syslang"
+}
