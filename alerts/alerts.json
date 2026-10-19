@@ -1,5 +1,27 @@
 [
  {
+  "id": "50154518",
+  "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+  "points": 331,
+  "comments": 312,
+  "author": "phoronixrly",
+  "hn": "https://news.ycombinator.com/item?id=50154518",
+  "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+  "created_at": "2026-10-19T16:37:10Z",
+  "reported_at": 1792443965
+ },
+ {
+  "id": "50134472",
+  "title": "It's still ok to enjoy programming",
+  "points": 324,
+  "comments": 309,
+  "author": "goostavos",
+  "hn": "https://news.ycombinator.com/item?id=50134472",
+  "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+  "created_at": "2026-10-17T19:53:20Z",
+  "reported_at": 1792443965
+ },
+ {
   "id": "50152307",
   "title": "Wine ported to OpenBSD",
   "points": 377,
