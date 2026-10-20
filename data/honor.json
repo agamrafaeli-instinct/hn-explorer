@@ -2031,6 +2031,22 @@
    "id": "h430",
    "score": 1.0,
    "title": "Rust, Zig and C++: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 636.0,
+   "id": "h431",
+   "score": 1.0,
+   "title": "TypeScript: a bigger share than before"
   }
  ],
  "schema": 1,
