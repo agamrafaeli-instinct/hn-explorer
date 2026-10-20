@@ -58,7 +58,9 @@ def update(root, workers=32, limit=RETENTION_ROWS, getter=fetch, max_new=250000)
     ids=sorted(set(range(checkpoint+1,upper+1)) | set(retry))
     if not ids:
         print('No new IDs; dataset unchanged'); return False
-    with tempfile.TemporaryDirectory(prefix='hn-daily-') as tmp:
+    # Stage inside the repo: os.replace below must stay on one filesystem, and /tmp can be a
+    # different device on the runner (Errno 18, 2026-10-20).
+    with tempfile.TemporaryDirectory(prefix='hn-daily-', dir=root) as tmp:
         tmp=pathlib.Path(tmp); db=sqlite3.connect(tmp/'items.db')
         db.execute('PRAGMA journal_mode=OFF'); db.execute('PRAGMA synchronous=OFF')
         db.execute('CREATE TABLE items (id INTEGER PRIMARY KEY,type TEXT,author TEXT,time INTEGER,title TEXT,url TEXT,domain TEXT,score INTEGER,comments INTEGER,text TEXT,dead INTEGER,deleted INTEGER,origin TEXT)')
