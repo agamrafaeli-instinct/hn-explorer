@@ -1,6 +1,5 @@
-HN digest 2026-10-20 (UTC): 23 new stories at 300+ points
+HN digest 2026-10-20 (UTC): 22 new stories at 300+ points
 - 382 pts, 117 comments: Nordwand Mono – A monospace font for coders and adventurers https://news.ycombinator.com/item?id=50141581
-- 377 pts, 106 comments: Wine ported to OpenBSD https://news.ycombinator.com/item?id=50152307
 - 376 pts, 79 comments: I built a drone with only one motor [video] https://news.ycombinator.com/item?id=50150089
 - 371 pts, 321 comments: DeepSeek banned from U.S. federal civilian agencies under new DHS order https://news.ycombinator.com/item?id=50154244
 - 359 pts, 212 comments: Apple broke an essential presentation feature of iPads https://news.ycombinator.com/item?id=50165208
