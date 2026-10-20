@@ -1,4 +1,8 @@
-HN new 300+ stories, last 12h, updated 2026-10-20 17:14 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-20 19:15 UTC. Forward only ids not sent before.
+50168396 | 317 pts, 81 comments | Voxtral 3 | https://news.ycombinator.com/item?id=50168396
+50166579 | 353 pts, 186 comments | EMudhra Intermediate CA Compromise | https://news.ycombinator.com/item?id=50166579
+50165208 | 359 pts, 212 comments | Apple broke an essential presentation feature of iPads | https://news.ycombinator.com/item?id=50165208
+50162177 | 332 pts, 57 comments | MicroG: Free-libre re-implementation of Google's proprietary Android user space | https://news.ycombinator.com/item?id=50162177
 50167536 | 300 pts, 230 comments | Facebook now charging to post more than 2 links a month | https://news.ycombinator.com/item?id=50167536
 50158942 | 329 pts, 139 comments | An ad-free Android TV | https://news.ycombinator.com/item?id=50158942
 50163502 | 304 pts, 357 comments | AfD Leak: What 421,179 Hacked Emails Show about the German Far Right | https://news.ycombinator.com/item?id=50163502

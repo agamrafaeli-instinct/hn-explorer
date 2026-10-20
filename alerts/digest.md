@@ -1,16 +1,19 @@
-HN digest 2026-10-20 (UTC): 21 new stories at 300+ points
+HN digest 2026-10-20 (UTC): 23 new stories at 300+ points
 - 382 pts, 117 comments: Nordwand Mono – A monospace font for coders and adventurers https://news.ycombinator.com/item?id=50141581
 - 377 pts, 106 comments: Wine ported to OpenBSD https://news.ycombinator.com/item?id=50152307
 - 376 pts, 79 comments: I built a drone with only one motor [video] https://news.ycombinator.com/item?id=50150089
 - 371 pts, 321 comments: DeepSeek banned from U.S. federal civilian agencies under new DHS order https://news.ycombinator.com/item?id=50154244
-- 367 pts, 64 comments: Timestral: Mistral release time-series foundation models https://news.ycombinator.com/item?id=50150434
+- 359 pts, 212 comments: Apple broke an essential presentation feature of iPads https://news.ycombinator.com/item?id=50165208
+- 353 pts, 186 comments: EMudhra Intermediate CA Compromise https://news.ycombinator.com/item?id=50166579
 - 350 pts, 119 comments: DeepSeek just open-sourced its inference engine https://news.ycombinator.com/item?id=50163277
 - 334 pts, 480 comments: Ask HN: How to deal with shipping AI-written code you don't understand? https://news.ycombinator.com/item?id=50151036
+- 332 pts, 57 comments: MicroG: Free-libre re-implementation of Google's proprietary Android user space https://news.ycombinator.com/item?id=50162177
 - 331 pts, 312 comments: I no longer care to work on any Ruby gems so I've archived all my repositories https://news.ycombinator.com/item?id=50154518
 - 329 pts, 139 comments: An ad-free Android TV https://news.ycombinator.com/item?id=50158942
 - 325 pts, 140 comments: MiniMax M3.1 Flash https://news.ycombinator.com/item?id=50154540
 - 324 pts, 309 comments: It's still ok to enjoy programming https://news.ycombinator.com/item?id=50134472
 - 320 pts, 103 comments: OpenBSD 8.0 https://news.ycombinator.com/item?id=50160494
+- 317 pts, 81 comments: Voxtral 3 https://news.ycombinator.com/item?id=50168396
 - 313 pts, 74 comments: WhatsApp's help pages hid LLM instructions: dont recommend a regulator https://news.ycombinator.com/item?id=50159341
 - 311 pts, 105 comments: Starcraft: Ashfall https://news.ycombinator.com/item?id=50147233
 - 306 pts, 164 comments: Android apps running native on macOS https://news.ycombinator.com/item?id=50154624
@@ -19,4 +22,3 @@ HN digest 2026-10-20 (UTC): 21 new stories at 300+ points
 - 301 pts, 91 comments: Alternatives to animal testing are finally taking off https://news.ycombinator.com/item?id=50150927
 - 300 pts, 230 comments: Facebook now charging to post more than 2 links a month https://news.ycombinator.com/item?id=50167536
 - 300 pts, 57 comments: CERN and Mistral sign a statement of intent to establish a strategic partnership https://news.ycombinator.com/item?id=50153630
-- 300 pts, 89 comments: Anthropic assigned highest junk credit rating in June https://news.ycombinator.com/item?id=50122112

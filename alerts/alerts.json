@@ -1,5 +1,49 @@
 [
  {
+  "id": "50168396",
+  "title": "Voxtral 3",
+  "points": 317,
+  "comments": 81,
+  "author": "ilreb",
+  "hn": "https://news.ycombinator.com/item?id=50168396",
+  "url": "https://mistral.ai/news/voxtral-3/",
+  "created_at": "2026-10-20T16:02:07Z",
+  "reported_at": 1792523743
+ },
+ {
+  "id": "50166579",
+  "title": "EMudhra Intermediate CA Compromise",
+  "points": 353,
+  "comments": 186,
+  "author": "galadran",
+  "hn": "https://news.ycombinator.com/item?id=50166579",
+  "url": "https://emudhra.we-have-a-problem.com/",
+  "created_at": "2026-10-20T13:58:33Z",
+  "reported_at": 1792523743
+ },
+ {
+  "id": "50165208",
+  "title": "Apple broke an essential presentation feature of iPads",
+  "points": 359,
+  "comments": 212,
+  "author": "evanb",
+  "hn": "https://news.ycombinator.com/item?id=50165208",
+  "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+  "created_at": "2026-10-20T12:17:28Z",
+  "reported_at": 1792523743
+ },
+ {
+  "id": "50162177",
+  "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+  "points": 332,
+  "comments": 57,
+  "author": "theanonymousone",
+  "hn": "https://news.ycombinator.com/item?id=50162177",
+  "url": "https://github.com/microg/GmsCore/wiki",
+  "created_at": "2026-10-20T06:37:07Z",
+  "reported_at": 1792523743
+ },
+ {
   "id": "50167536",
   "title": "Facebook now charging to post more than 2 links a month",
   "points": 300,
