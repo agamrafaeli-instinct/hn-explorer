@@ -144,7 +144,7 @@ def update(root, workers=32, limit=RETENTION_ROWS, getter=fetch, max_new=250000)
         for name,obj in [('manifest.json',new),('summary.json',summary)]:
             (staged/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
         keep={c['path'] for c in chunks}
-        site_bytes=sum(p.stat().st_size for p in root.rglob('*') if p.is_file() and '.git' not in p.relative_to(root).parts and 'data'!=p.relative_to(root).parts[0])
+        site_bytes=sum(p.stat().st_size for p in root.rglob('*') if p.is_file() and tmp not in p.parents and '.git' not in p.relative_to(root).parts and 'data'!=p.relative_to(root).parts[0])
         proposed=site_bytes+new['total_csv_bytes']+(staged/'manifest.json').stat().st_size+(staged/'summary.json').stat().st_size
         if proposed>900000000: raise ValueError('Site exceeds 900 MB safety budget; dataset left unchanged')
         # Archive first: a rerun skips ids already archived, so a failure after this point loses nothing.
