@@ -36,6 +36,10 @@ jobs:
           pip install duckdb
           python scripts/atlas_aggregates.py
           python scripts/concentration_archive.py
+      - name: Refresh copy that embeds atlas numbers
+        run: |
+          python scripts/refresh_data_copy.py
+          python scripts/phoenix_charts.py
       - name: Build Lens history files
         run: python scripts/lens_build.py
       - name: Draft, check and publish weekly findings
@@ -55,7 +59,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/weekly data/compare data/exports data/findings data/lens data/atlas
+          git add data/weekly data/compare data/exports data/findings data/lens data/atlas index.html router.js scripts/build_share_pages.py
           if git diff --cached --quiet; then echo "pushed=no" >> "$GITHUB_OUTPUT"; exit 0; fi
           git commit -m 'Save weekly snapshot'
           for i in 1 2 3; do
