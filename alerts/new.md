@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-10-20 01:16 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-20 03:09 UTC. Forward only ids not sent before.
 50150089 | 376 pts, 79 comments | I built a drone with only one motor [video] | https://news.ycombinator.com/item?id=50150089
 50147233 | 311 pts, 105 comments | Starcraft: Ashfall | https://news.ycombinator.com/item?id=50147233
 50154540 | 325 pts, 140 comments | MiniMax M3.1 Flash | https://news.ycombinator.com/item?id=50154540
@@ -11,4 +11,3 @@ HN new 300+ stories, last 12h, updated 2026-10-20 01:16 UTC. Forward only ids no
 50122112 | 300 pts, 89 comments | Anthropic assigned highest junk credit rating in June | https://news.ycombinator.com/item?id=50122112
 50150750 | 555 pts, 290 comments | Ousted Savannah police officer gave ICE agent husband access to Flock system | https://news.ycombinator.com/item?id=50150750
 50136979 | 310 pts, 177 comments | Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky | https://news.ycombinator.com/item?id=50136979
-50149392 | 357 pts, 158 comments | Linux 7.3 Released | https://news.ycombinator.com/item?id=50149392
