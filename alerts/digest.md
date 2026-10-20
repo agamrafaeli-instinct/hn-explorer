@@ -1,15 +1,15 @@
-HN digest 2026-10-19 (UTC): 16 new stories at 300+ points
+HN digest 2026-10-20 (UTC): 16 new stories at 300+ points
 - 555 pts, 290 comments: Ousted Savannah police officer gave ICE agent husband access to Flock system https://news.ycombinator.com/item?id=50150750
 - 377 pts, 106 comments: Wine ported to OpenBSD https://news.ycombinator.com/item?id=50152307
+- 376 pts, 79 comments: I built a drone with only one motor [video] https://news.ycombinator.com/item?id=50150089
 - 367 pts, 64 comments: Timestral: Mistral release time-series foundation models https://news.ycombinator.com/item?id=50150434
 - 357 pts, 158 comments: Linux 7.3 Released https://news.ycombinator.com/item?id=50149392
 - 352 pts, 168 comments: Hybrid Reasoning Agents: LLM agents that think in latent space, act through text https://news.ycombinator.com/item?id=50145337
-- 346 pts, 163 comments: Namecheap just seized and disabled all my domains https://news.ycombinator.com/item?id=50142866
 - 331 pts, 312 comments: I no longer care to work on any Ruby gems so I've archived all my repositories https://news.ycombinator.com/item?id=50154518
 - 325 pts, 140 comments: MiniMax M3.1 Flash https://news.ycombinator.com/item?id=50154540
 - 324 pts, 309 comments: It's still ok to enjoy programming https://news.ycombinator.com/item?id=50134472
 - 320 pts, 379 comments: There's never been a better time to go into math (by: 3blue1brown) [video] https://news.ycombinator.com/item?id=50136150
-- 311 pts, 48 comments: RepRapMicron https://news.ycombinator.com/item?id=50141076
+- 311 pts, 105 comments: Starcraft: Ashfall https://news.ycombinator.com/item?id=50147233
 - 310 pts, 177 comments: Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky https://news.ycombinator.com/item?id=50136979
 - 309 pts, 126 comments: Someone behind the software https://news.ycombinator.com/item?id=50142573
 - 301 pts, 91 comments: Alternatives to animal testing are finally taking off https://news.ycombinator.com/item?id=50150927

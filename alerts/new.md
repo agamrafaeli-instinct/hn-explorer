@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-19 23:04 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-20 01:16 UTC. Forward only ids not sent before.
+50150089 | 376 pts, 79 comments | I built a drone with only one motor [video] | https://news.ycombinator.com/item?id=50150089
+50147233 | 311 pts, 105 comments | Starcraft: Ashfall | https://news.ycombinator.com/item?id=50147233
 50154540 | 325 pts, 140 comments | MiniMax M3.1 Flash | https://news.ycombinator.com/item?id=50154540
 50153630 | 300 pts, 57 comments | CERN and Mistral sign a statement of intent to establish a strategic partnership | https://news.ycombinator.com/item?id=50153630
 50150927 | 301 pts, 91 comments | Alternatives to animal testing are finally taking off | https://news.ycombinator.com/item?id=50150927

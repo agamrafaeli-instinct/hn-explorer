@@ -1,5 +1,27 @@
 [
  {
+  "id": "50150089",
+  "title": "I built a drone with only one motor [video]",
+  "points": 376,
+  "comments": 79,
+  "author": "hakonjdjohnsen",
+  "hn": "https://news.ycombinator.com/item?id=50150089",
+  "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+  "created_at": "2026-10-19T09:05:07Z",
+  "reported_at": 1792459006
+ },
+ {
+  "id": "50147233",
+  "title": "Starcraft: Ashfall",
+  "points": 311,
+  "comments": 105,
+  "author": "debo_",
+  "hn": "https://news.ycombinator.com/item?id=50147233",
+  "url": "https://starcraft-shooter-2026.pages.dev/",
+  "created_at": "2026-10-19T01:18:02Z",
+  "reported_at": 1792459006
+ },
+ {
   "id": "50154540",
   "title": "MiniMax M3.1 Flash",
   "points": 325,
