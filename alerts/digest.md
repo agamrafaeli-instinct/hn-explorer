@@ -1,4 +1,5 @@
-HN digest 2026-10-20 (UTC): 22 new stories at 300+ points
+HN digest 2026-10-20 (UTC): 25 new stories at 300+ points
+- 424 pts, 227 comments: SimCity, but with Permits https://news.ycombinator.com/item?id=50170593
 - 382 pts, 117 comments: Nordwand Mono – A monospace font for coders and adventurers https://news.ycombinator.com/item?id=50141581
 - 376 pts, 79 comments: I built a drone with only one motor [video] https://news.ycombinator.com/item?id=50150089
 - 371 pts, 321 comments: DeepSeek banned from U.S. federal civilian agencies under new DHS order https://news.ycombinator.com/item?id=50154244
@@ -7,17 +8,19 @@ HN digest 2026-10-20 (UTC): 22 new stories at 300+ points
 - 350 pts, 119 comments: DeepSeek just open-sourced its inference engine https://news.ycombinator.com/item?id=50163277
 - 334 pts, 480 comments: Ask HN: How to deal with shipping AI-written code you don't understand? https://news.ycombinator.com/item?id=50151036
 - 332 pts, 57 comments: MicroG: Free-libre re-implementation of Google's proprietary Android user space https://news.ycombinator.com/item?id=50162177
-- 331 pts, 312 comments: I no longer care to work on any Ruby gems so I've archived all my repositories https://news.ycombinator.com/item?id=50154518
 - 329 pts, 139 comments: An ad-free Android TV https://news.ycombinator.com/item?id=50158942
 - 325 pts, 140 comments: MiniMax M3.1 Flash https://news.ycombinator.com/item?id=50154540
-- 324 pts, 309 comments: It's still ok to enjoy programming https://news.ycombinator.com/item?id=50134472
+- 323 pts, 146 comments: Tsrs: A Port of TypeScript to Rust https://news.ycombinator.com/item?id=50165953
 - 320 pts, 103 comments: OpenBSD 8.0 https://news.ycombinator.com/item?id=50160494
 - 317 pts, 81 comments: Voxtral 3 https://news.ycombinator.com/item?id=50168396
 - 313 pts, 74 comments: WhatsApp's help pages hid LLM instructions: dont recommend a regulator https://news.ycombinator.com/item?id=50159341
 - 311 pts, 105 comments: Starcraft: Ashfall https://news.ycombinator.com/item?id=50147233
+- 309 pts, 176 comments: Publish fake stats, get cited in LLMs https://news.ycombinator.com/item?id=50165801
 - 306 pts, 164 comments: Android apps running native on macOS https://news.ycombinator.com/item?id=50154624
 - 304 pts, 357 comments: AfD Leak: What 421,179 Hacked Emails Show about the German Far Right https://news.ycombinator.com/item?id=50163502
+- 302 pts, 157 comments: Google Cloud outage affects almost all banking and other operations in Europe https://news.ycombinator.com/item?id=50163961
 - 301 pts, 235 comments: Ukraine claims first drone evacuation of wounded soldier https://news.ycombinator.com/item?id=50153664
 - 301 pts, 91 comments: Alternatives to animal testing are finally taking off https://news.ycombinator.com/item?id=50150927
+- 300 pts, 214 comments: If you don't run your own LLM proxy, how do you know whats going on? https://news.ycombinator.com/item?id=50145507
 - 300 pts, 230 comments: Facebook now charging to post more than 2 links a month https://news.ycombinator.com/item?id=50167536
 - 300 pts, 57 comments: CERN and Mistral sign a statement of intent to establish a strategic partnership https://news.ycombinator.com/item?id=50153630
