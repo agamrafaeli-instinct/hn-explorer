@@ -5,10 +5,10 @@ HN digest 2026-10-20 (UTC): 22 new stories at 300+ points
 - 376 pts, 79 comments: I built a drone with only one motor [video] https://news.ycombinator.com/item?id=50150089
 - 371 pts, 321 comments: DeepSeek banned from U.S. federal civilian agencies under new DHS order https://news.ycombinator.com/item?id=50154244
 - 367 pts, 64 comments: Timestral: Mistral release time-series foundation models https://news.ycombinator.com/item?id=50150434
-- 357 pts, 158 comments: Linux 7.3 Released https://news.ycombinator.com/item?id=50149392
 - 350 pts, 119 comments: DeepSeek just open-sourced its inference engine https://news.ycombinator.com/item?id=50163277
 - 334 pts, 480 comments: Ask HN: How to deal with shipping AI-written code you don't understand? https://news.ycombinator.com/item?id=50151036
 - 331 pts, 312 comments: I no longer care to work on any Ruby gems so I've archived all my repositories https://news.ycombinator.com/item?id=50154518
+- 329 pts, 139 comments: An ad-free Android TV https://news.ycombinator.com/item?id=50158942
 - 325 pts, 140 comments: MiniMax M3.1 Flash https://news.ycombinator.com/item?id=50154540
 - 324 pts, 309 comments: It's still ok to enjoy programming https://news.ycombinator.com/item?id=50134472
 - 320 pts, 103 comments: OpenBSD 8.0 https://news.ycombinator.com/item?id=50160494
