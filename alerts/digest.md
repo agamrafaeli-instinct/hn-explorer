@@ -1,5 +1,4 @@
-HN digest 2026-10-20 (UTC): 22 new stories at 300+ points
-- 555 pts, 290 comments: Ousted Savannah police officer gave ICE agent husband access to Flock system https://news.ycombinator.com/item?id=50150750
+HN digest 2026-10-20 (UTC): 21 new stories at 300+ points
 - 382 pts, 117 comments: Nordwand Mono – A monospace font for coders and adventurers https://news.ycombinator.com/item?id=50141581
 - 377 pts, 106 comments: Wine ported to OpenBSD https://news.ycombinator.com/item?id=50152307
 - 376 pts, 79 comments: I built a drone with only one motor [video] https://news.ycombinator.com/item?id=50150089
@@ -14,10 +13,10 @@ HN digest 2026-10-20 (UTC): 22 new stories at 300+ points
 - 320 pts, 103 comments: OpenBSD 8.0 https://news.ycombinator.com/item?id=50160494
 - 313 pts, 74 comments: WhatsApp's help pages hid LLM instructions: dont recommend a regulator https://news.ycombinator.com/item?id=50159341
 - 311 pts, 105 comments: Starcraft: Ashfall https://news.ycombinator.com/item?id=50147233
-- 310 pts, 177 comments: Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky https://news.ycombinator.com/item?id=50136979
 - 306 pts, 164 comments: Android apps running native on macOS https://news.ycombinator.com/item?id=50154624
 - 304 pts, 357 comments: AfD Leak: What 421,179 Hacked Emails Show about the German Far Right https://news.ycombinator.com/item?id=50163502
 - 301 pts, 235 comments: Ukraine claims first drone evacuation of wounded soldier https://news.ycombinator.com/item?id=50153664
 - 301 pts, 91 comments: Alternatives to animal testing are finally taking off https://news.ycombinator.com/item?id=50150927
+- 300 pts, 230 comments: Facebook now charging to post more than 2 links a month https://news.ycombinator.com/item?id=50167536
 - 300 pts, 57 comments: CERN and Mistral sign a statement of intent to establish a strategic partnership https://news.ycombinator.com/item?id=50153630
 - 300 pts, 89 comments: Anthropic assigned highest junk credit rating in June https://news.ycombinator.com/item?id=50122112

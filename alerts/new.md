@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-20 15:13 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-20 17:14 UTC. Forward only ids not sent before.
+50167536 | 300 pts, 230 comments | Facebook now charging to post more than 2 links a month | https://news.ycombinator.com/item?id=50167536
 50158942 | 329 pts, 139 comments | An ad-free Android TV | https://news.ycombinator.com/item?id=50158942
 50163502 | 304 pts, 357 comments | AfD Leak: What 421,179 Hacked Emails Show about the German Far Right | https://news.ycombinator.com/item?id=50163502
 50154244 | 371 pts, 321 comments | DeepSeek banned from U.S. federal civilian agencies under new DHS order | https://news.ycombinator.com/item?id=50154244
@@ -8,4 +9,3 @@ HN new 300+ stories, last 12h, updated 2026-10-20 15:13 UTC. Forward only ids no
 50153664 | 301 pts, 235 comments | Ukraine claims first drone evacuation of wounded soldier | https://news.ycombinator.com/item?id=50153664
 50159341 | 313 pts, 74 comments | WhatsApp's help pages hid LLM instructions: dont recommend a regulator | https://news.ycombinator.com/item?id=50159341
 50154624 | 306 pts, 164 comments | Android apps running native on macOS | https://news.ycombinator.com/item?id=50154624
-50151036 | 334 pts, 480 comments | Ask HN: How to deal with shipping AI-written code you don't understand? | https://news.ycombinator.com/item?id=50151036
