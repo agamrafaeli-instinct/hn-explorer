@@ -1,15 +1,13 @@
-HN digest 2026-10-20 (UTC): 18 new stories at 300+ points
+HN digest 2026-10-20 (UTC): 16 new stories at 300+ points
 - 555 pts, 290 comments: Ousted Savannah police officer gave ICE agent husband access to Flock system https://news.ycombinator.com/item?id=50150750
 - 377 pts, 106 comments: Wine ported to OpenBSD https://news.ycombinator.com/item?id=50152307
 - 376 pts, 79 comments: I built a drone with only one motor [video] https://news.ycombinator.com/item?id=50150089
 - 367 pts, 64 comments: Timestral: Mistral release time-series foundation models https://news.ycombinator.com/item?id=50150434
 - 357 pts, 158 comments: Linux 7.3 Released https://news.ycombinator.com/item?id=50149392
-- 352 pts, 168 comments: Hybrid Reasoning Agents: LLM agents that think in latent space, act through text https://news.ycombinator.com/item?id=50145337
 - 334 pts, 480 comments: Ask HN: How to deal with shipping AI-written code you don't understand? https://news.ycombinator.com/item?id=50151036
 - 331 pts, 312 comments: I no longer care to work on any Ruby gems so I've archived all my repositories https://news.ycombinator.com/item?id=50154518
 - 325 pts, 140 comments: MiniMax M3.1 Flash https://news.ycombinator.com/item?id=50154540
 - 324 pts, 309 comments: It's still ok to enjoy programming https://news.ycombinator.com/item?id=50134472
-- 320 pts, 379 comments: There's never been a better time to go into math (by: 3blue1brown) [video] https://news.ycombinator.com/item?id=50136150
 - 313 pts, 74 comments: WhatsApp's help pages hid LLM instructions: dont recommend a regulator https://news.ycombinator.com/item?id=50159341
 - 311 pts, 105 comments: Starcraft: Ashfall https://news.ycombinator.com/item?id=50147233
 - 310 pts, 177 comments: Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky https://news.ycombinator.com/item?id=50136979
