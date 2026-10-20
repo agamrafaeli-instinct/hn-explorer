@@ -67,7 +67,7 @@ def week_audience_pages(site):
 
 # Story pages that have a route of their own. Titles and descriptions match TITLES in router.js (a test checks it).
 ROUTES = {
-    'home': ('Hacker News, counted', 'Every Hacker News story since 2006, asked one question at a time. 543,583 sites, and the top 1% hold about two thirds of the points.'),
+    'home': ('Hacker News, counted', 'Every Hacker News story since 2006, asked one question at a time. 543,588 sites, and the top 1% hold about two thirds of the points.'),
     'phoenix': ('Quiet, then back', '285 times a word or site on Hacker News went quiet for a year or more and came back. Only 13 held.'),
     'hypotheses': ('Hypotheses, tested', 'Every card on this site, each checked against the full Hacker News archive. Wrong guesses stay on the page.'),
     'compare': ('Compare topics', 'Pick from 52 topics and compare their share of Hacker News story titles over time.'),
