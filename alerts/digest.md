@@ -1,13 +1,14 @@
-HN digest 2026-10-21 (UTC): 21 new stories at 300+ points
+HN digest 2026-10-21 (UTC): 23 new stories at 300+ points
 - 499 pts, 556 comments: The 1.5°C goal of the Paris Agreement is no longer viable https://news.ycombinator.com/item?id=50177911
 - 424 pts, 227 comments: SimCity, but with Permits https://news.ycombinator.com/item?id=50170593
+- 396 pts, 324 comments: The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck https://news.ycombinator.com/item?id=50181137
 - 376 pts, 153 comments: PHP 8.2.35 https://news.ycombinator.com/item?id=50180873
 - 374 pts, 152 comments: Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds https://news.ycombinator.com/item?id=50177916
+- 373 pts, 134 comments: PHP2Shell: AI uncovers critical RCE in PHP https://news.ycombinator.com/item?id=50180836
 - 359 pts, 212 comments: Apple broke an essential presentation feature of iPads https://news.ycombinator.com/item?id=50165208
 - 353 pts, 134 comments: The Future of CSS https://news.ycombinator.com/item?id=50175070
 - 353 pts, 186 comments: EMudhra Intermediate CA Compromise https://news.ycombinator.com/item?id=50166579
 - 332 pts, 57 comments: MicroG: Free-libre re-implementation of Google's proprietary Android user space https://news.ycombinator.com/item?id=50162177
-- 329 pts, 139 comments: An ad-free Android TV https://news.ycombinator.com/item?id=50158942
 - 328 pts, 397 comments: What shall I teach my son? https://news.ycombinator.com/item?id=50169707
 - 328 pts, 249 comments: Ofcom concedes defeat in 4chan case https://news.ycombinator.com/item?id=50167028
 - 324 pts, 74 comments: Google open-sources TorchTPU, a native PyTorch back end for TPUs https://news.ycombinator.com/item?id=50169053
@@ -15,6 +16,7 @@ HN digest 2026-10-21 (UTC): 21 new stories at 300+ points
 - 323 pts, 146 comments: Tsrs: A Port of TypeScript to Rust https://news.ycombinator.com/item?id=50165953
 - 318 pts, 76 comments: How I got over 300 Tor exit nodes removed https://news.ycombinator.com/item?id=50166257
 - 317 pts, 81 comments: Voxtral 3 https://news.ycombinator.com/item?id=50168396
+- 316 pts, 146 comments: Muse exposes users' personal and business secrets when they share conversations https://news.ycombinator.com/item?id=50174687
 - 309 pts, 176 comments: Publish fake stats, get cited in LLMs https://news.ycombinator.com/item?id=50165801
 - 305 pts, 173 comments: Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery https://news.ycombinator.com/item?id=50168357
 - 302 pts, 157 comments: Google Cloud outage affects almost all banking and other operations in Europe https://news.ycombinator.com/item?id=50163961
