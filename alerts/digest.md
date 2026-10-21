@@ -1,11 +1,12 @@
-HN digest 2026-10-21 (UTC): 23 new stories at 300+ points
+HN digest 2026-10-21 (UTC): 22 new stories at 300+ points
+- 499 pts, 556 comments: The 1.5°C goal of the Paris Agreement is no longer viable https://news.ycombinator.com/item?id=50177911
 - 424 pts, 227 comments: SimCity, but with Permits https://news.ycombinator.com/item?id=50170593
 - 382 pts, 117 comments: Nordwand Mono – A monospace font for coders and adventurers https://news.ycombinator.com/item?id=50141581
+- 374 pts, 152 comments: Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds https://news.ycombinator.com/item?id=50177916
 - 371 pts, 321 comments: DeepSeek banned from U.S. federal civilian agencies under new DHS order https://news.ycombinator.com/item?id=50154244
 - 359 pts, 212 comments: Apple broke an essential presentation feature of iPads https://news.ycombinator.com/item?id=50165208
 - 353 pts, 134 comments: The Future of CSS https://news.ycombinator.com/item?id=50175070
 - 353 pts, 186 comments: EMudhra Intermediate CA Compromise https://news.ycombinator.com/item?id=50166579
-- 350 pts, 119 comments: DeepSeek just open-sourced its inference engine https://news.ycombinator.com/item?id=50163277
 - 332 pts, 57 comments: MicroG: Free-libre re-implementation of Google's proprietary Android user space https://news.ycombinator.com/item?id=50162177
 - 329 pts, 139 comments: An ad-free Android TV https://news.ycombinator.com/item?id=50158942
 - 328 pts, 397 comments: What shall I teach my son? https://news.ycombinator.com/item?id=50169707
@@ -13,12 +14,10 @@ HN digest 2026-10-21 (UTC): 23 new stories at 300+ points
 - 324 pts, 74 comments: Google open-sources TorchTPU, a native PyTorch back end for TPUs https://news.ycombinator.com/item?id=50169053
 - 324 pts, 114 comments: Upcoming critical PHP security release https://news.ycombinator.com/item?id=50172041
 - 323 pts, 146 comments: Tsrs: A Port of TypeScript to Rust https://news.ycombinator.com/item?id=50165953
-- 320 pts, 103 comments: OpenBSD 8.0 https://news.ycombinator.com/item?id=50160494
 - 318 pts, 76 comments: How I got over 300 Tor exit nodes removed https://news.ycombinator.com/item?id=50166257
 - 317 pts, 81 comments: Voxtral 3 https://news.ycombinator.com/item?id=50168396
 - 309 pts, 176 comments: Publish fake stats, get cited in LLMs https://news.ycombinator.com/item?id=50165801
 - 304 pts, 357 comments: AfD Leak: What 421,179 Hacked Emails Show about the German Far Right https://news.ycombinator.com/item?id=50163502
 - 302 pts, 157 comments: Google Cloud outage affects almost all banking and other operations in Europe https://news.ycombinator.com/item?id=50163961
-- 301 pts, 235 comments: Ukraine claims first drone evacuation of wounded soldier https://news.ycombinator.com/item?id=50153664
 - 300 pts, 214 comments: If you don't run your own LLM proxy, how do you know whats going on? https://news.ycombinator.com/item?id=50145507
 - 300 pts, 230 comments: Facebook now charging to post more than 2 links a month https://news.ycombinator.com/item?id=50167536
