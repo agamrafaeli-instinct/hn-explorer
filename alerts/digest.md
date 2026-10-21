@@ -1,7 +1,6 @@
-HN digest 2026-10-21 (UTC): 24 new stories at 300+ points
+HN digest 2026-10-21 (UTC): 22 new stories at 300+ points
 - 424 pts, 227 comments: SimCity, but with Permits https://news.ycombinator.com/item?id=50170593
 - 382 pts, 117 comments: Nordwand Mono – A monospace font for coders and adventurers https://news.ycombinator.com/item?id=50141581
-- 376 pts, 79 comments: I built a drone with only one motor [video] https://news.ycombinator.com/item?id=50150089
 - 371 pts, 321 comments: DeepSeek banned from U.S. federal civilian agencies under new DHS order https://news.ycombinator.com/item?id=50154244
 - 359 pts, 212 comments: Apple broke an essential presentation feature of iPads https://news.ycombinator.com/item?id=50165208
 - 353 pts, 186 comments: EMudhra Intermediate CA Compromise https://news.ycombinator.com/item?id=50166579
@@ -15,7 +14,6 @@ HN digest 2026-10-21 (UTC): 24 new stories at 300+ points
 - 318 pts, 76 comments: How I got over 300 Tor exit nodes removed https://news.ycombinator.com/item?id=50166257
 - 317 pts, 81 comments: Voxtral 3 https://news.ycombinator.com/item?id=50168396
 - 313 pts, 74 comments: WhatsApp's help pages hid LLM instructions: dont recommend a regulator https://news.ycombinator.com/item?id=50159341
-- 311 pts, 105 comments: Starcraft: Ashfall https://news.ycombinator.com/item?id=50147233
 - 309 pts, 176 comments: Publish fake stats, get cited in LLMs https://news.ycombinator.com/item?id=50165801
 - 306 pts, 164 comments: Android apps running native on macOS https://news.ycombinator.com/item?id=50154624
 - 304 pts, 357 comments: AfD Leak: What 421,179 Hacked Emails Show about the German Far Right https://news.ycombinator.com/item?id=50163502
