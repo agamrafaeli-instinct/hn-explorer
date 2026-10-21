@@ -2047,6 +2047,22 @@
    "id": "h431",
    "score": 1.0,
    "title": "TypeScript: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 809.0,
+   "id": "h432",
+   "score": 1.0,
+   "title": "React: a bigger share than before"
   }
  ],
  "schema": 1,
