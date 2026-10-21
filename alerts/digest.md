@@ -1,9 +1,8 @@
-HN digest 2026-10-21 (UTC): 22 new stories at 300+ points
+HN digest 2026-10-21 (UTC): 21 new stories at 300+ points
 - 499 pts, 556 comments: The 1.5°C goal of the Paris Agreement is no longer viable https://news.ycombinator.com/item?id=50177911
 - 424 pts, 227 comments: SimCity, but with Permits https://news.ycombinator.com/item?id=50170593
-- 382 pts, 117 comments: Nordwand Mono – A monospace font for coders and adventurers https://news.ycombinator.com/item?id=50141581
+- 376 pts, 153 comments: PHP 8.2.35 https://news.ycombinator.com/item?id=50180873
 - 374 pts, 152 comments: Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds https://news.ycombinator.com/item?id=50177916
-- 371 pts, 321 comments: DeepSeek banned from U.S. federal civilian agencies under new DHS order https://news.ycombinator.com/item?id=50154244
 - 359 pts, 212 comments: Apple broke an essential presentation feature of iPads https://news.ycombinator.com/item?id=50165208
 - 353 pts, 134 comments: The Future of CSS https://news.ycombinator.com/item?id=50175070
 - 353 pts, 186 comments: EMudhra Intermediate CA Compromise https://news.ycombinator.com/item?id=50166579
@@ -17,7 +16,7 @@ HN digest 2026-10-21 (UTC): 22 new stories at 300+ points
 - 318 pts, 76 comments: How I got over 300 Tor exit nodes removed https://news.ycombinator.com/item?id=50166257
 - 317 pts, 81 comments: Voxtral 3 https://news.ycombinator.com/item?id=50168396
 - 309 pts, 176 comments: Publish fake stats, get cited in LLMs https://news.ycombinator.com/item?id=50165801
-- 304 pts, 357 comments: AfD Leak: What 421,179 Hacked Emails Show about the German Far Right https://news.ycombinator.com/item?id=50163502
+- 305 pts, 173 comments: Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery https://news.ycombinator.com/item?id=50168357
 - 302 pts, 157 comments: Google Cloud outage affects almost all banking and other operations in Europe https://news.ycombinator.com/item?id=50163961
 - 300 pts, 214 comments: If you don't run your own LLM proxy, how do you know whats going on? https://news.ycombinator.com/item?id=50145507
 - 300 pts, 230 comments: Facebook now charging to post more than 2 links a month https://news.ycombinator.com/item?id=50167536

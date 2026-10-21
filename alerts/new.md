@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-21 13:22 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-21 15:11 UTC. Forward only ids not sent before.
+50180873 | 376 pts, 153 comments | PHP 8.2.35 | https://news.ycombinator.com/item?id=50180873
+50168357 | 305 pts, 173 comments | Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery | https://news.ycombinator.com/item?id=50168357
 50177916 | 374 pts, 152 comments | Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds | https://news.ycombinator.com/item?id=50177916
 50177911 | 499 pts, 556 comments | The 1.5°C goal of the Paris Agreement is no longer viable | https://news.ycombinator.com/item?id=50177911
 50175070 | 353 pts, 134 comments | The Future of CSS | https://news.ycombinator.com/item?id=50175070
