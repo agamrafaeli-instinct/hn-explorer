@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "id": "h432",
+  "title": "React: a bigger share than before",
+  "author": "story-finder",
+  "audience": "curious readers",
+  "hypothesis": "React titles are a bigger share of stories in the latest 12 months than before.",
+  "expect": "Share of stories in the latest 12 months divided by the pooled share of all earlier stories since 2006: 1.25x or more supports (1.5x or more is strong); 0.8x or less refutes. Between is inconclusive. Title matching only.",
+  "check": {
+    "source": "data/film_shares.json",
+    "path": "monthly",
+    "label_field": "month",
+    "stat": "pooled_share_ratio",
+    "unit": "x",
+    "field": "react_s",
+    "per_label": "React share of stories",
+    "display_pct": true,
+    "group_a": {
+      "label": "Latest 12 months ({from} to {to})",
+      "indices": {
+        "last": 12
+      },
+      "field": "react_s",
+      "per": "total"
+    },
+    "group_b": {
+      "label": "All earlier stories ({from} to {to})",
+      "indices": {
+        "before_last": 12
+      },
+      "field": "react_s",
+      "per": "total"
+    }
+  },
+  "verdicts": [
+    {
+      "when": {
+        "op": ">=",
+        "value": 1.5
+      },
+      "verdict": "supported",
+      "confidence": "strong"
+    },
+    {
+      "when": {
+        "op": ">=",
+        "value": 1.25
+      },
+      "verdict": "supported",
+      "confidence": "weak"
+    },
+    {
+      "when": {
+        "op": "<=",
+        "value": 0.8
+      },
+      "verdict": "refuted",
+      "confidence": "strong"
+    },
+    {
+      "else": true,
+      "verdict": "inconclusive",
+      "confidence": "inconclusive"
+    }
+  ],
+  "thresholds_note": "Set on 2026-10-21 by the story finder, before the story text was written. These are the standard film-card thresholds, not tuned to this result. The term was picked because its numbers stood out, so this card tests it on the current data and is not a prediction.",
+  "caveats": [
+    "Title matching only: the word list will miss and mis-match some stories.",
+    "The term was picked because its numbers stood out. This is an exploratory check on the current data, not a prediction.",
+    "HN attention does not measure adoption, technical validation or investment return."
+  ]
+}

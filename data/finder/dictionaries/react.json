@@ -1,0 +1,68 @@
+{
+ "aliases": [
+  {
+   "count": 16459,
+   "text": "react"
+  },
+  {
+   "count": 670,
+   "text": "react.js"
+  },
+  {
+   "count": 662,
+   "text": "reactjs"
+  }
+ ],
+ "exclusions": [],
+ "label": "React",
+ "matches": 17791,
+ "near_misses_total": 5000,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\breact(\\.js|js)?\\b",
+ "sample_matches": [
+  "Show HN: A React and Next.js UI Toolkit for LLMs",
+  "V4 Create React and Redux app structure with build configurations. What\u2019s new?",
+  "React Hooks in Apollo Client for GraphQL Queries and Mutations",
+  "Impressions of React and TypeScript from an Elixir/Elm Developer",
+  "ReactJS: Keep Simple. Everything can be a component",
+  "React with Rails User Authentication",
+  "Show HN: Aesop, a VSCode Extension for React Storybooks",
+  "Introducing Reactjs-Popup \u200a\u2013\u200aModals, Tooltips and Menus\u200a\u2013\u200aAll in One",
+  "Phoenix framework example using React and Redux",
+  "Ask HN: Migrating away from React after license decision?",
+  "French State Design System React Integration",
+  "Best ways to use React Hooks for state management",
+  "React v16.3.0-alpha.0",
+  "Show HN: Minnarone \u2013 Multimodal agents that watch, listen, and react live",
+  "Framer X: A React based design tool",
+  "Top Video Tutorials, Sites and Resources to Learn React",
+  "React: Why use it?",
+  "Show HN: Simplify communication between React Native webview and web",
+  "ReactiveSearch \u2013 React Components for Building Airbnb / Yelp Like Search",
+  "Create React Components Using a CLI"
+ ],
+ "sample_near_misses": [
+  "ReactOS in 2020 (opensource Windows clone sums up the year)",
+  "Alaska Health Worker Had a Serious Allergic Reaction After Pfizer\u2019s Vaccine",
+  "Oklo has a plan to make tiny nuclear reactors that run off nuclear waste",
+  "Smaller Reactors May Still Have a Big Nuclear Waste Problem",
+  "Robert Bussard on IEC Fusion Power and the Polywell Reactor",
+  "Kaya: Declarative Reactive Language [video]",
+  "Reactive Native AR SDK, SceneKit SDK Just Launched by Mapbox",
+  "JSON Graph: Reactive REST at Netflix",
+  "Spring Cloud Stream Meets Project Reactor",
+  "Functional Reactive Programming for Angular 2 Developers \u2013 RxJs and Observables",
+  "Post Has 1,739 Views, 124 Reactions And 23 Comments",
+  "Turn Any iOS Task into a Background Task with ReactiveCocoa",
+  "Creating a Self Contained Reactive Angular Material Menu Component with Slice",
+  "Japan\u2019s nuclear reactor overreaction",
+  "Reactive Hypoglycemia",
+  "Fix Like No One\u2019s Watching \u2013 Overreacted",
+  "Zappos staff reactions on company blog post after hearing about 10% salary bonus",
+  "The SL-1 Nuclear Reactor Accident",
+  "Reactive Services, Reactive Manifesto and Microservices",
+  "US Navy awards funds for Polywell Fusion reactor experiment "
+ ],
+ "schema": 1,
+ "term": "react"
+}
