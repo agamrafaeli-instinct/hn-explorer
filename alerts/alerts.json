@@ -1,5 +1,27 @@
 [
  {
+  "id": "50172041",
+  "title": "Upcoming critical PHP security release",
+  "points": 324,
+  "comments": 114,
+  "author": "xd",
+  "hn": "https://news.ycombinator.com/item?id=50172041",
+  "url": "https://news-web.php.net/php.announce/509",
+  "created_at": "2026-10-20T20:15:50Z",
+  "reported_at": 1792559416
+ },
+ {
+  "id": "50169707",
+  "title": "What shall I teach my son?",
+  "points": 328,
+  "comments": 397,
+  "author": "Curiositry",
+  "hn": "https://news.ycombinator.com/item?id=50169707",
+  "url": "https://stevekrouse.com/ends",
+  "created_at": "2026-10-20T17:25:07Z",
+  "reported_at": 1792559416
+ },
+ {
   "id": "50167028",
   "title": "Ofcom concedes defeat in 4chan case",
   "points": 328,

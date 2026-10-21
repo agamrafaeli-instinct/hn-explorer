@@ -1,4 +1,4 @@
-HN digest 2026-10-21 (UTC): 22 new stories at 300+ points
+HN digest 2026-10-21 (UTC): 24 new stories at 300+ points
 - 424 pts, 227 comments: SimCity, but with Permits https://news.ycombinator.com/item?id=50170593
 - 382 pts, 117 comments: Nordwand Mono – A monospace font for coders and adventurers https://news.ycombinator.com/item?id=50141581
 - 371 pts, 321 comments: DeepSeek banned from U.S. federal civilian agencies under new DHS order https://news.ycombinator.com/item?id=50154244
@@ -8,7 +8,9 @@ HN digest 2026-10-21 (UTC): 22 new stories at 300+ points
 - 334 pts, 480 comments: Ask HN: How to deal with shipping AI-written code you don't understand? https://news.ycombinator.com/item?id=50151036
 - 332 pts, 57 comments: MicroG: Free-libre re-implementation of Google's proprietary Android user space https://news.ycombinator.com/item?id=50162177
 - 329 pts, 139 comments: An ad-free Android TV https://news.ycombinator.com/item?id=50158942
+- 328 pts, 397 comments: What shall I teach my son? https://news.ycombinator.com/item?id=50169707
 - 328 pts, 249 comments: Ofcom concedes defeat in 4chan case https://news.ycombinator.com/item?id=50167028
+- 324 pts, 114 comments: Upcoming critical PHP security release https://news.ycombinator.com/item?id=50172041
 - 323 pts, 146 comments: Tsrs: A Port of TypeScript to Rust https://news.ycombinator.com/item?id=50165953
 - 320 pts, 103 comments: OpenBSD 8.0 https://news.ycombinator.com/item?id=50160494
 - 318 pts, 76 comments: How I got over 300 Tor exit nodes removed https://news.ycombinator.com/item?id=50166257
