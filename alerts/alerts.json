@@ -1,5 +1,16 @@
 [
  {
+  "id": "50169053",
+  "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+  "points": 324,
+  "comments": 74,
+  "author": "ilreb",
+  "hn": "https://news.ycombinator.com/item?id=50169053",
+  "url": "https://github.com/google-pytorch/torch_tpu",
+  "created_at": "2026-10-20T16:40:24Z",
+  "reported_at": 1792567502
+ },
+ {
   "id": "50172041",
   "title": "Upcoming critical PHP security release",
   "points": 324,

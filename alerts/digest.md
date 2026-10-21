@@ -5,11 +5,11 @@ HN digest 2026-10-21 (UTC): 24 new stories at 300+ points
 - 359 pts, 212 comments: Apple broke an essential presentation feature of iPads https://news.ycombinator.com/item?id=50165208
 - 353 pts, 186 comments: EMudhra Intermediate CA Compromise https://news.ycombinator.com/item?id=50166579
 - 350 pts, 119 comments: DeepSeek just open-sourced its inference engine https://news.ycombinator.com/item?id=50163277
-- 334 pts, 480 comments: Ask HN: How to deal with shipping AI-written code you don't understand? https://news.ycombinator.com/item?id=50151036
 - 332 pts, 57 comments: MicroG: Free-libre re-implementation of Google's proprietary Android user space https://news.ycombinator.com/item?id=50162177
 - 329 pts, 139 comments: An ad-free Android TV https://news.ycombinator.com/item?id=50158942
 - 328 pts, 397 comments: What shall I teach my son? https://news.ycombinator.com/item?id=50169707
 - 328 pts, 249 comments: Ofcom concedes defeat in 4chan case https://news.ycombinator.com/item?id=50167028
+- 324 pts, 74 comments: Google open-sources TorchTPU, a native PyTorch back end for TPUs https://news.ycombinator.com/item?id=50169053
 - 324 pts, 114 comments: Upcoming critical PHP security release https://news.ycombinator.com/item?id=50172041
 - 323 pts, 146 comments: Tsrs: A Port of TypeScript to Rust https://news.ycombinator.com/item?id=50165953
 - 320 pts, 103 comments: OpenBSD 8.0 https://news.ycombinator.com/item?id=50160494
