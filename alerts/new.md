@@ -1,4 +1,7 @@
-HN new 300+ stories, last 12h, updated 2026-10-21 19:16 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-21 21:08 UTC. Forward only ids not sent before.
+50184586 | 364 pts, 227 comments | EA is shutting down BioWare | https://news.ycombinator.com/item?id=50184586
+50181136 | 320 pts, 36 comments | DuckDB 2.0.0 LTS “Cinnamon Teal” | https://news.ycombinator.com/item?id=50181136
+50181114 | 338 pts, 115 comments | Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor | https://news.ycombinator.com/item?id=50181114
 50182987 | 341 pts, 162 comments | Today's PHP security release, and how we're strengthening security | https://news.ycombinator.com/item?id=50182987
 50181137 | 396 pts, 324 comments | The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck | https://news.ycombinator.com/item?id=50181137
 50180836 | 373 pts, 134 comments | PHP2Shell: AI uncovers critical RCE in PHP | https://news.ycombinator.com/item?id=50180836
@@ -8,4 +11,3 @@ HN new 300+ stories, last 12h, updated 2026-10-21 19:16 UTC. Forward only ids no
 50177916 | 374 pts, 152 comments | Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds | https://news.ycombinator.com/item?id=50177916
 50177911 | 499 pts, 556 comments | The 1.5°C goal of the Paris Agreement is no longer viable | https://news.ycombinator.com/item?id=50177911
 50175070 | 353 pts, 134 comments | The Future of CSS | https://news.ycombinator.com/item?id=50175070
-50169053 | 324 pts, 74 comments | Google open-sources TorchTPU, a native PyTorch back end for TPUs | https://news.ycombinator.com/item?id=50169053

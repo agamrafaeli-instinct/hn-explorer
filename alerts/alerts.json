@@ -1,5 +1,38 @@
 [
  {
+  "id": "50184586",
+  "title": "EA is shutting down BioWare",
+  "points": 364,
+  "comments": 227,
+  "author": "aaronbrethorst",
+  "hn": "https://news.ycombinator.com/item?id=50184586",
+  "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+  "created_at": "2026-10-21T17:29:33Z",
+  "reported_at": 1792616901
+ },
+ {
+  "id": "50181136",
+  "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
+  "points": 320,
+  "comments": 36,
+  "author": "nnx",
+  "hn": "https://news.ycombinator.com/item?id=50181136",
+  "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+  "created_at": "2026-10-21T14:01:22Z",
+  "reported_at": 1792616901
+ },
+ {
+  "id": "50181114",
+  "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+  "points": 338,
+  "comments": 115,
+  "author": "abhisek",
+  "hn": "https://news.ycombinator.com/item?id=50181114",
+  "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+  "created_at": "2026-10-21T14:00:26Z",
+  "reported_at": 1792616901
+ },
+ {
   "id": "50182987",
   "title": "Today's PHP security release, and how we're strengthening security",
   "points": 341,
