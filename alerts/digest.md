@@ -8,6 +8,7 @@ HN digest 2026-10-21 (UTC): 23 new stories at 300+ points
 - 359 pts, 212 comments: Apple broke an essential presentation feature of iPads https://news.ycombinator.com/item?id=50165208
 - 353 pts, 134 comments: The Future of CSS https://news.ycombinator.com/item?id=50175070
 - 353 pts, 186 comments: EMudhra Intermediate CA Compromise https://news.ycombinator.com/item?id=50166579
+- 341 pts, 162 comments: Today's PHP security release, and how we're strengthening security https://news.ycombinator.com/item?id=50182987
 - 332 pts, 57 comments: MicroG: Free-libre re-implementation of Google's proprietary Android user space https://news.ycombinator.com/item?id=50162177
 - 328 pts, 397 comments: What shall I teach my son? https://news.ycombinator.com/item?id=50169707
 - 328 pts, 249 comments: Ofcom concedes defeat in 4chan case https://news.ycombinator.com/item?id=50167028
@@ -21,4 +22,3 @@ HN digest 2026-10-21 (UTC): 23 new stories at 300+ points
 - 305 pts, 173 comments: Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery https://news.ycombinator.com/item?id=50168357
 - 302 pts, 157 comments: Google Cloud outage affects almost all banking and other operations in Europe https://news.ycombinator.com/item?id=50163961
 - 300 pts, 214 comments: If you don't run your own LLM proxy, how do you know whats going on? https://news.ycombinator.com/item?id=50145507
-- 300 pts, 230 comments: Facebook now charging to post more than 2 links a month https://news.ycombinator.com/item?id=50167536

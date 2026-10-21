@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-21 17:11 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-21 19:16 UTC. Forward only ids not sent before.
+50182987 | 341 pts, 162 comments | Today's PHP security release, and how we're strengthening security | https://news.ycombinator.com/item?id=50182987
 50181137 | 396 pts, 324 comments | The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck | https://news.ycombinator.com/item?id=50181137
 50180836 | 373 pts, 134 comments | PHP2Shell: AI uncovers critical RCE in PHP | https://news.ycombinator.com/item?id=50180836
 50174687 | 316 pts, 146 comments | Muse exposes users' personal and business secrets when they share conversations | https://news.ycombinator.com/item?id=50174687
