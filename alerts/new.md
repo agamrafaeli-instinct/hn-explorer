@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-21 21:08 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-21 23:04 UTC. Forward only ids not sent before.
+50186129 | 315 pts, 92 comments | Mistral Large 4 | https://news.ycombinator.com/item?id=50186129
 50184586 | 364 pts, 227 comments | EA is shutting down BioWare | https://news.ycombinator.com/item?id=50184586
 50181136 | 320 pts, 36 comments | DuckDB 2.0.0 LTS “Cinnamon Teal” | https://news.ycombinator.com/item?id=50181136
 50181114 | 338 pts, 115 comments | Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor | https://news.ycombinator.com/item?id=50181114
@@ -10,4 +11,3 @@ HN new 300+ stories, last 12h, updated 2026-10-21 21:08 UTC. Forward only ids no
 50168357 | 305 pts, 173 comments | Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery | https://news.ycombinator.com/item?id=50168357
 50177916 | 374 pts, 152 comments | Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds | https://news.ycombinator.com/item?id=50177916
 50177911 | 499 pts, 556 comments | The 1.5°C goal of the Paris Agreement is no longer viable | https://news.ycombinator.com/item?id=50177911
-50175070 | 353 pts, 134 comments | The Future of CSS | https://news.ycombinator.com/item?id=50175070

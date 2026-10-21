@@ -1,4 +1,4 @@
-HN digest 2026-10-21 (UTC): 22 new stories at 300+ points
+HN digest 2026-10-21 (UTC): 23 new stories at 300+ points
 - 499 pts, 556 comments: The 1.5°C goal of the Paris Agreement is no longer viable https://news.ycombinator.com/item?id=50177911
 - 424 pts, 227 comments: SimCity, but with Permits https://news.ycombinator.com/item?id=50170593
 - 396 pts, 324 comments: The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck https://news.ycombinator.com/item?id=50181137
@@ -17,6 +17,7 @@ HN digest 2026-10-21 (UTC): 22 new stories at 300+ points
 - 320 pts, 36 comments: DuckDB 2.0.0 LTS “Cinnamon Teal” https://news.ycombinator.com/item?id=50181136
 - 318 pts, 76 comments: How I got over 300 Tor exit nodes removed https://news.ycombinator.com/item?id=50166257
 - 316 pts, 146 comments: Muse exposes users' personal and business secrets when they share conversations https://news.ycombinator.com/item?id=50174687
+- 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
 - 309 pts, 176 comments: Publish fake stats, get cited in LLMs https://news.ycombinator.com/item?id=50165801
 - 305 pts, 173 comments: Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery https://news.ycombinator.com/item?id=50168357
 - 302 pts, 157 comments: Google Cloud outage affects almost all banking and other operations in Europe https://news.ycombinator.com/item?id=50163961
