@@ -1,0 +1,120 @@
+{
+ "aliases": [
+  {
+   "count": 39384,
+   "text": "learning"
+  },
+  {
+   "count": 9875,
+   "text": "school"
+  },
+  {
+   "count": 6256,
+   "text": "education"
+  },
+  {
+   "count": 6052,
+   "text": "college"
+  },
+  {
+   "count": 5667,
+   "text": "students"
+  },
+  {
+   "count": 4887,
+   "text": "university"
+  },
+  {
+   "count": 4491,
+   "text": "student"
+  },
+  {
+   "count": 3337,
+   "text": "teaching"
+  },
+  {
+   "count": 3055,
+   "text": "schools"
+  },
+  {
+   "count": 1316,
+   "text": "universities"
+  },
+  {
+   "count": 1050,
+   "text": "teachers"
+  },
+  {
+   "count": 923,
+   "text": "teacher"
+  },
+  {
+   "count": 627,
+   "text": "classroom"
+  },
+  {
+   "count": 605,
+   "text": "textbook"
+  },
+  {
+   "count": 551,
+   "text": "curriculum"
+  },
+  {
+   "count": 473,
+   "text": "textbooks"
+  }
+ ],
+ "exclusions": [],
+ "label": "education and learning",
+ "matches": 88549,
+ "near_misses_total": 927,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\b(education|schools?|teaching|teachers?|students?|classroom|university|universities|college|curriculum|textbooks?|learning)\\b",
+ "sample_matches": [
+  "Data science and machine learning bootcamp with R programming",
+  "Hot Chips 31 Live Blogs: Cerebras' 1.2T Transistor Deep Learning Processor",
+  "Learning Android Development - Day 7",
+  "Shogun - A Large Scale Machine Learning Toolbox ",
+  "Japan to open up job fields for foreigners graduating from universities",
+  "San Francisco \u2013 where drug addicts outnumber high school academics",
+  "Show HN: Qvault's Computer Science Curriculum",
+  "Elementary students learn code with calculators",
+  "Missouri teachers\u2019 Social Security numbers at risk on state agency's website",
+  "Outschool W16 has been funded by Collab+Sesame to inspire kids to love learning",
+  "Rethinking the American High School",
+  "University of Utah paid $457,000 to those behind a ransomware attack",
+  "High School is Forever",
+  "Deep Reinforcement Learning with Attention for Slate Markov Decision Processes",
+  "Michigan\u2019s students/teachers using public data to challenge university spending",
+  "The Art of Learning",
+  "What an Ivy League Education Gets You",
+  "I\u2019m learning to program: it\u2019s an endurance sport",
+  "StellarGraph v0.11 open-source Machine Learning Library for graphs released",
+  "An introduction to machine learning on graph databases"
+ ],
+ "sample_near_misses": [
+  "3 Key Learnings to Move Forward with Citizen Engagement and Co-Creation",
+  "Corporate Finance and Python: Early Learnings",
+  "Getting setup with Machinelearning Environment",
+  "Learnings from our YC journey",
+  "AI coding agents(Claude, Cursor) ask questions, share learnings, and blueprints",
+  "Machine Learnings #13: Rotting organs and self aware machines",
+  "Startup Learnings",
+  "Learnings from winning against Leela Chess Zero",
+  "I Wrote Ultralearning. This Is What I'd Change Because of AI",
+  "DeepLearning.ai on Working Hours",
+  "Learnings from a failed VC-backed startup: Postmortem Neta",
+  "Ask HN: Any deeplearning video generation service online?",
+  "Learnings from 1 month of running an AI podcast",
+  "The Dacians \u2013 Europe \u2013 elearning",
+  "Noahpinion: Unlearning economics",
+  "Learnings about Platforms",
+  "My learnings: How to talk to developers",
+  "Learnings from CocoaPods: Swift, Frameworks, and Modules",
+  "Learnings on how to create a team structure for agile development",
+  "Learnings from 1 Year of Agents"
+ ],
+ "schema": 1,
+ "term": "cu_education"
+}
