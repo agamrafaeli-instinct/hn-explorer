@@ -1,8 +1,6 @@
-HN digest 2026-10-22 (UTC): 23 new stories at 300+ points
+HN digest 2026-10-22 (UTC): 20 new stories at 300+ points
 - 539 pts, 412 comments: eMudhra to exit global SSL/TLS certificate business https://news.ycombinator.com/item?id=50195110
-- 396 pts, 324 comments: The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck https://news.ycombinator.com/item?id=50181137
 - 383 pts, 143 comments: Jailbreaking the Switch 2 https://news.ycombinator.com/item?id=50192536
-- 373 pts, 134 comments: PHP2Shell: AI uncovers critical RCE in PHP https://news.ycombinator.com/item?id=50180836
 - 364 pts, 227 comments: EA is shutting down BioWare https://news.ycombinator.com/item?id=50184586
 - 359 pts, 217 comments: Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case https://news.ycombinator.com/item?id=50184820
 - 356 pts, 95 comments: mitmproxy adds --emudhra option https://news.ycombinator.com/item?id=50189232
@@ -15,7 +13,6 @@ HN digest 2026-10-22 (UTC): 23 new stories at 300+ points
 - 320 pts, 191 comments: Rust Style Guide https://news.ycombinator.com/item?id=50186010
 - 320 pts, 36 comments: DuckDB 2.0.0 LTS “Cinnamon Teal” https://news.ycombinator.com/item?id=50181136
 - 319 pts, 149 comments: There isn't an easy exploit for this PHP vulnerability https://news.ycombinator.com/item?id=50188948
-- 316 pts, 146 comments: Muse exposes users' personal and business secrets when they share conversations https://news.ycombinator.com/item?id=50174687
 - 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
 - 310 pts, 97 comments: Quad9 (DNS Resolver) to Exit France https://news.ycombinator.com/item?id=50195959
 - 310 pts, 268 comments: Claude Duet https://news.ycombinator.com/item?id=50186037
