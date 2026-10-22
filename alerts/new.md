@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-21 23:04 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-22 01:15 UTC. Forward only ids not sent before.
+50186037 | 310 pts, 268 comments | Claude Duet | https://news.ycombinator.com/item?id=50186037
+50184820 | 359 pts, 217 comments | Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case | https://news.ycombinator.com/item?id=50184820
 50186129 | 315 pts, 92 comments | Mistral Large 4 | https://news.ycombinator.com/item?id=50186129
 50184586 | 364 pts, 227 comments | EA is shutting down BioWare | https://news.ycombinator.com/item?id=50184586
 50181136 | 320 pts, 36 comments | DuckDB 2.0.0 LTS “Cinnamon Teal” | https://news.ycombinator.com/item?id=50181136

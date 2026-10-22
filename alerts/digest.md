@@ -1,11 +1,11 @@
-HN digest 2026-10-21 (UTC): 23 new stories at 300+ points
+HN digest 2026-10-22 (UTC): 20 new stories at 300+ points
 - 499 pts, 556 comments: The 1.5°C goal of the Paris Agreement is no longer viable https://news.ycombinator.com/item?id=50177911
-- 424 pts, 227 comments: SimCity, but with Permits https://news.ycombinator.com/item?id=50170593
 - 396 pts, 324 comments: The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck https://news.ycombinator.com/item?id=50181137
 - 376 pts, 153 comments: PHP 8.2.35 https://news.ycombinator.com/item?id=50180873
 - 374 pts, 152 comments: Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds https://news.ycombinator.com/item?id=50177916
 - 373 pts, 134 comments: PHP2Shell: AI uncovers critical RCE in PHP https://news.ycombinator.com/item?id=50180836
 - 364 pts, 227 comments: EA is shutting down BioWare https://news.ycombinator.com/item?id=50184586
+- 359 pts, 217 comments: Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case https://news.ycombinator.com/item?id=50184820
 - 353 pts, 134 comments: The Future of CSS https://news.ycombinator.com/item?id=50175070
 - 341 pts, 162 comments: Today's PHP security release, and how we're strengthening security https://news.ycombinator.com/item?id=50182987
 - 338 pts, 115 comments: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor https://news.ycombinator.com/item?id=50181114
@@ -13,12 +13,9 @@ HN digest 2026-10-21 (UTC): 23 new stories at 300+ points
 - 328 pts, 249 comments: Ofcom concedes defeat in 4chan case https://news.ycombinator.com/item?id=50167028
 - 324 pts, 74 comments: Google open-sources TorchTPU, a native PyTorch back end for TPUs https://news.ycombinator.com/item?id=50169053
 - 324 pts, 114 comments: Upcoming critical PHP security release https://news.ycombinator.com/item?id=50172041
-- 323 pts, 146 comments: Tsrs: A Port of TypeScript to Rust https://news.ycombinator.com/item?id=50165953
 - 320 pts, 36 comments: DuckDB 2.0.0 LTS “Cinnamon Teal” https://news.ycombinator.com/item?id=50181136
 - 318 pts, 76 comments: How I got over 300 Tor exit nodes removed https://news.ycombinator.com/item?id=50166257
 - 316 pts, 146 comments: Muse exposes users' personal and business secrets when they share conversations https://news.ycombinator.com/item?id=50174687
 - 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
-- 309 pts, 176 comments: Publish fake stats, get cited in LLMs https://news.ycombinator.com/item?id=50165801
+- 310 pts, 268 comments: Claude Duet https://news.ycombinator.com/item?id=50186037
 - 305 pts, 173 comments: Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery https://news.ycombinator.com/item?id=50168357
-- 302 pts, 157 comments: Google Cloud outage affects almost all banking and other operations in Europe https://news.ycombinator.com/item?id=50163961
-- 300 pts, 214 comments: If you don't run your own LLM proxy, how do you know whats going on? https://news.ycombinator.com/item?id=50145507

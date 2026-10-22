@@ -1,5 +1,27 @@
 [
  {
+  "id": "50186037",
+  "title": "Claude Duet",
+  "points": 310,
+  "comments": 268,
+  "author": "kuberwastaken",
+  "hn": "https://news.ycombinator.com/item?id=50186037",
+  "url": "https://claude.com/product/claude-duet",
+  "created_at": "2026-10-21T19:14:01Z",
+  "reported_at": 1792631740
+ },
+ {
+  "id": "50184820",
+  "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+  "points": 359,
+  "comments": 217,
+  "author": "cbg0",
+  "hn": "https://news.ycombinator.com/item?id=50184820",
+  "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+  "created_at": "2026-10-21T17:45:13Z",
+  "reported_at": 1792631740
+ },
+ {
   "id": "50186129",
   "title": "Mistral Large 4",
   "points": 315,
