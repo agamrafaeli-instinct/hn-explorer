@@ -1,11 +1,10 @@
-HN digest 2026-10-22 (UTC): 20 new stories at 300+ points
+HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
 - 539 pts, 412 comments: eMudhra to exit global SSL/TLS certificate business https://news.ycombinator.com/item?id=50195110
 - 383 pts, 143 comments: Jailbreaking the Switch 2 https://news.ycombinator.com/item?id=50192536
 - 364 pts, 227 comments: EA is shutting down BioWare https://news.ycombinator.com/item?id=50184586
 - 359 pts, 217 comments: Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case https://news.ycombinator.com/item?id=50184820
 - 356 pts, 95 comments: mitmproxy adds --emudhra option https://news.ycombinator.com/item?id=50189232
 - 344 pts, 186 comments: Security Disclosure https://news.ycombinator.com/item?id=50188228
-- 341 pts, 162 comments: Today's PHP security release, and how we're strengthening security https://news.ycombinator.com/item?id=50182987
 - 338 pts, 115 comments: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor https://news.ycombinator.com/item?id=50181114
 - 329 pts, 101 comments: WorldTUI: I trained a 360M model to pretend to be a terminal https://news.ycombinator.com/item?id=50190363
 - 325 pts, 111 comments: CVE-2026-111943: Compromised Intermediate Certificate Authority https://news.ycombinator.com/item?id=50192900
@@ -16,6 +15,8 @@ HN digest 2026-10-22 (UTC): 20 new stories at 300+ points
 - 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
 - 310 pts, 97 comments: Quad9 (DNS Resolver) to Exit France https://news.ycombinator.com/item?id=50195959
 - 310 pts, 268 comments: Claude Duet https://news.ycombinator.com/item?id=50186037
+- 308 pts, 219 comments: Google cleared 300 hectares of Finnish forest https://news.ycombinator.com/item?id=50196837
 - 307 pts, 131 comments: OpenAI models are coming to Google Cloud https://news.ycombinator.com/item?id=50180079
 - 305 pts, 186 comments: No more icons in every menu by default https://news.ycombinator.com/item?id=50161346
 - 302 pts, 45 comments: PingCap TiDB Leaks https://news.ycombinator.com/item?id=50173716
+- 300 pts, 243 comments: The Other Epidemic: Trying to get off benzodiazepines https://news.ycombinator.com/item?id=50173891

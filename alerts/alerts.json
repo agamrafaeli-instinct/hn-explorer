@@ -1,5 +1,27 @@
 [
  {
+  "id": "50196837",
+  "title": "Google cleared 300 hectares of Finnish forest",
+  "points": 308,
+  "comments": 219,
+  "author": "wetwater",
+  "hn": "https://news.ycombinator.com/item?id=50196837",
+  "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+  "created_at": "2026-10-22T15:32:46Z",
+  "reported_at": 1792703399
+ },
+ {
+  "id": "50173891",
+  "title": "The Other Epidemic: Trying to get off benzodiazepines",
+  "points": 300,
+  "comments": 243,
+  "author": "gaplong",
+  "hn": "https://news.ycombinator.com/item?id=50173891",
+  "url": "https://www.thebeliever.net/the-other-epidemic/",
+  "created_at": "2026-10-20T23:04:09Z",
+  "reported_at": 1792703399
+ },
+ {
   "id": "50195959",
   "title": "Quad9 (DNS Resolver) to Exit France",
   "points": 310,
