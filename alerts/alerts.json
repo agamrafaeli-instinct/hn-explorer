@@ -1,5 +1,27 @@
 [
  {
+  "id": "50185869",
+  "title": "GitLab critical patch release",
+  "points": 323,
+  "comments": 74,
+  "author": "artooro",
+  "hn": "https://news.ycombinator.com/item?id=50185869",
+  "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+  "created_at": "2026-10-21T19:01:12Z",
+  "reported_at": 1792653962
+ },
+ {
+  "id": "50173716",
+  "title": "PingCap TiDB Leaks",
+  "points": 302,
+  "comments": 45,
+  "author": "swyx",
+  "hn": "https://news.ycombinator.com/item?id=50173716",
+  "url": "https://fulcrumsec.vg/pingcap/",
+  "created_at": "2026-10-20T22:45:39Z",
+  "reported_at": 1792653962
+ },
+ {
   "id": "50189232",
   "title": "mitmproxy adds --emudhra option",
   "points": 356,
