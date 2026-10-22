@@ -1,4 +1,4 @@
-HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
+HN digest 2026-10-22 (UTC): 23 new stories at 300+ points
 - 499 pts, 556 comments: The 1.5°C goal of the Paris Agreement is no longer viable https://news.ycombinator.com/item?id=50177911
 - 396 pts, 324 comments: The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck https://news.ycombinator.com/item?id=50181137
 - 376 pts, 153 comments: PHP 8.2.35 https://news.ycombinator.com/item?id=50180873
@@ -10,6 +10,7 @@ HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
 - 344 pts, 186 comments: Security Disclosure https://news.ycombinator.com/item?id=50188228
 - 341 pts, 162 comments: Today's PHP security release, and how we're strengthening security https://news.ycombinator.com/item?id=50182987
 - 338 pts, 115 comments: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor https://news.ycombinator.com/item?id=50181114
+- 329 pts, 101 comments: WorldTUI: I trained a 360M model to pretend to be a terminal https://news.ycombinator.com/item?id=50190363
 - 323 pts, 74 comments: GitLab critical patch release https://news.ycombinator.com/item?id=50185869
 - 320 pts, 191 comments: Rust Style Guide https://news.ycombinator.com/item?id=50186010
 - 320 pts, 36 comments: DuckDB 2.0.0 LTS “Cinnamon Teal” https://news.ycombinator.com/item?id=50181136
@@ -17,6 +18,7 @@ HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
 - 316 pts, 146 comments: Muse exposes users' personal and business secrets when they share conversations https://news.ycombinator.com/item?id=50174687
 - 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
 - 310 pts, 268 comments: Claude Duet https://news.ycombinator.com/item?id=50186037
+- 307 pts, 131 comments: OpenAI models are coming to Google Cloud https://news.ycombinator.com/item?id=50180079
 - 305 pts, 186 comments: No more icons in every menu by default https://news.ycombinator.com/item?id=50161346
 - 305 pts, 173 comments: Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery https://news.ycombinator.com/item?id=50168357
 - 302 pts, 45 comments: PingCap TiDB Leaks https://news.ycombinator.com/item?id=50173716

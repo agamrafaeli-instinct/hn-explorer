@@ -1,5 +1,27 @@
 [
  {
+  "id": "50190363",
+  "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+  "points": 329,
+  "comments": 101,
+  "author": "alphax314",
+  "hn": "https://news.ycombinator.com/item?id=50190363",
+  "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+  "created_at": "2026-10-22T02:18:41Z",
+  "reported_at": 1792675510
+ },
+ {
+  "id": "50180079",
+  "title": "OpenAI models are coming to Google Cloud",
+  "points": 307,
+  "comments": 131,
+  "author": "armcat",
+  "hn": "https://news.ycombinator.com/item?id=50180079",
+  "url": "https://openai.com/index/openai-models-google-cloud/",
+  "created_at": "2026-10-21T12:53:11Z",
+  "reported_at": 1792675510
+ },
+ {
   "id": "50186010",
   "title": "Rust Style Guide",
   "points": 320,
