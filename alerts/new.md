@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-22 01:15 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-22 03:09 UTC. Forward only ids not sent before.
+50188228 | 344 pts, 186 comments | Security Disclosure | https://news.ycombinator.com/item?id=50188228
 50186037 | 310 pts, 268 comments | Claude Duet | https://news.ycombinator.com/item?id=50186037
 50184820 | 359 pts, 217 comments | Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case | https://news.ycombinator.com/item?id=50184820
 50186129 | 315 pts, 92 comments | Mistral Large 4 | https://news.ycombinator.com/item?id=50186129
@@ -11,5 +12,3 @@ HN new 300+ stories, last 12h, updated 2026-10-22 01:15 UTC. Forward only ids no
 50174687 | 316 pts, 146 comments | Muse exposes users' personal and business secrets when they share conversations | https://news.ycombinator.com/item?id=50174687
 50180873 | 376 pts, 153 comments | PHP 8.2.35 | https://news.ycombinator.com/item?id=50180873
 50168357 | 305 pts, 173 comments | Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery | https://news.ycombinator.com/item?id=50168357
-50177916 | 374 pts, 152 comments | Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds | https://news.ycombinator.com/item?id=50177916
-50177911 | 499 pts, 556 comments | The 1.5°C goal of the Paris Agreement is no longer viable | https://news.ycombinator.com/item?id=50177911

@@ -1,4 +1,4 @@
-HN digest 2026-10-22 (UTC): 20 new stories at 300+ points
+HN digest 2026-10-22 (UTC): 19 new stories at 300+ points
 - 499 pts, 556 comments: The 1.5°C goal of the Paris Agreement is no longer viable https://news.ycombinator.com/item?id=50177911
 - 396 pts, 324 comments: The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck https://news.ycombinator.com/item?id=50181137
 - 376 pts, 153 comments: PHP 8.2.35 https://news.ycombinator.com/item?id=50180873
@@ -7,14 +7,13 @@ HN digest 2026-10-22 (UTC): 20 new stories at 300+ points
 - 364 pts, 227 comments: EA is shutting down BioWare https://news.ycombinator.com/item?id=50184586
 - 359 pts, 217 comments: Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case https://news.ycombinator.com/item?id=50184820
 - 353 pts, 134 comments: The Future of CSS https://news.ycombinator.com/item?id=50175070
+- 344 pts, 186 comments: Security Disclosure https://news.ycombinator.com/item?id=50188228
 - 341 pts, 162 comments: Today's PHP security release, and how we're strengthening security https://news.ycombinator.com/item?id=50182987
 - 338 pts, 115 comments: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor https://news.ycombinator.com/item?id=50181114
 - 328 pts, 397 comments: What shall I teach my son? https://news.ycombinator.com/item?id=50169707
-- 328 pts, 249 comments: Ofcom concedes defeat in 4chan case https://news.ycombinator.com/item?id=50167028
 - 324 pts, 74 comments: Google open-sources TorchTPU, a native PyTorch back end for TPUs https://news.ycombinator.com/item?id=50169053
 - 324 pts, 114 comments: Upcoming critical PHP security release https://news.ycombinator.com/item?id=50172041
 - 320 pts, 36 comments: DuckDB 2.0.0 LTS “Cinnamon Teal” https://news.ycombinator.com/item?id=50181136
-- 318 pts, 76 comments: How I got over 300 Tor exit nodes removed https://news.ycombinator.com/item?id=50166257
 - 316 pts, 146 comments: Muse exposes users' personal and business secrets when they share conversations https://news.ycombinator.com/item?id=50174687
 - 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
 - 310 pts, 268 comments: Claude Duet https://news.ycombinator.com/item?id=50186037
