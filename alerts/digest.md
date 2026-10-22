@@ -1,7 +1,7 @@
 HN digest 2026-10-22 (UTC): 23 new stories at 300+ points
+- 539 pts, 412 comments: eMudhra to exit global SSL/TLS certificate business https://news.ycombinator.com/item?id=50195110
 - 396 pts, 324 comments: The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck https://news.ycombinator.com/item?id=50181137
 - 383 pts, 143 comments: Jailbreaking the Switch 2 https://news.ycombinator.com/item?id=50192536
-- 376 pts, 153 comments: PHP 8.2.35 https://news.ycombinator.com/item?id=50180873
 - 373 pts, 134 comments: PHP2Shell: AI uncovers critical RCE in PHP https://news.ycombinator.com/item?id=50180836
 - 364 pts, 227 comments: EA is shutting down BioWare https://news.ycombinator.com/item?id=50184586
 - 359 pts, 217 comments: Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case https://news.ycombinator.com/item?id=50184820
@@ -17,8 +17,8 @@ HN digest 2026-10-22 (UTC): 23 new stories at 300+ points
 - 319 pts, 149 comments: There isn't an easy exploit for this PHP vulnerability https://news.ycombinator.com/item?id=50188948
 - 316 pts, 146 comments: Muse exposes users' personal and business secrets when they share conversations https://news.ycombinator.com/item?id=50174687
 - 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
+- 310 pts, 97 comments: Quad9 (DNS Resolver) to Exit France https://news.ycombinator.com/item?id=50195959
 - 310 pts, 268 comments: Claude Duet https://news.ycombinator.com/item?id=50186037
 - 307 pts, 131 comments: OpenAI models are coming to Google Cloud https://news.ycombinator.com/item?id=50180079
 - 305 pts, 186 comments: No more icons in every menu by default https://news.ycombinator.com/item?id=50161346
-- 305 pts, 173 comments: Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery https://news.ycombinator.com/item?id=50168357
 - 302 pts, 45 comments: PingCap TiDB Leaks https://news.ycombinator.com/item?id=50173716

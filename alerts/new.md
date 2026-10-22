@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-22 15:14 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-22 17:10 UTC. Forward only ids not sent before.
+50195959 | 310 pts, 97 comments | Quad9 (DNS Resolver) to Exit France | https://news.ycombinator.com/item?id=50195959
+50195110 | 539 pts, 412 comments | eMudhra to exit global SSL/TLS certificate business | https://news.ycombinator.com/item?id=50195110
 50192900 | 325 pts, 111 comments | CVE-2026-111943: Compromised Intermediate Certificate Authority | https://news.ycombinator.com/item?id=50192900
 50192536 | 383 pts, 143 comments | Jailbreaking the Switch 2 | https://news.ycombinator.com/item?id=50192536
 50190363 | 329 pts, 101 comments | WorldTUI: I trained a 360M model to pretend to be a terminal | https://news.ycombinator.com/item?id=50190363
