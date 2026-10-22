@@ -1,16 +1,15 @@
 HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
 - 539 pts, 412 comments: eMudhra to exit global SSL/TLS certificate business https://news.ycombinator.com/item?id=50195110
+- 404 pts, 386 comments: Woman faces six years in prison over Cash App account she never opened https://news.ycombinator.com/item?id=50194833
 - 383 pts, 143 comments: Jailbreaking the Switch 2 https://news.ycombinator.com/item?id=50192536
-- 364 pts, 227 comments: EA is shutting down BioWare https://news.ycombinator.com/item?id=50184586
 - 359 pts, 217 comments: Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case https://news.ycombinator.com/item?id=50184820
 - 356 pts, 95 comments: mitmproxy adds --emudhra option https://news.ycombinator.com/item?id=50189232
 - 344 pts, 186 comments: Security Disclosure https://news.ycombinator.com/item?id=50188228
-- 338 pts, 115 comments: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor https://news.ycombinator.com/item?id=50181114
 - 329 pts, 101 comments: WorldTUI: I trained a 360M model to pretend to be a terminal https://news.ycombinator.com/item?id=50190363
 - 325 pts, 111 comments: CVE-2026-111943: Compromised Intermediate Certificate Authority https://news.ycombinator.com/item?id=50192900
 - 323 pts, 74 comments: GitLab critical patch release https://news.ycombinator.com/item?id=50185869
+- 322 pts, 151 comments: What’s getting pwned right now https://news.ycombinator.com/item?id=50195543
 - 320 pts, 191 comments: Rust Style Guide https://news.ycombinator.com/item?id=50186010
-- 320 pts, 36 comments: DuckDB 2.0.0 LTS “Cinnamon Teal” https://news.ycombinator.com/item?id=50181136
 - 319 pts, 149 comments: There isn't an easy exploit for this PHP vulnerability https://news.ycombinator.com/item?id=50188948
 - 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
 - 310 pts, 97 comments: Quad9 (DNS Resolver) to Exit France https://news.ycombinator.com/item?id=50195959
@@ -19,4 +18,5 @@ HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
 - 307 pts, 131 comments: OpenAI models are coming to Google Cloud https://news.ycombinator.com/item?id=50180079
 - 305 pts, 186 comments: No more icons in every menu by default https://news.ycombinator.com/item?id=50161346
 - 302 pts, 45 comments: PingCap TiDB Leaks https://news.ycombinator.com/item?id=50173716
+- 300 pts, 129 comments: Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry. https://news.ycombinator.com/item?id=50193416
 - 300 pts, 243 comments: The Other Epidemic: Trying to get off benzodiazepines https://news.ycombinator.com/item?id=50173891
