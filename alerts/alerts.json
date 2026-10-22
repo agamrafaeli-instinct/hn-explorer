@@ -1,5 +1,16 @@
 [
  {
+  "id": "50186010",
+  "title": "Rust Style Guide",
+  "points": 320,
+  "comments": 191,
+  "author": "kaycebasques",
+  "hn": "https://news.ycombinator.com/item?id=50186010",
+  "url": "https://google.github.io/styleguide/rustguide.html",
+  "created_at": "2026-10-21T19:11:57Z",
+  "reported_at": 1792667471
+ },
+ {
   "id": "50161346",
   "title": "No more icons in every menu by default",
   "points": 305,

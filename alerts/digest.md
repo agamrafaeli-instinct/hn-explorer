@@ -7,11 +7,11 @@ HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
 - 364 pts, 227 comments: EA is shutting down BioWare https://news.ycombinator.com/item?id=50184586
 - 359 pts, 217 comments: Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case https://news.ycombinator.com/item?id=50184820
 - 356 pts, 95 comments: mitmproxy adds --emudhra option https://news.ycombinator.com/item?id=50189232
-- 353 pts, 134 comments: The Future of CSS https://news.ycombinator.com/item?id=50175070
 - 344 pts, 186 comments: Security Disclosure https://news.ycombinator.com/item?id=50188228
 - 341 pts, 162 comments: Today's PHP security release, and how we're strengthening security https://news.ycombinator.com/item?id=50182987
 - 338 pts, 115 comments: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor https://news.ycombinator.com/item?id=50181114
 - 323 pts, 74 comments: GitLab critical patch release https://news.ycombinator.com/item?id=50185869
+- 320 pts, 191 comments: Rust Style Guide https://news.ycombinator.com/item?id=50186010
 - 320 pts, 36 comments: DuckDB 2.0.0 LTS “Cinnamon Teal” https://news.ycombinator.com/item?id=50181136
 - 319 pts, 149 comments: There isn't an easy exploit for this PHP vulnerability https://news.ycombinator.com/item?id=50188948
 - 316 pts, 146 comments: Muse exposes users' personal and business secrets when they share conversations https://news.ycombinator.com/item?id=50174687
