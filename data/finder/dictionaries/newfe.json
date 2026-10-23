@@ -1,0 +1,71 @@
+{
+ "aliases": [
+  {
+   "count": 1499,
+   "text": "next.js"
+  },
+  {
+   "count": 1387,
+   "text": "vue"
+  },
+  {
+   "count": 911,
+   "text": "vue.js"
+  },
+  {
+   "count": 889,
+   "text": "tailwind"
+  },
+  {
+   "count": 756,
+   "text": "svelte"
+  },
+  {
+   "count": 415,
+   "text": "htmx"
+  },
+  {
+   "count": 352,
+   "text": "nextjs"
+  },
+  {
+   "count": 297,
+   "text": "vuejs"
+  },
+  {
+   "count": 141,
+   "text": "tailwindcss"
+  }
+ ],
+ "exclusions": [],
+ "label": "Next.js, Svelte, Vue, htmx and Tailwind",
+ "matches": 6647,
+ "near_misses_total": 0,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\b(next\\.?js|svelte|vue(\\.?js)?|htmx|tailwind(css)?)\\b",
+ "sample_matches": [
+  "Show HN: A React and Next.js UI Toolkit for LLMs",
+  "Building an Animated Slider with JavaScript, CSS, and Vue",
+  "Svelte and TypeScript",
+  "Why or why not to use Next.js in 2022 \u2013 Full Context Review",
+  "Show HN: Building a Library Management App with Vue, Firebase and Scaffoldhub",
+  "Advanced TypeScript: The ultimate Tailwind typings",
+  "Show HN: Open-Source B2B SaaS Starter Kit (Go, Next.js, RBAC, Polar)",
+  "Comparing Aurelia to Svelte",
+  "Steam Games Search: Typesense, Next.js, Instantsearch, Shadcn/UI",
+  "Outstatic \u2013 A Static CMS for Next.js",
+  "Is Petite-Vue Dead?",
+  "Visual Open Authoring with Next.js and TinaCMS",
+  "Build Desktop Tray App with Tauri, React, and Tailwind CSS",
+  "Self-hosting NextJS at Scale in 2025",
+  "Show HN: Caster \u2013 Screencasts Manager in Elixir, Phoenix and Vue",
+  "Improving the accessibility of our Next.js site",
+  "Next.js Team AMA, Ask Us Anything",
+  "Show HN: Reactive Proxy State \u2013 Vue-style reactivity without Vue",
+  "Show HN: Live Chat Starter Kit \u2013 Real-time support with Next.js + Socket.IO",
+  "Tailwind v4 killed the config file"
+ ],
+ "sample_near_misses": [],
+ "schema": 1,
+ "term": "newfe"
+}
