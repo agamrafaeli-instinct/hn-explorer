@@ -1,4 +1,4 @@
-HN digest 2026-10-23 (UTC): 24 new stories at 300+ points
+HN digest 2026-10-23 (UTC): 22 new stories at 300+ points
 - 474 pts, 304 comments: Today, we hacked what we'd set out to hack: the iPhone https://news.ycombinator.com/item?id=50211474
 - 414 pts, 243 comments: Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown https://news.ycombinator.com/item?id=50208558
 - 404 pts, 386 comments: Woman faces six years in prison over Cash App account she never opened https://news.ycombinator.com/item?id=50194833
@@ -16,10 +16,8 @@ HN digest 2026-10-23 (UTC): 24 new stories at 300+ points
 - 313 pts, 238 comments: Investor-owned utilities charge 23% more for electricity than public providers https://news.ycombinator.com/item?id=50208837
 - 309 pts, 285 comments: Xbox wants you to pay 24 to 40 cents per hour to stream games you bought https://news.ycombinator.com/item?id=50194009
 - 308 pts, 349 comments: Every AI model has the same "controversial" take on humans https://news.ycombinator.com/item?id=50197313
-- 308 pts, 219 comments: Google cleared 300 hectares of Finnish forest https://news.ycombinator.com/item?id=50196837
 - 305 pts, 130 comments: Getting ready to operate GNU Taler in Germany https://news.ycombinator.com/item?id=50197404
 - 301 pts, 111 comments: Apple Music 404 Not Found https://news.ycombinator.com/item?id=50207910
 - 301 pts, 112 comments: Swedish government offices to ban ChatGPT and Claude https://news.ycombinator.com/item?id=50207405
 - 301 pts, 282 comments: The recently proposed o(n log n) integer multiplication algorithm [pdf] https://news.ycombinator.com/item?id=50190455
 - 300 pts, 129 comments: Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry. https://news.ycombinator.com/item?id=50193416
-- 300 pts, 243 comments: The Other Epidemic: Trying to get off benzodiazepines https://news.ycombinator.com/item?id=50173891
