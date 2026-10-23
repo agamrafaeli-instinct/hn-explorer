@@ -1,23 +1,24 @@
-HN digest 2026-10-23 (UTC): 22 new stories at 300+ points
+HN digest 2026-10-23 (UTC): 23 new stories at 300+ points
 - 539 pts, 412 comments: eMudhra to exit global SSL/TLS certificate business https://news.ycombinator.com/item?id=50195110
 - 414 pts, 243 comments: Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown https://news.ycombinator.com/item?id=50208558
 - 404 pts, 386 comments: Woman faces six years in prison over Cash App account she never opened https://news.ycombinator.com/item?id=50194833
-- 383 pts, 143 comments: Jailbreaking the Switch 2 https://news.ycombinator.com/item?id=50192536
 - 380 pts, 189 comments: Docker is weird https://news.ycombinator.com/item?id=50202681
+- 368 pts, 373 comments: Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier https://news.ycombinator.com/item?id=50205934
 - 343 pts, 201 comments: LLMs are making formal software verification feasible at a much larger scale https://news.ycombinator.com/item?id=50202217
 - 333 pts, 86 comments: Local Wikipedia: Wikipedia, but only for things a half hour walk from you https://news.ycombinator.com/item?id=50202285
-- 325 pts, 111 comments: CVE-2026-111943: Compromised Intermediate Certificate Authority https://news.ycombinator.com/item?id=50192900
 - 324 pts, 129 comments: Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions https://news.ycombinator.com/item?id=50201259
 - 322 pts, 151 comments: What’s getting pwned right now https://news.ycombinator.com/item?id=50195543
 - 321 pts, 348 comments: Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies? https://news.ycombinator.com/item?id=50200997
 - 320 pts, 124 comments: Run full iOS 16.5 firmware on Android Devices https://news.ycombinator.com/item?id=50196718
 - 319 pts, 165 comments: OpenShell – A safe, private runtime for fleets of autonomous AI agents https://news.ycombinator.com/item?id=50198675
+- 313 pts, 211 comments: The foolishness of "natural language programming" (1978) https://news.ycombinator.com/item?id=50203161
 - 313 pts, 238 comments: Investor-owned utilities charge 23% more for electricity than public providers https://news.ycombinator.com/item?id=50208837
 - 310 pts, 97 comments: Quad9 (DNS Resolver) to Exit France https://news.ycombinator.com/item?id=50195959
 - 309 pts, 285 comments: Xbox wants you to pay 24 to 40 cents per hour to stream games you bought https://news.ycombinator.com/item?id=50194009
 - 308 pts, 349 comments: Every AI model has the same "controversial" take on humans https://news.ycombinator.com/item?id=50197313
 - 308 pts, 219 comments: Google cleared 300 hectares of Finnish forest https://news.ycombinator.com/item?id=50196837
 - 305 pts, 130 comments: Getting ready to operate GNU Taler in Germany https://news.ycombinator.com/item?id=50197404
+- 301 pts, 112 comments: Swedish government offices to ban ChatGPT and Claude https://news.ycombinator.com/item?id=50207405
 - 301 pts, 282 comments: The recently proposed o(n log n) integer multiplication algorithm [pdf] https://news.ycombinator.com/item?id=50190455
 - 300 pts, 129 comments: Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry. https://news.ycombinator.com/item?id=50193416
 - 300 pts, 243 comments: The Other Epidemic: Trying to get off benzodiazepines https://news.ycombinator.com/item?id=50173891
