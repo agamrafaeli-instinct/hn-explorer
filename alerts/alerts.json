@@ -1,5 +1,38 @@
 [
  {
+  "id": "50208837",
+  "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+  "points": 313,
+  "comments": 238,
+  "author": "hubraumhugo",
+  "hn": "https://news.ycombinator.com/item?id=50208837",
+  "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+  "created_at": "2026-10-23T13:41:10Z",
+  "reported_at": 1792768482
+ },
+ {
+  "id": "50208558",
+  "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+  "points": 414,
+  "comments": 243,
+  "author": "NackerHughes",
+  "hn": "https://news.ycombinator.com/item?id=50208558",
+  "url": "https://keepandroidopen.org/?",
+  "created_at": "2026-10-23T13:19:42Z",
+  "reported_at": 1792768482
+ },
+ {
+  "id": "50200997",
+  "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+  "points": 321,
+  "comments": 348,
+  "author": "ex-aws-dude",
+  "hn": "https://news.ycombinator.com/item?id=50200997",
+  "url": null,
+  "created_at": "2026-10-22T21:03:55Z",
+  "reported_at": 1792768482
+ },
+ {
   "id": "50197404",
   "title": "Getting ready to operate GNU Taler in Germany",
   "points": 305,
