@@ -1,5 +1,16 @@
 [
  {
+  "id": "50197313",
+  "title": "Every AI model has the same \"controversial\" take on humans",
+  "points": 308,
+  "comments": 349,
+  "author": "rakannimer",
+  "hn": "https://news.ycombinator.com/item?id=50197313",
+  "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+  "created_at": "2026-10-22T16:08:00Z",
+  "reported_at": 1792732204
+ },
+ {
   "id": "50198675",
   "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
   "points": 319,

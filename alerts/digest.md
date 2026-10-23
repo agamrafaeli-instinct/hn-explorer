@@ -3,7 +3,6 @@ HN digest 2026-10-23 (UTC): 22 new stories at 300+ points
 - 404 pts, 386 comments: Woman faces six years in prison over Cash App account she never opened https://news.ycombinator.com/item?id=50194833
 - 383 pts, 143 comments: Jailbreaking the Switch 2 https://news.ycombinator.com/item?id=50192536
 - 356 pts, 95 comments: mitmproxy adds --emudhra option https://news.ycombinator.com/item?id=50189232
-- 344 pts, 186 comments: Security Disclosure https://news.ycombinator.com/item?id=50188228
 - 329 pts, 101 comments: WorldTUI: I trained a 360M model to pretend to be a terminal https://news.ycombinator.com/item?id=50190363
 - 325 pts, 111 comments: CVE-2026-111943: Compromised Intermediate Certificate Authority https://news.ycombinator.com/item?id=50192900
 - 324 pts, 129 comments: Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions https://news.ycombinator.com/item?id=50201259
@@ -14,6 +13,7 @@ HN digest 2026-10-23 (UTC): 22 new stories at 300+ points
 - 319 pts, 165 comments: OpenShell – A safe, private runtime for fleets of autonomous AI agents https://news.ycombinator.com/item?id=50198675
 - 319 pts, 149 comments: There isn't an easy exploit for this PHP vulnerability https://news.ycombinator.com/item?id=50188948
 - 310 pts, 97 comments: Quad9 (DNS Resolver) to Exit France https://news.ycombinator.com/item?id=50195959
+- 308 pts, 349 comments: Every AI model has the same "controversial" take on humans https://news.ycombinator.com/item?id=50197313
 - 308 pts, 219 comments: Google cleared 300 hectares of Finnish forest https://news.ycombinator.com/item?id=50196837
 - 307 pts, 131 comments: OpenAI models are coming to Google Cloud https://news.ycombinator.com/item?id=50180079
 - 305 pts, 186 comments: No more icons in every menu by default https://news.ycombinator.com/item?id=50161346
