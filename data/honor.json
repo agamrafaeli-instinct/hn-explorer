@@ -3,7 +3,7 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -14,13 +14,13 @@
    "group_a_count": 636.0,
    "id": "h300",
    "replaced_by": "h377",
-   "score": 0.8,
+   "score": 0.667,
    "title": "TypeScript is replacing JavaScript in the conversation"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -31,13 +31,13 @@
    "group_a_count": 15501.0,
    "id": "h301",
    "replaced_by": "h380",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Engineers moved from chatbots to agents"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -48,13 +48,13 @@
    "group_a_count": 2009.0,
    "id": "h302",
    "replaced_by": "h381",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Boring SQL databases are winning over NoSQL and MySQL"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -65,13 +65,13 @@
    "group_a_count": 278.0,
    "id": "h303",
    "replaced_by": "h382",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Microservices and serverless hype is cooling"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -82,13 +82,13 @@
    "group_a_count": 809.0,
    "id": "h304",
    "replaced_by": "h376",
-   "score": 0.8,
+   "score": 0.667,
    "title": "React's grip is loosening"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -99,13 +99,13 @@
    "group_a_count": 650.0,
    "id": "h305",
    "replaced_by": "h383",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Next.js, Svelte, Vue, htmx and Tailwind are rising together"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -116,13 +116,13 @@
    "group_a_count": 1275.0,
    "id": "h306",
    "replaced_by": "h384",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Container and cloud infrastructure keeps its share"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -133,13 +133,13 @@
    "group_a_count": 2432.0,
    "id": "h307",
    "replaced_by": "h385",
-   "score": 0.8,
+   "score": 0.667,
    "title": "The old guard of languages fades"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -150,13 +150,13 @@
    "group_a_count": 135690.0,
    "id": "h308",
    "replaced_by": "h386",
-   "score": 0.8,
+   "score": 0.833,
    "title": "AI coding tools earn above-average points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -167,13 +167,13 @@
    "group_a_count": 114563.0,
    "id": "h309",
    "replaced_by": "h379",
-   "score": 0.8,
+   "score": 0.667,
    "title": "SQLite and DuckDB stories punch above their weight"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -184,13 +184,13 @@
    "group_a_count": 5005.0,
    "id": "h310",
    "replaced_by": "h387",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Engineers are returning to their tools"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -201,13 +201,13 @@
    "group_a_count": 4815.0,
    "id": "h311",
    "replaced_by": "h388",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Systems languages (Rust, Zig, C++) gain share"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -218,13 +218,13 @@
    "group_a_count": 502.0,
    "id": "h312",
    "replaced_by": "h389",
-   "score": 0.8,
+   "score": 0.667,
    "title": "More engineers talk about maintenance"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -235,13 +235,13 @@
    "group_a_count": 8522.0,
    "id": "h313",
    "replaced_by": "h390",
-   "score": 0.8,
+   "score": 0.667,
    "title": "LLM plumbing becomes an engineering topic"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -252,13 +252,13 @@
    "group_a_count": 546.0,
    "id": "h315",
    "replaced_by": "h391",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Go is gaining on Python"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -269,13 +269,13 @@
    "group_a_count": 618.0,
    "id": "h316",
    "replaced_by": "h392",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Kubernetes is cooling off"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -286,13 +286,13 @@
    "group_a_count": 71.0,
    "id": "h317",
    "replaced_by": "h393",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Vue is rising"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -303,13 +303,13 @@
    "group_a_count": 536.0,
    "id": "h318",
    "replaced_by": "h394",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Java is dying on HN"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -320,13 +320,13 @@
    "group_a_count": 1654.0,
    "id": "h319",
    "replaced_by": "h395",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Data centers and grid: share of stories, all-time base"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -337,29 +337,31 @@
    "group_a_count": 70449.0,
    "id": "h320",
    "replaced_by": "h396",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Data centers and grid: points premium, all-time base"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 3280.0,
    "id": "h321",
-   "score": 1.0,
+   "score": 0.833,
    "title": "GPU and chip hardware: share of stories, all-time base"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -370,13 +372,13 @@
    "group_a_count": 320227.0,
    "id": "h322",
    "replaced_by": "h397",
-   "score": 0.8,
+   "score": 0.833,
    "title": "GPU and chip hardware: points premium, all-time base"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -392,7 +394,7 @@
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -403,13 +405,13 @@
    "group_a_count": 327904.0,
    "id": "h324",
    "replaced_by": "h398",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Neural biology: points premium, all-time base"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -425,7 +427,7 @@
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -436,13 +438,13 @@
    "group_a_count": 512142.0,
    "id": "h326",
    "replaced_by": "h399",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Aerospace: points premium, all-time base"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -458,7 +460,7 @@
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -469,13 +471,13 @@
    "group_a_count": 42958.0,
    "id": "h328",
    "replaced_by": "h400",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Solar energy: points premium, all-time base"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -491,7 +493,7 @@
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -502,13 +504,13 @@
    "group_a_count": 202299.0,
    "id": "h330",
    "replaced_by": "h401",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Physical robotics: points premium, all-time base"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -524,7 +526,7 @@
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -535,13 +537,13 @@
    "group_a_count": 1467469.0,
    "id": "h332",
    "replaced_by": "h402",
-   "score": 0.8,
+   "score": 0.667,
    "title": "The six deep-tech themes together: points premium, all-time base"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -558,7 +560,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -569,13 +571,13 @@
    "group_a_count": 319875.0,
    "id": "h340",
    "replaced_by": "h404",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Animals win beyond the biggest hits"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -591,7 +593,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -602,13 +604,13 @@
    "group_a_count": 143885.0,
    "id": "h342",
    "replaced_by": "h405",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Music starts more conversations"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -624,7 +626,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -640,7 +642,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -656,7 +658,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -667,13 +669,13 @@
    "group_a_count": 13027.0,
    "id": "h346",
    "replaced_by": "h406",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Learning stories clear ten points more often"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -689,7 +691,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -700,13 +702,13 @@
    "group_a_count": 1102688.0,
    "id": "h348",
    "replaced_by": "h407",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Books beat the average after trimming"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -717,13 +719,13 @@
    "group_a_count": 439217.0,
    "id": "h349",
    "replaced_by": "h408",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Visual art earns a points premium"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -734,13 +736,13 @@
    "group_a_count": 3093.0,
    "id": "h350",
    "replaced_by": "h409",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Maps and geography find more hits"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -756,7 +758,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -772,7 +774,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -783,13 +785,13 @@
    "group_a_count": 3879563.0,
    "id": "h353",
    "replaced_by": "h410",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Question headlines provoke more comments"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -800,13 +802,13 @@
    "group_a_count": 732051.0,
    "id": "h354",
    "replaced_by": "h411",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Weird words earn more points"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -817,13 +819,13 @@
    "group_a_count": 7220.0,
    "id": "h355",
    "replaced_by": "h412",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Weird words reach ten points more often"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -834,13 +836,13 @@
    "group_a_count": 312033.0,
    "id": "h356",
    "replaced_by": "h413",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Weird gets talked about"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -856,7 +858,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -872,23 +874,25 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 2597.0,
    "id": "h359",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Weird words are growing"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -899,13 +903,13 @@
    "group_a_count": 1045228.0,
    "id": "h360",
    "replaced_by": "h414",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Science words earn more points"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -921,7 +925,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -932,29 +936,31 @@
    "group_a_count": 254749.0,
    "id": "h362",
    "replaced_by": "h415",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Retro computing earns more points"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 1397.0,
    "id": "h363",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Retro computing is growing"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -965,13 +971,13 @@
    "group_a_count": 1256038.0,
    "id": "h364",
    "replaced_by": "h416",
-   "score": 0.8,
+   "score": 0.833,
    "title": "History words earn more points"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -982,29 +988,31 @@
    "group_a_count": 191522.0,
    "id": "h365",
    "replaced_by": "h417",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Puzzles earn more points"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 1166.0,
    "id": "h366",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Puzzles are growing"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": false,
@@ -1015,13 +1023,13 @@
    "group_a_count": 2611807.0,
    "id": "h367",
    "replaced_by": "h418",
-   "score": 0.8,
+   "score": 0.833,
    "title": "Show HN earns more points"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1032,7 +1040,7 @@
    "group_a_count": 239349.0,
    "id": "h368",
    "replaced_by": "h419",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Business-software words sink"
   },
   {
@@ -2079,6 +2087,22 @@
    "id": "h433",
    "score": 1.0,
    "title": "education and learning: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 650.0,
+   "id": "h434",
+   "score": 1.0,
+   "title": "Next.js, Svelte, Vue, htmx and Tailwind: a bigger share than before"
   }
  ],
  "schema": 1,
