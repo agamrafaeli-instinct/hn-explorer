@@ -1,5 +1,27 @@
 [
  {
+  "id": "50202285",
+  "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+  "points": 333,
+  "comments": 86,
+  "author": "sohkamyung",
+  "hn": "https://news.ycombinator.com/item?id=50202285",
+  "url": "https://edjefferson.com/localwiki/",
+  "created_at": "2026-10-22T23:01:18Z",
+  "reported_at": 1792746817
+ },
+ {
+  "id": "50202217",
+  "title": "LLMs are making formal software verification feasible at a much larger scale",
+  "points": 343,
+  "comments": 201,
+  "author": "johnbender",
+  "hn": "https://news.ycombinator.com/item?id=50202217",
+  "url": "https://www.anthropic.com/research/formal-verification",
+  "created_at": "2026-10-22T22:54:43Z",
+  "reported_at": 1792746817
+ },
+ {
   "id": "50202681",
   "title": "Docker is weird",
   "points": 380,
