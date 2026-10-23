@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-23 19:14 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-23 21:08 UTC. Forward only ids not sent before.
+50207910 | 301 pts, 111 comments | Apple Music 404 Not Found | https://news.ycombinator.com/item?id=50207910
 50212065 | 368 pts, 201 comments | Kimi K3.1 Pro and K3.1 Pro Highspeed | https://news.ycombinator.com/item?id=50212065
 50211474 | 474 pts, 304 comments | Today, we hacked what we'd set out to hack: the iPhone | https://news.ycombinator.com/item?id=50211474
 50207405 | 301 pts, 112 comments | Swedish government offices to ban ChatGPT and Claude | https://news.ycombinator.com/item?id=50207405
@@ -11,4 +12,3 @@ HN new 300+ stories, last 12h, updated 2026-10-23 19:14 UTC. Forward only ids no
 50194009 | 309 pts, 285 comments | Xbox wants you to pay 24 to 40 cents per hour to stream games you bought | https://news.ycombinator.com/item?id=50194009
 50202285 | 333 pts, 86 comments | Local Wikipedia: Wikipedia, but only for things a half hour walk from you | https://news.ycombinator.com/item?id=50202285
 50202217 | 343 pts, 201 comments | LLMs are making formal software verification feasible at a much larger scale | https://news.ycombinator.com/item?id=50202217
-50202681 | 380 pts, 189 comments | Docker is weird | https://news.ycombinator.com/item?id=50202681
