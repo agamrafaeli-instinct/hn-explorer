@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-10-23 11:09 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-23 13:19 UTC. Forward only ids not sent before.
 50197404 | 305 pts, 130 comments | Getting ready to operate GNU Taler in Germany | https://news.ycombinator.com/item?id=50197404
 50194009 | 309 pts, 285 comments | Xbox wants you to pay 24 to 40 cents per hour to stream games you bought | https://news.ycombinator.com/item?id=50194009
 50202285 | 333 pts, 86 comments | Local Wikipedia: Wikipedia, but only for things a half hour walk from you | https://news.ycombinator.com/item?id=50202285
