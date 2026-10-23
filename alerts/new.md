@@ -1,4 +1,7 @@
-HN new 300+ stories, last 12h, updated 2026-10-22 23:06 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-23 01:20 UTC. Forward only ids not sent before.
+50201259 | 324 pts, 129 comments | Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions | https://news.ycombinator.com/item?id=50201259
+50196718 | 320 pts, 124 comments | Run full iOS 16.5 firmware on Android Devices | https://news.ycombinator.com/item?id=50196718
+50190455 | 301 pts, 282 comments | The recently proposed o(n log n) integer multiplication algorithm [pdf] | https://news.ycombinator.com/item?id=50190455
 50195543 | 322 pts, 151 comments | What’s getting pwned right now | https://news.ycombinator.com/item?id=50195543
 50194833 | 404 pts, 386 comments | Woman faces six years in prison over Cash App account she never opened | https://news.ycombinator.com/item?id=50194833
 50193416 | 300 pts, 129 comments | Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry. | https://news.ycombinator.com/item?id=50193416
@@ -10,4 +13,3 @@ HN new 300+ stories, last 12h, updated 2026-10-22 23:06 UTC. Forward only ids no
 50192536 | 383 pts, 143 comments | Jailbreaking the Switch 2 | https://news.ycombinator.com/item?id=50192536
 50190363 | 329 pts, 101 comments | WorldTUI: I trained a 360M model to pretend to be a terminal | https://news.ycombinator.com/item?id=50190363
 50180079 | 307 pts, 131 comments | OpenAI models are coming to Google Cloud | https://news.ycombinator.com/item?id=50180079
-50186010 | 320 pts, 191 comments | Rust Style Guide | https://news.ycombinator.com/item?id=50186010

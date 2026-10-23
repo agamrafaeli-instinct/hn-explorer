@@ -1,5 +1,38 @@
 [
  {
+  "id": "50201259",
+  "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+  "points": 324,
+  "comments": 129,
+  "author": "ck2",
+  "hn": "https://news.ycombinator.com/item?id=50201259",
+  "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+  "created_at": "2026-10-22T21:24:41Z",
+  "reported_at": 1792718410
+ },
+ {
+  "id": "50196718",
+  "title": "Run full iOS 16.5 firmware on Android Devices",
+  "points": 320,
+  "comments": 124,
+  "author": "aghuang",
+  "hn": "https://news.ycombinator.com/item?id=50196718",
+  "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+  "created_at": "2026-10-22T15:26:22Z",
+  "reported_at": 1792718410
+ },
+ {
+  "id": "50190455",
+  "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+  "points": 301,
+  "comments": 282,
+  "author": "craigcitro",
+  "hn": "https://news.ycombinator.com/item?id=50190455",
+  "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+  "created_at": "2026-10-22T02:30:52Z",
+  "reported_at": 1792718410
+ },
+ {
   "id": "50195543",
   "title": "What\u2019s getting pwned right now",
   "points": 322,

@@ -1,4 +1,4 @@
-HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
+HN digest 2026-10-23 (UTC): 23 new stories at 300+ points
 - 539 pts, 412 comments: eMudhra to exit global SSL/TLS certificate business https://news.ycombinator.com/item?id=50195110
 - 404 pts, 386 comments: Woman faces six years in prison over Cash App account she never opened https://news.ycombinator.com/item?id=50194833
 - 383 pts, 143 comments: Jailbreaking the Switch 2 https://news.ycombinator.com/item?id=50192536
@@ -7,16 +7,18 @@ HN digest 2026-10-22 (UTC): 21 new stories at 300+ points
 - 344 pts, 186 comments: Security Disclosure https://news.ycombinator.com/item?id=50188228
 - 329 pts, 101 comments: WorldTUI: I trained a 360M model to pretend to be a terminal https://news.ycombinator.com/item?id=50190363
 - 325 pts, 111 comments: CVE-2026-111943: Compromised Intermediate Certificate Authority https://news.ycombinator.com/item?id=50192900
+- 324 pts, 129 comments: Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions https://news.ycombinator.com/item?id=50201259
 - 323 pts, 74 comments: GitLab critical patch release https://news.ycombinator.com/item?id=50185869
 - 322 pts, 151 comments: What’s getting pwned right now https://news.ycombinator.com/item?id=50195543
+- 320 pts, 124 comments: Run full iOS 16.5 firmware on Android Devices https://news.ycombinator.com/item?id=50196718
 - 320 pts, 191 comments: Rust Style Guide https://news.ycombinator.com/item?id=50186010
 - 319 pts, 149 comments: There isn't an easy exploit for this PHP vulnerability https://news.ycombinator.com/item?id=50188948
-- 315 pts, 92 comments: Mistral Large 4 https://news.ycombinator.com/item?id=50186129
 - 310 pts, 97 comments: Quad9 (DNS Resolver) to Exit France https://news.ycombinator.com/item?id=50195959
 - 310 pts, 268 comments: Claude Duet https://news.ycombinator.com/item?id=50186037
 - 308 pts, 219 comments: Google cleared 300 hectares of Finnish forest https://news.ycombinator.com/item?id=50196837
 - 307 pts, 131 comments: OpenAI models are coming to Google Cloud https://news.ycombinator.com/item?id=50180079
 - 305 pts, 186 comments: No more icons in every menu by default https://news.ycombinator.com/item?id=50161346
 - 302 pts, 45 comments: PingCap TiDB Leaks https://news.ycombinator.com/item?id=50173716
+- 301 pts, 282 comments: The recently proposed o(n log n) integer multiplication algorithm [pdf] https://news.ycombinator.com/item?id=50190455
 - 300 pts, 129 comments: Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry. https://news.ycombinator.com/item?id=50193416
 - 300 pts, 243 comments: The Other Epidemic: Trying to get off benzodiazepines https://news.ycombinator.com/item?id=50173891
