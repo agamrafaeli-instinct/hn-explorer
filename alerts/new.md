@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-23 01:20 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-23 03:10 UTC. Forward only ids not sent before.
+50198675 | 319 pts, 165 comments | OpenShell – A safe, private runtime for fleets of autonomous AI agents | https://news.ycombinator.com/item?id=50198675
 50201259 | 324 pts, 129 comments | Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions | https://news.ycombinator.com/item?id=50201259
 50196718 | 320 pts, 124 comments | Run full iOS 16.5 firmware on Android Devices | https://news.ycombinator.com/item?id=50196718
 50190455 | 301 pts, 282 comments | The recently proposed o(n log n) integer multiplication algorithm [pdf] | https://news.ycombinator.com/item?id=50190455
@@ -11,5 +12,3 @@ HN new 300+ stories, last 12h, updated 2026-10-23 01:20 UTC. Forward only ids no
 50195110 | 539 pts, 412 comments | eMudhra to exit global SSL/TLS certificate business | https://news.ycombinator.com/item?id=50195110
 50192900 | 325 pts, 111 comments | CVE-2026-111943: Compromised Intermediate Certificate Authority | https://news.ycombinator.com/item?id=50192900
 50192536 | 383 pts, 143 comments | Jailbreaking the Switch 2 | https://news.ycombinator.com/item?id=50192536
-50190363 | 329 pts, 101 comments | WorldTUI: I trained a 360M model to pretend to be a terminal | https://news.ycombinator.com/item?id=50190363
-50180079 | 307 pts, 131 comments | OpenAI models are coming to Google Cloud | https://news.ycombinator.com/item?id=50180079
