@@ -1,5 +1,16 @@
 [
  {
+  "id": "50202681",
+  "title": "Docker is weird",
+  "points": 380,
+  "comments": 189,
+  "author": "psxuaw",
+  "hn": "https://news.ycombinator.com/item?id=50202681",
+  "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+  "created_at": "2026-10-22T23:45:56Z",
+  "reported_at": 1792740272
+ },
+ {
   "id": "50197313",
   "title": "Every AI model has the same \"controversial\" take on humans",
   "points": 308,
