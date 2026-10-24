@@ -1,0 +1,116 @@
+{
+ "aliases": [
+  {
+   "count": 3515,
+   "text": "chess"
+  },
+  {
+   "count": 3139,
+   "text": "puzzle"
+  },
+  {
+   "count": 988,
+   "text": "tetris"
+  },
+  {
+   "count": 935,
+   "text": "wordle"
+  },
+  {
+   "count": 899,
+   "text": "puzzles"
+  },
+  {
+   "count": 563,
+   "text": "maze"
+  },
+  {
+   "count": 500,
+   "text": "sudoku"
+  },
+  {
+   "count": 453,
+   "text": "rubik"
+  },
+  {
+   "count": 303,
+   "text": "riddle"
+  },
+  {
+   "count": 294,
+   "text": "crossword"
+  },
+  {
+   "count": 291,
+   "text": "minesweeper"
+  },
+  {
+   "count": 83,
+   "text": "riddles"
+  },
+  {
+   "count": 73,
+   "text": "crosswords"
+  },
+  {
+   "count": 19,
+   "text": "rubiks"
+  },
+  {
+   "count": 1,
+   "text": "rubiksolve"
+  }
+ ],
+ "exclusions": [],
+ "label": "puzzles and games of skill",
+ "matches": 12056,
+ "near_misses_total": 341,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\b(puzzles?|riddles?|chess|sudoku|crosswords?|rubik\\w*|maze|wordle|minesweeper|tetris)\\b",
+ "sample_matches": [
+  "Automatic Chess Board Design",
+  "CFOP method for solving a Rubik's cube",
+  "Puzzle: Garbage Collection",
+  "I built a Wordle BUT for songs: Songle",
+  "Tetris Written in TurtleSpaces Logo",
+  "Apple\u2019s New Remote Is A Riddle, Wrapped In A Mystery, Inside An Enigma",
+  "How geometry is fundamental for chess",
+  "Regex crossword",
+  "Erno Rubik: \u2018The Cube has his own voice\u2019",
+  "Computers revolutionized chess \u2013 Magnus Carlsen wins by being human",
+  "What the Study of Chess Experts Teaches Us about Building a Remarkable Life",
+  "C puzzles",
+  "Show HN: Prompt Engineering Chess",
+  "Interesting project: a software that plays Tetris with a webcam",
+  "Can retrocausality solve the puzzle of action-at-a-distance? Essays",
+  "Show HN: WebGL 3d penguin puzzle game",
+  "Moral Puzzles: Man vs. Machine",
+  "\u2018Impossible\u2019 particle discovery adds key piece to the strong force puzzle",
+  "The chess puzzle for every LLM",
+  "A minimax chess engine in regular expressions"
+ ],
+ "sample_near_misses": [
+  "How to Make a Chessboard in Excel",
+  "Stockfish vs. ChessBase for GPLv3 violation: court hearing soon",
+  "SedChess (2013)",
+  "GenChess",
+  "Lichess on scala3 \u2013 help needed (update)",
+  "Chess960 Tournament Featuring Kasparov, Carlsen Starting Today",
+  "Show HN: A simple site to make chessboard images",
+  "I Started Lichess, Ask Me Anything (2021)",
+  "Electronic Chessboard Without Turns [video]",
+  "Show HN: Chess960v2 \u2013 Over 100 Rounds Played (chess960v2.com)",
+  "Lichess end of year update 2021",
+  "WikiChess: Bring it on Deep Blue.",
+  "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+  "ChessBoardJS",
+  "Chennai\u2019s Napier Bridge decked up like a chessboard ahead of Olympiad",
+  "The second half of the chessboard",
+  "Lichess Mobile App Official Release",
+  "Sumochess",
+  "Show HN: Chess960^2 is now open source",
+  "Lichess: Year in Review 2023"
+ ],
+ "schema": 1,
+ "term": "gk_puzzle"
+}
