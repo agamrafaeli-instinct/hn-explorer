@@ -1,6 +1,4 @@
-HN digest 2026-10-24 (UTC): 12 new stories at 300+ points
-- 474 pts, 304 comments: Today, we hacked what we'd set out to hack: the iPhone https://news.ycombinator.com/item?id=50211474
-- 368 pts, 201 comments: Kimi K3.1 Pro and K3.1 Pro Highspeed https://news.ycombinator.com/item?id=50212065
+HN digest 2026-10-24 (UTC): 10 new stories at 300+ points
 - 363 pts, 114 comments: Around a dozen banking apps began specifically permitting GrapheneOS https://news.ycombinator.com/item?id=50217495
 - 356 pts, 116 comments: Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended https://news.ycombinator.com/item?id=50218633
 - 322 pts, 348 comments: Elon Musk Just Gave Europe a Reason to Replace American Technology https://news.ycombinator.com/item?id=50220913

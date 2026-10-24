@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-10-24 19:07 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-24 21:01 UTC. Forward only ids not sent before.
 50220913 | 322 pts, 348 comments | Elon Musk Just Gave Europe a Reason to Replace American Technology | https://news.ycombinator.com/item?id=50220913
 50217500 | 312 pts, 47 comments | Twelve years of distributed SQLite | https://news.ycombinator.com/item?id=50217500
 50218633 | 356 pts, 116 comments | Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended | https://news.ycombinator.com/item?id=50218633
