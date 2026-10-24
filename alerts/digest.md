@@ -1,4 +1,4 @@
-HN digest 2026-10-24 (UTC): 18 new stories at 300+ points
+HN digest 2026-10-24 (UTC): 17 new stories at 300+ points
 - 474 pts, 304 comments: Today, we hacked what we'd set out to hack: the iPhone https://news.ycombinator.com/item?id=50211474
 - 414 pts, 243 comments: Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown https://news.ycombinator.com/item?id=50208558
 - 380 pts, 189 comments: Docker is weird https://news.ycombinator.com/item?id=50202681
@@ -12,7 +12,6 @@ HN digest 2026-10-24 (UTC): 18 new stories at 300+ points
 - 313 pts, 238 comments: Investor-owned utilities charge 23% more for electricity than public providers https://news.ycombinator.com/item?id=50208837
 - 309 pts, 285 comments: Xbox wants you to pay 24 to 40 cents per hour to stream games you bought https://news.ycombinator.com/item?id=50194009
 - 308 pts, 114 comments: Dessa: Conversation Model trained only on speech https://news.ycombinator.com/item?id=50213925
-- 308 pts, 349 comments: Every AI model has the same "controversial" take on humans https://news.ycombinator.com/item?id=50197313
 - 305 pts, 130 comments: Getting ready to operate GNU Taler in Germany https://news.ycombinator.com/item?id=50197404
 - 301 pts, 159 comments: Now Google says it might use your Gmail and Google Photos data to target ads https://news.ycombinator.com/item?id=50214218
 - 301 pts, 111 comments: Apple Music 404 Not Found https://news.ycombinator.com/item?id=50207910
