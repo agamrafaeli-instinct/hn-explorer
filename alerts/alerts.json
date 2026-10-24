@@ -1,5 +1,27 @@
 [
  {
+  "id": "50220913",
+  "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+  "points": 322,
+  "comments": 348,
+  "author": "sblank",
+  "hn": "https://news.ycombinator.com/item?id=50220913",
+  "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+  "created_at": "2026-10-24T13:09:28Z",
+  "reported_at": 1792861513
+ },
+ {
+  "id": "50217500",
+  "title": "Twelve years of distributed SQLite",
+  "points": 312,
+  "comments": 47,
+  "author": "otoolep",
+  "hn": "https://news.ycombinator.com/item?id=50217500",
+  "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+  "created_at": "2026-10-24T01:16:58Z",
+  "reported_at": 1792861513
+ },
+ {
   "id": "50218633",
   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
   "points": 356,
