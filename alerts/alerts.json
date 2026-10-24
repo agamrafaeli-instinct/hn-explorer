@@ -1,5 +1,38 @@
 [
  {
+  "id": "50218633",
+  "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+  "points": 356,
+  "comments": 116,
+  "author": "testing22321",
+  "hn": "https://news.ycombinator.com/item?id=50218633",
+  "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+  "created_at": "2026-10-24T05:49:57Z",
+  "reported_at": 1792854238
+ },
+ {
+  "id": "50218430",
+  "title": "OBS Studio 33",
+  "points": 309,
+  "comments": 94,
+  "author": "pentagrama",
+  "hn": "https://news.ycombinator.com/item?id=50218430",
+  "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+  "created_at": "2026-10-24T04:49:58Z",
+  "reported_at": 1792854238
+ },
+ {
+  "id": "50217495",
+  "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+  "points": 363,
+  "comments": 114,
+  "author": "privacyishuman",
+  "hn": "https://news.ycombinator.com/item?id=50217495",
+  "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+  "created_at": "2026-10-24T01:15:14Z",
+  "reported_at": 1792854238
+ },
+ {
   "id": "50206914",
   "title": "Dutch government had hacked into Jared Kushner's phone",
   "points": 303,
