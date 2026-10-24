@@ -1,4 +1,4 @@
-HN digest 2026-10-24 (UTC): 14 new stories at 300+ points
+HN digest 2026-10-24 (UTC): 13 new stories at 300+ points
 - 474 pts, 304 comments: Today, we hacked what we'd set out to hack: the iPhone https://news.ycombinator.com/item?id=50211474
 - 414 pts, 243 comments: Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown https://news.ycombinator.com/item?id=50208558
 - 368 pts, 201 comments: Kimi K3.1 Pro and K3.1 Pro Highspeed https://news.ycombinator.com/item?id=50212065
@@ -7,9 +7,8 @@ HN digest 2026-10-24 (UTC): 14 new stories at 300+ points
 - 321 pts, 348 comments: Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies? https://news.ycombinator.com/item?id=50200997
 - 313 pts, 211 comments: The foolishness of "natural language programming" (1978) https://news.ycombinator.com/item?id=50203161
 - 313 pts, 238 comments: Investor-owned utilities charge 23% more for electricity than public providers https://news.ycombinator.com/item?id=50208837
-- 309 pts, 285 comments: Xbox wants you to pay 24 to 40 cents per hour to stream games you bought https://news.ycombinator.com/item?id=50194009
 - 308 pts, 114 comments: Dessa: Conversation Model trained only on speech https://news.ycombinator.com/item?id=50213925
-- 305 pts, 130 comments: Getting ready to operate GNU Taler in Germany https://news.ycombinator.com/item?id=50197404
+- 303 pts, 193 comments: Dutch government had hacked into Jared Kushner's phone https://news.ycombinator.com/item?id=50206914
 - 301 pts, 159 comments: Now Google says it might use your Gmail and Google Photos data to target ads https://news.ycombinator.com/item?id=50214218
 - 301 pts, 111 comments: Apple Music 404 Not Found https://news.ycombinator.com/item?id=50207910
 - 301 pts, 112 comments: Swedish government offices to ban ChatGPT and Claude https://news.ycombinator.com/item?id=50207405
