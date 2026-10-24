@@ -8,10 +8,10 @@ HN digest 2026-10-24 (UTC): 18 new stories at 300+ points
 - 333 pts, 86 comments: Local Wikipedia: Wikipedia, but only for things a half hour walk from you https://news.ycombinator.com/item?id=50202285
 - 321 pts, 164 comments: Canadians are running out of time to oppose Bill C-22 https://news.ycombinator.com/item?id=50202114
 - 321 pts, 348 comments: Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies? https://news.ycombinator.com/item?id=50200997
-- 319 pts, 165 comments: OpenShell – A safe, private runtime for fleets of autonomous AI agents https://news.ycombinator.com/item?id=50198675
 - 313 pts, 211 comments: The foolishness of "natural language programming" (1978) https://news.ycombinator.com/item?id=50203161
 - 313 pts, 238 comments: Investor-owned utilities charge 23% more for electricity than public providers https://news.ycombinator.com/item?id=50208837
 - 309 pts, 285 comments: Xbox wants you to pay 24 to 40 cents per hour to stream games you bought https://news.ycombinator.com/item?id=50194009
+- 308 pts, 114 comments: Dessa: Conversation Model trained only on speech https://news.ycombinator.com/item?id=50213925
 - 308 pts, 349 comments: Every AI model has the same "controversial" take on humans https://news.ycombinator.com/item?id=50197313
 - 305 pts, 130 comments: Getting ready to operate GNU Taler in Germany https://news.ycombinator.com/item?id=50197404
 - 301 pts, 159 comments: Now Google says it might use your Gmail and Google Photos data to target ads https://news.ycombinator.com/item?id=50214218
