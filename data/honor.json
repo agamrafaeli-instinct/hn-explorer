@@ -1046,7 +1046,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -1057,39 +1057,43 @@
    "group_a_count": 8522.0,
    "id": "h369",
    "replaced_by": "h378",
-   "score": 0.8,
+   "score": 0.667,
    "title": "LLM, RAG and fine-tuning: a bigger share than before"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 114563.0,
    "id": "h370",
-   "score": 1.0,
+   "score": 0.833,
    "title": "SQLite and DuckDB stories beat MongoDB and MySQL stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 636.0,
    "id": "h371",
-   "score": 1.0,
+   "score": 0.833,
    "title": "TypeScript takes a bigger slice of all HN stories"
   },
   {
@@ -2103,6 +2107,22 @@
    "id": "h434",
    "score": 1.0,
    "title": "Next.js, Svelte, Vue, htmx and Tailwind: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 1166.0,
+   "id": "h435",
+   "score": 1.0,
+   "title": "puzzles and games of skill: a bigger share than before"
   }
  ],
  "schema": 1,
