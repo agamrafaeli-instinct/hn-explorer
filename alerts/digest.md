@@ -1,4 +1,5 @@
 HN digest 2026-10-24 (UTC): 10 new stories at 300+ points
+- 406 pts, 374 comments: No signs of AI payoff outside the tech sector https://news.ycombinator.com/item?id=50224463
 - 363 pts, 114 comments: Around a dozen banking apps began specifically permitting GrapheneOS https://news.ycombinator.com/item?id=50217495
 - 356 pts, 116 comments: Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended https://news.ycombinator.com/item?id=50218633
 - 322 pts, 348 comments: Elon Musk Just Gave Europe a Reason to Replace American Technology https://news.ycombinator.com/item?id=50220913
@@ -8,4 +9,3 @@ HN digest 2026-10-24 (UTC): 10 new stories at 300+ points
 - 308 pts, 114 comments: Dessa: Conversation Model trained only on speech https://news.ycombinator.com/item?id=50213925
 - 303 pts, 193 comments: Dutch government had hacked into Jared Kushner's phone https://news.ycombinator.com/item?id=50206914
 - 301 pts, 159 comments: Now Google says it might use your Gmail and Google Photos data to target ads https://news.ycombinator.com/item?id=50214218
-- 301 pts, 111 comments: Apple Music 404 Not Found https://news.ycombinator.com/item?id=50207910
