@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-23 23:05 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-24 01:22 UTC. Forward only ids not sent before.
+50202114 | 321 pts, 164 comments | Canadians are running out of time to oppose Bill C-22 | https://news.ycombinator.com/item?id=50202114
 50207910 | 301 pts, 111 comments | Apple Music 404 Not Found | https://news.ycombinator.com/item?id=50207910
 50212065 | 368 pts, 201 comments | Kimi K3.1 Pro and K3.1 Pro Highspeed | https://news.ycombinator.com/item?id=50212065
 50211474 | 474 pts, 304 comments | Today, we hacked what we'd set out to hack: the iPhone | https://news.ycombinator.com/item?id=50211474
@@ -8,5 +9,3 @@ HN new 300+ stories, last 12h, updated 2026-10-23 23:05 UTC. Forward only ids no
 50208837 | 313 pts, 238 comments | Investor-owned utilities charge 23% more for electricity than public providers | https://news.ycombinator.com/item?id=50208837
 50208558 | 414 pts, 243 comments | Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown | https://news.ycombinator.com/item?id=50208558
 50200997 | 321 pts, 348 comments | Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies? | https://news.ycombinator.com/item?id=50200997
-50197404 | 305 pts, 130 comments | Getting ready to operate GNU Taler in Germany | https://news.ycombinator.com/item?id=50197404
-50194009 | 309 pts, 285 comments | Xbox wants you to pay 24 to 40 cents per hour to stream games you bought | https://news.ycombinator.com/item?id=50194009
