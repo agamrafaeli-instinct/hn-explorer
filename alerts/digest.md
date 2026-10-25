@@ -1,11 +1,13 @@
-HN digest 2026-10-25 (UTC): 10 new stories at 300+ points
+HN digest 2026-10-25 (UTC): 12 new stories at 300+ points
 - 406 pts, 374 comments: No signs of AI payoff outside the tech sector https://news.ycombinator.com/item?id=50224463
 - 389 pts, 233 comments: Show HN: Steal My Bitcoin https://news.ycombinator.com/item?id=50224916
 - 363 pts, 114 comments: Around a dozen banking apps began specifically permitting GrapheneOS https://news.ycombinator.com/item?id=50217495
 - 356 pts, 116 comments: Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended https://news.ycombinator.com/item?id=50218633
+- 329 pts, 288 comments: We should be more ambitious with the software we build https://news.ycombinator.com/item?id=50225695
 - 322 pts, 348 comments: Elon Musk Just Gave Europe a Reason to Replace American Technology https://news.ycombinator.com/item?id=50220913
 - 312 pts, 47 comments: Twelve years of distributed SQLite https://news.ycombinator.com/item?id=50217500
+- 310 pts, 307 comments: America has lost 200k of jobs in media, film and the arts. How much is AI? https://news.ycombinator.com/item?id=50226419
 - 309 pts, 94 comments: OBS Studio 33 https://news.ycombinator.com/item?id=50218430
-- 308 pts, 114 comments: Dessa: Conversation Model trained only on speech https://news.ycombinator.com/item?id=50213925
 - 306 pts, 191 comments: The Goose Programming Language https://news.ycombinator.com/item?id=50224100
 - 303 pts, 193 comments: Dutch government had hacked into Jared Kushner's phone https://news.ycombinator.com/item?id=50206914
+- 302 pts, 239 comments: I don't understand quantum physics (2018) https://news.ycombinator.com/item?id=50219666
