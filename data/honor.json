@@ -1099,55 +1099,61 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 15501.0,
    "id": "h372",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Agents take a bigger slice of all HN stories"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 2009.0,
    "id": "h373",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Postgres, SQLite and DuckDB take a bigger slice of all HN stories"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 3017.0,
    "id": "h374",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Microservices and serverless stories now score below the average story"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1163,55 +1169,61 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 809.0,
    "id": "h376",
-   "score": 1.0,
+   "score": 0.833,
    "title": "React stories are a smaller part of JavaScript stories than before"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 65669.0,
    "id": "h377",
-   "score": 1.0,
+   "score": 0.833,
    "title": "TypeScript stories earn more points than JavaScript stories"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 226280.0,
    "id": "h378",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Language-model stories earn more points than the average story"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1227,103 +1239,115 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 161255.0,
    "id": "h380",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Agents stories vs ChatGPT and GPT models stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 369154.0,
    "id": "h381",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Postgres, SQLite and DuckDB stories vs MongoDB and MySQL stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 99616.0,
    "id": "h382",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Microservices and serverless stories vs Java, PHP, Ruby, Rails and JavaScript stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 90751.0,
    "id": "h383",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Next.js, Svelte, Vue, htmx and Tailwind stories vs Rust, Zig and C++ stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 285320.0,
    "id": "h384",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Docker, Kubernetes and Terraform stories vs Rust, Zig and C++ stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 1007228.0,
    "id": "h385",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Java, PHP, Ruby, Rails and JavaScript stories vs Git, Linux, Neovim, Nix and VS Code stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1339,23 +1363,25 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 1093027.0,
    "id": "h387",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Git, Linux, Neovim, Nix and VS Code stories vs code review and technical debt stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1371,7 +1397,7 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1387,39 +1413,43 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 226280.0,
    "id": "h390",
-   "score": 1.0,
+   "score": 0.833,
    "title": "LLM, RAG and fine-tuning stories vs agents stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 136942.0,
    "id": "h391",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Go stories vs Python stories on points"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1435,7 +1465,7 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1451,55 +1481,61 @@
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 168736.0,
    "id": "h394",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Java stories vs Python stories on points"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 70449.0,
    "id": "h395",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Data centers and grid stories vs GPU and chip hardware stories on points"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 70449.0,
    "id": "h396",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Data centers and grid stories vs aerospace stories on points"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1515,23 +1551,25 @@
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 327904.0,
    "id": "h398",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Neural biology stories vs physical robotics stories on points"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1547,7 +1585,7 @@
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1563,23 +1601,25 @@
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 202299.0,
    "id": "h401",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Physical robotics stories vs GPU and chip hardware stories on points"
   },
   {
    "audience": "deep-tech investors",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1595,7 +1635,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1611,7 +1651,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1627,7 +1667,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1643,7 +1683,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1659,7 +1699,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1675,7 +1715,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1691,7 +1731,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1707,23 +1747,25 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 3879563.0,
    "id": "h410",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Question headlines stories vs Show HN posts stories on comments"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1739,7 +1781,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1755,7 +1797,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1771,23 +1813,25 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 1045228.0,
    "id": "h414",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Science words stories vs history words stories on points"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1803,7 +1847,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1819,7 +1863,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": true,
     "insightful": true,
     "interesting": true,
     "novel": true,
@@ -1835,33 +1879,37 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 2611807.0,
    "id": "h418",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Show HN posts stories vs hands-on making stories on points"
   },
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 239349.0,
    "id": "h419",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Business-software words stories vs Show HN posts stories on points"
   },
   {
@@ -2123,6 +2171,22 @@
    "id": "h435",
    "score": 1.0,
    "title": "puzzles and games of skill: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 23391.0,
+   "id": "h436",
+   "score": 1.0,
+   "title": "question headlines: a bigger share than before"
   }
  ],
  "schema": 1,
