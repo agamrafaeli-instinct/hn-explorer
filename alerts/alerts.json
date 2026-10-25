@@ -1,5 +1,16 @@
 [
  {
+  "id": "50219700",
+  "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+  "points": 312,
+  "comments": 74,
+  "author": "fragebogen",
+  "hn": "https://news.ycombinator.com/item?id=50219700",
+  "url": "https://github.com/Zagitta/gpu-unlock",
+  "created_at": "2026-10-24T09:58:27Z",
+  "reported_at": 1792947961
+ },
+ {
   "id": "50229587",
   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
   "points": 345,
