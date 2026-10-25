@@ -1,11 +1,13 @@
-HN digest 2026-10-25 (UTC): 13 new stories at 300+ points
+HN digest 2026-10-25 (UTC): 15 new stories at 300+ points
 - 406 pts, 374 comments: No signs of AI payoff outside the tech sector https://news.ycombinator.com/item?id=50224463
 - 389 pts, 233 comments: Show HN: Steal My Bitcoin https://news.ycombinator.com/item?id=50224916
 - 363 pts, 114 comments: Around a dozen banking apps began specifically permitting GrapheneOS https://news.ycombinator.com/item?id=50217495
 - 356 pts, 116 comments: Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended https://news.ycombinator.com/item?id=50218633
+- 345 pts, 212 comments: Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism https://news.ycombinator.com/item?id=50229587
 - 329 pts, 288 comments: We should be more ambitious with the software we build https://news.ycombinator.com/item?id=50225695
 - 322 pts, 348 comments: Elon Musk Just Gave Europe a Reason to Replace American Technology https://news.ycombinator.com/item?id=50220913
 - 312 pts, 47 comments: Twelve years of distributed SQLite https://news.ycombinator.com/item?id=50217500
+- 311 pts, 83 comments: FreeDNS https://news.ycombinator.com/item?id=50222133
 - 310 pts, 152 comments: Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps https://news.ycombinator.com/item?id=50219177
 - 310 pts, 307 comments: America has lost 200k of jobs in media, film and the arts. How much is AI? https://news.ycombinator.com/item?id=50226419
 - 309 pts, 94 comments: OBS Studio 33 https://news.ycombinator.com/item?id=50218430

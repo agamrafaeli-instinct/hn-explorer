@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-25 11:04 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-25 13:14 UTC. Forward only ids not sent before.
+50229587 | 345 pts, 212 comments | Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism | https://news.ycombinator.com/item?id=50229587
+50222133 | 311 pts, 83 comments | FreeDNS | https://news.ycombinator.com/item?id=50222133
 50219177 | 310 pts, 152 comments | Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps | https://news.ycombinator.com/item?id=50219177
 50226419 | 310 pts, 307 comments | America has lost 200k of jobs in media, film and the arts. How much is AI? | https://news.ycombinator.com/item?id=50226419
 50225695 | 329 pts, 288 comments | We should be more ambitious with the software we build | https://news.ycombinator.com/item?id=50225695

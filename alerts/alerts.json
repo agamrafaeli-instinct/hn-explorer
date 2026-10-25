@@ -1,5 +1,27 @@
 [
  {
+  "id": "50229587",
+  "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+  "points": 345,
+  "comments": 212,
+  "author": "vrganj",
+  "hn": "https://news.ycombinator.com/item?id=50229587",
+  "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+  "created_at": "2026-10-25T09:00:40Z",
+  "reported_at": 1792934087
+ },
+ {
+  "id": "50222133",
+  "title": "FreeDNS",
+  "points": 311,
+  "comments": 83,
+  "author": "esher",
+  "hn": "https://news.ycombinator.com/item?id=50222133",
+  "url": "https://freedns.afraid.org/",
+  "created_at": "2026-10-24T15:20:01Z",
+  "reported_at": 1792934087
+ },
+ {
   "id": "50219177",
   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
   "points": 310,
