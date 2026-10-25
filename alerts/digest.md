@@ -1,10 +1,9 @@
-HN digest 2026-10-25 (UTC): 11 new stories at 300+ points
+HN digest 2026-10-25 (UTC): 10 new stories at 300+ points
 - 406 pts, 374 comments: No signs of AI payoff outside the tech sector https://news.ycombinator.com/item?id=50224463
 - 389 pts, 233 comments: Show HN: Steal My Bitcoin https://news.ycombinator.com/item?id=50224916
 - 363 pts, 114 comments: Around a dozen banking apps began specifically permitting GrapheneOS https://news.ycombinator.com/item?id=50217495
 - 356 pts, 116 comments: Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended https://news.ycombinator.com/item?id=50218633
 - 322 pts, 348 comments: Elon Musk Just Gave Europe a Reason to Replace American Technology https://news.ycombinator.com/item?id=50220913
-- 321 pts, 164 comments: Canadians are running out of time to oppose Bill C-22 https://news.ycombinator.com/item?id=50202114
 - 312 pts, 47 comments: Twelve years of distributed SQLite https://news.ycombinator.com/item?id=50217500
 - 309 pts, 94 comments: OBS Studio 33 https://news.ycombinator.com/item?id=50218430
 - 308 pts, 114 comments: Dessa: Conversation Model trained only on speech https://news.ycombinator.com/item?id=50213925
