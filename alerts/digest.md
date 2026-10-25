@@ -7,5 +7,5 @@ HN digest 2026-10-25 (UTC): 10 new stories at 300+ points
 - 312 pts, 47 comments: Twelve years of distributed SQLite https://news.ycombinator.com/item?id=50217500
 - 309 pts, 94 comments: OBS Studio 33 https://news.ycombinator.com/item?id=50218430
 - 308 pts, 114 comments: Dessa: Conversation Model trained only on speech https://news.ycombinator.com/item?id=50213925
+- 306 pts, 191 comments: The Goose Programming Language https://news.ycombinator.com/item?id=50224100
 - 303 pts, 193 comments: Dutch government had hacked into Jared Kushner's phone https://news.ycombinator.com/item?id=50206914
-- 301 pts, 159 comments: Now Google says it might use your Gmail and Google Photos data to target ads https://news.ycombinator.com/item?id=50214218
