@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-25 17:06 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-25 19:08 UTC. Forward only ids not sent before.
+50227356 | 322 pts, 114 comments | Cerebras Deploys Trillion-Parameter AI Models | https://news.ycombinator.com/item?id=50227356
+50222622 | 300 pts, 210 comments | Roku developer repositories moved from GitHub to GitLab | https://news.ycombinator.com/item?id=50222622
 50219700 | 312 pts, 74 comments | GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards | https://news.ycombinator.com/item?id=50219700
 50229587 | 345 pts, 212 comments | Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism | https://news.ycombinator.com/item?id=50229587
 50222133 | 311 pts, 83 comments | FreeDNS | https://news.ycombinator.com/item?id=50222133
@@ -6,4 +8,3 @@ HN new 300+ stories, last 12h, updated 2026-10-25 17:06 UTC. Forward only ids no
 50226419 | 310 pts, 307 comments | America has lost 200k of jobs in media, film and the arts. How much is AI? | https://news.ycombinator.com/item?id=50226419
 50225695 | 329 pts, 288 comments | We should be more ambitious with the software we build | https://news.ycombinator.com/item?id=50225695
 50219666 | 302 pts, 239 comments | I don't understand quantum physics (2018) | https://news.ycombinator.com/item?id=50219666
-50224100 | 306 pts, 191 comments | The Goose Programming Language | https://news.ycombinator.com/item?id=50224100
