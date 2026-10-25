@@ -1,5 +1,16 @@
 [
  {
+  "id": "50219177",
+  "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+  "points": 310,
+  "comments": 152,
+  "author": "theanonymousone",
+  "hn": "https://news.ycombinator.com/item?id=50219177",
+  "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+  "created_at": "2026-10-24T08:06:39Z",
+  "reported_at": 1792919195
+ },
+ {
   "id": "50226419",
   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
   "points": 310,
