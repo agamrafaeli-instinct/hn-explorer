@@ -1,0 +1,39 @@
+{
+ "aliases": [
+  {
+   "count": 450569,
+   "text": "?"
+  }
+ ],
+ "exclusions": [],
+ "label": "question headlines",
+ "matches": 450569,
+ "near_misses_total": 0,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\?",
+ "sample_matches": [
+  "V4 Create React and Redux app structure with build configurations. What\u2019s new?",
+  "Ask HN: How do you handle \"what did user X do yesterday\" from customer support?",
+  "What tech stack to use?",
+  "Why are data warehouses important?",
+  "Do Men Suck At Friendship?",
+  "Ask HN: Is the USA collapsing due to its debt, racial and political shitshow?",
+  "Ask HN: High quality videos similar to 3blue1brown but for programming?",
+  "Is Venture Capital Worth the Risk?",
+  "When did optimism become uncool?",
+  "Ask HN: How to restart with a new email address?",
+  "Is off-grid a viable option for everyday people?",
+  "Best Hosting Service for new developer?",
+  "Who can I hire to hack me?",
+  "Want to Help Reddit Build a Recommender?",
+  "Ask HN: Do you know a less distracting Slack alternative?",
+  "Ask HN: How to Contact YouTube?",
+  "Ask PG: Can We Have An Honest Discussion Around Abusive Flagging On HN?",
+  "Next big thing - reverse deal of the day?",
+  "Why OpenGL ES is so hard?",
+  "Ask HN: How to pivot our Tech abilities to help citizen against pandemics?"
+ ],
+ "sample_near_misses": [],
+ "schema": 1,
+ "term": "cu_questions"
+}
