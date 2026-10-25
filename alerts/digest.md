@@ -1,4 +1,4 @@
-HN digest 2026-10-25 (UTC): 15 new stories at 300+ points
+HN digest 2026-10-25 (UTC): 14 new stories at 300+ points
 - 406 pts, 374 comments: No signs of AI payoff outside the tech sector https://news.ycombinator.com/item?id=50224463
 - 389 pts, 233 comments: Show HN: Steal My Bitcoin https://news.ycombinator.com/item?id=50224916
 - 363 pts, 114 comments: Around a dozen banking apps began specifically permitting GrapheneOS https://news.ycombinator.com/item?id=50217495
@@ -12,5 +12,4 @@ HN digest 2026-10-25 (UTC): 15 new stories at 300+ points
 - 310 pts, 307 comments: America has lost 200k of jobs in media, film and the arts. How much is AI? https://news.ycombinator.com/item?id=50226419
 - 309 pts, 94 comments: OBS Studio 33 https://news.ycombinator.com/item?id=50218430
 - 306 pts, 191 comments: The Goose Programming Language https://news.ycombinator.com/item?id=50224100
-- 303 pts, 193 comments: Dutch government had hacked into Jared Kushner's phone https://news.ycombinator.com/item?id=50206914
 - 302 pts, 239 comments: I don't understand quantum physics (2018) https://news.ycombinator.com/item?id=50219666

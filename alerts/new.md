@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-10-25 13:14 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-25 15:03 UTC. Forward only ids not sent before.
 50229587 | 345 pts, 212 comments | Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism | https://news.ycombinator.com/item?id=50229587
 50222133 | 311 pts, 83 comments | FreeDNS | https://news.ycombinator.com/item?id=50222133
 50219177 | 310 pts, 152 comments | Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps | https://news.ycombinator.com/item?id=50219177
@@ -6,4 +6,3 @@ HN new 300+ stories, last 12h, updated 2026-10-25 13:14 UTC. Forward only ids no
 50225695 | 329 pts, 288 comments | We should be more ambitious with the software we build | https://news.ycombinator.com/item?id=50225695
 50219666 | 302 pts, 239 comments | I don't understand quantum physics (2018) | https://news.ycombinator.com/item?id=50219666
 50224100 | 306 pts, 191 comments | The Goose Programming Language | https://news.ycombinator.com/item?id=50224100
-50224916 | 389 pts, 233 comments | Show HN: Steal My Bitcoin | https://news.ycombinator.com/item?id=50224916
