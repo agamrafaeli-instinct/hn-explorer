@@ -1,5 +1,27 @@
 [
  {
+  "id": "50245524",
+  "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+  "points": 472,
+  "comments": 418,
+  "author": "doctorzook",
+  "hn": "https://news.ycombinator.com/item?id=50245524",
+  "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+  "created_at": "2026-10-26T15:35:12Z",
+  "reported_at": 1793042597
+ },
+ {
+  "id": "50245138",
+  "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+  "points": 364,
+  "comments": 52,
+  "author": "sgiannopoulos",
+  "hn": "https://news.ycombinator.com/item?id=50245138",
+  "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+  "created_at": "2026-10-26T15:11:59Z",
+  "reported_at": 1793042597
+ },
+ {
   "id": "50235017",
   "title": "Why I Am a Programmer",
   "points": 304,

@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-26 17:22 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-26 19:23 UTC. Forward only ids not sent before.
+50245524 | 472 pts, 418 comments | Microsoft offers mass buyouts for roughly a quarter of its workforce | https://news.ycombinator.com/item?id=50245524
+50245138 | 364 pts, 52 comments | Sebastian Raschka's from-scratch video course on building reasoning models | https://news.ycombinator.com/item?id=50245138
 50235017 | 304 pts, 95 comments | Why I Am a Programmer | https://news.ycombinator.com/item?id=50235017
 50215997 | 375 pts, 152 comments | Birdwatching rewires the brain and slows cognitive decline | https://news.ycombinator.com/item?id=50215997
 50242939 | 579 pts, 527 comments | Anthropic S-1 | https://news.ycombinator.com/item?id=50242939
