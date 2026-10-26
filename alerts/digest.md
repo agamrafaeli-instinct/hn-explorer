@@ -1,6 +1,7 @@
-HN digest 2026-10-26 (UTC): 14 new stories at 300+ points
+HN digest 2026-10-26 (UTC): 16 new stories at 300+ points
 - 579 pts, 527 comments: Anthropic S-1 https://news.ycombinator.com/item?id=50242939
 - 379 pts, 363 comments: Lula wins election after final votes tallied https://news.ycombinator.com/item?id=50237485
+- 375 pts, 152 comments: Birdwatching rewires the brain and slows cognitive decline https://news.ycombinator.com/item?id=50215997
 - 372 pts, 281 comments: IBM CEO says open weight models are now good and cheap on-prem https://news.ycombinator.com/item?id=50238088
 - 369 pts, 66 comments: Dolly Parton's Imagination Library https://news.ycombinator.com/item?id=50234474
 - 356 pts, 179 comments: A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis https://news.ycombinator.com/item?id=50233779
@@ -12,4 +13,5 @@ HN digest 2026-10-26 (UTC): 14 new stories at 300+ points
 - 312 pts, 74 comments: GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards https://news.ycombinator.com/item?id=50219700
 - 311 pts, 171 comments: Serbia's Vucic concedes election defeat in historic win for student movement https://news.ycombinator.com/item?id=50236081
 - 307 pts, 298 comments: OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? https://news.ycombinator.com/item?id=50236102
+- 304 pts, 95 comments: Why I Am a Programmer https://news.ycombinator.com/item?id=50235017
 - 300 pts, 210 comments: Roku developer repositories moved from GitHub to GitLab https://news.ycombinator.com/item?id=50222622

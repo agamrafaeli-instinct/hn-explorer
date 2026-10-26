@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-26 15:04 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-26 17:22 UTC. Forward only ids not sent before.
+50235017 | 304 pts, 95 comments | Why I Am a Programmer | https://news.ycombinator.com/item?id=50235017
+50215997 | 375 pts, 152 comments | Birdwatching rewires the brain and slows cognitive decline | https://news.ycombinator.com/item?id=50215997
 50242939 | 579 pts, 527 comments | Anthropic S-1 | https://news.ycombinator.com/item?id=50242939
 50240922 | 336 pts, 154 comments | Switzerland. Block by block. At 1:1 scale | https://news.ycombinator.com/item?id=50240922
 50238708 | 324 pts, 61 comments | Show HN: TitleArt – Make text like it's 1997 | https://news.ycombinator.com/item?id=50238708

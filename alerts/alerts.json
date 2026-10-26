@@ -1,5 +1,27 @@
 [
  {
+  "id": "50235017",
+  "title": "Why I Am a Programmer",
+  "points": 304,
+  "comments": 95,
+  "author": "jruohonen",
+  "hn": "https://news.ycombinator.com/item?id=50235017",
+  "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+  "created_at": "2026-10-25T19:11:31Z",
+  "reported_at": 1793035347
+ },
+ {
+  "id": "50215997",
+  "title": "Birdwatching rewires the brain and slows cognitive decline",
+  "points": 375,
+  "comments": 152,
+  "author": "cisc",
+  "hn": "https://news.ycombinator.com/item?id=50215997",
+  "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+  "created_at": "2026-10-23T22:04:55Z",
+  "reported_at": 1793035347
+ },
+ {
   "id": "50242939",
   "title": "Anthropic S-1",
   "points": 579,
