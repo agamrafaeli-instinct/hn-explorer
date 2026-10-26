@@ -1,12 +1,15 @@
-HN digest 2026-10-26 (UTC): 11 new stories at 300+ points
+HN digest 2026-10-26 (UTC): 14 new stories at 300+ points
+- 579 pts, 527 comments: Anthropic S-1 https://news.ycombinator.com/item?id=50242939
 - 379 pts, 363 comments: Lula wins election after final votes tallied https://news.ycombinator.com/item?id=50237485
+- 372 pts, 281 comments: IBM CEO says open weight models are now good and cheap on-prem https://news.ycombinator.com/item?id=50238088
 - 369 pts, 66 comments: Dolly Parton's Imagination Library https://news.ycombinator.com/item?id=50234474
 - 356 pts, 179 comments: A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis https://news.ycombinator.com/item?id=50233779
-- 345 pts, 212 comments: Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism https://news.ycombinator.com/item?id=50229587
 - 339 pts, 170 comments: I refuse to accept a censored Internet. Join Me at FOSDEM 27 https://news.ycombinator.com/item?id=50233929
+- 336 pts, 154 comments: Switzerland. Block by block. At 1:1 scale https://news.ycombinator.com/item?id=50240922
+- 324 pts, 61 comments: Show HN: TitleArt – Make text like it's 1997 https://news.ycombinator.com/item?id=50238708
 - 322 pts, 114 comments: Cerebras Deploys Trillion-Parameter AI Models https://news.ycombinator.com/item?id=50227356
 - 318 pts, 81 comments: Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop https://news.ycombinator.com/item?id=50234232
 - 312 pts, 74 comments: GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards https://news.ycombinator.com/item?id=50219700
-- 311 pts, 83 comments: FreeDNS https://news.ycombinator.com/item?id=50222133
+- 311 pts, 171 comments: Serbia's Vucic concedes election defeat in historic win for student movement https://news.ycombinator.com/item?id=50236081
 - 307 pts, 298 comments: OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? https://news.ycombinator.com/item?id=50236102
 - 300 pts, 210 comments: Roku developer repositories moved from GitHub to GitLab https://news.ycombinator.com/item?id=50222622
