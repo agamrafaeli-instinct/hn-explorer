@@ -1,5 +1,27 @@
 [
  {
+  "id": "50248124",
+  "title": "GPT-6.1 Terra",
+  "points": 362,
+  "comments": 212,
+  "author": "meetpateltech",
+  "hn": "https://news.ycombinator.com/item?id=50248124",
+  "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+  "created_at": "2026-10-26T18:01:17Z",
+  "reported_at": 1793049040
+ },
+ {
+  "id": "50245831",
+  "title": "CSS-Tricks has a new owner",
+  "points": 306,
+  "comments": 67,
+  "author": "edent",
+  "hn": "https://news.ycombinator.com/item?id=50245831",
+  "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+  "created_at": "2026-10-26T15:51:23Z",
+  "reported_at": 1793049040
+ },
+ {
   "id": "50245524",
   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
   "points": 472,
