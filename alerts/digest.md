@@ -1,6 +1,6 @@
-HN digest 2026-10-25 (UTC): 15 new stories at 300+ points
-- 406 pts, 374 comments: No signs of AI payoff outside the tech sector https://news.ycombinator.com/item?id=50224463
+HN digest 2026-10-26 (UTC): 15 new stories at 300+ points
 - 389 pts, 233 comments: Show HN: Steal My Bitcoin https://news.ycombinator.com/item?id=50224916
+- 369 pts, 66 comments: Dolly Parton's Imagination Library https://news.ycombinator.com/item?id=50234474
 - 356 pts, 179 comments: A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis https://news.ycombinator.com/item?id=50233779
 - 345 pts, 212 comments: Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism https://news.ycombinator.com/item?id=50229587
 - 339 pts, 170 comments: I refuse to accept a censored Internet. Join Me at FOSDEM 27 https://news.ycombinator.com/item?id=50233929
