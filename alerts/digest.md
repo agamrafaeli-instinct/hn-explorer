@@ -1,4 +1,5 @@
 HN digest 2026-10-26 (UTC): 14 new stories at 300+ points
+- 379 pts, 363 comments: Lula wins election after final votes tallied https://news.ycombinator.com/item?id=50237485
 - 369 pts, 66 comments: Dolly Parton's Imagination Library https://news.ycombinator.com/item?id=50234474
 - 356 pts, 179 comments: A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis https://news.ycombinator.com/item?id=50233779
 - 345 pts, 212 comments: Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism https://news.ycombinator.com/item?id=50229587
@@ -10,6 +11,5 @@ HN digest 2026-10-26 (UTC): 14 new stories at 300+ points
 - 311 pts, 83 comments: FreeDNS https://news.ycombinator.com/item?id=50222133
 - 310 pts, 152 comments: Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps https://news.ycombinator.com/item?id=50219177
 - 310 pts, 307 comments: America has lost 200k of jobs in media, film and the arts. How much is AI? https://news.ycombinator.com/item?id=50226419
-- 306 pts, 191 comments: The Goose Programming Language https://news.ycombinator.com/item?id=50224100
 - 302 pts, 239 comments: I don't understand quantum physics (2018) https://news.ycombinator.com/item?id=50219666
 - 300 pts, 210 comments: Roku developer repositories moved from GitHub to GitLab https://news.ycombinator.com/item?id=50222622
