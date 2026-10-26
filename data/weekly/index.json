@@ -84,6 +84,13 @@
    "kind": "weekly",
    "saved_at": "2026-10-19T05:49:36Z",
    "path": "2026-W42.json"
+  },
+  {
+   "week": "2026-W43",
+   "start_utc": "2026-10-19",
+   "kind": "weekly",
+   "saved_at": "2026-10-26T05:52:58Z",
+   "path": "2026-W43.json"
   }
  ]
 }

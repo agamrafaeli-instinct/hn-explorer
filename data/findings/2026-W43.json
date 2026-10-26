@@ -1,0 +1,40 @@
+{
+ "audiences": {
+  "engineers": [
+   {
+    "source_line": "Source: data/compare/2026-W43.json, audiences.engineers.rose, key \"java\" (this 16, expected 7.1).",
+    "text": "java appeared in 16 story titles and texts this week, against about 7.1 expected from last week."
+   },
+   {
+    "source_line": "Source: data/compare/2026-W43.json, audiences.engineers.rose, key \"docker\" (this 17, expected 8.1).",
+    "text": "docker appeared in 17 story titles and texts this week, against about 8.1 expected from last week."
+   }
+  ],
+  "geeks": [
+   {
+    "source_line": "Source: data/compare/2026-W43.json, audiences.geeks.rose, key \"maps\" (this 49, expected 30.3).",
+    "text": "maps appeared in 49 story titles and texts this week, against about 30.3 expected from last week."
+   }
+  ],
+  "vcs": [
+   {
+    "source_line": "Source: data/compare/2026-W43.json, audiences.vcs.rose, key \"layoffs\" (this 12, expected 2).",
+    "text": "layoffs appeared in 12 story titles and texts this week, against about 2 expected from last week."
+   },
+   {
+    "source_line": "Source: data/compare/2026-W43.json, audiences.vcs.rose, key \"SpaceX\" (this 29, expected 13.1).",
+    "text": "SpaceX appeared in 29 story titles and texts this week, against about 13.1 expected from last week."
+   },
+   {
+    "source_line": "Source: data/compare/2026-W43.json, audiences.vcs.rose, key \"DeepSeek\" (this 27, expected 12.1).",
+    "text": "DeepSeek appeared in 27 story titles and texts this week, against about 12.1 expected from last week."
+   }
+  ]
+ },
+ "backfill": false,
+ "caveat": "Hacker News talking, not a measure of what is true.",
+ "dropped": [],
+ "flips": [],
+ "published": "2026-10-26",
+ "week": "2026-W43"
+}
