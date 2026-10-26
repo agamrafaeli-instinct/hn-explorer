@@ -5,7 +5,7 @@
   {
    "effect": 0.3732,
    "generator": "cross_window",
-   "has_dictionary": false,
+   "has_dictionary": true,
    "label": "retro computing",
    "note": "verdict is up against all earlier months and flat against the 12 months before",
    "rank": 1,
