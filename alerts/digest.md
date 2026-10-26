@@ -1,5 +1,4 @@
-HN digest 2026-10-26 (UTC): 15 new stories at 300+ points
-- 389 pts, 233 comments: Show HN: Steal My Bitcoin https://news.ycombinator.com/item?id=50224916
+HN digest 2026-10-26 (UTC): 14 new stories at 300+ points
 - 369 pts, 66 comments: Dolly Parton's Imagination Library https://news.ycombinator.com/item?id=50234474
 - 356 pts, 179 comments: A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis https://news.ycombinator.com/item?id=50233779
 - 345 pts, 212 comments: Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism https://news.ycombinator.com/item?id=50229587
