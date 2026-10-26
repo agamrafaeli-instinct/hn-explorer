@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-26 21:10 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-26 23:09 UTC. Forward only ids not sent before.
+50248061 | 300 pts, 136 comments | Meta Employees Denounce Interference in Brazilian Elections | https://news.ycombinator.com/item?id=50248061
 50248124 | 362 pts, 212 comments | GPT-6.1 Terra | https://news.ycombinator.com/item?id=50248124
 50245831 | 306 pts, 67 comments | CSS-Tricks has a new owner | https://news.ycombinator.com/item?id=50245831
 50245524 | 472 pts, 418 comments | Microsoft offers mass buyouts for roughly a quarter of its workforce | https://news.ycombinator.com/item?id=50245524
@@ -10,4 +11,3 @@ HN new 300+ stories, last 12h, updated 2026-10-26 21:10 UTC. Forward only ids no
 50238708 | 324 pts, 61 comments | Show HN: TitleArt – Make text like it's 1997 | https://news.ycombinator.com/item?id=50238708
 50238088 | 372 pts, 281 comments | IBM CEO says open weight models are now good and cheap on-prem | https://news.ycombinator.com/item?id=50238088
 50236081 | 311 pts, 171 comments | Serbia's Vucic concedes election defeat in historic win for student movement | https://news.ycombinator.com/item?id=50236081
-50236102 | 307 pts, 298 comments | OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? | https://news.ycombinator.com/item?id=50236102

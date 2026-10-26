@@ -1,4 +1,4 @@
-HN digest 2026-10-26 (UTC): 17 new stories at 300+ points
+HN digest 2026-10-26 (UTC): 18 new stories at 300+ points
 - 579 pts, 527 comments: Anthropic S-1 https://news.ycombinator.com/item?id=50242939
 - 472 pts, 418 comments: Microsoft offers mass buyouts for roughly a quarter of its workforce https://news.ycombinator.com/item?id=50245524
 - 379 pts, 363 comments: Lula wins election after final votes tallied https://news.ycombinator.com/item?id=50237485
@@ -16,3 +16,4 @@ HN digest 2026-10-26 (UTC): 17 new stories at 300+ points
 - 307 pts, 298 comments: OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? https://news.ycombinator.com/item?id=50236102
 - 306 pts, 67 comments: CSS-Tricks has a new owner https://news.ycombinator.com/item?id=50245831
 - 304 pts, 95 comments: Why I Am a Programmer https://news.ycombinator.com/item?id=50235017
+- 300 pts, 136 comments: Meta Employees Denounce Interference in Brazilian Elections https://news.ycombinator.com/item?id=50248061
