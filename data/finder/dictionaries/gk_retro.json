@@ -1,0 +1,176 @@
+{
+ "aliases": [
+  {
+   "count": 1726,
+   "text": "retro"
+  },
+  {
+   "count": 1366,
+   "text": "amiga"
+  },
+  {
+   "count": 1311,
+   "text": "atari"
+  },
+  {
+   "count": 1197,
+   "text": "commodore"
+  },
+  {
+   "count": 968,
+   "text": "vintage"
+  },
+  {
+   "count": 887,
+   "text": "nes"
+  },
+  {
+   "count": 788,
+   "text": "arcade"
+  },
+  {
+   "count": 671,
+   "text": "floppy"
+  },
+  {
+   "count": 631,
+   "text": "8-bit"
+  },
+  {
+   "count": 524,
+   "text": "c64"
+  },
+  {
+   "count": 455,
+   "text": "1980s"
+  },
+  {
+   "count": 450,
+   "text": "mainframe"
+  },
+  {
+   "count": 387,
+   "text": "1970s"
+  },
+  {
+   "count": 379,
+   "text": "apple ii"
+  },
+  {
+   "count": 320,
+   "text": "1990s"
+  },
+  {
+   "count": 306,
+   "text": "ms-dos"
+  },
+  {
+   "count": 269,
+   "text": "zx spectrum"
+  },
+  {
+   "count": 259,
+   "text": "bbs"
+  },
+  {
+   "count": 200,
+   "text": "16-bit"
+  },
+  {
+   "count": 139,
+   "text": "cp/m"
+  },
+  {
+   "count": 105,
+   "text": "pdp-11"
+  },
+  {
+   "count": 40,
+   "text": "pdp-1"
+  },
+  {
+   "count": 34,
+   "text": "pdp-10"
+  },
+  {
+   "count": 30,
+   "text": "pdp-8"
+  },
+  {
+   "count": 28,
+   "text": "msdos"
+  },
+  {
+   "count": 23,
+   "text": "pdp-7"
+  },
+  {
+   "count": 14,
+   "text": "pdp11"
+  },
+  {
+   "count": 3,
+   "text": "pdp8"
+  },
+  {
+   "count": 3,
+   "text": "pdp10"
+  },
+  {
+   "count": 2,
+   "text": "pdp2011"
+  }
+ ],
+ "exclusions": [],
+ "label": "retro computing",
+ "matches": 13521,
+ "near_misses_total": 2166,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\b(retro|vintage|1970s|1980s|1990s|commodore|amiga|atari|apple ii|c64|zx spectrum|nes|pdp-?\\d+|mainframe|floppy|bbs|ms-dos|msdos|cp/m|8-bit|16-bit|arcade)\\b",
+ "sample_matches": [
+  "Textmode art documentary: Back to the BBS part 8",
+  "Microsoft Launches MS-DOS Mobile for Lumia Smartphones",
+  "ROMs and Mappers: Why NES Games Can Be So Different on the Same Hardware",
+  "LLM Ported to the C64, Kinda",
+  "Let's Talk Retro with Palmer Luckey",
+  "Show HN: Using 8-bit ISA graphics card with Arduino Mega",
+  "60 FPS Retro Gaming on Mobile \u2013 Master System Emulator in JavaScript (2013)",
+  "Amiga CD 1200 Prototype \u2013 Commodore",
+  "The NES is 30 Years Old Today",
+  "C64 Copy Protection",
+  "Show HN: Watts Up \u2013 a bike trainer-powered, arcade browser game",
+  "Commodore Pet 2001 Repair",
+  "Commodore 64 raycasting in 160x200 with textures [video]",
+  "Man\u2019s Vintage Camera Mistaken for Bomb, Causes Emergency Landing",
+  "Running Anachronistic Demakes on Vintage Atari VCS Hardware",
+  "In 1995 I had no money, was rejected from studying arts, but had my Amiga 1200",
+  "Mastering Atari Games with Limited Data (EfficientZero)",
+  "Two C64s Plus a Pile of Floppy Disks Equals One Accordion (2022)",
+  "Show HN: 8bit live chat with Papercups and NES.css",
+  "ZX Spectrum"
+ ],
+ "sample_near_misses": [
+  "Don't buy a SNES Classic. Buy a RetroPi and have lots more fun",
+  "A Retrospective on ICSE 2022",
+  "Can retrocausality solve the puzzle of action-at-a-distance? Essays",
+  "Open source wired alarm system retrofit works with SmartThings and Home Assistant",
+  "Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling",
+  "In retrospect: The selfish gene",
+  "Retrotransponons Control the Brain",
+  "Systemd, ten years later: a historical and technical retrospective",
+  "Type II Fun \u2013 fun only in retrospect, hateful while it\u2019s happening",
+  "Myrddin: Retrospective: 2016",
+  "2012 (Rosy Retrospection)",
+  "Tesla tells customers it will not honor retroactive Full Self-Driving pricing",
+  "Stitch Fix Algo Hour \u2013 First Year Retrospective",
+  "RetroAchievements and Moderation",
+  "Retrobatch \u2013 flexible batch image processing for Mac",
+  "MEGA's first week - a retrospective",
+  "Pearl Harbor in Retrospect (1948)",
+  " Viewpoints Retrospective: An Axiomatic Basis for Computer Programming",
+  "Improve writing through a scrum style retrospective",
+  "Writing a Save state manager for RetroPlayer for GSoC"
+ ],
+ "schema": 1,
+ "term": "gk_retro"
+}

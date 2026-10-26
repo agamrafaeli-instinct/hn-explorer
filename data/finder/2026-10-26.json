@@ -1,0 +1,79 @@
+{
+ "card_id": "h437",
+ "caveat": "Title matching only. Archive scores for 2025-26 are low for all stories, so only ratios are used.",
+ "date": "2026-10-26",
+ "dictionary": "data/finder/dictionaries/gk_retro.json",
+ "generator": "cross_window",
+ "label": "retro computing",
+ "minimum_matches_checked": true,
+ "note": "verdict is up against all earlier months and flat against the 12 months before",
+ "ratios": {
+  "latest_vs_before": 1.003022857667012,
+  "latest_vs_prior": 1.452319149985836
+ },
+ "rule": {
+  "refute": 0.8,
+  "set_on": "2026-10-26",
+  "strong": 1.5,
+  "weak": 1.25
+ },
+ "schema": 1,
+ "source": "data/finder/candidates.json",
+ "story": {
+  "headline": "retro computing: the answer depends on which earlier window you pick",
+  "limit": "Title matching only: the word list will miss and mis-match some stories. Archive scores for 2025-26 are low for all stories, so only shares of titles are used.",
+  "opening": "retro computing matched 0.40% of story titles in the latest window (1,397 of 350,283 stories).",
+  "rows": [
+   {
+    "from": "2025-08",
+    "label": "Latest 12 months",
+    "n": 1397,
+    "share": 0.0039882038237653555,
+    "to": "2026-07",
+    "total": 350283
+   },
+   {
+    "from": "2006-10",
+    "label": "All earlier months",
+    "n": 12037,
+    "share": 0.0027460932562958017,
+    "to": "2025-07",
+    "total": 4383318
+   },
+   {
+    "from": "2024-08",
+    "label": "The 12 months before",
+    "n": 1150,
+    "share": 0.003976184384313779,
+    "to": "2025-07",
+    "total": 289222
+   }
+  ],
+  "takeaway": "Against all earlier months the share is 1.5x. Against the 12 months just before it is 1.0x.",
+  "tracked": "Tracked as h437. Supported at 1.25x or more against all earlier months, refuted at 0.8x or less. Rule set on 2026-10-26 before this text was written. The term was picked because of its numbers, so this tests it on the current data and is not a prediction."
+ },
+ "term": "gk_retro",
+ "windows": {
+  "before": {
+   "from": "2024-08",
+   "n": 1150,
+   "share": 0.003976184384313779,
+   "to": "2025-07",
+   "total": 289222
+  },
+  "latest": {
+   "from": "2025-08",
+   "n": 1397,
+   "share": 0.0039882038237653555,
+   "to": "2026-07",
+   "total": 350283
+  },
+  "prior": {
+   "from": "2006-10",
+   "n": 12037,
+   "share": 0.0027460932562958017,
+   "to": "2025-07",
+   "total": 4383318
+  }
+ }
+}

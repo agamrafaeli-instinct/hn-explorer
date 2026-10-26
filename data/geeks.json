@@ -1,225 +1,212 @@
 {
  "window": {
-  "min": 1786242174,
-  "max": 1792896595,
-  "stories": 70524
+  "min": 1786327904,
+  "max": 1792983209,
+  "stories": 70795
  },
  "baskets": [
   {
    "name": "weird",
    "one": 1,
-   "stories": 471,
-   "points": 12612,
-   "comments": 5698,
-   "hit10": 97,
-   "rest_stories": 70053,
-   "rest_points": 1168963,
-   "rest_comments": 637262,
-   "rest_hit10": 9092,
-   "t_stories": 467,
-   "t_points": 8996,
-   "t_comments": 4046,
-   "t_hit10": 93,
-   "t_rest_stories": 69353,
-   "t_rest_points": 730176,
-   "t_rest_comments": 379602,
-   "t_rest_hit10": 8392,
-   "nd_stories": 470,
-   "nd_points": 10597,
-   "nd_comments": 4573,
-   "nd_hit10": 96,
+   "stories": 472,
+   "points": 12568,
+   "comments": 5516,
+   "hit10": 94,
+   "rest_stories": 70323,
+   "rest_points": 1124623,
+   "rest_comments": 608984,
+   "rest_hit10": 8670,
+   "t_stories": 468,
+   "t_points": 8952,
+   "t_comments": 3864,
+   "t_hit10": 90,
+   "t_rest_stories": 69620,
+   "t_rest_points": 695506,
+   "t_rest_comments": 357619,
+   "t_rest_hit10": 7967,
+   "nd_stories": 471,
+   "nd_points": 10553,
+   "nd_comments": 4391,
+   "nd_hit10": 93,
    "top_domain": "sancho.bearblog.dev"
   },
   {
    "name": "science",
    "one": 1,
-   "stories": 1197,
-   "points": 23194,
-   "comments": 12330,
-   "hit10": 172,
-   "rest_stories": 69327,
-   "rest_points": 1158381,
-   "rest_comments": 630630,
-   "rest_hit10": 9017,
-   "t_stories": 1186,
-   "t_points": 15942,
-   "t_comments": 7694,
-   "t_hit10": 161,
-   "t_rest_stories": 68634,
-   "t_rest_points": 723201,
-   "t_rest_comments": 376337,
-   "t_rest_hit10": 8324,
-   "nd_stories": 1195,
-   "nd_points": 21815,
-   "nd_comments": 10785,
-   "nd_hit10": 170,
+   "stories": 1185,
+   "points": 22754,
+   "comments": 12142,
+   "hit10": 163,
+   "rest_stories": 69610,
+   "rest_points": 1114437,
+   "rest_comments": 602358,
+   "rest_hit10": 8601,
+   "t_stories": 1174,
+   "t_points": 15502,
+   "t_comments": 7506,
+   "t_hit10": 152,
+   "t_rest_stories": 68914,
+   "t_rest_points": 688923,
+   "t_rest_comments": 354066,
+   "t_rest_hit10": 7905,
+   "nd_stories": 1182,
+   "nd_points": 21138,
+   "nd_comments": 10435,
+   "nd_hit10": 160,
    "top_domain": "openai.com"
   },
   {
    "name": "retro",
    "one": 1,
-   "stories": 269,
-   "points": 5561,
-   "comments": 1662,
-   "hit10": 55,
-   "rest_stories": 70255,
-   "rest_points": 1176014,
-   "rest_comments": 641298,
-   "rest_hit10": 9134,
-   "t_stories": 267,
-   "t_points": 4785,
-   "t_comments": 1465,
-   "t_hit10": 53,
-   "t_rest_stories": 69553,
-   "t_rest_points": 734368,
-   "t_rest_comments": 382294,
-   "t_rest_hit10": 8432,
-   "nd_stories": 237,
-   "nd_points": 4648,
-   "nd_comments": 1424,
-   "nd_hit10": 48,
+   "stories": 276,
+   "points": 4991,
+   "comments": 1494,
+   "hit10": 49,
+   "rest_stories": 70519,
+   "rest_points": 1132200,
+   "rest_comments": 613006,
+   "rest_hit10": 8715,
+   "t_stories": 274,
+   "t_points": 4215,
+   "t_comments": 1297,
+   "t_hit10": 47,
+   "t_rest_stories": 69814,
+   "t_rest_points": 700214,
+   "t_rest_comments": 360284,
+   "t_rest_hit10": 8010,
+   "nd_stories": 244,
+   "nd_points": 4134,
+   "nd_comments": 1270,
+   "nd_hit10": 43,
    "top_domain": "github.com"
   },
   {
    "name": "history",
    "one": 1,
-   "stories": 1102,
-   "points": 24420,
-   "comments": 12036,
-   "hit10": 198,
-   "rest_stories": 69422,
-   "rest_points": 1157155,
-   "rest_comments": 630924,
-   "rest_hit10": 8991,
-   "t_stories": 1091,
-   "t_points": 17909,
-   "t_comments": 8056,
-   "t_hit10": 187,
-   "t_rest_stories": 68728,
-   "t_rest_points": 720956,
-   "t_rest_comments": 374586,
-   "t_rest_hit10": 8297,
-   "nd_stories": 1101,
-   "nd_points": 23465,
-   "nd_comments": 11195,
-   "nd_hit10": 197,
+   "stories": 1125,
+   "points": 23932,
+   "comments": 11531,
+   "hit10": 191,
+   "rest_stories": 69670,
+   "rest_points": 1113259,
+   "rest_comments": 602969,
+   "rest_hit10": 8573,
+   "t_stories": 1114,
+   "t_points": 17448,
+   "t_comments": 8024,
+   "t_hit10": 180,
+   "t_rest_stories": 68974,
+   "t_rest_points": 687023,
+   "t_rest_comments": 353027,
+   "t_rest_hit10": 7877,
+   "nd_stories": 1124,
+   "nd_points": 22977,
+   "nd_comments": 10690,
+   "nd_hit10": 190,
    "top_domain": "techcrunch.com"
   },
   {
    "name": "puzzle",
    "one": 1,
-   "stories": 302,
-   "points": 3527,
-   "comments": 1255,
+   "stories": 300,
+   "points": 3221,
+   "comments": 1123,
    "hit10": 26,
-   "rest_stories": 70222,
-   "rest_points": 1178048,
-   "rest_comments": 641705,
-   "rest_hit10": 9163,
-   "t_stories": 299,
-   "t_points": 2066,
-   "t_comments": 901,
+   "rest_stories": 70495,
+   "rest_points": 1133970,
+   "rest_comments": 613377,
+   "rest_hit10": 8738,
+   "t_stories": 297,
+   "t_points": 1760,
+   "t_comments": 769,
    "t_hit10": 23,
-   "t_rest_stories": 69520,
-   "t_rest_points": 736728,
-   "t_rest_comments": 382676,
-   "t_rest_hit10": 8461,
-   "nd_stories": 300,
-   "nd_points": 2834,
-   "nd_comments": 1130,
+   "t_rest_stories": 69791,
+   "t_rest_points": 702650,
+   "t_rest_comments": 361120,
+   "t_rest_hit10": 8034,
+   "nd_stories": 298,
+   "nd_points": 2528,
+   "nd_comments": 998,
    "nd_hit10": 25,
    "top_domain": "minesweeper.mikelacher.com"
   },
   {
    "name": "showhn",
    "one": 1,
-   "stories": 8930,
-   "points": 60503,
-   "comments": 20726,
-   "hit10": 618,
-   "rest_stories": 61594,
-   "rest_points": 1121072,
-   "rest_comments": 622234,
-   "rest_hit10": 8571,
-   "t_stories": 8841,
-   "t_points": 37031,
-   "t_comments": 12979,
-   "t_hit10": 529,
-   "t_rest_stories": 60979,
-   "t_rest_points": 714968,
-   "t_rest_comments": 382226,
-   "t_rest_hit10": 7956,
-   "nd_stories": 5891,
-   "nd_points": 41254,
-   "nd_comments": 15257,
-   "nd_hit10": 415,
+   "stories": 8996,
+   "points": 58152,
+   "comments": 19978,
+   "hit10": 580,
+   "rest_stories": 61799,
+   "rest_points": 1079039,
+   "rest_comments": 594522,
+   "rest_hit10": 8184,
+   "t_stories": 8907,
+   "t_points": 34955,
+   "t_comments": 12168,
+   "t_hit10": 491,
+   "t_rest_stories": 61182,
+   "t_rest_points": 682342,
+   "t_rest_comments": 361530,
+   "t_rest_hit10": 7567,
+   "nd_stories": 5949,
+   "nd_points": 39670,
+   "nd_comments": 14908,
+   "nd_hit10": 388,
    "top_domain": "github.com"
   },
   {
    "name": "askhn",
    "one": 1,
-   "stories": 1257,
-   "points": 12025,
-   "comments": 14698,
-   "hit10": 129,
-   "rest_stories": 69267,
-   "rest_points": 1169550,
-   "rest_comments": 628262,
-   "rest_hit10": 9060,
-   "t_stories": 1245,
-   "t_points": 7168,
-   "t_comments": 9308,
-   "t_hit10": 117,
-   "t_rest_stories": 68575,
-   "t_rest_points": 732338,
-   "t_rest_comments": 374635,
-   "t_rest_hit10": 8368,
-   "nd_stories": 15,
-   "nd_points": 32,
-   "nd_comments": 32,
-   "nd_hit10": 0,
+   "stories": 1270,
+   "points": 12074,
+   "comments": 14617,
+   "hit10": 123,
+   "rest_stories": 69525,
+   "rest_points": 1125117,
+   "rest_comments": 599883,
+   "rest_hit10": 8641,
+   "t_stories": 1258,
+   "t_points": 7186,
+   "t_comments": 9137,
+   "t_hit10": 111,
+   "t_rest_stories": 68830,
+   "t_rest_points": 697492,
+   "t_rest_comments": 352556,
+   "t_rest_hit10": 7946,
+   "nd_stories": 16,
+   "nd_points": 43,
+   "nd_comments": 38,
+   "nd_hit10": 1,
    "top_domain": ""
   },
   {
    "name": "boring",
    "one": 1,
-   "stories": 414,
-   "points": 3612,
-   "comments": 2128,
-   "hit10": 29,
-   "rest_stories": 70110,
-   "rest_points": 1177963,
-   "rest_comments": 640832,
-   "rest_hit10": 9160,
-   "t_stories": 410,
-   "t_points": 2068,
-   "t_comments": 1288,
-   "t_hit10": 25,
-   "t_rest_stories": 69409,
-   "t_rest_points": 736911,
-   "t_rest_comments": 382694,
-   "t_rest_hit10": 8459,
-   "nd_stories": 413,
-   "nd_points": 2976,
-   "nd_comments": 1679,
-   "nd_hit10": 28,
+   "stories": 389,
+   "points": 3075,
+   "comments": 1874,
+   "hit10": 25,
+   "rest_stories": 70406,
+   "rest_points": 1134116,
+   "rest_comments": 612626,
+   "rest_hit10": 8739,
+   "t_stories": 386,
+   "t_points": 1769,
+   "t_comments": 1037,
+   "t_hit10": 22,
+   "t_rest_stories": 69702,
+   "t_rest_points": 702706,
+   "t_rest_comments": 361088,
+   "t_rest_hit10": 8035,
+   "nd_stories": 388,
+   "nd_points": 2439,
+   "nd_comments": 1425,
+   "nd_hit10": 24,
    "top_domain": "openrouter.ai"
   }
  ],
  "weekly": [
-  {
-   "week": "2026-08-10",
-   "stories": 7068,
-   "lift": 1.2885514675589198,
-   "weird_stories": 49,
-   "weird_points": 1159,
-   "weird_comments": 527,
-   "weird_hit10": 12,
-   "rest_stories": 7019,
-   "rest_points": 128843,
-   "rest_comments": 69526,
-   "rest_hit10": 1110
-  },
   {
    "week": "2026-08-17",
    "stories": 7026,
@@ -336,92 +323,105 @@
    "rest_points": 51978,
    "rest_comments": 24248,
    "rest_hit10": 477
+  },
+  {
+   "week": "2026-10-19",
+   "stories": 7339,
+   "lift": 1.923537625883105,
+   "weird_stories": 50,
+   "weird_points": 1115,
+   "weird_comments": 345,
+   "weird_hit10": 9,
+   "rest_stories": 7289,
+   "rest_points": 84503,
+   "rest_comments": 41248,
+   "rest_hit10": 688
   }
  ],
  "weekday": [
   {
    "day": "Mon",
-   "stories": 10539,
-   "weird_stories": 66,
-   "weird_points": 1655,
-   "weird_comments": 974,
-   "weird_hit10": 13,
-   "rest_stories": 10473,
-   "rest_points": 181976,
-   "rest_comments": 103430,
-   "rest_hit10": 1447
+   "stories": 10641,
+   "weird_stories": 60,
+   "weird_points": 1410,
+   "weird_comments": 881,
+   "weird_hit10": 12,
+   "rest_stories": 10581,
+   "rest_points": 173240,
+   "rest_comments": 96242,
+   "rest_hit10": 1360
   },
   {
    "day": "Tue",
-   "stories": 12012,
-   "weird_stories": 91,
-   "weird_points": 2089,
-   "weird_comments": 1156,
-   "weird_hit10": 18,
-   "rest_stories": 11921,
-   "rest_points": 198769,
-   "rest_comments": 110122,
-   "rest_hit10": 1381
+   "stories": 12055,
+   "weird_stories": 96,
+   "weird_points": 2023,
+   "weird_comments": 1103,
+   "weird_hit10": 15,
+   "rest_stories": 11959,
+   "rest_points": 197156,
+   "rest_comments": 107922,
+   "rest_hit10": 1355
   },
   {
    "day": "Wed",
-   "stories": 11501,
+   "stories": 11498,
    "weird_stories": 88,
-   "weird_points": 2373,
-   "weird_comments": 1005,
+   "weird_points": 2194,
+   "weird_comments": 927,
    "weird_hit10": 24,
-   "rest_stories": 11413,
-   "rest_points": 193800,
-   "rest_comments": 105272,
-   "rest_hit10": 1492
+   "rest_stories": 11410,
+   "rest_points": 186377,
+   "rest_comments": 100324,
+   "rest_hit10": 1441
   },
   {
    "day": "Thu",
-   "stories": 11510,
-   "weird_stories": 65,
-   "weird_points": 1071,
-   "weird_comments": 241,
-   "weird_hit10": 9,
-   "rest_stories": 11445,
-   "rest_points": 180866,
-   "rest_comments": 96125,
-   "rest_hit10": 1422
+   "stories": 11619,
+   "weird_stories": 71,
+   "weird_points": 1750,
+   "weird_comments": 513,
+   "weird_hit10": 11,
+   "rest_stories": 11548,
+   "rest_points": 174459,
+   "rest_comments": 92407,
+   "rest_hit10": 1340
   },
   {
    "day": "Fri",
-   "stories": 10291,
-   "weird_stories": 68,
-   "weird_points": 2095,
-   "weird_comments": 702,
-   "weird_hit10": 17,
-   "rest_stories": 10223,
-   "rest_points": 169136,
-   "rest_comments": 90043,
-   "rest_hit10": 1367
+   "stories": 10313,
+   "weird_stories": 63,
+   "weird_points": 1891,
+   "weird_comments": 567,
+   "weird_hit10": 15,
+   "rest_stories": 10250,
+   "rest_points": 159681,
+   "rest_comments": 86371,
+   "rest_hit10": 1307
   },
   {
    "day": "Sat",
-   "stories": 7390,
-   "weird_stories": 52,
-   "weird_points": 892,
-   "weird_comments": 315,
+   "stories": 7402,
+   "weird_stories": 50,
+   "weird_points": 885,
+   "weird_comments": 313,
    "weird_hit10": 8,
-   "rest_stories": 7338,
-   "rest_points": 116596,
-   "rest_comments": 61960,
-   "rest_hit10": 968
+   "rest_stories": 7352,
+   "rest_points": 112287,
+   "rest_comments": 59465,
+   "rest_hit10": 902
   },
   {
    "day": "Sun",
-   "stories": 7281,
-   "weird_stories": 41,
-   "weird_points": 2437,
-   "weird_comments": 1305,
-   "weird_hit10": 8,
-   "rest_stories": 7240,
-   "rest_points": 127820,
-   "rest_comments": 70310,
-   "rest_hit10": 1015
+   "stories": 7267,
+   "weird_stories": 44,
+   "weird_points": 2415,
+   "weird_comments": 1212,
+   "weird_hit10": 9,
+   "rest_stories": 7223,
+   "rest_points": 121423,
+   "rest_comments": 66253,
+   "rest_hit10": 965
   }
  ],
  "top_domains": {
@@ -440,7 +440,11 @@
    ],
    [
     "blog.coredump.cx",
-    477
+    479
+   ],
+   [
+    "vanityfair.com",
+    445
    ],
    [
     "ahmedhossamdev.com",
@@ -461,24 +465,16 @@
    [
     "propublica.org",
     328
-   ],
-   [
-    "thespacereview.com",
-    306
    ]
   ],
   "science": [
    [
     "openai.com",
-    1379
+    1616
    ],
    [
     "mathandai.org",
     1242
-   ],
-   [
-    "anthropic.com",
-    1065
    ],
    [
     "nobelprize.org",
@@ -486,33 +482,37 @@
    ],
    [
     "youtube.com",
-    884
+    868
    ],
    [
     "terrytao.wordpress.com",
-    821
+    831
+   ],
+   [
+    "anthropic.com",
+    783
    ],
    [
     "quantamagazine.org",
-    744
+    713
    ],
    [
     "med.stanford.edu",
     696
    ],
    [
-    "arxiv.org",
-    532
+    "github.com",
+    552
    ],
    [
-    "mathstodon.xyz",
-    474
+    "arxiv.org",
+    532
    ]
   ],
   "retro": [
    [
     "github.com",
-    913
+    857
    ],
    [
     "babyloniantwins.com",
@@ -520,7 +520,7 @@
    ],
    [
     "dfarq.homeip.net",
-    369
+    372
    ],
    [
     "nand2mario.github.io",
@@ -558,7 +558,7 @@
    ],
    [
     "space.com",
-    760
+    779
    ],
    [
     "store.steampowered.com",
@@ -573,24 +573,24 @@
     691
    ],
    [
-    "bbc.com",
-    640
-   ],
-   [
-    "youtube.com",
-    575
-   ],
-   [
     "api-docs.deepseek.com",
     557
    ],
    [
     "dfarq.homeip.net",
-    520
+    519
    ],
    [
     "openrouter.ai",
     511
+   ],
+   [
+    "arstechnica.com",
+    496
+   ],
+   [
+    "spectrum.ieee.org",
+    444
    ]
   ],
   "puzzle": [
@@ -607,20 +607,16 @@
     377
    ],
    [
-    "everycube.alen.is",
-    295
-   ],
-   [
-    "github.com",
-    119
-   ],
-   [
     "owntime.app",
     118
    ],
    [
     "thereader.mitpress.mit.edu",
     115
+   ],
+   [
+    "github.com",
+    113
    ],
    [
     "blog.janestreet.com",
@@ -632,25 +628,25 @@
    ],
    [
     "youtube.com",
-    83
+    79
+   ],
+   [
+    "devblogs.microsoft.com",
+    78
    ]
   ],
   "showhn": [
    [
     "github.com",
-    19249
-   ],
-   [
-    "",
-    918
+    18482
    ],
    [
     "bastardica.mitpit.com",
     867
    ],
    [
-    "cactuscompute.com",
-    773
+    "",
+    823
    ],
    [
     "louisabraham.github.io",
@@ -662,6 +658,10 @@
    ],
    [
     "bigwords.page",
+    601
+   ],
+   [
+    "permit.petercai.com",
     601
    ],
    [
@@ -680,15 +680,15 @@
   "askhn": [
    [
     "",
-    11993
+    12031
+   ],
+   [
+    "newsletter.pragmaticengineer.com",
+    15
    ],
    [
     "github.com",
     6
-   ],
-   [
-    "drive.google.com",
-    5
    ],
    [
     "twitter.com",
@@ -729,16 +729,8 @@
     395
    ],
    [
-    "api-docs.deepseek.com",
-    368
-   ],
-   [
     "withspecific.com",
     275
-   ],
-   [
-    "",
-    166
    ],
    [
     "blog.sshh.io",
@@ -746,7 +738,11 @@
    ],
    [
     "github.com",
-    159
+    157
+   ],
+   [
+    "",
+    153
    ],
    [
     "morganlewis.com",
@@ -759,6 +755,10 @@
    [
     "carbonawarepricing.com",
     88
+   ],
+   [
+    "scry.io",
+    61
    ]
   ]
  },
@@ -911,16 +911,16 @@
     "Grim Fandango Puzzle Document (1996) [pdf]"
    ],
    [
-    295,
-    122,
-    "everycube.alen.is",
-    "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
-   ],
-   [
     118,
     67,
     "owntime.app",
     "Show HN: OwnTime \u2013 a chess clock for your day's priorities"
+   ],
+   [
+    112,
+    37,
+    "thereader.mitpress.mit.edu",
+    "The Murky History of Soviet-Born Tetris"
    ]
   ],
   "showhn": [
@@ -1007,16 +1007,16 @@
     "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases"
    ],
    [
-    238,
-    3,
-    "api-docs.deepseek.com",
-    "DeepSeek peak/off-peak pricing update"
-   ],
-   [
     166,
     111,
     "blog.sshh.io",
     "Every SaaS business will become a harness around a model"
+   ],
+   [
+    105,
+    87,
+    "morganlewis.com",
+    "Algorithmic rent-pricing litigation expands under new state and local laws"
    ]
   ]
  }
