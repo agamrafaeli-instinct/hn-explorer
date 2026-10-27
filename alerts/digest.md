@@ -1,4 +1,4 @@
-HN digest 2026-10-27 (UTC): 17 new stories at 300+ points
+HN digest 2026-10-27 (UTC): 18 new stories at 300+ points
 - 579 pts, 527 comments: Anthropic S-1 https://news.ycombinator.com/item?id=50242939
 - 472 pts, 418 comments: Microsoft offers mass buyouts for roughly a quarter of its workforce https://news.ycombinator.com/item?id=50245524
 - 405 pts, 153 comments: Announcing three new discoveries in mathematics, computer science, and physics https://news.ycombinator.com/item?id=50251344
@@ -12,6 +12,7 @@ HN digest 2026-10-27 (UTC): 17 new stories at 300+ points
 - 329 pts, 198 comments: Oldest GUI application that still runs on Windows 11 https://news.ycombinator.com/item?id=50248055
 - 324 pts, 61 comments: Show HN: TitleArt – Make text like it's 1997 https://news.ycombinator.com/item?id=50238708
 - 311 pts, 171 comments: Serbia's Vucic concedes election defeat in historic win for student movement https://news.ycombinator.com/item?id=50236081
+- 309 pts, 186 comments: Websites Should Be Printable https://news.ycombinator.com/item?id=50241664
 - 307 pts, 298 comments: OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? https://news.ycombinator.com/item?id=50236102
 - 306 pts, 67 comments: CSS-Tricks has a new owner https://news.ycombinator.com/item?id=50245831
 - 304 pts, 95 comments: Why I Am a Programmer https://news.ycombinator.com/item?id=50235017
