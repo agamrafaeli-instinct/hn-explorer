@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-27 21:13 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-27 23:10 UTC. Forward only ids not sent before.
+50261819 | 323 pts, 249 comments | Police are using AI to pull over drivers for 'suspicious' behavior | https://news.ycombinator.com/item?id=50261819
 50260814 | 336 pts, 177 comments | Anthropic trained Claude on illegally obtained Stanford professors' books | https://news.ycombinator.com/item?id=50260814
 50261998 | 307 pts, 109 comments | Ghostty 1.4.0 | https://news.ycombinator.com/item?id=50261998
 50261319 | 417 pts, 234 comments | Genie 4 | https://news.ycombinator.com/item?id=50261319
