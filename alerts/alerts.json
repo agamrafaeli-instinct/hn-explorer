@@ -1,5 +1,27 @@
 [
  {
+  "id": "50251661",
+  "title": "The Exponential Time Hypothesis Is False [pdf]",
+  "points": 368,
+  "comments": 140,
+  "author": "vok",
+  "hn": "https://news.ycombinator.com/item?id=50251661",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+  "created_at": "2026-10-26T21:59:15Z",
+  "reported_at": 1793070761
+ },
+ {
+  "id": "50248055",
+  "title": "Oldest GUI application that still runs on Windows 11",
+  "points": 329,
+  "comments": 198,
+  "author": "enlyth",
+  "hn": "https://news.ycombinator.com/item?id=50248055",
+  "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+  "created_at": "2026-10-26T17:56:55Z",
+  "reported_at": 1793070761
+ },
+ {
   "id": "50251344",
   "title": "Announcing three new discoveries in mathematics, computer science, and physics",
   "points": 405,
