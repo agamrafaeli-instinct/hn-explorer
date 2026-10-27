@@ -1,8 +1,7 @@
-HN digest 2026-10-27 (UTC): 18 new stories at 300+ points
+HN digest 2026-10-27 (UTC): 17 new stories at 300+ points
 - 579 pts, 527 comments: Anthropic S-1 https://news.ycombinator.com/item?id=50242939
 - 472 pts, 418 comments: Microsoft offers mass buyouts for roughly a quarter of its workforce https://news.ycombinator.com/item?id=50245524
 - 405 pts, 153 comments: Announcing three new discoveries in mathematics, computer science, and physics https://news.ycombinator.com/item?id=50251344
-- 379 pts, 363 comments: Lula wins election after final votes tallied https://news.ycombinator.com/item?id=50237485
 - 375 pts, 152 comments: Birdwatching rewires the brain and slows cognitive decline https://news.ycombinator.com/item?id=50215997
 - 372 pts, 281 comments: IBM CEO says open weight models are now good and cheap on-prem https://news.ycombinator.com/item?id=50238088
 - 368 pts, 140 comments: The Exponential Time Hypothesis Is False [pdf] https://news.ycombinator.com/item?id=50251661
