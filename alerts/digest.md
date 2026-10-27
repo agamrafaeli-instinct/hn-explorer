@@ -1,4 +1,4 @@
-HN digest 2026-10-27 (UTC): 18 new stories at 300+ points
+HN digest 2026-10-27 (UTC): 19 new stories at 300+ points
 - 579 pts, 527 comments: Anthropic S-1 https://news.ycombinator.com/item?id=50242939
 - 472 pts, 418 comments: Microsoft offers mass buyouts for roughly a quarter of its workforce https://news.ycombinator.com/item?id=50245524
 - 405 pts, 153 comments: Announcing three new discoveries in mathematics, computer science, and physics https://news.ycombinator.com/item?id=50251344
@@ -16,4 +16,5 @@ HN digest 2026-10-27 (UTC): 18 new stories at 300+ points
 - 306 pts, 67 comments: CSS-Tricks has a new owner https://news.ycombinator.com/item?id=50245831
 - 304 pts, 118 comments: Concerning behavior from a popular open-weight AI model https://news.ycombinator.com/item?id=50246658
 - 304 pts, 95 comments: Why I Am a Programmer https://news.ycombinator.com/item?id=50235017
+- 302 pts, 182 comments: In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real https://news.ycombinator.com/item?id=50248005
 - 300 pts, 136 comments: Meta Employees Denounce Interference in Brazilian Elections https://news.ycombinator.com/item?id=50248061
