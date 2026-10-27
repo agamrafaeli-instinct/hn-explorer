@@ -1950,7 +1950,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -1961,23 +1961,25 @@
    "group_a_count": 71.0,
    "id": "h422",
    "replaced_by": "h423",
-   "score": 0.8,
+   "score": 0.667,
    "title": "Vue: a bigger share than before"
   },
   {
    "audience": "engineers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": true,
     "interesting": true,
     "novel": true,
     "relevant": true,
     "sharp": true
    },
-   "failing": [],
+   "failing": [
+    "fresh"
+   ],
    "group_a_count": 71.0,
    "id": "h423",
-   "score": 1.0,
+   "score": 0.833,
    "title": "Vue relative to React: has the title-count ratio risen?"
   },
   {
@@ -2205,6 +2207,22 @@
    "id": "h437",
    "score": 1.0,
    "title": "retro computing: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 11264.0,
+   "id": "h438",
+   "score": 1.0,
+   "title": "all six deep-tech themes: a bigger share than before"
   }
  ],
  "schema": 1,
