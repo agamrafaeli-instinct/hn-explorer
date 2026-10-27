@@ -1,0 +1,176 @@
+{
+ "aliases": [
+  {
+   "count": 16735,
+   "text": "brain"
+  },
+  {
+   "count": 11830,
+   "text": "nasa"
+  },
+  {
+   "count": 9992,
+   "text": "robot"
+  },
+  {
+   "count": 7825,
+   "text": "nvidia"
+  },
+  {
+   "count": 7156,
+   "text": "robots"
+  },
+  {
+   "count": 5997,
+   "text": "spacex"
+  },
+  {
+   "count": 5356,
+   "text": "gpu"
+  },
+  {
+   "count": 4043,
+   "text": "satellite"
+  },
+  {
+   "count": 3574,
+   "text": "rocket"
+  },
+  {
+   "count": 3178,
+   "text": "boeing"
+  },
+  {
+   "count": 2583,
+   "text": "robotics"
+  },
+  {
+   "count": 2462,
+   "text": "brains"
+  },
+  {
+   "count": 2395,
+   "text": "data center"
+  },
+  {
+   "count": 1824,
+   "text": "robotic"
+  },
+  {
+   "count": 1708,
+   "text": "gpus"
+  },
+  {
+   "count": 1683,
+   "text": "satellites"
+  },
+  {
+   "count": 1456,
+   "text": "data centers"
+  },
+  {
+   "count": 1222,
+   "text": "tsmc"
+  },
+  {
+   "count": 1108,
+   "text": "semiconductor"
+  },
+  {
+   "count": 1067,
+   "text": "datacenter"
+  },
+  {
+   "count": 898,
+   "text": "solar power"
+  },
+  {
+   "count": 893,
+   "text": "neuroscience"
+  },
+  {
+   "count": 821,
+   "text": "humanoid"
+  },
+  {
+   "count": 777,
+   "text": "cuda"
+  },
+  {
+   "count": 760,
+   "text": "airbus"
+  },
+  {
+   "count": 717,
+   "text": "neurons"
+  },
+  {
+   "count": 638,
+   "text": "solar panels"
+  },
+  {
+   "count": 617,
+   "text": "orbital"
+  },
+  {
+   "count": 616,
+   "text": "starship"
+  },
+  {
+   "count": 554,
+   "text": "rockets"
+  }
+ ],
+ "exclusions": [],
+ "label": "all six deep-tech themes",
+ "matches": 109492,
+ "near_misses_total": 3280,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\b(data ?cent(er|re)s?|hyperscal\\w*|(power|electric(al)?) grid|gpus?|nvidia|cuda|tpus?|semiconductors?|tsmc|asml|neuro\\w*|brains?|neurons?|connectome|fmri|eeg|spacex|nasa|rockets?|satellites?|starship|aerospace|orbital|boeing|airbus|solar (panels?|power|energy|farms?|cells?)|photovoltaics?|rooftop solar|robots?|robotics?|humanoids?|boston dynamics)\\b",
+ "sample_matches": [
+  "Weekly Robotics #4 \u2013 single rotor drone, Satellite deorbitting mission and more",
+  "SpaceX is launching an inflatable space habitat",
+  "Morgan Stanley\u2019s Failure to Comprehend New GPU Tech Results in Nvidia Downgrade",
+  "US startup Substrate announces chipmaking tool that it says will rival ASML",
+  "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
+  "Desert Creosote Bush Could Treat Giardia and \u201cBrain-Eating\u201d Amoeba Infections",
+  "Ask HN: Is anyone HOPEFUL about our robot overlords?",
+  "Satellite supergroup spots methane super-emitters with \u201cstaggering\u201d accuracy",
+  "Ocean-going robots that could revolutionize fishing, drilling, and science",
+  "Brain computer interface could help paralyzed patients chat online",
+  "Disney's newest robot demonstrates collaborative cuteness",
+  "Getting Started with CUDA for Python Programmers [video]",
+  "DARPA scraps XS-1 military space plane project after Boeing drops out \u2013 Space",
+  "Serve Robotics to deploy up to 2k sidewalk delivery bots on Uber Eats",
+  "High-End Chipmakers to Fare Far Better During Semiconductor Crisis",
+  "Scientists give artificial neural networks a new look for neuromorphic computing",
+  "Telepresence robot demo unit breaks free of its confinement",
+  "Robots",
+  "Manicure robot in San Francisco is now painting nails in 10 minutes for just $8",
+  "How can we get enough data to train a robot GPT?"
+ ],
+ "sample_near_misses": [
+  "Show HN: No-brainer trivial job scheduler in haskell",
+  "Bee-brained",
+  "Elasticsearch language plugin for Brainfuck scripting (2015)",
+  "The Jetbrains cookie popup is a terminal",
+  "Using an $8 smart outlet to avoid brainrot",
+  "Handling EU VAT for Stripe and Braintree",
+  "The app that can read your mind: iPhone brainwave detector arrives",
+  "Ask HN: Any big company approve JetBrains IDE Integration on GitHub?",
+  "CodeTogether (jetbrains extension) returns 503 Service Temporarily Unavailable",
+  "Braintree finally delivers on Venmo promises with Touch",
+  "AppBrain stream: social Android app discovery",
+  "Show HN: Kinopio.club \u2013 visual thinking, brainstorming tool",
+  "WorldBrain's Memex \u2013 Why we deprecated the history search",
+  "Release 1.0.0 of the IntelliJ Haxe Plugin for JetBrains IntelliJ IDEA",
+  "CMU\u2019s Libratus Bluffs Its Way to Victory in #BrainsVsAI Poker Match",
+  "Blockchain and Brainwallet Cracking",
+  "Show HN: GalaxyBrain \u2013 an information operating system powered by local files",
+  "JetBrains Rider Early Access Program Is Now Public",
+  "Propagators, Brainy, and Spritely",
+  "The State of the .NET Developer Ecosystem in 2023 According to JetBrains"
+ ],
+ "schema": 1,
+ "term": "vcall"
+}
