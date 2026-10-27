@@ -1,5 +1,38 @@
 [
  {
+  "id": "50261998",
+  "title": "Ghostty 1.4.0",
+  "points": 307,
+  "comments": 109,
+  "author": "deaux",
+  "hn": "https://news.ycombinator.com/item?id=50261998",
+  "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+  "created_at": "2026-10-27T16:51:22Z",
+  "reported_at": 1793129174
+ },
+ {
+  "id": "50261319",
+  "title": "Genie 4",
+  "points": 417,
+  "comments": 234,
+  "author": "acossta",
+  "hn": "https://news.ycombinator.com/item?id=50261319",
+  "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+  "created_at": "2026-10-27T16:06:01Z",
+  "reported_at": 1793129174
+ },
+ {
+  "id": "50257326",
+  "title": "Wikipedia's Cleanup of AI-Generated Content",
+  "points": 359,
+  "comments": 165,
+  "author": "rbanffy",
+  "hn": "https://news.ycombinator.com/item?id=50257326",
+  "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "created_at": "2026-10-27T11:08:15Z",
+  "reported_at": 1793129174
+ },
+ {
   "id": "50259604",
   "title": "The US government is hiding secret court ruling about how it spies on Americans",
   "points": 376,

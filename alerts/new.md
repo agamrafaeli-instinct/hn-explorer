@@ -1,4 +1,7 @@
-HN new 300+ stories, last 12h, updated 2026-10-27 17:25 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-27 19:26 UTC. Forward only ids not sent before.
+50261998 | 307 pts, 109 comments | Ghostty 1.4.0 | https://news.ycombinator.com/item?id=50261998
+50261319 | 417 pts, 234 comments | Genie 4 | https://news.ycombinator.com/item?id=50261319
+50257326 | 359 pts, 165 comments | Wikipedia's Cleanup of AI-Generated Content | https://news.ycombinator.com/item?id=50257326
 50259604 | 376 pts, 113 comments | The US government is hiding secret court ruling about how it spies on Americans | https://news.ycombinator.com/item?id=50259604
 50257419 | 304 pts, 153 comments | Python's experimental JIT to be removed | https://news.ycombinator.com/item?id=50257419
 50249275 | 300 pts, 55 comments | The EPA Is Quietly Killing Its Web Archive | https://news.ycombinator.com/item?id=50249275
