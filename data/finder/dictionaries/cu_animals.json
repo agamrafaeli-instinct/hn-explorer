@@ -1,0 +1,148 @@
+{
+ "aliases": [
+  {
+   "count": 2630,
+   "text": "bird"
+  },
+  {
+   "count": 2420,
+   "text": "dog"
+  },
+  {
+   "count": 2320,
+   "text": "cat"
+  },
+  {
+   "count": 1919,
+   "text": "animals"
+  },
+  {
+   "count": 1817,
+   "text": "animal"
+  },
+  {
+   "count": 1665,
+   "text": "birds"
+  },
+  {
+   "count": 1492,
+   "text": "dogs"
+  },
+  {
+   "count": 1123,
+   "text": "cats"
+  },
+  {
+   "count": 835,
+   "text": "whale"
+  },
+  {
+   "count": 784,
+   "text": "spider"
+  },
+  {
+   "count": 778,
+   "text": "elephant"
+  },
+  {
+   "count": 772,
+   "text": "bees"
+  },
+  {
+   "count": 645,
+   "text": "ants"
+  },
+  {
+   "count": 597,
+   "text": "whales"
+  },
+  {
+   "count": 536,
+   "text": "wildlife"
+  },
+  {
+   "count": 531,
+   "text": "insect"
+  },
+  {
+   "count": 491,
+   "text": "octopus"
+  },
+  {
+   "count": 466,
+   "text": "insects"
+  },
+  {
+   "count": 443,
+   "text": "dolphin"
+  },
+  {
+   "count": 438,
+   "text": "elephants"
+  },
+  {
+   "count": 360,
+   "text": "spiders"
+  },
+  {
+   "count": 290,
+   "text": "dolphins"
+  },
+  {
+   "count": 175,
+   "text": "octopuses"
+  }
+ ],
+ "exclusions": [],
+ "label": "animals",
+ "matches": 23527,
+ "near_misses_total": 2428,
+ "note": "Title matching only. The samples are chosen by hash order, not by hand. Read them before trusting the term.",
+ "pattern": "\\b(animals?|birds?|cats?|dogs?|whales?|octopus|octopuses|spiders?|insects?|bees|ants|dolphins?|elephants?|wildlife)\\b",
+ "sample_matches": [
+  "Dog Sitting with Rover: How I Make $1000 a Month (and How You Can Too)",
+  "The little bird of Svithjod",
+  "'Dogs are cleaner than beards' say Swiss scientists",
+  "No more NYT cooperation: my dog-rape red line",
+  "Our new understanding of Human Cat communication",
+  "Putting Glitter on Your Dog\u2019s Testicles Is a Trend Now, Apparently",
+  "P\u016bteketeke crowned New Zealand bird of the century after John Oliver campaign",
+  "Is a construction company right in suing a cafe over the word cat?",
+  "House cats have more impact on local wildlife than wild predators",
+  "Show HN: Insect \u2013 a high-precision scientific calculator with physical units",
+  "Move over Therapy Dogs. Hello, Therapy Cows",
+  "Neural Network Identifies Insects, Outperforming Humans",
+  "Naomi Kritzer: Cat Pictures Please",
+  "Tsunami: The Rescued Dog Saving Lives After Venezuela Earthquakes",
+  "Bird-eye view visualization of LLM activations",
+  "Spider Programming Language",
+  "Earliest land animals had fewer skull bones than fish",
+  "Ants crawl inside woman\u2019s Kindle and start buying books",
+  "Facial Recognition for Reuniting Lost Dogs w/ Owners",
+  "Bird that went extinct 136,000 years ago evolves again"
+ ],
+ "sample_near_misses": [
+  "Thunderbird 115 Now Available and It Looks Fantastic",
+  "ThunderAI: ChatGPT, Gemini, Ollama in Thunderbird",
+  "Breaking Thunderbird Free from Linux Package Lag",
+  "Faceted browsing for Mozilla Thunderbird",
+  "Birdsong Studies Lead To a Revolution In Biology",
+  "Thunderbird 3.1 adds extra spaces to e-mails for four months. Chaos ensues!",
+  "Lions have adapted to hunt seals and seabirds in Namibia",
+  "Tales from the Blackbird Cockpit",
+  "The Hummingbird Clock (used by UK gov as forensic tool)",
+  "Processor Comparison - Tegra-2, HummingBird, Snapdragon, OMAP",
+  "To Stop Illegal Fishing, Send a Seabird",
+  "Firebird Questions&Answers: Live with Dmitry Yemanov",
+  "Large Hadron Collider scuttled by birdy baguette-bomber",
+  "Txtbirds",
+  "Mozilla Thunderbird \u2013 102.5.0 Release Notes",
+  "Clarence Birdseye",
+  "SR-71 Blackbird\u2019s Predecessor Looked Even Cooler with Canards",
+  "Code Quality Comparison of Firebird, MySQL, and PostgreSQL",
+  "Why the Songbird\u2019s Serenade Is Going Off Key",
+  "Compare your Firebird server performance on different hardware, OS's versions"
+ ],
+ "schema": 1,
+ "term": "cu_animals"
+}

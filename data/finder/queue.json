@@ -1,52 +1,14 @@
 {
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "rank_rule": "score = effect x sturdiness; effect is the largest |ln ratio|; sturdiness is the share of ratios pointing the same way; ties break on term name",
  "ranked": [
-  {
-   "effect": 0.3686,
-   "generator": "cross_window",
-   "has_dictionary": false,
-   "label": "all six deep-tech themes",
-   "note": "verdict is up against all earlier months and flat against the 12 months before",
-   "rank": 1,
-   "ratios": {
-    "latest_vs_before": 1.0085090234313643,
-    "latest_vs_prior": 1.445738551840497
-   },
-   "score": 0.1843,
-   "sturdiness": 0.5,
-   "term": "vcall",
-   "windows": {
-    "before": {
-     "from": "2024-08",
-     "n": 9222,
-     "share": 0.03188554121055798,
-     "to": "2025-07",
-     "total": 289222
-    },
-    "latest": {
-     "from": "2025-08",
-     "n": 11264,
-     "share": 0.032156856027840346,
-     "to": "2026-07",
-     "total": 350283
-    },
-    "prior": {
-     "from": "2006-10",
-     "n": 97496,
-     "share": 0.022242511266579335,
-     "to": "2025-07",
-     "total": 4383318
-    }
-   }
-  },
   {
    "effect": 0.3388,
    "generator": "cross_window",
    "has_dictionary": false,
    "label": "animals",
    "note": "verdict is flat against all earlier months and down against the 12 months before",
-   "rank": 2,
+   "rank": 1,
    "ratios": {
     "latest_vs_before": 0.7126055818219215,
     "latest_vs_prior": 0.8834509280399327
@@ -84,7 +46,7 @@
    "has_dictionary": false,
    "label": "Git, Linux, Neovim, Nix and VS Code",
    "note": "verdict is up against all earlier months and flat against the 12 months before",
-   "rank": 3,
+   "rank": 2,
    "ratios": {
     "latest_vs_before": 1.1105974608346836,
     "latest_vs_prior": 1.3523374845029443
@@ -122,7 +84,7 @@
    "has_dictionary": false,
    "label": "solar energy",
    "note": "verdict is flat against all earlier months and down against the 12 months before",
-   "rank": 4,
+   "rank": 3,
    "ratios": {
     "latest_vs_before": 0.7446561833407812,
     "latest_vs_prior": 0.8148225285186121
@@ -160,7 +122,7 @@
    "has_dictionary": false,
    "label": "Docker, Kubernetes and Terraform",
    "note": "verdict is down against all earlier months and flat against the 12 months before",
-   "rank": 5,
+   "rank": 4,
    "ratios": {
     "latest_vs_before": 0.9441643143406314,
     "latest_vs_prior": 0.7454516006604777
@@ -198,7 +160,7 @@
    "has_dictionary": false,
    "label": "hands-on making",
    "note": "verdict is down against all earlier months and flat against the 12 months before",
-   "rank": 6,
+   "rank": 5,
    "ratios": {
     "latest_vs_before": 0.8169895709889913,
     "latest_vs_prior": 0.7482715447986843
@@ -236,7 +198,7 @@
    "has_dictionary": false,
    "label": "Go",
    "note": "verdict is flat against all earlier months and down against the 12 months before",
-   "rank": 7,
+   "rank": 6,
    "ratios": {
     "latest_vs_before": 0.76670373873207,
     "latest_vs_prior": 0.8077138615540396
@@ -274,7 +236,7 @@
    "has_dictionary": false,
    "label": "Kubernetes",
    "note": "verdict is down against all earlier months and flat against the 12 months before",
-   "rank": 8,
+   "rank": 7,
    "ratios": {
     "latest_vs_before": 0.8874275247504845,
     "latest_vs_prior": 0.7713379391091064
@@ -312,7 +274,7 @@
    "has_dictionary": false,
    "label": "business-software words",
    "note": "verdict is up against all earlier months and flat against the 12 months before",
-   "rank": 9,
+   "rank": 8,
    "ratios": {
     "latest_vs_before": 1.0991965154583794,
     "latest_vs_prior": 1.2886282718208226
@@ -435,6 +397,11 @@
    "generator": "cross_window",
    "reason": "shown in the last 90 days",
    "term": "gk_retro"
+  },
+  {
+   "generator": "cross_window",
+   "reason": "shown in the last 90 days",
+   "term": "vcall"
   },
   {
    "generator": "cross_window",

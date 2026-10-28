@@ -1,24 +1,24 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T02:52:51.981197+00:00",
+  "generated_at": "2026-10-28T03:01:23.936695+00:00",
   "total_rows": 1000000,
   "totals": {
     "posts": 1000000,
-    "score_sum": 1295598,
-    "comments_sum": 678802,
-    "dead": 85840,
-    "deleted": 31793,
+    "score_sum": 1291271,
+    "comments_sum": 675832,
+    "dead": 85923,
+    "deleted": 31801,
     "missing_time": 0,
-    "missing_score": 891203,
-    "missing_comments": 922135
+    "missing_score": 891372,
+    "missing_comments": 922312
   },
   "time_range": {
-    "min": 1786430375,
-    "max": 1793069494
+    "min": 1786518758,
+    "max": 1793156372
   },
   "type_counts": {
-    "comment": 886976,
-    "story": 112938,
+    "comment": 887147,
+    "story": 112767,
     "job": 54,
     "pollopt": 25,
     "poll": 7
@@ -26,9 +26,9 @@
   "monthly": [
     {
       "month": "2026-08",
-      "posts": 262110,
-      "score_sum": 410364,
-      "comments_sum": 208896
+      "posts": 247459,
+      "score_sum": 391488,
+      "comments_sum": 198362
     },
     {
       "month": "2026-09",
@@ -38,47 +38,47 @@
     },
     {
       "month": "2026-10",
-      "posts": 338162,
-      "score_sum": 299696,
-      "comments_sum": 146889
+      "posts": 352813,
+      "score_sum": 314245,
+      "comments_sum": 154453
     }
   ],
   "top_domains": [
     {
       "domain": "github.com",
-      "posts": 7921
+      "posts": 7884
     },
     {
       "domain": "youtube.com",
-      "posts": 2314
+      "posts": 2307
     },
     {
       "domain": "twitter.com",
-      "posts": 1377
+      "posts": 1367
     },
     {
       "domain": "arxiv.org",
-      "posts": 934
+      "posts": 925
     },
     {
       "domain": "en.wikipedia.org",
-      "posts": 901
+      "posts": 900
     },
     {
       "domain": "nytimes.com",
-      "posts": 865
+      "posts": 870
     },
     {
       "domain": "theguardian.com",
-      "posts": 738
+      "posts": 732
     },
     {
       "domain": "reuters.com",
-      "posts": 658
+      "posts": 655
     },
     {
       "domain": "medium.com",
-      "posts": 610
+      "posts": 613
     },
     {
       "domain": "wsj.com",
@@ -86,35 +86,35 @@
     },
     {
       "domain": "arstechnica.com",
-      "posts": 486
+      "posts": 485
     },
     {
       "domain": "bbc.com",
-      "posts": 417
+      "posts": 409
     },
     {
       "domain": "ft.com",
-      "posts": 389
-    },
-    {
-      "domain": "theregister.com",
       "posts": 386
     },
     {
+      "domain": "theregister.com",
+      "posts": 382
+    },
+    {
       "domain": "bloomberg.com",
-      "posts": 367
+      "posts": 369
     },
     {
       "domain": "reddit.com",
-      "posts": 359
-    },
-    {
-      "domain": "techcrunch.com",
-      "posts": 316
+      "posts": 355
     },
     {
       "domain": "nature.com",
       "posts": 313
+    },
+    {
+      "domain": "techcrunch.com",
+      "posts": 312
     },
     {
       "domain": "huggingface.co",
@@ -122,27 +122,27 @@
     },
     {
       "domain": "wired.com",
-      "posts": 248
+      "posts": 245
     },
     {
       "domain": "theverge.com",
-      "posts": 241
+      "posts": 237
     },
     {
       "domain": "economist.com",
-      "posts": 236
+      "posts": 232
     },
     {
       "domain": "tomshardware.com",
-      "posts": 231
+      "posts": 230
     },
     {
       "domain": "cnbc.com",
-      "posts": 225
+      "posts": 228
     },
     {
       "domain": "theatlantic.com",
-      "posts": 217
+      "posts": 220
     },
     {
       "domain": "phoronix.com",
@@ -154,7 +154,7 @@
     },
     {
       "domain": "apnews.com",
-      "posts": 176
+      "posts": 177
     },
     {
       "domain": "cnn.com",
@@ -162,71 +162,71 @@
     },
     {
       "domain": "apps.apple.com",
-      "posts": 172
+      "posts": 174
     },
     {
       "domain": "spectrum.ieee.org",
-      "posts": 157
-    },
-    {
-      "domain": "chromewebstore.google.com",
-      "posts": 140
+      "posts": 158
     },
     {
       "domain": "washingtonpost.com",
-      "posts": 140
+      "posts": 138
+    },
+    {
+      "domain": "chromewebstore.google.com",
+      "posts": 137
     },
     {
       "domain": "science.org",
-      "posts": 134
+      "posts": 132
     },
     {
       "domain": "openai.com",
       "posts": 131
     },
     {
-      "domain": "404media.co",
-      "posts": 130
+      "domain": "bbc.co.uk",
+      "posts": 129
     },
     {
-      "domain": "bbc.co.uk",
-      "posts": 130
+      "domain": "404media.co",
+      "posts": 128
     },
     {
       "domain": "blog.cloudflare.com",
-      "posts": 124
+      "posts": 125
+    },
+    {
+      "domain": "zenodo.org",
+      "posts": 125
+    },
+    {
+      "domain": "anthropic.com",
+      "posts": 123
     },
     {
       "domain": "axios.com",
       "posts": 123
     },
     {
-      "domain": "zenodo.org",
+      "domain": "cbc.ca",
       "posts": 123
     },
     {
-      "domain": "cbc.ca",
+      "domain": "macrumors.com",
       "posts": 122
     },
     {
-      "domain": "macrumors.com",
-      "posts": 121
-    },
-    {
       "domain": "newyorker.com",
-      "posts": 120
-    },
-    {
-      "domain": "anthropic.com",
       "posts": 119
-    },
-    {
-      "domain": "quantamagazine.org",
-      "posts": 114
     },
     {
       "domain": "devblogs.microsoft.com",
       "posts": 113
+    },
+    {
+      "domain": "quantamagazine.org",
+      "posts": 111
     },
     {
       "domain": "lwn.net",
@@ -238,14 +238,14 @@
     },
     {
       "domain": "businessinsider.com",
-      "posts": 97
+      "posts": 95
     },
     {
-      "domain": "bleepingcomputer.com",
+      "domain": "gizmodo.com",
       "posts": 93
     },
     {
-      "domain": "phys.org",
+      "domain": "bleepingcomputer.com",
       "posts": 91
     },
     {
@@ -253,23 +253,15 @@
       "posts": 90
     },
     {
-      "domain": "gizmodo.com",
+      "domain": "phys.org",
       "posts": 89
     },
     {
       "domain": "johndcook.com",
-      "posts": 88
-    },
-    {
-      "domain": "seangoedecke.com",
       "posts": 87
     },
     {
       "domain": "politico.com",
-      "posts": 86
-    },
-    {
-      "domain": "theconversation.com",
       "posts": 86
     },
     {
@@ -281,24 +273,36 @@
       "posts": 85
     },
     {
+      "domain": "seangoedecke.com",
+      "posts": 85
+    },
+    {
+      "domain": "play.google.com",
+      "posts": 84
+    },
+    {
+      "domain": "theconversation.com",
+      "posts": 84
+    },
+    {
       "domain": "artificialanalysis.ai",
       "posts": 81
     },
     {
-      "domain": "play.google.com",
-      "posts": 80
-    },
-    {
       "domain": "eff.org",
-      "posts": 77
-    },
-    {
-      "domain": "abc.net.au",
-      "posts": 76
+      "posts": 79
     },
     {
       "domain": "terrytao.wordpress.com",
+      "posts": 78
+    },
+    {
+      "domain": "techdirt.com",
       "posts": 75
+    },
+    {
+      "domain": "abc.net.au",
+      "posts": 73
     },
     {
       "domain": "servethehome.com",
@@ -309,23 +313,19 @@
       "posts": 72
     },
     {
-      "domain": "scientificamerican.com",
-      "posts": 72
-    },
-    {
-      "domain": "techdirt.com",
-      "posts": 72
-    },
-    {
       "domain": "finance.yahoo.com",
-      "posts": 70
+      "posts": 71
     },
     {
-      "domain": "clickhouse.com",
-      "posts": 68
+      "domain": "scientificamerican.com",
+      "posts": 71
     },
     {
       "domain": "electrek.co",
+      "posts": 69
+    },
+    {
+      "domain": "clickhouse.com",
       "posts": 67
     },
     {
@@ -334,19 +334,23 @@
     },
     {
       "domain": "hackaday.com",
-      "posts": 66
+      "posts": 67
     },
     {
       "domain": "sciencedaily.com",
-      "posts": 66
-    },
-    {
-      "domain": "nautil.us",
       "posts": 65
     },
     {
-      "domain": "github.blog",
+      "domain": "nautil.us",
       "posts": 64
+    },
+    {
+      "domain": "github.blog",
+      "posts": 63
+    },
+    {
+      "domain": "apple.com",
+      "posts": 62
     },
     {
       "domain": "fortune.com",
@@ -357,43 +361,39 @@
       "posts": 61
     },
     {
+      "domain": "sciencealert.com",
+      "posts": 59
+    },
+    {
       "domain": "vercel.com",
       "posts": 59
     },
     {
-      "domain": "sciencealert.com",
-      "posts": 58
-    },
-    {
-      "domain": "apple.com",
-      "posts": 55
-    },
-    {
       "domain": "simonwillison.net",
-      "posts": 55
+      "posts": 57
     },
     {
       "domain": "astralcodexten.com",
-      "posts": 53
-    },
-    {
-      "domain": "web.archive.org",
-      "posts": 53
+      "posts": 52
     },
     {
       "domain": "engadget.com",
       "posts": 52
     },
     {
+      "domain": "thenewstack.io",
+      "posts": 50
+    },
+    {
+      "domain": "web.archive.org",
+      "posts": 50
+    },
+    {
       "domain": "claude.com",
       "posts": 49
     },
     {
-      "domain": "thenewstack.io",
-      "posts": 49
-    },
-    {
-      "domain": "dl.acm.org",
+      "domain": "news.mit.edu",
       "posts": 48
     },
     {
@@ -401,23 +401,23 @@
       "posts": 48
     },
     {
-      "domain": "thezvi.substack.com",
-      "posts": 48
-    },
-    {
-      "domain": "cbsnews.com",
-      "posts": 47
-    },
-    {
       "domain": "neowin.net",
       "posts": 47
     },
     {
-      "domain": "news.mit.edu",
+      "domain": "thezvi.substack.com",
       "posts": 47
     },
     {
       "domain": "bsky.app",
+      "posts": 46
+    },
+    {
+      "domain": "cbsnews.com",
+      "posts": 46
+    },
+    {
+      "domain": "dl.acm.org",
       "posts": 46
     },
     {
@@ -429,15 +429,15 @@
       "posts": 44
     },
     {
+      "domain": "politico.eu",
+      "posts": 44
+    },
+    {
       "domain": "aws.amazon.com",
       "posts": 43
     },
     {
-      "domain": "politico.eu",
-      "posts": 43
-    },
-    {
-      "domain": "cacm.acm.org",
+      "domain": "archive.org",
       "posts": 42
     },
     {
@@ -448,67 +448,67 @@
   "top_authors": [
     {
       "by": "verdverm",
-      "posts": 1961
+      "posts": 1992
     },
     {
       "by": "inigyou",
-      "posts": 1946
+      "posts": 1821
     },
     {
       "by": "mitxela",
-      "posts": 1785
+      "posts": 1790
     },
     {
       "by": "ChrisArchitect",
-      "posts": 1606
+      "posts": 1632
     },
     {
       "by": "pjmlp",
-      "posts": 1604
+      "posts": 1599
     },
     {
       "by": "toomuchtodo",
-      "posts": 1603
+      "posts": 1595
     },
     {
       "by": "jacquesm",
-      "posts": 1525
+      "posts": 1580
     },
     {
       "by": "pixl97",
-      "posts": 1458
+      "posts": 1474
     },
     {
       "by": "andsoitis",
-      "posts": 1417
+      "posts": 1404
     },
     {
       "by": "dgellow",
-      "posts": 1333
+      "posts": 1310
     },
     {
       "by": "embedding-shape",
-      "posts": 1298
+      "posts": 1239
     },
     {
       "by": "JumpCrisscross",
-      "posts": 1144
+      "posts": 1162
     },
     {
       "by": "rbanffy",
-      "posts": 1133
+      "posts": 1131
     },
     {
       "by": "account42",
-      "posts": 1107
+      "posts": 1081
     },
     {
       "by": "amelius",
-      "posts": 1040
+      "posts": 1041
     },
     {
       "by": "speckx",
-      "posts": 1024
+      "posts": 1007
     },
     {
       "by": "bookofjoe",
@@ -520,330 +520,330 @@
     },
     {
       "by": "LoganDark",
-      "posts": 920
+      "posts": 928
     },
     {
       "by": "bluGill",
-      "posts": 891
+      "posts": 902
     },
     {
       "by": "SoftTalker",
-      "posts": 875
+      "posts": 881
     },
     {
       "by": "tptacek",
-      "posts": 869
-    },
-    {
-      "by": "fragmede",
-      "posts": 868
+      "posts": 862
     },
     {
       "by": "someonebaggy",
       "posts": 853
     },
     {
+      "by": "fragmede",
+      "posts": 838
+    },
+    {
       "by": "dofm",
-      "posts": 851
-    },
-    {
-      "by": "walrus01",
-      "posts": 849
-    },
-    {
-      "by": "andai",
-      "posts": 846
-    },
-    {
-      "by": "tosh",
-      "posts": 841
-    },
-    {
-      "by": "Bluestein",
-      "posts": 834
-    },
-    {
-      "by": "TeMPOraL",
-      "posts": 826
+      "posts": 835
     },
     {
       "by": "ibobev",
-      "posts": 819
+      "posts": 826
+    },
+    {
+      "by": "Bluestein",
+      "posts": 825
+    },
+    {
+      "by": "andai",
+      "posts": 825
+    },
+    {
+      "by": "tosh",
+      "posts": 823
+    },
+    {
+      "by": "walrus01",
+      "posts": 823
+    },
+    {
+      "by": "TeMPOraL",
+      "posts": 821
     },
     {
       "by": "cindyllm",
-      "posts": 817
-    },
-    {
-      "by": "chrisjj",
-      "posts": 800
+      "posts": 806
     },
     {
       "by": "watwut",
-      "posts": 799
+      "posts": 783
     },
     {
-      "by": "cyanydeez",
-      "posts": 788
+      "by": "chrisjj",
+      "posts": 782
     },
     {
       "by": "dang",
+      "posts": 774
+    },
+    {
+      "by": "cyanydeez",
       "posts": 772
     },
     {
       "by": "estearum",
-      "posts": 765
-    },
-    {
-      "by": "mooreds",
-      "posts": 760
-    },
-    {
-      "by": "Dylan16807",
-      "posts": 754
+      "posts": 758
     },
     {
       "by": "zahlman",
-      "posts": 741
+      "posts": 754
     },
     {
-      "by": "simonw",
-      "posts": 725
+      "by": "Dylan16807",
+      "posts": 750
+    },
+    {
+      "by": "mooreds",
+      "posts": 747
     },
     {
       "by": "bigyabai",
-      "posts": 721
-    },
-    {
-      "by": "eru",
-      "posts": 720
+      "posts": 729
     },
     {
       "by": "ButlerianJihad",
       "posts": 719
     },
     {
-      "by": "iamnothere",
-      "posts": 716
-    },
-    {
-      "by": "matheusmoreira",
-      "posts": 702
+      "by": "eru",
+      "posts": 719
     },
     {
       "by": "MiroslavPokorny",
-      "posts": 696
+      "posts": 708
+    },
+    {
+      "by": "iamnothere",
+      "posts": 707
+    },
+    {
+      "by": "simonw",
+      "posts": 705
+    },
+    {
+      "by": "matheusmoreira",
+      "posts": 695
     },
     {
       "by": "Aurornis",
-      "posts": 688
-    },
-    {
-      "by": "mdp2021",
-      "posts": 666
-    },
-    {
-      "by": "gmays",
-      "posts": 661
-    },
-    {
-      "by": "layer8",
-      "posts": 651
-    },
-    {
-      "by": "dylan604",
-      "posts": 647
-    },
-    {
-      "by": "ericmay",
-      "posts": 647
-    },
-    {
-      "by": "mahboi",
-      "posts": 637
-    },
-    {
-      "by": "hardbass",
-      "posts": 626
-    },
-    {
-      "by": "Gigachad",
-      "posts": 618
-    },
-    {
-      "by": "hypfer",
-      "posts": 618
-    },
-    {
-      "by": "rayiner",
-      "posts": 617
+      "posts": 693
     },
     {
       "by": "cowlevel",
-      "posts": 616
+      "posts": 682
     },
     {
-      "by": "otterley",
-      "posts": 616
+      "by": "gmays",
+      "posts": 676
+    },
+    {
+      "by": "mahboi",
+      "posts": 670
+    },
+    {
+      "by": "ericmay",
+      "posts": 654
+    },
+    {
+      "by": "layer8",
+      "posts": 653
+    },
+    {
+      "by": "mdp2021",
+      "posts": 651
+    },
+    {
+      "by": "hypfer",
+      "posts": 648
+    },
+    {
+      "by": "dylan604",
+      "posts": 640
+    },
+    {
+      "by": "hardbass",
+      "posts": 636
+    },
+    {
+      "by": "rayiner",
+      "posts": 631
     },
     {
       "by": "pjc50",
-      "posts": 616
-    },
-    {
-      "by": "shevy-java",
       "posts": 613
     },
     {
+      "by": "Gigachad",
+      "posts": 611
+    },
+    {
+      "by": "shevy-java",
+      "posts": 610
+    },
+    {
       "by": "WalterBright",
-      "posts": 609
+      "posts": 607
     },
     {
       "by": "charcircuit",
-      "posts": 609
+      "posts": 606
     },
     {
-      "by": "saghm",
+      "by": "otterley",
       "posts": 601
     },
     {
-      "by": "Terr_",
-      "posts": 589
+      "by": "saghm",
+      "posts": 594
     },
     {
       "by": "WarmWash",
-      "posts": 589
+      "posts": 591
     },
     {
       "by": "rvz",
-      "posts": 588
-    },
-    {
-      "by": "gruez",
-      "posts": 587
-    },
-    {
-      "by": "ceejayoz",
-      "posts": 586
-    },
-    {
-      "by": "antonvs",
-      "posts": 579
+      "posts": 584
     },
     {
       "by": "autoexec",
-      "posts": 574
+      "posts": 582
     },
     {
-      "by": "theanonymousone",
-      "posts": 573
-    },
-    {
-      "by": "paulpauper",
-      "posts": 572
+      "by": "Terr_",
+      "posts": 580
     },
     {
       "by": "graemep",
+      "posts": 577
+    },
+    {
+      "by": "antonvs",
       "posts": 571
     },
     {
+      "by": "theanonymousone",
+      "posts": 571
+    },
+    {
+      "by": "asdff",
+      "posts": 565
+    },
+    {
+      "by": "paulpauper",
+      "posts": 565
+    },
+    {
       "by": "wat10000",
+      "posts": 563
+    },
+    {
+      "by": "gruez",
       "posts": 562
     },
     {
-      "by": "tim333",
+      "by": "vrganj",
       "posts": 559
     },
     {
       "by": "simianwords",
-      "posts": 556
+      "posts": 557
     },
     {
       "by": "Razengan",
       "posts": 555
     },
     {
-      "by": "vrganj",
-      "posts": 551
+      "by": "ceejayoz",
+      "posts": 555
+    },
+    {
+      "by": "tim333",
+      "posts": 553
     },
     {
       "by": "esafak",
-      "posts": 548
+      "posts": 551
     },
     {
       "by": "swiftcoder",
-      "posts": 541
-    },
-    {
-      "by": "asdff",
-      "posts": 538
-    },
-    {
-      "by": "xp84",
-      "posts": 533
-    },
-    {
-      "by": "CamperBob2",
-      "posts": 531
-    },
-    {
-      "by": "BeetleB",
-      "posts": 529
+      "posts": 550
     },
     {
       "by": "Grombobulous",
-      "posts": 527
+      "posts": 544
     },
     {
-      "by": "user43928",
-      "posts": 527
+      "by": "CamperBob2",
+      "posts": 536
+    },
+    {
+      "by": "BeetleB",
+      "posts": 530
     },
     {
       "by": "bigstrat2003",
-      "posts": 526
+      "posts": 528
+    },
+    {
+      "by": "user43928",
+      "posts": 528
     },
     {
       "by": "fc417fc802",
-      "posts": 526
-    },
-    {
-      "by": "Cider9986",
-      "posts": 523
+      "posts": 524
     },
     {
       "by": "defrost",
-      "posts": 520
+      "posts": 522
     },
     {
-      "by": "AnimalMuppet",
-      "posts": 517
+      "by": "xp84",
+      "posts": 522
+    },
+    {
+      "by": "pfdietz",
+      "posts": 521
     },
     {
       "by": "esseph",
-      "posts": 517
+      "posts": 519
     },
     {
-      "by": "Forgeties79",
-      "posts": 510
-    },
-    {
-      "by": "nephihaha",
-      "posts": 509
+      "by": "AnimalMuppet",
+      "posts": 515
     },
     {
       "by": "mschuster91",
-      "posts": 508
+      "posts": 515
     },
     {
       "by": "phoghed",
-      "posts": 505
+      "posts": 515
+    },
+    {
+      "by": "Cider9986",
+      "posts": 514
+    },
+    {
+      "by": "cucumber3732842",
+      "posts": 502
+    },
+    {
+      "by": "Forgeties79",
+      "posts": 501
     },
     {
       "by": "nradov",
-      "posts": 503
-    },
-    {
-      "by": "VCFundedGenYer",
       "posts": 501
     }
   ],
@@ -1616,19 +1616,6 @@
       "deleted": 0
     },
     {
-      "id": 49254880,
-      "type": "story",
-      "by": "aziaziazi",
-      "time": 1786436146,
-      "title": "France to ban unsolicited telemarketing calls",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "domain": "lemonde.fr",
-      "score": 1064,
-      "descendants": 512,
-      "dead": 0,
-      "deleted": 0
-    },
-    {
       "id": 49371857,
       "type": "story",
       "by": "pjerem",
@@ -2147,6 +2134,19 @@
       "descendants": 1056,
       "dead": 0,
       "deleted": 0
+    },
+    {
+      "id": 49347543,
+      "type": "story",
+      "by": "Ariarule",
+      "time": 1787068252,
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "domain": "experimental-history.com",
+      "score": 873,
+      "descendants": 340,
+      "dead": 0,
+      "deleted": 0
     }
   ],
   "concentration": {
@@ -2159,257 +2159,257 @@
     },
     "totals": {
       "posts": 1000000,
-      "points": 1295598,
-      "comments": 678802
+      "points": 1291271,
+      "comments": 675832
     },
     "entities": {
       "author": {
-        "count": 94255,
-        "gini_points": 0.962759,
-        "gini_posts": 0.777714,
+        "count": 94344,
+        "gini_points": 0.962727,
+        "gini_posts": 0.777747,
         "lorenz_points": [
           [
-            1.061e-05,
-            0.0177
+            1.06e-05,
+            0.017591
           ],
           [
-            2.122e-05,
-            0.030304
+            2.12e-05,
+            0.0302
           ],
           [
-            3.183e-05,
-            0.038808
+            3.18e-05,
+            0.038563
           ],
           [
-            4.244e-05,
-            0.047225
+            4.24e-05,
+            0.046724
           ],
           [
-            5.305e-05,
-            0.054278
+            5.3e-05,
+            0.053738
           ],
           [
-            6.366e-05,
-            0.061037
+            6.36e-05,
+            0.060701
           ],
           [
-            7.427e-05,
-            0.067231
+            7.42e-05,
+            0.066912
           ],
           [
-            8.488e-05,
-            0.073211
+            8.48e-05,
+            0.072913
           ],
           [
-            9.549e-05,
-            0.078375
+            9.54e-05,
+            0.078132
           ],
           [
-            0.0001167,
-            0.088138
+            0.00011659,
+            0.088057
           ],
           [
-            0.00013792,
-            0.096943
+            0.00013779,
+            0.09676
           ],
           [
-            0.00016975,
-            0.108126
+            0.00016959,
+            0.10808
           ],
           [
-            0.00019097,
-            0.115441
+            0.00019079,
+            0.115242
           ],
           [
-            0.00023341,
-            0.128034
+            0.00023319,
+            0.127829
           ],
           [
-            0.00027585,
-            0.139735
+            0.00027559,
+            0.139573
           ],
           [
-            0.0003289,
-            0.153262
+            0.00032858,
+            0.153027
           ],
           [
-            0.00039255,
-            0.168131
+            0.00039218,
+            0.16803
           ],
           [
-            0.00045621,
-            0.182029
+            0.00045578,
+            0.182045
           ],
           [
-            0.00055169,
-            0.200643
+            0.00055117,
+            0.20065
           ],
           [
-            0.00064718,
-            0.217225
+            0.00064657,
+            0.217003
           ],
           [
-            0.00077449,
-            0.23698
+            0.00077376,
+            0.236861
           ],
           [
-            0.00092303,
-            0.257329
+            0.00092216,
+            0.257326
           ],
           [
-            0.00109278,
-            0.278035
+            0.00109175,
+            0.277935
           ],
           [
-            0.00130497,
-            0.301278
+            0.00130374,
+            0.300969
           ],
           [
-            0.00154899,
-            0.325359
+            0.00155813,
+            0.326101
           ],
           [
-            0.00184606,
-            0.350997
+            0.00184431,
+            0.350956
           ],
           [
-            0.00220678,
-            0.37927
+            0.0022047,
+            0.379325
           ],
           [
-            0.00262055,
-            0.408859
+            0.00261808,
+            0.408886
           ],
           [
-            0.0031192,
-            0.44038
+            0.00312685,
+            0.441072
           ],
           [
-            0.00371333,
-            0.473486
+            0.00372043,
+            0.474233
           ],
           [
-            0.00442417,
-            0.509298
+            0.00443059,
+            0.509936
           ],
           [
-            0.00527293,
-            0.546768
+            0.00526796,
+            0.546796
           ],
           [
-            0.00628083,
-            0.585084
+            0.00627491,
+            0.584907
           ],
           [
-            0.00747971,
-            0.623341
+            0.00747265,
+            0.623191
           ],
           [
-            0.00890138,
-            0.661674
+            0.00890359,
+            0.66171
           ],
           [
-            0.01060952,
-            0.700289
+            0.01061011,
+            0.70022
           ],
           [
-            0.01263593,
-            0.7379
+            0.01263461,
+            0.73794
           ],
           [
-            0.01504429,
-            0.773301
+            0.0150407,
+            0.773386
           ],
           [
-            0.01791947,
-            0.806186
+            0.01791317,
+            0.806314
           ],
           [
-            0.02134635,
-            0.835644
+            0.02133681,
+            0.835819
           ],
           [
-            0.0254204,
-            0.861139
+            0.02541762,
+            0.861346
           ],
           [
-            0.03027956,
-            0.882416
+            0.0302722,
+            0.882611
           ],
           [
-            0.03606175,
-            0.89945
+            0.03605953,
+            0.899549
           ],
           [
-            0.04294732,
-            0.91295
+            0.04294921,
+            0.912979
           ],
           [
-            0.05115909,
-            0.923994
+            0.05115323,
+            0.923951
           ],
           [
-            0.06093045,
-            0.933401
+            0.06093657,
+            0.933346
           ],
           [
-            0.0725797,
-            0.941744
+            0.07257483,
+            0.941681
           ],
           [
-            0.08644634,
-            0.949338
+            0.08643899,
+            0.949263
           ],
           [
-            0.10296536,
-            0.956308
+            0.10296362,
+            0.956225
           ],
           [
-            0.1226354,
-            0.962911
+            0.12263631,
+            0.962827
           ],
           [
-            0.14607183,
-            0.969235
+            0.14607182,
+            0.969151
           ],
           [
-            0.17398546,
-            0.975327
+            0.17399093,
+            0.975271
           ],
           [
-            0.20723569,
-            0.980666
+            0.20724158,
+            0.98059
           ],
           [
-            0.24684102,
-            0.986429
+            0.24684135,
+            0.986376
           ],
           [
-            0.29401093,
-            0.990323
+            0.29400916,
+            0.990267
           ],
           [
-            0.35019893,
-            0.994411
+            0.35019715,
+            0.994372
           ],
           [
-            0.41711315,
-            0.999279
+            0.41712245,
+            0.999262
           ],
           [
-            0.49683306,
+            0.49683075,
             1.0
           ],
           [
-            0.59177762,
+            0.59177054,
             1.0
           ],
           [
-            0.70486446,
+            0.70486729,
             1.0
           ],
           [
-            0.83956289,
+            0.83956584,
             1.0
           ],
           [
@@ -2419,248 +2419,248 @@
         ],
         "lorenz_posts": [
           [
-            1.061e-05,
-            0.002025
+            1.06e-05,
+            0.002057
           ],
           [
-            2.122e-05,
-            0.004035
+            2.12e-05,
+            0.003938
           ],
           [
-            3.183e-05,
-            0.005879
+            3.18e-05,
+            0.005787
           ],
           [
-            4.244e-05,
-            0.007538
+            4.24e-05,
+            0.007473
           ],
           [
-            5.305e-05,
-            0.009194
+            5.3e-05,
+            0.009124
           ],
           [
-            6.366e-05,
-            0.01085
+            6.36e-05,
+            0.010772
           ],
           [
-            7.427e-05,
-            0.012425
+            7.42e-05,
+            0.012403
           ],
           [
-            8.488e-05,
-            0.013931
+            8.48e-05,
+            0.013926
           ],
           [
-            9.549e-05,
-            0.015394
+            9.54e-05,
+            0.015376
           ],
           [
-            0.0001167,
-            0.018112
+            0.00011659,
+            0.018009
           ],
           [
-            0.00013792,
-            0.020464
+            0.00013779,
+            0.020377
           ],
           [
-            0.00016975,
-            0.023739
+            0.00016959,
+            0.023609
           ],
           [
-            0.00019097,
-            0.025689
+            0.00019079,
+            0.025559
           ],
           [
-            0.00023341,
-            0.029361
+            0.00023319,
+            0.029249
           ],
           [
-            0.00027585,
-            0.032894
+            0.00027559,
+            0.032711
           ],
           [
-            0.0003289,
-            0.037197
+            0.00032858,
+            0.036964
           ],
           [
-            0.00039255,
-            0.042093
+            0.00039218,
+            0.041792
           ],
           [
-            0.00045621,
-            0.04666
+            0.00045578,
+            0.046355
           ],
           [
-            0.00055169,
-            0.053007
+            0.00055117,
+            0.052749
           ],
           [
-            0.00064718,
-            0.058803
+            0.00064657,
+            0.058629
           ],
           [
-            0.00077449,
-            0.066133
+            0.00077376,
+            0.065889
           ],
           [
-            0.00092303,
-            0.074058
+            0.00092216,
+            0.07385
           ],
           [
-            0.00109278,
-            0.082516
+            0.00109175,
+            0.082315
           ],
           [
-            0.00130497,
-            0.092251
+            0.00130374,
+            0.092054
           ],
           [
-            0.00154899,
-            0.102469
+            0.00155813,
+            0.102706
           ],
           [
-            0.00184606,
-            0.114058
+            0.00184431,
+            0.113909
           ],
           [
-            0.00220678,
-            0.127189
+            0.0022047,
+            0.127069
           ],
           [
-            0.00262055,
-            0.141105
+            0.00261808,
+            0.140904
           ],
           [
-            0.0031192,
-            0.156452
+            0.00312685,
+            0.156607
           ],
           [
-            0.00371333,
-            0.173425
+            0.00372043,
+            0.17352
           ],
           [
-            0.00442417,
-            0.191991
+            0.00443059,
+            0.192022
           ],
           [
-            0.00527293,
-            0.211889
+            0.00526796,
+            0.211708
           ],
           [
-            0.00628083,
-            0.233015
+            0.00627491,
+            0.232822
           ],
           [
-            0.00747971,
-            0.255481
+            0.00747265,
+            0.255318
           ],
           [
-            0.00890138,
-            0.279317
+            0.00890359,
+            0.279271
           ],
           [
-            0.01060952,
-            0.305292
+            0.01061011,
+            0.305287
           ],
           [
-            0.01263593,
-            0.333147
+            0.01263461,
+            0.333108
           ],
           [
-            0.01504429,
-            0.362333
+            0.0150407,
+            0.362307
           ],
           [
-            0.01791947,
-            0.393031
+            0.01791317,
+            0.393052
           ],
           [
-            0.02134635,
-            0.425026
+            0.02133681,
+            0.425081
           ],
           [
-            0.0254204,
-            0.457799
+            0.02541762,
+            0.457918
           ],
           [
-            0.03027956,
-            0.491167
+            0.0302722,
+            0.491284
           ],
           [
-            0.03606175,
-            0.524821
+            0.03605953,
+            0.525011
           ],
           [
-            0.04294732,
-            0.559103
+            0.04294921,
+            0.559364
           ],
           [
-            0.05115909,
-            0.593509
+            0.05115323,
+            0.593737
           ],
           [
-            0.06093045,
-            0.627715
+            0.06093657,
+            0.627918
           ],
           [
-            0.0725797,
-            0.661201
+            0.07257483,
+            0.661343
           ],
           [
-            0.08644634,
-            0.693706
+            0.08643899,
+            0.693821
           ],
           [
-            0.10296536,
-            0.725127
+            0.10296362,
+            0.725301
           ],
           [
-            0.1226354,
-            0.75522
+            0.12263631,
+            0.755353
           ],
           [
-            0.14607183,
-            0.783778
+            0.14607182,
+            0.783902
           ],
           [
-            0.17398546,
-            0.810869
+            0.17399093,
+            0.810968
           ],
           [
-            0.20723569,
-            0.836236
+            0.20724158,
+            0.836276
           ],
           [
-            0.24684102,
-            0.860374
+            0.24684135,
+            0.860393
           ],
           [
-            0.29401093,
-            0.882366
+            0.29400916,
+            0.882376
           ],
           [
-            0.35019893,
-            0.90309
+            0.35019715,
+            0.903087
           ],
           [
-            0.41711315,
-            0.922632
+            0.41712245,
+            0.922651
           ],
           [
-            0.49683306,
-            0.939078
+            0.49683075,
+            0.939045
           ],
           [
-            0.59177762,
-            0.957564
+            0.59177054,
+            0.957548
           ],
           [
-            0.70486446,
-            0.971268
+            0.70486729,
+            0.971241
           ],
           [
-            0.83956289,
-            0.984381
+            0.83956584,
+            0.984367
           ],
           [
             1.0,
@@ -2670,45 +2670,45 @@
         "top": [
           {
             "name": "speckx",
-            "posts": 1024,
-            "points": 22932,
-            "comments": 13389
+            "posts": 1007,
+            "points": 22715,
+            "comments": 13247
           },
           {
             "name": "tosh",
-            "posts": 841,
-            "points": 16330,
-            "comments": 8596
-          },
-          {
-            "name": "theanonymousone",
-            "posts": 573,
-            "points": 11018,
-            "comments": 5859
+            "posts": 823,
+            "points": 16282,
+            "comments": 8594
           },
           {
             "name": "ibobev",
-            "posts": 819,
-            "points": 10904,
-            "comments": 5198
+            "posts": 826,
+            "points": 10798,
+            "comments": 5205
+          },
+          {
+            "name": "theanonymousone",
+            "posts": 571,
+            "points": 10538,
+            "comments": 5655
           },
           {
             "name": "surprisetalk",
-            "posts": 479,
-            "points": 9139,
-            "comments": 4732
+            "posts": 480,
+            "points": 9057,
+            "comments": 4724
           },
           {
             "name": "rbanffy",
-            "posts": 1133,
-            "points": 8757,
-            "comments": 4597
+            "posts": 1131,
+            "points": 8991,
+            "comments": 4681
           },
           {
             "name": "bookofjoe",
             "posts": 957,
-            "points": 8024,
-            "comments": 4700
+            "points": 8021,
+            "comments": 4698
           },
           {
             "name": "zdw",
@@ -2717,171 +2717,177 @@
             "comments": 3612
           },
           {
-            "name": "mooreds",
-            "posts": 760,
-            "points": 6691,
-            "comments": 3022
-          },
-          {
             "name": "DeepLogin",
-            "posts": 127,
-            "points": 6460,
-            "comments": 3955
+            "posts": 130,
+            "points": 6740,
+            "comments": 4099
           },
           {
-            "name": "Bluestein",
-            "posts": 834,
-            "points": 6189,
-            "comments": 2352
+            "name": "mooreds",
+            "posts": 747,
+            "points": 6650,
+            "comments": 3012
           },
           {
             "name": "gmays",
-            "posts": 661,
-            "points": 6129,
-            "comments": 2461
+            "posts": 676,
+            "points": 6166,
+            "comments": 2469
+          },
+          {
+            "name": "Bluestein",
+            "posts": 825,
+            "points": 5966,
+            "comments": 2288
           },
           {
             "name": "pseudolus",
-            "posts": 286,
-            "points": 5278,
-            "comments": 3568
+            "posts": 285,
+            "points": 5271,
+            "comments": 3566
           },
           {
             "name": "Philpax",
-            "posts": 108,
-            "points": 4891,
-            "comments": 2390
+            "posts": 112,
+            "points": 5016,
+            "comments": 2441
           },
           {
             "name": "geox",
-            "posts": 376,
-            "points": 4815,
-            "comments": 3284
+            "posts": 371,
+            "points": 4820,
+            "comments": 3289
           },
           {
             "name": "signa11",
-            "posts": 221,
-            "points": 4783,
+            "posts": 220,
+            "points": 4782,
             "comments": 2780
           },
           {
             "name": "Brajeshwar",
-            "posts": 371,
-            "points": 4750,
-            "comments": 3343
+            "posts": 368,
+            "points": 4770,
+            "comments": 3346
           },
           {
             "name": "andsoitis",
-            "posts": 1417,
-            "points": 4727,
-            "comments": 3508
+            "posts": 1404,
+            "points": 4478,
+            "comments": 3283
           },
           {
             "name": "pavel_lishin",
-            "posts": 261,
-            "points": 4252,
+            "posts": 251,
+            "points": 4253,
             "comments": 1526
           },
           {
             "name": "sbulaev",
-            "posts": 420,
-            "points": 4157,
+            "posts": 413,
+            "points": 4129,
             "comments": 1982
           },
           {
             "name": "giuliomagnifico",
-            "posts": 239,
-            "points": 4010,
+            "posts": 241,
+            "points": 4016,
             "comments": 2568
+          },
+          {
+            "name": "hn_acker",
+            "posts": 325,
+            "points": 3855,
+            "comments": 1734
           },
           {
             "name": "birdculture",
             "posts": 430,
-            "points": 3896,
-            "comments": 1236
-          },
-          {
-            "name": "Cider9986",
-            "posts": 523,
-            "points": 3825,
-            "comments": 2496
-          },
-          {
-            "name": "hn_acker",
-            "posts": 324,
-            "points": 3785,
-            "comments": 1730
-          },
-          {
-            "name": "matt_d",
-            "posts": 262,
-            "points": 3783,
-            "comments": 951
-          },
-          {
-            "name": "cdrnsf",
-            "posts": 301,
-            "points": 3767,
-            "comments": 2029
+            "points": 3853,
+            "comments": 1228
           },
           {
             "name": "meetpateltech",
-            "posts": 64,
-            "points": 3677,
-            "comments": 2353
+            "posts": 66,
+            "points": 3831,
+            "comments": 2548
           },
           {
-            "name": "mfiguiere",
-            "posts": 77,
-            "points": 3635,
-            "comments": 1555
+            "name": "Cider9986",
+            "posts": 514,
+            "points": 3808,
+            "comments": 2490
           },
           {
-            "name": "Anon84",
-            "posts": 244,
-            "points": 3529,
-            "comments": 2688
-          },
-          {
-            "name": "ilamont",
-            "posts": 148,
-            "points": 3376,
-            "comments": 2899
-          },
-          {
-            "name": "robtherobber",
-            "posts": 125,
-            "points": 3309,
-            "comments": 2212
-          },
-          {
-            "name": "luu",
-            "posts": 76,
-            "points": 3296,
-            "comments": 1346
-          },
-          {
-            "name": "doener",
-            "posts": 270,
-            "points": 3260,
-            "comments": 1218
+            "name": "matt_d",
+            "posts": 253,
+            "points": 3672,
+            "comments": 911
           },
           {
             "name": "ilreb",
-            "posts": 100,
-            "points": 3212,
-            "comments": 1327
+            "posts": 102,
+            "points": 3657,
+            "comments": 1636
+          },
+          {
+            "name": "mfiguiere",
+            "posts": 78,
+            "points": 3637,
+            "comments": 1557
+          },
+          {
+            "name": "cdrnsf",
+            "posts": 291,
+            "points": 3381,
+            "comments": 1728
+          },
+          {
+            "name": "robtherobber",
+            "posts": 129,
+            "points": 3364,
+            "comments": 2212
+          },
+          {
+            "name": "Anon84",
+            "posts": 242,
+            "points": 3334,
+            "comments": 2636
+          },
+          {
+            "name": "gumby",
+            "posts": 300,
+            "points": 3312,
+            "comments": 1761
+          },
+          {
+            "name": "luu",
+            "posts": 79,
+            "points": 3302,
+            "comments": 1346
+          },
+          {
+            "name": "JumpCrisscross",
+            "posts": 1162,
+            "points": 3228,
+            "comments": 1416
+          },
+          {
+            "name": "doener",
+            "posts": 268,
+            "points": 3186,
+            "comments": 1185
           },
           {
             "name": "iamnothere",
-            "posts": 716,
-            "points": 3174,
+            "posts": 707,
+            "points": 3176,
             "comments": 1535
           },
           {
             "name": "Tomte",
-            "posts": 347,
-            "points": 3164,
+            "posts": 350,
+            "points": 3169,
             "comments": 1580
           },
           {
@@ -2897,28 +2903,16 @@
             "comments": 2333
           },
           {
-            "name": "JumpCrisscross",
-            "posts": 1144,
-            "points": 3020,
-            "comments": 1347
-          },
-          {
             "name": "colinprince",
-            "posts": 97,
-            "points": 3016,
+            "posts": 98,
+            "points": 3017,
             "comments": 1731
           },
           {
             "name": "NaOH",
-            "posts": 41,
-            "points": 2982,
-            "comments": 1233
-          },
-          {
-            "name": "gumby",
-            "posts": 295,
-            "points": 2960,
-            "comments": 1480
+            "posts": 40,
+            "points": 2970,
+            "comments": 1224
           },
           {
             "name": "ingve",
@@ -2928,264 +2922,270 @@
           },
           {
             "name": "herbertl",
-            "posts": 98,
-            "points": 2925,
+            "posts": 97,
+            "points": 2923,
             "comments": 1842
           },
           {
             "name": "bilsbie",
             "posts": 209,
-            "points": 2869,
-            "comments": 2399
+            "points": 2870,
+            "comments": 2400
+          },
+          {
+            "name": "ilamont",
+            "posts": 143,
+            "points": 2841,
+            "comments": 2407
           },
           {
             "name": "chmaynard",
-            "posts": 54,
-            "points": 2798,
-            "comments": 1660
+            "posts": 55,
+            "points": 2804,
+            "comments": 1661
           },
           {
             "name": "rzk",
-            "posts": 98,
-            "points": 2755,
-            "comments": 1906
+            "posts": 93,
+            "points": 2743,
+            "comments": 1904
           },
           {
             "name": "paimapi",
-            "posts": 461,
+            "posts": 472,
             "points": 2663,
             "comments": 1888
           },
           {
-            "name": "mdp2021",
-            "posts": 666,
-            "points": 2549,
-            "comments": 1330
-          },
-          {
             "name": "porridgeraisin",
             "posts": 297,
-            "points": 2541,
-            "comments": 1163
+            "points": 2568,
+            "comments": 1172
+          },
+          {
+            "name": "mdp2021",
+            "posts": 651,
+            "points": 2530,
+            "comments": 1328
           }
         ]
       },
       "domain": {
-        "count": 26516,
-        "gini_points": 0.912821,
-        "gini_posts": 0.613678,
+        "count": 26497,
+        "gini_points": 0.912788,
+        "gini_posts": 0.61306,
         "lorenz_points": [
           [
-            3.771e-05,
-            0.062048
+            3.774e-05,
+            0.061615
           ],
           [
-            7.543e-05,
-            0.078222
+            7.548e-05,
+            0.077789
           ],
           [
-            0.00011314,
-            0.091069
+            0.00011322,
+            0.090681
           ],
           [
-            0.00015085,
-            0.103144
+            0.00015096,
+            0.102698
           ],
           [
-            0.00018857,
-            0.114586
+            0.0001887,
+            0.113924
           ],
           [
-            0.00022628,
-            0.125997
+            0.00022644,
+            0.124662
           ],
           [
-            0.0003017,
-            0.14351
+            0.00030192,
+            0.142405
           ],
           [
-            0.00033942,
-            0.151665
+            0.00033966,
+            0.150739
           ],
           [
-            0.00041484,
-            0.166481
+            0.00041514,
+            0.165428
           ],
           [
-            0.00049027,
-            0.178998
+            0.00049062,
+            0.178536
           ],
           [
-            0.0005657,
-            0.189955
+            0.0005661,
+            0.189373
           ],
           [
-            0.00067884,
-            0.204271
+            0.00067932,
+            0.203569
           ],
           [
-            0.00079197,
-            0.217269
+            0.00079254,
+            0.216242
           ],
           [
-            0.00094283,
-            0.233337
+            0.0009435,
+            0.232403
           ],
           [
-            0.00109368,
-            0.24778
+            0.00109446,
+            0.246965
           ],
           [
-            0.00131996,
-            0.266022
+            0.0013209,
+            0.266154
           ],
           [
-            0.00158395,
-            0.282596
+            0.00158509,
+            0.282812
           ],
           [
-            0.00184794,
-            0.296544
+            0.00184927,
+            0.296813
           ],
           [
-            0.00222507,
-            0.314713
+            0.00222667,
+            0.315063
           ],
           [
-            0.00263992,
-            0.332165
+            0.00264181,
+            0.332529
           ],
           [
-            0.00313019,
-            0.349457
+            0.00313243,
+            0.350079
           ],
           [
-            0.00373359,
-            0.3685
+            0.00373627,
+            0.369141
           ],
           [
-            0.00445014,
-            0.388929
+            0.00445333,
+            0.389372
           ],
           [
-            0.00527983,
-            0.410191
+            0.00528362,
+            0.410683
           ],
           [
-            0.00629808,
-            0.433553
+            0.0063026,
+            0.434141
           ],
           [
-            0.0075049,
-            0.457558
+            0.00747254,
+            0.457411
           ],
           [
-            0.00890029,
-            0.481978
+            0.00890667,
+            0.482539
           ],
           [
-            0.01063509,
-            0.509317
+            0.01060497,
+            0.509249
           ],
           [
-            0.01263388,
-            0.537869
+            0.01264294,
+            0.538247
           ],
           [
-            0.01504752,
-            0.568335
+            0.01505831,
+            0.568573
           ],
           [
-            0.01791371,
-            0.599271
+            0.01792656,
+            0.599433
           ],
           [
-            0.0213456,
-            0.631444
+            0.02136091,
+            0.631576
           ],
           [
-            0.02541862,
-            0.664744
+            0.02543684,
+            0.66492
           ],
           [
-            0.0302836,
-            0.698999
+            0.03030532,
+            0.699274
           ],
           [
-            0.03609142,
-            0.7337
+            0.03607956,
+            0.733913
           ],
           [
-            0.0429552,
-            0.767739
+            0.04294826,
+            0.767995
           ],
           [
-            0.05117665,
-            0.800762
+            0.0511756,
+            0.80104
           ],
           [
-            0.06094434,
-            0.831981
+            0.0609503,
+            0.832153
           ],
           [
-            0.07259768,
-            0.860779
+            0.07257425,
+            0.860792
           ],
           [
-            0.08647609,
-            0.886303
+            0.08646262,
+            0.886258
           ],
           [
-            0.10299442,
-            0.908225
+            0.10299279,
+            0.908192
           ],
           [
-            0.12264293,
-            0.925885
+            0.12265539,
+            0.925832
           ],
           [
-            0.14610047,
-            0.939266
+            0.14609201,
+            0.939182
           ],
           [
-            0.17400815,
-            0.949185
+            0.1740197,
+            0.949102
           ],
           [
-            0.20723337,
-            0.956787
+            0.20726875,
+            0.95672
           ],
           [
-            0.24686981,
-            0.963083
+            0.24685813,
+            0.963013
           ],
           [
-            0.29401116,
-            0.968649
+            0.29403329,
+            0.968602
           ],
           [
-            0.35020365,
-            0.973887
+            0.35019059,
+            0.97384
           ],
           [
-            0.41714437,
-            0.978864
+            0.41714156,
+            0.978832
           ],
           [
-            0.4968321,
-            0.984001
+            0.4968487,
+            0.983986
           ],
           [
-            0.59179363,
-            0.988249
+            0.59180285,
+            0.988216
           ],
           [
-            0.70485744,
-            0.993109
+            0.70487225,
+            0.99309
           ],
           [
-            0.83956856,
-            0.996552
+            0.83956674,
+            0.996542
           ],
           [
             1.0,
@@ -3194,216 +3194,216 @@
         ],
         "lorenz_posts": [
           [
-            3.771e-05,
-            0.105528
+            3.774e-05,
+            0.105269
           ],
           [
-            7.543e-05,
-            0.136356
+            7.548e-05,
+            0.136072
           ],
           [
-            0.00011314,
-            0.154701
+            0.00011322,
+            0.154325
           ],
           [
-            0.00015085,
-            0.167144
+            0.00015096,
+            0.166676
           ],
           [
-            0.00018857,
-            0.179148
+            0.0001887,
+            0.178693
           ],
           [
-            0.00022628,
-            0.190672
+            0.00022644,
+            0.190309
           ],
           [
-            0.0003017,
-            0.20927
+            0.00030192,
+            0.208828
           ],
           [
-            0.00033942,
-            0.217397
+            0.00033966,
+            0.217013
           ],
           [
-            0.00041484,
-            0.231372
+            0.00041514,
+            0.231006
           ],
           [
-            0.00049027,
-            0.24211
+            0.00049062,
+            0.241621
           ],
           [
-            0.0005657,
-            0.252142
+            0.0005661,
+            0.251649
           ],
           [
-            0.00067884,
-            0.265304
+            0.00067932,
+            0.264734
           ],
           [
-            0.00079197,
-            0.275389
+            0.00079254,
+            0.274748
           ],
           [
-            0.00094283,
-            0.2875
+            0.0009435,
+            0.286899
           ],
           [
-            0.00109368,
-            0.297558
+            0.00109446,
+            0.296993
           ],
           [
-            0.00131996,
-            0.309202
+            0.0013209,
+            0.30861
           ],
           [
-            0.00158395,
-            0.320832
+            0.00158509,
+            0.320306
           ],
           [
-            0.00184794,
-            0.331091
+            0.00184927,
+            0.330547
           ],
           [
-            0.00222507,
-            0.342815
+            0.00222667,
+            0.34223
           ],
           [
-            0.00263992,
-            0.353686
+            0.00264181,
+            0.353259
           ],
           [
-            0.00313019,
-            0.364304
+            0.00313243,
+            0.363994
           ],
           [
-            0.00373359,
-            0.374322
+            0.00373627,
+            0.373982
           ],
           [
-            0.00445014,
-            0.384474
+            0.00445333,
+            0.384156
           ],
           [
-            0.00527983,
-            0.395012
+            0.00528362,
+            0.394678
           ],
           [
-            0.00629808,
-            0.406216
+            0.0063026,
+            0.405894
           ],
           [
-            0.0075049,
-            0.417247
+            0.00747254,
+            0.416602
           ],
           [
-            0.00890029,
-            0.428252
+            0.00890667,
+            0.427871
           ],
           [
-            0.01063509,
-            0.440295
+            0.01060497,
+            0.439635
           ],
           [
-            0.01263388,
-            0.452459
+            0.01264294,
+            0.451919
           ],
           [
-            0.01504752,
-            0.465008
+            0.01505831,
+            0.46443
           ],
           [
-            0.01791371,
-            0.477705
+            0.01792656,
+            0.477034
           ],
           [
-            0.0213456,
-            0.490441
+            0.02136091,
+            0.489732
           ],
           [
-            0.02541862,
-            0.503391
+            0.02543684,
+            0.502751
           ],
           [
-            0.0302836,
-            0.516606
+            0.03030532,
+            0.515983
           ],
           [
-            0.03609142,
-            0.530289
+            0.03607956,
+            0.529629
           ],
           [
-            0.0429552,
-            0.544837
+            0.04294826,
+            0.544129
           ],
           [
-            0.05117665,
-            0.559478
+            0.0511756,
+            0.558683
           ],
           [
-            0.06094434,
-            0.574559
+            0.0609503,
+            0.573771
           ],
           [
-            0.07259768,
-            0.591026
+            0.07257425,
+            0.590221
           ],
           [
-            0.08647609,
-            0.607826
+            0.08646262,
+            0.607058
           ],
           [
-            0.10299442,
-            0.625331
+            0.10299279,
+            0.624603
           ],
           [
-            0.12264293,
-            0.646154
+            0.12265539,
+            0.645472
           ],
           [
-            0.14610047,
-            0.663021
+            0.14609201,
+            0.662403
           ],
           [
-            0.17400815,
-            0.682738
+            0.1740197,
+            0.682164
           ],
           [
-            0.20723337,
-            0.706212
+            0.20726875,
+            0.705691
           ],
           [
-            0.24686981,
-            0.73395
+            0.24685813,
+            0.733543
           ],
           [
-            0.29401116,
-            0.750603
+            0.29403329,
+            0.750234
           ],
           [
-            0.35020365,
-            0.770453
+            0.35019059,
+            0.770102
           ],
           [
-            0.41714437,
-            0.794101
+            0.41714156,
+            0.793789
           ],
           [
-            0.4968321,
-            0.822251
+            0.4968487,
+            0.821988
           ],
           [
-            0.59179363,
-            0.855797
+            0.59180285,
+            0.855583
           ],
           [
-            0.70485744,
-            0.895738
+            0.70487225,
+            0.895586
           ],
           [
-            0.83956856,
-            0.943326
+            0.83956674,
+            0.94324
           ],
           [
             1.0,
@@ -3413,15 +3413,15 @@
         "top": [
           {
             "name": "github.com",
-            "posts": 7921,
-            "points": 76555,
-            "comments": 28512
+            "posts": 7884,
+            "points": 75751,
+            "comments": 28207
           },
           {
             "name": "twitter.com",
-            "posts": 1377,
-            "points": 19955,
-            "comments": 11506
+            "posts": 1367,
+            "points": 19884,
+            "comments": 11511
           },
           {
             "name": "openai.com",
@@ -3431,45 +3431,45 @@
           },
           {
             "name": "youtube.com",
-            "posts": 2314,
-            "points": 14898,
-            "comments": 5518
-          },
-          {
-            "name": "bbc.com",
-            "posts": 417,
-            "points": 14118,
-            "comments": 14208
+            "posts": 2307,
+            "points": 14774,
+            "comments": 5400
           },
           {
             "name": "theguardian.com",
-            "posts": 738,
-            "points": 14079,
-            "comments": 6577
+            "posts": 732,
+            "points": 13801,
+            "comments": 6267
+          },
+          {
+            "name": "bbc.com",
+            "posts": 409,
+            "points": 13202,
+            "comments": 13395
           },
           {
             "name": "nytimes.com",
-            "posts": 865,
-            "points": 11504,
-            "comments": 7063
+            "posts": 870,
+            "points": 11539,
+            "comments": 7073
           },
           {
             "name": "reuters.com",
-            "posts": 658,
-            "points": 10103,
-            "comments": 5719
+            "posts": 655,
+            "points": 10275,
+            "comments": 5805
           },
           {
             "name": "anthropic.com",
-            "posts": 119,
-            "points": 10062,
-            "comments": 7168
+            "posts": 123,
+            "points": 10246,
+            "comments": 7314
           },
           {
             "name": "arxiv.org",
-            "posts": 934,
-            "points": 10041,
-            "comments": 3938
+            "posts": 925,
+            "points": 9820,
+            "comments": 3866
           },
           {
             "name": "blog.google",
@@ -3478,40 +3478,40 @@
             "comments": 5403
           },
           {
-            "name": "arstechnica.com",
-            "posts": 486,
-            "points": 8052,
-            "comments": 4337
+            "name": "apple.com",
+            "posts": 62,
+            "points": 8182,
+            "comments": 9086
           },
           {
-            "name": "apple.com",
-            "posts": 55,
-            "points": 7392,
-            "comments": 8126
+            "name": "arstechnica.com",
+            "posts": 485,
+            "points": 7933,
+            "comments": 4248
           },
           {
             "name": "en.wikipedia.org",
-            "posts": 901,
-            "points": 6920,
-            "comments": 1653
-          },
-          {
-            "name": "techcrunch.com",
-            "posts": 316,
-            "points": 6599,
-            "comments": 4260
+            "posts": 900,
+            "points": 6870,
+            "comments": 1642
           },
           {
             "name": "wsj.com",
             "posts": 563,
-            "points": 6478,
-            "comments": 5203
+            "points": 6454,
+            "comments": 4734
+          },
+          {
+            "name": "techcrunch.com",
+            "posts": 312,
+            "points": 6370,
+            "comments": 3970
           },
           {
             "name": "tomshardware.com",
-            "posts": 231,
-            "points": 5741,
-            "comments": 4121
+            "posts": 230,
+            "points": 5639,
+            "comments": 4027
           },
           {
             "name": "mistral.ai",
@@ -3522,74 +3522,80 @@
           {
             "name": "huggingface.co",
             "posts": 268,
-            "points": 5378,
-            "comments": 2161
-          },
-          {
-            "name": "ft.com",
-            "posts": 389,
-            "points": 5372,
-            "comments": 3595
-          },
-          {
-            "name": "404media.co",
-            "posts": 130,
-            "points": 5288,
-            "comments": 3161
-          },
-          {
-            "name": "bloomberg.com",
-            "posts": 367,
-            "points": 5063,
-            "comments": 2916
-          },
-          {
-            "name": "reddit.com",
-            "posts": 359,
-            "points": 5063,
-            "comments": 2381
-          },
-          {
-            "name": "blog.cloudflare.com",
-            "posts": 124,
-            "points": 4926,
-            "comments": 1712
+            "points": 5275,
+            "comments": 2129
           },
           {
             "name": "lwn.net",
             "posts": 106,
-            "points": 4772,
-            "comments": 2721
+            "points": 5227,
+            "comments": 2967
+          },
+          {
+            "name": "404media.co",
+            "posts": 128,
+            "points": 5079,
+            "comments": 3108
+          },
+          {
+            "name": "bloomberg.com",
+            "posts": 369,
+            "points": 5068,
+            "comments": 2918
+          },
+          {
+            "name": "reddit.com",
+            "posts": 355,
+            "points": 5032,
+            "comments": 2376
+          },
+          {
+            "name": "blog.cloudflare.com",
+            "posts": 125,
+            "points": 4935,
+            "comments": 1712
+          },
+          {
+            "name": "ft.com",
+            "posts": 386,
+            "points": 4834,
+            "comments": 3100
           },
           {
             "name": "theregister.com",
-            "posts": 386,
-            "points": 4666,
-            "comments": 2225
+            "posts": 382,
+            "points": 4613,
+            "comments": 2217
           },
           {
             "name": "theverge.com",
-            "posts": 241,
-            "points": 4568,
-            "comments": 2492
+            "posts": 237,
+            "points": 4544,
+            "comments": 2490
+          },
+          {
+            "name": "spectrum.ieee.org",
+            "posts": 158,
+            "points": 4469,
+            "comments": 3093
           },
           {
             "name": "economist.com",
-            "posts": 236,
-            "points": 4412,
-            "comments": 4565
+            "posts": 232,
+            "points": 4276,
+            "comments": 4372
+          },
+          {
+            "name": "wired.com",
+            "posts": 245,
+            "points": 4194,
+            "comments": 1950
           },
           {
             "name": "grapheneos.social",
             "posts": 15,
             "points": 4174,
             "comments": 2426
-          },
-          {
-            "name": "spectrum.ieee.org",
-            "posts": 157,
-            "points": 4078,
-            "comments": 2902
           },
           {
             "name": "earendil.com",
@@ -3599,63 +3605,57 @@
           },
           {
             "name": "openrouter.ai",
-            "posts": 32,
-            "points": 3884,
+            "posts": 31,
+            "points": 3883,
             "comments": 1909
           },
           {
             "name": "cnbc.com",
-            "posts": 225,
+            "posts": 228,
             "points": 3825,
-            "comments": 2836
+            "comments": 2842
           },
           {
             "name": "science.org",
-            "posts": 134,
-            "points": 3513,
+            "posts": 132,
+            "points": 3507,
             "comments": 2336
           },
           {
-            "name": "wired.com",
-            "posts": 248,
-            "points": 3198,
-            "comments": 1524
-          },
-          {
             "name": "apnews.com",
-            "posts": 176,
-            "points": 3196,
-            "comments": 2032
+            "posts": 177,
+            "points": 3218,
+            "comments": 2029
           },
           {
             "name": "businessinsider.com",
-            "posts": 97,
-            "points": 3152,
+            "posts": 95,
+            "points": 3146,
             "comments": 1972
           },
           {
             "name": "simonwillison.net",
-            "posts": 55,
-            "points": 2939,
-            "comments": 1633
+            "posts": 57,
+            "points": 2946,
+            "comments": 1634
           },
           {
             "name": "danluu.com",
-            "posts": 20,
-            "points": 2914,
+            "posts": 19,
+            "points": 2912,
             "comments": 2376
+          },
+          {
+            "name": "techdirt.com",
+            "posts": 75,
+            "points": 2779,
+            "comments": 1377
           },
           {
             "name": "z.ai",
             "posts": 4,
             "points": 2775,
             "comments": 1472
-          },
-          {
-            "name": "techdirt.com",
-            "posts": 72,
-            "points": 2770,
-            "comments": 1374
           },
           {
             "name": "artificialanalysis.ai",
@@ -3665,39 +3665,39 @@
           },
           {
             "name": "terrytao.wordpress.com",
-            "posts": 75,
-            "points": 2644,
+            "posts": 78,
+            "points": 2650,
             "comments": 2022
           },
           {
             "name": "unsung.aresluna.org",
-            "posts": 29,
-            "points": 2552,
+            "posts": 28,
+            "points": 2550,
             "comments": 1095
           },
           {
             "name": "news.mit.edu",
-            "posts": 47,
-            "points": 2449,
+            "posts": 48,
+            "points": 2451,
             "comments": 430
           },
           {
             "name": "cnn.com",
             "posts": 175,
             "points": 2407,
-            "comments": 1515
-          },
-          {
-            "name": "mathstodon.xyz",
-            "posts": 19,
-            "points": 2398,
-            "comments": 2238
+            "comments": 1511
           },
           {
             "name": "medium.com",
-            "posts": 610,
-            "points": 2395,
-            "comments": 899
+            "posts": 613,
+            "points": 2399,
+            "comments": 901
+          },
+          {
+            "name": "mathstodon.xyz",
+            "posts": 18,
+            "points": 2392,
+            "comments": 2238
           },
           {
             "name": "bcantrill.dtrace.org",
@@ -3714,237 +3714,237 @@
         ]
       },
       "word": {
-        "count": 46303,
-        "gini_points": 0.900513,
-        "gini_posts": 0.799989,
+        "count": 46262,
+        "gini_points": 0.900637,
+        "gini_posts": 0.799815,
         "lorenz_points": [
           [
-            2.16e-05,
-            0.004816
+            2.162e-05,
+            0.004775
           ],
           [
-            4.319e-05,
-            0.008884
+            4.323e-05,
+            0.008942
           ],
           [
-            6.479e-05,
-            0.01289
+            6.485e-05,
+            0.012944
           ],
           [
-            8.639e-05,
-            0.016833
+            8.646e-05,
+            0.01686
           ],
           [
-            0.00010798,
-            0.020418
+            0.00010808,
+            0.020489
           ],
           [
-            0.00012958,
-            0.023957
+            0.0001297,
+            0.02407
           ],
           [
-            0.00015118,
-            0.027426
+            0.00015131,
+            0.027608
           ],
           [
-            0.00017277,
-            0.030596
+            0.00017293,
+            0.030842
           ],
           [
-            0.00019437,
-            0.033642
+            0.00019454,
+            0.033875
           ],
           [
-            0.00023757,
-            0.039454
+            0.00023778,
+            0.039635
           ],
           [
-            0.00028076,
-            0.044804
+            0.00028101,
+            0.044948
           ],
           [
-            0.00032395,
-            0.049596
+            0.00032424,
+            0.049654
           ],
           [
-            0.00038874,
-            0.056283
+            0.00038909,
+            0.056289
           ],
           [
-            0.00047513,
-            0.064644
+            0.00047555,
+            0.064688
           ],
           [
-            0.00056152,
-            0.072573
+            0.00056202,
+            0.072521
           ],
           [
-            0.00064791,
-            0.079993
+            0.00064848,
+            0.080003
           ],
           [
-            0.00077749,
-            0.089877
+            0.00077818,
+            0.089861
           ],
           [
-            0.00092867,
-            0.100212
+            0.00092949,
+            0.100109
           ],
           [
-            0.00110144,
-            0.110751
+            0.00110242,
+            0.110756
           ],
           [
-            0.00131741,
-            0.123148
+            0.00131858,
+            0.123203
           ],
           [
-            0.00155497,
-            0.135605
+            0.00155635,
+            0.135566
           ],
           [
-            0.00185733,
-            0.150301
+            0.00185898,
+            0.150209
           ],
           [
-            0.00220288,
-            0.165675
+            0.00220483,
+            0.165646
           ],
           [
-            0.00263482,
-            0.182726
+            0.00263715,
+            0.182926
           ],
           [
-            0.00313155,
-            0.201082
+            0.00313432,
+            0.201482
           ],
           [
-            0.00371466,
-            0.22115
+            0.00371795,
+            0.22166
           ],
           [
-            0.00442736,
-            0.243516
+            0.00443128,
+            0.244166
           ],
           [
-            0.00526964,
-            0.267604
+            0.00527431,
+            0.268496
           ],
           [
-            0.00628469,
-            0.294095
+            0.00629026,
+            0.295073
           ],
           [
-            0.00747252,
-            0.322188
+            0.00747914,
+            0.323137
           ],
           [
-            0.00891951,
-            0.353058
+            0.0089058,
+            0.353488
           ],
           [
-            0.01060406,
-            0.384445
+            0.01061346,
+            0.385228
           ],
           [
-            0.01263417,
-            0.417391
+            0.01264537,
+            0.418152
           ],
           [
-            0.01505302,
-            0.451261
+            0.01504475,
+            0.451722
           ],
           [
-            0.0179254,
-            0.486246
+            0.01791967,
+            0.486757
           ],
           [
-            0.02133771,
-            0.522442
+            0.02135662,
+            0.523228
           ],
           [
-            0.02541952,
-            0.560085
+            0.02542043,
+            0.560676
           ],
           [
-            0.03027882,
-            0.598832
+            0.03028403,
+            0.599378
           ],
           [
-            0.03606678,
-            0.638412
+            0.03605551,
+            0.638657
           ],
           [
-            0.04295618,
-            0.678157
+            0.04295102,
+            0.678436
           ],
           [
-            0.05116299,
-            0.717715
+            0.0511651,
+            0.718052
           ],
           [
-            0.06094637,
-            0.756491
+            0.06093554,
+            0.756766
           ],
           [
-            0.07258709,
-            0.794348
+            0.07258657,
+            0.794658
           ],
           [
-            0.08645228,
-            0.830432
+            0.08644244,
+            0.830761
           ],
           [
-            0.10297389,
-            0.863846
+            0.10297869,
+            0.864137
           ],
           [
-            0.12264864,
-            0.893633
+            0.12264926,
+            0.893838
           ],
           [
-            0.14608125,
-            0.919455
+            0.14608102,
+            0.919617
           ],
           [
-            0.17398441,
-            0.940744
+            0.17398729,
+            0.940901
           ],
           [
-            0.20724359,
-            0.957459
+            0.20723272,
+            0.957555
           ],
           [
-            0.24685226,
-            0.969786
+            0.24685487,
+            0.969849
           ],
           [
-            0.29401983,
-            0.978551
+            0.29402101,
+            0.97858
           ],
           [
-            0.35019329,
-            0.984653
+            0.35020103,
+            0.984669
           ],
           [
-            0.417122,
-            0.989003
+            0.41712421,
+            0.989004
           ],
           [
-            0.49683606,
-            0.992317
+            0.49684406,
+            0.992313
           ],
           [
-            0.59177591,
-            0.994922
+            0.59178159,
+            0.994914
           ],
           [
-            0.70487873,
-            0.997058
+            0.70487657,
+            0.997049
           ],
           [
-            0.83957843,
-            0.998848
+            0.83956595,
+            0.998844
           ],
           [
             1.0,
@@ -3953,232 +3953,232 @@
         ],
         "lorenz_posts": [
           [
-            2.16e-05,
-            0.005819
+            2.162e-05,
+            0.005839
           ],
           [
-            4.319e-05,
-            0.011512
+            4.323e-05,
+            0.011536
           ],
           [
-            6.479e-05,
-            0.016652
+            6.485e-05,
+            0.016672
           ],
           [
-            8.639e-05,
-            0.021688
+            8.646e-05,
+            0.02172
           ],
           [
-            0.00010798,
-            0.025963
+            0.00010808,
+            0.025959
           ],
           [
-            0.00012958,
-            0.029625
+            0.0001297,
+            0.029607
           ],
           [
-            0.00015118,
-            0.033214
+            0.00015131,
+            0.033199
           ],
           [
-            0.00017277,
-            0.036493
+            0.00017293,
+            0.036453
           ],
           [
-            0.00019437,
-            0.039451
+            0.00019454,
+            0.039437
           ],
           [
-            0.00023757,
-            0.045021
+            0.00023778,
+            0.045011
           ],
           [
-            0.00028076,
-            0.050124
+            0.00028101,
+            0.050103
           ],
           [
-            0.00032395,
-            0.054767
+            0.00032424,
+            0.054725
           ],
           [
-            0.00038874,
-            0.061252
+            0.00038909,
+            0.061242
           ],
           [
-            0.00047513,
-            0.069104
+            0.00047555,
+            0.069131
           ],
           [
-            0.00056152,
-            0.076245
+            0.00056202,
+            0.076283
           ],
           [
-            0.00064791,
-            0.08277
+            0.00064848,
+            0.082833
           ],
           [
-            0.00077749,
-            0.092076
+            0.00077818,
+            0.092159
           ],
           [
-            0.00092867,
-            0.102283
+            0.00092949,
+            0.102351
           ],
           [
-            0.00110144,
-            0.112887
+            0.00110242,
+            0.112975
           ],
           [
-            0.00131741,
-            0.124921
+            0.00131858,
+            0.125005
           ],
           [
-            0.00155497,
-            0.136617
+            0.00155635,
+            0.136714
           ],
           [
-            0.00185733,
-            0.149739
+            0.00185898,
+            0.149841
           ],
           [
-            0.00220288,
-            0.163724
+            0.00220483,
+            0.163799
           ],
           [
-            0.00263482,
-            0.179811
+            0.00263715,
+            0.179916
           ],
           [
-            0.00313155,
-            0.196472
+            0.00313432,
+            0.19665
           ],
           [
-            0.00371466,
-            0.214708
+            0.00371795,
+            0.214985
           ],
           [
-            0.00442736,
-            0.234907
+            0.00443128,
+            0.235198
           ],
           [
-            0.00526964,
-            0.256372
+            0.00527431,
+            0.256721
           ],
           [
-            0.00628469,
-            0.279779
+            0.00629026,
+            0.280204
           ],
           [
-            0.00747252,
-            0.303742
+            0.00747914,
+            0.304068
           ],
           [
-            0.00891951,
-            0.32965
+            0.0089058,
+            0.329537
           ],
           [
-            0.01060406,
-            0.356036
+            0.01061346,
+            0.356257
           ],
           [
-            0.01263417,
-            0.384152
+            0.01264537,
+            0.384347
           ],
           [
-            0.01505302,
-            0.413363
+            0.01504475,
+            0.413247
           ],
           [
-            0.0179254,
-            0.443948
+            0.01791967,
+            0.443846
           ],
           [
-            0.02133771,
-            0.475999
+            0.02135662,
+            0.476112
           ],
           [
-            0.02541952,
-            0.508922
+            0.02542043,
+            0.508823
           ],
           [
-            0.03027882,
-            0.542188
+            0.03028403,
+            0.542062
           ],
           [
-            0.03606678,
-            0.575153
+            0.03605551,
+            0.574968
           ],
           [
-            0.04295618,
-            0.607807
+            0.04295102,
+            0.607655
           ],
           [
-            0.05116299,
-            0.640333
+            0.0511651,
+            0.640179
           ],
           [
-            0.06094637,
-            0.672412
+            0.06093554,
+            0.672143
           ],
           [
-            0.07258709,
-            0.70377
+            0.07258657,
+            0.703589
           ],
           [
-            0.08645228,
-            0.734059
+            0.08644244,
+            0.733857
           ],
           [
-            0.10297389,
-            0.7634
+            0.10297869,
+            0.763174
           ],
           [
-            0.12264864,
-            0.790975
+            0.12264926,
+            0.790787
           ],
           [
-            0.14608125,
-            0.816621
+            0.14608102,
+            0.816453
           ],
           [
-            0.17398441,
-            0.840106
+            0.17398729,
+            0.839976
           ],
           [
-            0.20724359,
-            0.861657
+            0.20723272,
+            0.861537
           ],
           [
-            0.24685226,
-            0.881458
+            0.24685487,
+            0.881339
           ],
           [
-            0.29401983,
-            0.899358
+            0.29402101,
+            0.899213
           ],
           [
-            0.35019329,
-            0.915989
+            0.35020103,
+            0.915837
           ],
           [
-            0.417122,
-            0.930643
+            0.41712421,
+            0.930511
           ],
           [
-            0.49683606,
-            0.944916
+            0.49684406,
+            0.944837
           ],
           [
-            0.59177591,
-            0.95531
+            0.59178159,
+            0.955245
           ],
           [
-            0.70487873,
-            0.967692
+            0.70487657,
+            0.967644
           ],
           [
-            0.83957843,
-            0.982438
+            0.83956595,
+            0.982411
           ],
           [
             1.0,
@@ -4188,213 +4188,207 @@
         "top": [
           {
             "name": "open",
-            "posts": 2174,
-            "points": 31045,
-            "comments": 12613
+            "posts": 2167,
+            "points": 30649,
+            "comments": 12446
           },
           {
             "name": "claude",
-            "posts": 1387,
-            "points": 26224,
-            "comments": 16482
-          },
-          {
-            "name": "openai",
-            "posts": 866,
-            "points": 25827,
-            "comments": 16765
+            "posts": 1373,
+            "points": 26749,
+            "comments": 16805
           },
           {
             "name": "google",
-            "posts": 737,
-            "points": 25419,
-            "comments": 14203
+            "posts": 739,
+            "points": 25687,
+            "comments": 14346
+          },
+          {
+            "name": "openai",
+            "posts": 860,
+            "points": 25142,
+            "comments": 16242
           },
           {
             "name": "data",
-            "posts": 1518,
-            "points": 23108,
-            "comments": 14318
+            "posts": 1516,
+            "points": 23291,
+            "comments": 14410
           },
           {
             "name": "agents",
-            "posts": 2461,
-            "points": 22817,
-            "comments": 11902
+            "posts": 2464,
+            "points": 22986,
+            "comments": 12000
           },
           {
             "name": "models",
-            "posts": 967,
-            "points": 22360,
-            "comments": 8359
+            "posts": 965,
+            "points": 22713,
+            "comments": 8576
           },
           {
             "name": "model",
-            "posts": 1251,
-            "points": 20439,
-            "comments": 9433
+            "posts": 1259,
+            "points": 20757,
+            "comments": 9565
           },
           {
             "name": "code",
-            "posts": 1808,
-            "points": 19634,
-            "comments": 10833
+            "posts": 1789,
+            "points": 19473,
+            "comments": 10696
           },
           {
             "name": "video",
-            "posts": 2408,
-            "points": 18965,
-            "comments": 7380
+            "posts": 2404,
+            "points": 18627,
+            "comments": 7065
           },
           {
             "name": "source",
-            "posts": 1549,
-            "points": 18502,
-            "comments": 7481
+            "posts": 1539,
+            "points": 18343,
+            "comments": 7350
           },
           {
             "name": "agent",
             "posts": 2130,
-            "points": 18310,
-            "comments": 9372
+            "points": 18214,
+            "comments": 9253
           },
           {
             "name": "apple",
-            "posts": 646,
-            "points": 16178,
-            "comments": 10388
+            "posts": 658,
+            "points": 15892,
+            "comments": 10360
           },
           {
             "name": "linux",
-            "posts": 741,
-            "points": 15862,
-            "comments": 7874
-          },
-          {
-            "name": "first",
-            "posts": 1114,
-            "points": 15032,
-            "comments": 8958
+            "posts": 735,
+            "points": 15750,
+            "comments": 7851
           },
           {
             "name": "gpt",
             "posts": 311,
-            "points": 14464,
-            "comments": 9185
+            "points": 14455,
+            "comments": 9179
           },
           {
             "name": "meta",
-            "posts": 378,
-            "points": 14375,
-            "comments": 8583
+            "posts": 377,
+            "points": 14359,
+            "comments": 8580
+          },
+          {
+            "name": "first",
+            "posts": 1109,
+            "points": 14273,
+            "comments": 8010
           },
           {
             "name": "year",
-            "posts": 476,
-            "points": 14268,
-            "comments": 7344
+            "posts": 473,
+            "points": 13963,
+            "comments": 6996
           },
           {
             "name": "software",
-            "posts": 824,
-            "points": 13994,
-            "comments": 8617
-          },
-          {
-            "name": "years",
-            "posts": 550,
-            "points": 13365,
-            "comments": 7711
-          },
-          {
-            "name": "built",
-            "posts": 1203,
-            "points": 13291,
-            "comments": 6286
-          },
-          {
-            "name": "llm",
-            "posts": 983,
-            "points": 13252,
-            "comments": 5774
+            "posts": 829,
+            "points": 13626,
+            "comments": 8159
           },
           {
             "name": "anthropic",
-            "posts": 590,
-            "points": 13164,
-            "comments": 9973
+            "posts": 593,
+            "points": 13592,
+            "comments": 10222
+          },
+          {
+            "name": "years",
+            "posts": 553,
+            "points": 13388,
+            "comments": 7723
+          },
+          {
+            "name": "built",
+            "posts": 1205,
+            "points": 13303,
+            "comments": 6295
           },
           {
             "name": "like",
-            "posts": 646,
-            "points": 13012,
-            "comments": 7418
+            "posts": 650,
+            "points": 12921,
+            "comments": 7372
           },
           {
             "name": "rust",
-            "posts": 804,
-            "points": 12648,
-            "comments": 6407
+            "posts": 802,
+            "points": 12641,
+            "comments": 6400
+          },
+          {
+            "name": "llm",
+            "posts": 971,
+            "points": 12414,
+            "comments": 5536
           },
           {
             "name": "system",
-            "posts": 652,
-            "points": 12289,
+            "posts": 649,
+            "points": 12304,
             "comments": 5607
           },
           {
+            "name": "says",
+            "posts": 572,
+            "points": 12199,
+            "comments": 8555
+          },
+          {
             "name": "coding",
-            "posts": 1153,
-            "points": 12197,
-            "comments": 6676
+            "posts": 1147,
+            "points": 12193,
+            "comments": 6669
           },
           {
             "name": "flash",
-            "posts": 244,
-            "points": 12180,
+            "posts": 243,
+            "points": 12176,
             "comments": 5666
           },
           {
-            "name": "says",
-            "posts": 574,
-            "points": 12096,
-            "comments": 8443
+            "name": "without",
+            "posts": 675,
+            "points": 11459,
+            "comments": 5777
           },
           {
             "name": "time",
-            "posts": 860,
-            "points": 11358,
-            "comments": 6873
-          },
-          {
-            "name": "flock",
-            "posts": 227,
-            "points": 11156,
-            "comments": 5845
-          },
-          {
-            "name": "without",
-            "posts": 673,
-            "points": 10983,
-            "comments": 5508
+            "posts": 871,
+            "points": 11284,
+            "comments": 6766
           },
           {
             "name": "deepseek",
-            "posts": 214,
-            "points": 10663,
-            "comments": 4474
+            "posts": 216,
+            "points": 10761,
+            "comments": 4593
+          },
+          {
+            "name": "flock",
+            "posts": 221,
+            "points": 10558,
+            "comments": 5477
           },
           {
             "name": "microsoft",
-            "posts": 331,
-            "points": 10349,
-            "comments": 6860
-          },
-          {
-            "name": "world",
-            "posts": 738,
-            "points": 10318,
-            "comments": 5592
+            "posts": 341,
+            "points": 10373,
+            "comments": 6877
           },
           {
             "name": "astra",
@@ -4403,343 +4397,349 @@
             "comments": 7349
           },
           {
-            "name": "app",
-            "posts": 981,
-            "points": 10167,
-            "comments": 5764
+            "name": "world",
+            "posts": 742,
+            "points": 10053,
+            "comments": 5503
           },
           {
-            "name": "language",
-            "posts": 635,
-            "points": 10113,
-            "comments": 5025
+            "name": "app",
+            "posts": 979,
+            "points": 9895,
+            "comments": 5440
           },
           {
             "name": "security",
-            "posts": 616,
-            "points": 9505,
-            "comments": 4406
+            "posts": 615,
+            "points": 9484,
+            "comments": 4404
+          },
+          {
+            "name": "language",
+            "posts": 629,
+            "points": 9435,
+            "comments": 4323
           },
           {
             "name": "jev",
-            "posts": 560,
-            "points": 9307,
-            "comments": 3050
-          },
-          {
-            "name": "llms",
-            "posts": 518,
-            "points": 9264,
-            "comments": 6073
-          },
-          {
-            "name": "nvidia",
-            "posts": 378,
-            "points": 9148,
-            "comments": 4425
+            "posts": 562,
+            "points": 9311,
+            "comments": 3052
           },
           {
             "name": "old",
             "posts": 349,
-            "points": 9121,
-            "comments": 3938
+            "points": 9297,
+            "comments": 4043
           },
           {
-            "name": "run",
-            "posts": 547,
-            "points": 8860,
-            "comments": 4227
-          },
-          {
-            "name": "people",
-            "posts": 525,
-            "points": 8739,
-            "comments": 6786
-          },
-          {
-            "name": "search",
-            "posts": 507,
-            "points": 8480,
-            "comments": 3058
-          },
-          {
-            "name": "programming",
-            "posts": 363,
-            "points": 8447,
-            "comments": 4428
-          },
-          {
-            "name": "web",
-            "posts": 686,
-            "points": 8410,
-            "comments": 3688
+            "name": "llms",
+            "posts": 513,
+            "points": 9252,
+            "comments": 6069
           },
           {
             "name": "work",
-            "posts": 656,
-            "points": 8395,
-            "comments": 5131
+            "posts": 653,
+            "points": 9104,
+            "comments": 5807
+          },
+          {
+            "name": "run",
+            "posts": 554,
+            "points": 8873,
+            "comments": 4228
+          },
+          {
+            "name": "people",
+            "posts": 528,
+            "points": 8776,
+            "comments": 6789
+          },
+          {
+            "name": "nvidia",
+            "posts": 370,
+            "points": 8740,
+            "comments": 4253
+          },
+          {
+            "name": "search",
+            "posts": 506,
+            "points": 8472,
+            "comments": 3054
+          },
+          {
+            "name": "web",
+            "posts": 694,
+            "points": 8445,
+            "comments": 3691
           },
           {
             "name": "intelligence",
-            "posts": 430,
-            "points": 8313,
-            "comments": 5053
+            "posts": 428,
+            "points": 8394,
+            "comments": 5099
+          },
+          {
+            "name": "programming",
+            "posts": 359,
+            "points": 8348,
+            "comments": 4357
           }
         ]
       }
     },
     "posts": {
-      "scored_posts": 108797,
-      "commented_posts": 77865,
+      "scored_posts": 108628,
+      "commented_posts": 77688,
       "lorenz_points": [
         [
-          9.19e-06,
-          0.001845
+          9.21e-06,
+          0.001852
         ],
         [
-          1.838e-05,
-          0.003621
+          1.841e-05,
+          0.003634
         ],
         [
-          2.757e-05,
-          0.005381
+          2.762e-05,
+          0.005399
         ],
         [
-          3.677e-05,
-          0.007102
+          3.682e-05,
+          0.007126
         ],
         [
-          4.596e-05,
-          0.008762
+          4.603e-05,
+          0.008791
         ],
         [
-          5.515e-05,
-          0.010347
+          5.523e-05,
+          0.010382
         ],
         [
-          6.434e-05,
-          0.011906
+          6.444e-05,
+          0.011946
         ],
         [
-          7.353e-05,
-          0.013462
+          7.365e-05,
+          0.013507
         ],
         [
-          8.272e-05,
-          0.014997
+          8.285e-05,
+          0.015047
         ],
         [
-          0.00010111,
-          0.018006
+          0.00010126,
+          0.018067
         ],
         [
-          0.00011949,
-          0.020868
+          0.00011967,
+          0.020938
         ],
         [
-          0.00013787,
-          0.023604
+          0.00013809,
+          0.023683
         ],
         [
-          0.00016545,
-          0.027535
+          0.0001657,
+          0.027627
         ],
         [
-          0.00019302,
-          0.031304
+          0.00019332,
+          0.031409
         ],
         [
-          0.00022979,
-          0.035861
+          0.00023014,
+          0.035981
         ],
         [
-          0.00027574,
-          0.041283
+          0.00027617,
+          0.041421
         ],
         [
-          0.0003217,
-          0.046369
+          0.0003222,
+          0.046525
         ],
         [
-          0.00038604,
-          0.05304
+          0.00038664,
+          0.053217
         ],
         [
-          0.00045957,
-          0.06023
+          0.00046029,
+          0.060432
         ],
         [
-          0.00054229,
-          0.06783
+          0.00054314,
+          0.068058
         ],
         [
-          0.00065259,
-          0.077473
+          0.00065361,
+          0.077694
         ],
         [
-          0.00077208,
-          0.087299
+          0.00077328,
+          0.08751
         ],
         [
-          0.00091914,
-          0.098707
+          0.00092057,
+          0.09889
         ],
         [
-          0.00109378,
-          0.111173
+          0.00109548,
+          0.111359
         ],
         [
-          0.00130518,
-          0.125269
+          0.00130721,
+          0.125533
         ],
         [
-          0.00155335,
-          0.140861
+          0.00155577,
+          0.141229
         ],
         [
-          0.00184748,
-          0.158465
+          0.00185035,
+          0.158944
         ],
         [
-          0.00219675,
-          0.178257
+          0.00220017,
+          0.178818
         ],
         [
-          0.00261956,
-          0.20049
+          0.00262363,
+          0.201122
         ],
         [
-          0.00312509,
-          0.22507
+          0.00312074,
+          0.22535
         ],
         [
-          0.00371334,
-          0.250955
+          0.00371911,
+          0.251689
         ],
         [
-          0.00443027,
-          0.279816
+          0.00442796,
+          0.280233
         ],
         [
-          0.00526669,
-          0.310149
+          0.00527488,
+          0.311037
         ],
         [
-          0.00627775,
-          0.343439
+          0.00627831,
+          0.344137
         ],
         [
-          0.00747263,
-          0.378572
+          0.00747505,
+          0.379342
         ],
         [
-          0.0089065,
-          0.416283
+          0.00890194,
+          0.416906
         ],
         [
-          0.01060691,
-          0.455826
+          0.010605,
+          0.456611
         ],
         [
-          0.01262902,
-          0.496799
+          0.01263026,
+          0.497696
         ],
         [
-          0.01504637,
-          0.538023
+          0.01504216,
+          0.538891
         ],
         [
-          0.0179141,
-          0.579038
+          0.01791435,
+          0.579975
         ],
         [
-          0.0213425,
-          0.619523
+          0.02133888,
+          0.620488
         ],
         [
-          0.0254143,
-          0.658914
+          0.02541702,
+          0.659964
         ],
         [
-          0.03027657,
-          0.695824
+          0.03027764,
+          0.696746
         ],
         [
-          0.03605798,
-          0.729729
+          0.03605884,
+          0.730573
         ],
         [
-          0.04295155,
-          0.760275
+          0.04295393,
+          0.761007
         ],
         [
-          0.0511595,
-          0.786106
+          0.05115624,
+          0.786603
         ],
         [
-          0.06092999,
-          0.806964
+          0.06093272,
+          0.807293
         ],
         [
-          0.07257553,
-          0.824038
+          0.07257797,
+          0.824257
         ],
         [
-          0.0864454,
-          0.838482
+          0.0864418,
+          0.838599
         ],
         [
-          0.1029624,
-          0.851009
+          0.10296609,
+          0.851098
         ],
         [
-          0.12264125,
-          0.862575
+          0.12263873,
+          0.862625
         ],
         [
-          0.1460702,
-          0.873621
+          0.14607652,
+          0.873662
         ],
         [
-          0.17398458,
-          0.884814
+          0.17398829,
+          0.884824
         ],
         [
-          0.20723917,
-          0.895984
+          0.20723939,
+          0.896013
         ],
         [
-          0.24683585,
-          0.907391
+          0.24684243,
+          0.907384
         ],
         [
-          0.29400627,
-          0.919274
+          0.29401259,
+          0.919288
         ],
         [
-          0.35019348,
-          0.931627
+          0.35019516,
+          0.931574
         ],
         [
-          0.41711628,
-          0.942867
+          0.41712082,
+          0.942835
         ],
         [
-          0.49682436,
-          0.956253
+          0.49682402,
+          0.956245
         ],
         [
-          0.59177183,
-          0.965719
+          0.59177192,
+          0.965658
         ],
         [
-          0.70486319,
-          0.975216
+          0.70486431,
+          0.975172
         ],
         [
-          0.83956359,
-          0.986527
+          0.83956254,
+          0.986503
         ],
         [
           1.0,
@@ -4748,243 +4748,243 @@
       ],
       "lorenz_comments": [
         [
-          1.284e-05,
-          0.003749
+          1.287e-05,
+          0.003766
         ],
         [
-          2.569e-05,
-          0.006815
+          2.574e-05,
+          0.006845
         ],
         [
-          3.853e-05,
-          0.009315
+          3.862e-05,
+          0.009356
         ],
         [
-          5.137e-05,
-          0.011676
+          5.149e-05,
+          0.011728
         ],
         [
-          6.421e-05,
-          0.013854
+          6.436e-05,
+          0.013915
         ],
         [
-          7.706e-05,
-          0.016012
+          7.723e-05,
+          0.016082
         ],
         [
-          8.99e-05,
-          0.018156
+          9.01e-05,
+          0.018235
         ],
         [
-          0.00010274,
-          0.020211
+          0.00010298,
+          0.020299
         ],
         [
-          0.00011558,
-          0.022248
+          0.00011585,
+          0.022346
         ],
         [
-          0.00014127,
-          0.026165
+          0.00014159,
+          0.02628
         ],
         [
-          0.00016696,
-          0.029775
+          0.00016734,
+          0.029905
         ],
         [
-          0.00019264,
-          0.033306
+          0.00019308,
+          0.033452
         ],
         [
-          0.00023117,
-          0.038309
+          0.0002317,
+          0.038477
         ],
         [
-          0.0002697,
-          0.042964
+          0.00027031,
+          0.043153
         ],
         [
-          0.00032107,
-          0.048932
+          0.0003218,
+          0.049147
         ],
         [
-          0.00038528,
-          0.056046
+          0.00038616,
+          0.056292
         ],
         [
-          0.00046234,
-          0.064225
+          0.00046339,
+          0.064507
         ],
         [
-          0.00055224,
-          0.073314
+          0.0005535,
+          0.073637
         ],
         [
-          0.00065498,
-          0.083228
+          0.00065647,
+          0.083593
         ],
         [
-          0.00077056,
-          0.093778
+          0.00077232,
+          0.094191
         ],
         [
-          0.00092468,
-          0.106697
+          0.00092678,
+          0.107166
         ],
         [
-          0.00109163,
-          0.120003
+          0.00109412,
+          0.12053
         ],
         [
-          0.00130996,
-          0.135817
+          0.00130007,
+          0.135514
         ],
         [
-          0.00155397,
-          0.152199
+          0.00155751,
+          0.152945
         ],
         [
-          0.00184935,
-          0.17085
+          0.00185357,
+          0.171692
         ],
         [
-          0.00220895,
-          0.192078
+          0.00220111,
+          0.192165
         ],
         [
-          0.00261992,
-          0.214457
+          0.00262589,
+          0.215153
         ],
         [
-          0.00312079,
-          0.240045
+          0.0031279,
+          0.24068
         ],
         [
-          0.00372439,
-          0.268513
+          0.00372001,
+          0.268506
         ],
         [
-          0.00443075,
-          0.299354
+          0.00442797,
+          0.299327
         ],
         [
-          0.00527837,
-          0.332832
+          0.00527752,
+          0.332856
         ],
         [
-          0.0062801,
-          0.368505
+          0.00628154,
+          0.368512
         ],
         [
-          0.00747448,
-          0.406516
+          0.00747863,
+          0.406586
         ],
         [
-          0.00890002,
-          0.44703
+          0.00890742,
+          0.447269
         ],
         [
-          0.0106081,
-          0.48989
+          0.01060653,
+          0.489969
         ],
         [
-          0.01263726,
-          0.534714
+          0.01262743,
+          0.534702
         ],
         [
-          0.01505169,
-          0.580982
+          0.01504737,
+          0.581115
         ],
         [
-          0.01791562,
-          0.627813
+          0.01791783,
+          0.628069
         ],
         [
-          0.02134463,
-          0.67497
+          0.02134178,
+          0.675245
         ],
         [
-          0.02541578,
-          0.721934
+          0.0254222,
+          0.722462
         ],
         [
-          0.03027034,
-          0.767974
+          0.03027495,
+          0.768561
         ],
         [
-          0.03606242,
-          0.812172
+          0.03606735,
+          0.812785
         ],
         [
-          0.04294612,
-          0.853131
+          0.04295387,
+          0.853774
         ],
         [
-          0.05115264,
-          0.887452
+          0.05115333,
+          0.888005
         ],
         [
-          0.0609388,
-          0.913166
+          0.06093605,
+          0.913521
         ],
         [
-          0.07257433,
-          0.931843
+          0.07257234,
+          0.93201
         ],
         [
-          0.08644449,
-          0.945444
+          0.08644836,
+          0.945538
         ],
         [
-          0.10296025,
-          0.955946
+          0.10296313,
+          0.955979
         ],
         [
-          0.12263533,
-          0.964236
+          0.12264442,
+          0.964237
         ],
         [
-          0.14607333,
-          0.971579
+          0.14607147,
+          0.971558
         ],
         [
-          0.17399345,
-          0.977985
+          0.17399084,
+          0.977977
         ],
         [
-          0.20724331,
-          0.98353
+          0.20723921,
+          0.983497
         ],
         [
-          0.24683748,
-          0.988072
+          0.24684636,
+          0.98805
         ],
         [
-          0.29400886,
-          0.993483
+          0.29400937,
+          0.993472
         ],
         [
-          0.35019585,
-          0.999928
+          0.35019565,
+          0.99993
         ],
         [
-          0.41711937,
+          0.41711719,
           1.0
         ],
         [
-          0.49683426,
+          0.49683349,
           1.0
         ],
         [
-          0.59178065,
+          0.59177737,
           1.0
         ],
         [
-          0.70486098,
+          0.70485789,
           1.0
         ],
         [
-          0.83956848,
+          0.83956338,
           1.0
         ],
         [
@@ -4993,83 +4993,83 @@
         ]
       ],
       "top_share_points": {
-        "0.001": 0.104701,
-        "0.01": 0.442244,
-        "0.1": 0.849021
+        "0.001": 0.104886,
+        "0.01": 0.443187,
+        "0.1": 0.849103
       },
       "top_share_comments": {
-        "0.001": 0.112925,
-        "0.01": 0.475377,
-        "0.1": 0.95429
+        "0.001": 0.113422,
+        "0.01": 0.475395,
+        "0.1": 0.954357
       },
       "zero_score_share": 0.0,
-      "zero_comment_share": 0.649175,
+      "zero_comment_share": 0.649199,
       "score_hist": [
         {
           "lo": 1,
           "hi": 1,
-          "posts": 52810,
-          "points": 52810
+          "posts": 52818,
+          "points": 52818
         },
         {
           "lo": 2,
           "hi": 3,
-          "posts": 31585,
-          "points": 74533
+          "posts": 31522,
+          "points": 74353
         },
         {
           "lo": 4,
           "hi": 7,
-          "posts": 12770,
-          "points": 62249
+          "posts": 12708,
+          "points": 61942
         },
         {
           "lo": 8,
           "hi": 15,
-          "posts": 3967,
-          "points": 41849
+          "posts": 3959,
+          "points": 41764
         },
         {
           "lo": 16,
           "hi": 31,
-          "posts": 2141,
-          "points": 46982
+          "posts": 2132,
+          "points": 46785
         },
         {
           "lo": 32,
           "hi": 63,
-          "posts": 1685,
-          "points": 76974
+          "posts": 1667,
+          "points": 76147
         },
         {
           "lo": 64,
           "hi": 127,
-          "posts": 1514,
-          "points": 137164
+          "posts": 1501,
+          "points": 135860
         },
         {
           "lo": 128,
           "hi": 255,
-          "posts": 1135,
-          "points": 203180
+          "posts": 1134,
+          "points": 202965
         },
         {
           "lo": 256,
           "hi": 511,
-          "posts": 802,
-          "points": 282815
+          "posts": 801,
+          "points": 282731
         },
         {
           "lo": 512,
           "hi": 1023,
-          "posts": 320,
-          "points": 219728
+          "posts": 319,
+          "points": 219656
         },
         {
           "lo": 1024,
           "hi": 2047,
-          "posts": 62,
-          "points": 83908
+          "posts": 61,
+          "points": 82844
         },
         {
           "lo": 2048,
@@ -5082,124 +5082,124 @@
     "cyclic": {
       "hour": [
         {
-          "posts": 31900,
-          "points": 29817,
-          "comments": 15131
+          "posts": 31927,
+          "points": 29508,
+          "comments": 14903
         },
         {
-          "posts": 29722,
-          "points": 32014,
-          "comments": 16877
+          "posts": 29669,
+          "points": 31659,
+          "comments": 16714
         },
         {
-          "posts": 28399,
-          "points": 27582,
-          "comments": 15810
+          "posts": 28481,
+          "points": 27103,
+          "comments": 15657
         },
         {
-          "posts": 25700,
-          "points": 23828,
-          "comments": 12602
+          "posts": 25704,
+          "points": 23742,
+          "comments": 12554
         },
         {
-          "posts": 24071,
-          "points": 22637,
-          "comments": 10082
+          "posts": 24077,
+          "points": 22278,
+          "comments": 9911
         },
         {
-          "posts": 25173,
-          "points": 24657,
-          "comments": 12704
+          "posts": 25091,
+          "points": 24665,
+          "comments": 12778
         },
         {
-          "posts": 28684,
-          "points": 26612,
-          "comments": 14863
+          "posts": 28473,
+          "points": 25815,
+          "comments": 14451
         },
         {
-          "posts": 31129,
-          "points": 25891,
-          "comments": 11293
+          "posts": 30989,
+          "points": 25735,
+          "comments": 11171
         },
         {
-          "posts": 31035,
-          "points": 33068,
-          "comments": 16515
+          "posts": 31049,
+          "points": 31938,
+          "comments": 16024
         },
         {
-          "posts": 30943,
-          "points": 42845,
-          "comments": 23359
+          "posts": 30878,
+          "points": 42447,
+          "comments": 22675
         },
         {
-          "posts": 32962,
-          "points": 47858,
-          "comments": 24719
+          "posts": 32925,
+          "points": 47827,
+          "comments": 24744
         },
         {
-          "posts": 37025,
-          "points": 49580,
-          "comments": 27352
+          "posts": 36954,
+          "points": 51364,
+          "comments": 28708
         },
         {
-          "posts": 45008,
-          "points": 64864,
-          "comments": 33806
+          "posts": 44957,
+          "points": 63737,
+          "comments": 32884
         },
         {
-          "posts": 54343,
-          "points": 104357,
-          "comments": 59801
+          "posts": 54406,
+          "points": 104197,
+          "comments": 59904
         },
         {
-          "posts": 60967,
-          "points": 101088,
-          "comments": 52994
+          "posts": 60915,
+          "points": 100973,
+          "comments": 52821
         },
         {
-          "posts": 63896,
-          "points": 104184,
-          "comments": 58022
+          "posts": 63899,
+          "points": 104360,
+          "comments": 57655
         },
         {
-          "posts": 62817,
-          "points": 81919,
-          "comments": 40975
+          "posts": 62873,
+          "points": 83901,
+          "comments": 41924
         },
         {
-          "posts": 60820,
-          "points": 95845,
-          "comments": 57888
+          "posts": 60999,
+          "points": 95130,
+          "comments": 57309
         },
         {
-          "posts": 59312,
-          "points": 85116,
-          "comments": 42303
+          "posts": 59345,
+          "points": 84824,
+          "comments": 42172
         },
         {
-          "posts": 56270,
-          "points": 76667,
-          "comments": 38831
+          "posts": 56381,
+          "points": 75740,
+          "comments": 38348
         },
         {
-          "posts": 53870,
-          "points": 60440,
-          "comments": 30751
+          "posts": 53912,
+          "points": 60555,
+          "comments": 30782
         },
         {
-          "posts": 48188,
-          "points": 49027,
-          "comments": 23461
+          "posts": 48215,
+          "points": 48453,
+          "comments": 23283
         },
         {
-          "posts": 41983,
-          "points": 48763,
-          "comments": 22087
+          "posts": 42046,
+          "points": 48704,
+          "comments": 22106
         },
         {
-          "posts": 35783,
-          "points": 36939,
-          "comments": 16576
+          "posts": 35835,
+          "points": 36616,
+          "comments": 16354
         }
       ],
       "weekday": [
@@ -5209,14 +5209,14 @@
           "comments": 104758
         },
         {
-          "posts": 161812,
-          "points": 220050,
-          "comments": 117797
+          "posts": 163284,
+          "points": 219123,
+          "comments": 116578
         },
         {
-          "posts": 163262,
-          "points": 218250,
-          "comments": 113948
+          "posts": 161790,
+          "points": 214850,
+          "comments": 112197
         },
         {
           "posts": 153356,
@@ -5269,38 +5269,38 @@
         [
           3832,
           5123,
-          4030,
-          3992,
-          3074,
-          4462,
-          3610,
-          3370,
-          5583,
-          7360,
-          7044,
-          8589,
-          13340,
-          21756,
-          18291,
-          12389,
-          16465,
-          20107,
-          14671,
-          13912,
-          8687,
-          7068,
-          8227,
-          5068
+          4041,
+          4098,
+          3226,
+          4600,
+          4173,
+          3267,
+          4453,
+          6962,
+          7013,
+          10373,
+          12213,
+          21596,
+          18176,
+          12565,
+          18447,
+          19392,
+          14379,
+          12985,
+          8802,
+          6494,
+          8168,
+          4745
         ],
         [
-          4211,
-          4883,
-          4940,
-          2130,
-          3731,
-          2914,
-          3688,
-          4793,
+          3902,
+          4528,
+          4450,
+          1938,
+          3220,
+          2784,
+          2328,
+          4740,
           4088,
           9133,
           6701,
@@ -5460,9 +5460,9 @@
           "comments": 0
         },
         {
-          "posts": 262110,
-          "points": 410364,
-          "comments": 208896
+          "posts": 247459,
+          "points": 391488,
+          "comments": 198362
         },
         {
           "posts": 399728,
@@ -5470,9 +5470,9 @@
           "comments": 323017
         },
         {
-          "posts": 338162,
-          "points": 299696,
-          "comments": 146889
+          "posts": 352813,
+          "points": 314245,
+          "comments": 154453
         },
         {
           "posts": 0,
@@ -5488,14 +5488,14 @@
     },
     "type": {
       "comment": {
-        "posts": 886976,
+        "posts": 887147,
         "points": 0,
         "comments": 0
       },
       "story": {
-        "posts": 112938,
-        "points": 1295452,
-        "comments": 678781
+        "posts": 112767,
+        "points": 1291125,
+        "comments": 675811
       },
       "job": {
         "posts": 54,

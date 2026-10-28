@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T02:52:51.981197+00:00",
+  "generated_at": "2026-10-28T03:01:23.936695+00:00",
   "total_rows": 1000000,
   "columns": [
     {
@@ -91,6 +91,16 @@
     ]
   },
   "chunks": [
+    {
+      "path": "data/posts-inc-c23507155920e7233773ef69.csv",
+      "rows": 14651,
+      "bytes": 4768247,
+      "sha256": "c23507155920e7233773ef6920f9f73e7975b0330f0a42d12595783d4b8372ae",
+      "min_id": 50254191,
+      "max_id": 50268841,
+      "min_time": 1793069519,
+      "max_time": 1793156372
+    },
     {
       "path": "data/posts-inc-eb095a0563a6f2b77d7ba0d6.csv",
       "rows": 14535,
@@ -3112,13 +3122,13 @@
       "sha256": "1837e3d34ea56198fb6ad09de40d5a7053fd1bcf0f88d80ce4cb1d6d4cac8da0"
     },
     {
-      "path": "data/posts-inc-6a769b85917de2baae89ef53.csv",
-      "rows": 23202,
-      "bytes": 7787553,
-      "sha256": "6a769b85917de2baae89ef5368c1a8b00e5992b43b327f6e6daeea4c056799d3",
-      "min_id": 49254191,
+      "path": "data/posts-inc-bbcb7b3de5b40c6174979974.csv",
+      "rows": 8551,
+      "bytes": 2823053,
+      "sha256": "bbcb7b3de5b40c617497997439428284391c74b9f85fbda00e661aedd0a0cb70",
+      "min_id": 49268842,
       "max_id": 49277392,
-      "min_time": 1786430375,
+      "min_time": 1786518758,
       "max_time": 1786562774
     }
   ],
@@ -3144,17 +3154,17 @@
     "daily_update_api": "https://hacker-news.firebaseio.com/v0",
     "selection_after_daily_update": "latest retained items by time DESC, id DESC; all item types; unavailable IDs retried"
   },
-  "total_csv_bytes": 341962998,
+  "total_csv_bytes": 341766745,
   "daily_update": {
-    "last_scanned_id": 50254190,
-    "previous_scanned_id": 50239655,
+    "last_scanned_id": 50268841,
+    "previous_scanned_id": 50254190,
     "unavailable_ids": [],
-    "new_rows": 14535,
-    "archived_stories": 1578,
+    "new_rows": 14651,
+    "archived_stories": 1829,
     "retention_rows": 1000000,
     "mode": "daily additions since last successful scan; catch-up included",
     "score_policy": "snapshot at first retrieval; older scores/comments are not refreshed",
     "redaction_policy": "credential-shaped strings in text/title/url replaced using scripts/redact_secrets.py",
-    "redacted_strings_this_run": 1
+    "redacted_strings_this_run": 0
   }
 }
