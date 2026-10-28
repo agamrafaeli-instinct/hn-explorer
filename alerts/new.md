@@ -1,4 +1,8 @@
-HN new 300+ stories, last 12h, updated 2026-10-28 19:28 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-28 21:17 UTC. Forward only ids not sent before.
+50276998 | 411 pts, 90 comments | Why Is This Fingerprinting Script Creating Bioweapons? | https://news.ycombinator.com/item?id=50276998
+50276940 | 403 pts, 693 comments | MacBook Pro with PROLED XDR Display and Touch | https://news.ycombinator.com/item?id=50276940
+50274409 | 333 pts, 105 comments | CNC Stone Carving | https://news.ycombinator.com/item?id=50274409
+50273171 | 356 pts, 147 comments | Emacs Turns 50 | https://news.ycombinator.com/item?id=50273171
 50276792 | 483 pts, 415 comments | Gemini 4 Carbon | https://news.ycombinator.com/item?id=50276792
 50273396 | 314 pts, 373 comments | Kentucky man becomes the first humanist granted religious exemption from AI | https://news.ycombinator.com/item?id=50273396
 50270764 | 313 pts, 369 comments | Wealth Inequality in America drawn to scale | https://news.ycombinator.com/item?id=50270764
@@ -10,5 +14,3 @@ HN new 300+ stories, last 12h, updated 2026-10-28 19:28 UTC. Forward only ids no
 50268380 | 332 pts, 173 comments | Git for the US Code | https://news.ycombinator.com/item?id=50268380
 50264857 | 321 pts, 170 comments | Tailscale SSH: Investigation and remediation update | https://news.ycombinator.com/item?id=50264857
 50263854 | 305 pts, 177 comments | Discord will soon let anyone find public server messages through Google | https://news.ycombinator.com/item?id=50263854
-50264853 | 303 pts, 128 comments | Survival LLM: AI assistant and emergency library that runs on your own computer | https://news.ycombinator.com/item?id=50264853
-50261589 | 311 pts, 235 comments | Amazon Is Gutting Its AI Division After Sustained Failure | https://news.ycombinator.com/item?id=50261589

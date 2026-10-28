@@ -1,10 +1,12 @@
-HN digest 2026-10-28 (UTC): 21 new stories at 300+ points
+HN digest 2026-10-28 (UTC): 22 new stories at 300+ points
 - 635 pts, 424 comments: ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History https://news.ycombinator.com/item?id=50272749
 - 549 pts, 209 comments: Ten days later, Git on macOS still trusts the compromised eMudhra certificates https://news.ycombinator.com/item?id=50271640
 - 483 pts, 415 comments: Gemini 4 Carbon https://news.ycombinator.com/item?id=50276792
-- 417 pts, 234 comments: Genie 4 https://news.ycombinator.com/item?id=50261319
-- 359 pts, 165 comments: Wikipedia's Cleanup of AI-Generated Content https://news.ycombinator.com/item?id=50257326
+- 411 pts, 90 comments: Why Is This Fingerprinting Script Creating Bioweapons? https://news.ycombinator.com/item?id=50276998
+- 403 pts, 693 comments: MacBook Pro with PROLED XDR Display and Touch https://news.ycombinator.com/item?id=50276940
+- 356 pts, 147 comments: Emacs Turns 50 https://news.ycombinator.com/item?id=50273171
 - 336 pts, 177 comments: Anthropic trained Claude on illegally obtained Stanford professors' books https://news.ycombinator.com/item?id=50260814
+- 333 pts, 105 comments: CNC Stone Carving https://news.ycombinator.com/item?id=50274409
 - 332 pts, 173 comments: Git for the US Code https://news.ycombinator.com/item?id=50268380
 - 324 pts, 57 comments: Ink droplets in motion snag top prize in Nikon Small World contest https://news.ycombinator.com/item?id=50234796
 - 323 pts, 249 comments: Police are using AI to pull over drivers for 'suspicious' behavior https://news.ycombinator.com/item?id=50261819
@@ -14,7 +16,6 @@ HN digest 2026-10-28 (UTC): 21 new stories at 300+ points
 - 313 pts, 369 comments: Wealth Inequality in America drawn to scale https://news.ycombinator.com/item?id=50270764
 - 311 pts, 235 comments: Amazon Is Gutting Its AI Division After Sustained Failure https://news.ycombinator.com/item?id=50261589
 - 310 pts, 304 comments: Early progress on accelerating drug development with Claude https://news.ycombinator.com/item?id=50265609
-- 307 pts, 109 comments: Ghostty 1.4.0 https://news.ycombinator.com/item?id=50261998
 - 306 pts, 143 comments: The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand https://news.ycombinator.com/item?id=50243060
 - 306 pts, 379 comments: New iMac with M6 https://news.ycombinator.com/item?id=50258538
 - 305 pts, 177 comments: Discord will soon let anyone find public server messages through Google https://news.ycombinator.com/item?id=50263854
