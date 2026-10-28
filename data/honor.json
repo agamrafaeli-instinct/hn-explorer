@@ -1985,7 +1985,7 @@
   {
    "audience": "curious readers",
    "criteria": {
-    "fresh": null,
+    "fresh": false,
     "insightful": false,
     "interesting": true,
     "novel": true,
@@ -1996,7 +1996,7 @@
    "group_a_count": 3280.0,
    "id": "h424",
    "replaced_by": "h428",
-   "score": 0.8,
+   "score": 0.667,
    "title": "GPU and chip hardware: a bigger share than before"
   },
   {
@@ -2223,6 +2223,22 @@
    "id": "h438",
    "score": 1.0,
    "title": "all six deep-tech themes: a bigger share than before"
+  },
+  {
+   "audience": "curious readers",
+   "criteria": {
+    "fresh": null,
+    "insightful": true,
+    "interesting": true,
+    "novel": true,
+    "relevant": true,
+    "sharp": true
+   },
+   "failing": [],
+   "group_a_count": 1544.0,
+   "id": "h439",
+   "score": 1.0,
+   "title": "animals: a bigger share than before"
   }
  ],
  "schema": 1,
