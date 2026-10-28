@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-28 01:35 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-28 03:20 UTC. Forward only ids not sent before.
+50257548 | 302 pts, 317 comments | Software may be getting worse, but it used to be horrible | https://news.ycombinator.com/item?id=50257548
 50258538 | 306 pts, 379 comments | New iMac with M6 | https://news.ycombinator.com/item?id=50258538
 50261819 | 323 pts, 249 comments | Police are using AI to pull over drivers for 'suspicious' behavior | https://news.ycombinator.com/item?id=50261819
 50260814 | 336 pts, 177 comments | Anthropic trained Claude on illegally obtained Stanford professors' books | https://news.ycombinator.com/item?id=50260814
