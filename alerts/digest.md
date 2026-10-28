@@ -1,15 +1,14 @@
-HN digest 2026-10-28 (UTC): 20 new stories at 300+ points
+HN digest 2026-10-28 (UTC): 19 new stories at 300+ points
 - 417 pts, 234 comments: Genie 4 https://news.ycombinator.com/item?id=50261319
 - 403 pts, 360 comments: AI promised less work. I've never worked more https://news.ycombinator.com/item?id=50257325
 - 376 pts, 113 comments: The US government is hiding secret court ruling about how it spies on Americans https://news.ycombinator.com/item?id=50259604
 - 376 pts, 221 comments: Roblox downloaded 145GB models from us (including adult content) without asking https://news.ycombinator.com/item?id=50256985
-- 368 pts, 140 comments: The Exponential Time Hypothesis Is False [pdf] https://news.ycombinator.com/item?id=50251661
 - 359 pts, 165 comments: Wikipedia's Cleanup of AI-Generated Content https://news.ycombinator.com/item?id=50257326
 - 352 pts, 518 comments: Solar power is becoming bigger than nuclear https://news.ycombinator.com/item?id=50245385
 - 336 pts, 177 comments: Anthropic trained Claude on illegally obtained Stanford professors' books https://news.ycombinator.com/item?id=50260814
-- 329 pts, 198 comments: Oldest GUI application that still runs on Windows 11 https://news.ycombinator.com/item?id=50248055
 - 323 pts, 249 comments: Police are using AI to pull over drivers for 'suspicious' behavior https://news.ycombinator.com/item?id=50261819
 - 320 pts, 203 comments: The Mythical Man-Month in the Age of AI https://news.ycombinator.com/item?id=50255298
+- 318 pts, 410 comments: New 14‑inch MacBook Pro with M6 https://news.ycombinator.com/item?id=50261352
 - 309 pts, 186 comments: Websites Should Be Printable https://news.ycombinator.com/item?id=50241664
 - 307 pts, 109 comments: Ghostty 1.4.0 https://news.ycombinator.com/item?id=50261998
 - 306 pts, 379 comments: New iMac with M6 https://news.ycombinator.com/item?id=50258538

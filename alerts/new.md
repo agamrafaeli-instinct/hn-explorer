@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-28 03:20 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-28 05:18 UTC. Forward only ids not sent before.
+50261352 | 318 pts, 410 comments | New 14‑inch MacBook Pro with M6 | https://news.ycombinator.com/item?id=50261352
 50257548 | 302 pts, 317 comments | Software may be getting worse, but it used to be horrible | https://news.ycombinator.com/item?id=50257548
 50258538 | 306 pts, 379 comments | New iMac with M6 | https://news.ycombinator.com/item?id=50258538
 50261819 | 323 pts, 249 comments | Police are using AI to pull over drivers for 'suspicious' behavior | https://news.ycombinator.com/item?id=50261819
@@ -10,6 +11,3 @@ HN new 300+ stories, last 12h, updated 2026-10-28 03:20 UTC. Forward only ids no
 50257419 | 304 pts, 153 comments | Python's experimental JIT to be removed | https://news.ycombinator.com/item?id=50257419
 50249275 | 300 pts, 55 comments | The EPA Is Quietly Killing Its Web Archive | https://news.ycombinator.com/item?id=50249275
 50228115 | 303 pts, 107 comments | Show HN: A Truly Modular Keyboard | https://news.ycombinator.com/item?id=50228115
-50257325 | 403 pts, 360 comments | AI promised less work. I've never worked more | https://news.ycombinator.com/item?id=50257325
-50256985 | 376 pts, 221 comments | Roblox downloaded 145GB models from us (including adult content) without asking | https://news.ycombinator.com/item?id=50256985
-50255298 | 320 pts, 203 comments | The Mythical Man-Month in the Age of AI | https://news.ycombinator.com/item?id=50255298
