@@ -5,7 +5,6 @@ HN digest 2026-10-28 (UTC): 22 new stories at 300+ points
 - 411 pts, 90 comments: Why Is This Fingerprinting Script Creating Bioweapons? https://news.ycombinator.com/item?id=50276998
 - 403 pts, 693 comments: MacBook Pro with PROLED XDR Display and Touch https://news.ycombinator.com/item?id=50276940
 - 356 pts, 147 comments: Emacs Turns 50 https://news.ycombinator.com/item?id=50273171
-- 336 pts, 177 comments: Anthropic trained Claude on illegally obtained Stanford professors' books https://news.ycombinator.com/item?id=50260814
 - 333 pts, 105 comments: CNC Stone Carving https://news.ycombinator.com/item?id=50274409
 - 332 pts, 173 comments: Git for the US Code https://news.ycombinator.com/item?id=50268380
 - 324 pts, 57 comments: Ink droplets in motion snag top prize in Nikon Small World contest https://news.ycombinator.com/item?id=50234796
@@ -20,4 +19,5 @@ HN digest 2026-10-28 (UTC): 22 new stories at 300+ points
 - 306 pts, 379 comments: New iMac with M6 https://news.ycombinator.com/item?id=50258538
 - 305 pts, 177 comments: Discord will soon let anyone find public server messages through Google https://news.ycombinator.com/item?id=50263854
 - 303 pts, 128 comments: Survival LLM: AI assistant and emergency library that runs on your own computer https://news.ycombinator.com/item?id=50264853
+- 302 pts, 219 comments: Code-execution flaw in UEFI firmware threatens most servers on planet Earth https://news.ycombinator.com/item?id=50265393
 - 302 pts, 317 comments: Software may be getting worse, but it used to be horrible https://news.ycombinator.com/item?id=50257548

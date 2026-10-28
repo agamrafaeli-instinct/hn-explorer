@@ -1,5 +1,16 @@
 [
  {
+  "id": "50265393",
+  "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+  "points": 302,
+  "comments": 219,
+  "author": "DamnInteresting",
+  "hn": "https://news.ycombinator.com/item?id=50265393",
+  "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+  "created_at": "2026-10-27T20:35:09Z",
+  "reported_at": 1793229249
+ },
+ {
   "id": "50276998",
   "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
   "points": 411,
