@@ -4,9 +4,10 @@ HN digest 2026-10-28 (UTC): 21 new stories at 300+ points
 - 376 pts, 113 comments: The US government is hiding secret court ruling about how it spies on Americans https://news.ycombinator.com/item?id=50259604
 - 376 pts, 221 comments: Roblox downloaded 145GB models from us (including adult content) without asking https://news.ycombinator.com/item?id=50256985
 - 359 pts, 165 comments: Wikipedia's Cleanup of AI-Generated Content https://news.ycombinator.com/item?id=50257326
-- 352 pts, 518 comments: Solar power is becoming bigger than nuclear https://news.ycombinator.com/item?id=50245385
 - 336 pts, 177 comments: Anthropic trained Claude on illegally obtained Stanford professors' books https://news.ycombinator.com/item?id=50260814
+- 332 pts, 173 comments: Git for the US Code https://news.ycombinator.com/item?id=50268380
 - 323 pts, 249 comments: Police are using AI to pull over drivers for 'suspicious' behavior https://news.ycombinator.com/item?id=50261819
+- 321 pts, 170 comments: Tailscale SSH: Investigation and remediation update https://news.ycombinator.com/item?id=50264857
 - 320 pts, 203 comments: The Mythical Man-Month in the Age of AI https://news.ycombinator.com/item?id=50255298
 - 318 pts, 410 comments: New 14‑inch MacBook Pro with M6 https://news.ycombinator.com/item?id=50261352
 - 311 pts, 235 comments: Amazon Is Gutting Its AI Division After Sustained Failure https://news.ycombinator.com/item?id=50261589
@@ -14,7 +15,6 @@ HN digest 2026-10-28 (UTC): 21 new stories at 300+ points
 - 306 pts, 379 comments: New iMac with M6 https://news.ycombinator.com/item?id=50258538
 - 305 pts, 177 comments: Discord will soon let anyone find public server messages through Google https://news.ycombinator.com/item?id=50263854
 - 304 pts, 153 comments: Python's experimental JIT to be removed https://news.ycombinator.com/item?id=50257419
-- 304 pts, 118 comments: Concerning behavior from a popular open-weight AI model https://news.ycombinator.com/item?id=50246658
 - 303 pts, 128 comments: Survival LLM: AI assistant and emergency library that runs on your own computer https://news.ycombinator.com/item?id=50264853
 - 303 pts, 107 comments: Show HN: A Truly Modular Keyboard https://news.ycombinator.com/item?id=50228115
 - 302 pts, 317 comments: Software may be getting worse, but it used to be horrible https://news.ycombinator.com/item?id=50257548
