@@ -1,4 +1,4 @@
-HN digest 2026-10-28 (UTC): 20 new stories at 300+ points
+HN digest 2026-10-28 (UTC): 21 new stories at 300+ points
 - 417 pts, 234 comments: Genie 4 https://news.ycombinator.com/item?id=50261319
 - 403 pts, 360 comments: AI promised less work. I've never worked more https://news.ycombinator.com/item?id=50257325
 - 376 pts, 113 comments: The US government is hiding secret court ruling about how it spies on Americans https://news.ycombinator.com/item?id=50259604
@@ -12,6 +12,7 @@ HN digest 2026-10-28 (UTC): 20 new stories at 300+ points
 - 311 pts, 235 comments: Amazon Is Gutting Its AI Division After Sustained Failure https://news.ycombinator.com/item?id=50261589
 - 307 pts, 109 comments: Ghostty 1.4.0 https://news.ycombinator.com/item?id=50261998
 - 306 pts, 379 comments: New iMac with M6 https://news.ycombinator.com/item?id=50258538
+- 305 pts, 177 comments: Discord will soon let anyone find public server messages through Google https://news.ycombinator.com/item?id=50263854
 - 304 pts, 153 comments: Python's experimental JIT to be removed https://news.ycombinator.com/item?id=50257419
 - 304 pts, 118 comments: Concerning behavior from a popular open-weight AI model https://news.ycombinator.com/item?id=50246658
 - 303 pts, 128 comments: Survival LLM: AI assistant and emergency library that runs on your own computer https://news.ycombinator.com/item?id=50264853

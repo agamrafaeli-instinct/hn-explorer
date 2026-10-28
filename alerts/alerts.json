@@ -1,5 +1,16 @@
 [
  {
+  "id": "50263854",
+  "title": "Discord will soon let anyone find public server messages through Google",
+  "points": 305,
+  "comments": 177,
+  "author": "DeepLogin",
+  "hn": "https://news.ycombinator.com/item?id=50263854",
+  "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+  "created_at": "2026-10-27T18:44:17Z",
+  "reported_at": 1793186414
+ },
+ {
   "id": "50264853",
   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
   "points": 303,
