@@ -1,13 +1,8 @@
-HN new 300+ stories, last 12h, updated 2026-10-28 05:18 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-28 07:38 UTC. Forward only ids not sent before.
+50264853 | 303 pts, 128 comments | Survival LLM: AI assistant and emergency library that runs on your own computer | https://news.ycombinator.com/item?id=50264853
+50261589 | 311 pts, 235 comments | Amazon Is Gutting Its AI Division After Sustained Failure | https://news.ycombinator.com/item?id=50261589
 50261352 | 318 pts, 410 comments | New 14‑inch MacBook Pro with M6 | https://news.ycombinator.com/item?id=50261352
 50257548 | 302 pts, 317 comments | Software may be getting worse, but it used to be horrible | https://news.ycombinator.com/item?id=50257548
 50258538 | 306 pts, 379 comments | New iMac with M6 | https://news.ycombinator.com/item?id=50258538
 50261819 | 323 pts, 249 comments | Police are using AI to pull over drivers for 'suspicious' behavior | https://news.ycombinator.com/item?id=50261819
 50260814 | 336 pts, 177 comments | Anthropic trained Claude on illegally obtained Stanford professors' books | https://news.ycombinator.com/item?id=50260814
-50261998 | 307 pts, 109 comments | Ghostty 1.4.0 | https://news.ycombinator.com/item?id=50261998
-50261319 | 417 pts, 234 comments | Genie 4 | https://news.ycombinator.com/item?id=50261319
-50257326 | 359 pts, 165 comments | Wikipedia's Cleanup of AI-Generated Content | https://news.ycombinator.com/item?id=50257326
-50259604 | 376 pts, 113 comments | The US government is hiding secret court ruling about how it spies on Americans | https://news.ycombinator.com/item?id=50259604
-50257419 | 304 pts, 153 comments | Python's experimental JIT to be removed | https://news.ycombinator.com/item?id=50257419
-50249275 | 300 pts, 55 comments | The EPA Is Quietly Killing Its Web Archive | https://news.ycombinator.com/item?id=50249275
-50228115 | 303 pts, 107 comments | Show HN: A Truly Modular Keyboard | https://news.ycombinator.com/item?id=50228115

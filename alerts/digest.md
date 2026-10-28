@@ -1,4 +1,4 @@
-HN digest 2026-10-28 (UTC): 19 new stories at 300+ points
+HN digest 2026-10-28 (UTC): 20 new stories at 300+ points
 - 417 pts, 234 comments: Genie 4 https://news.ycombinator.com/item?id=50261319
 - 403 pts, 360 comments: AI promised less work. I've never worked more https://news.ycombinator.com/item?id=50257325
 - 376 pts, 113 comments: The US government is hiding secret court ruling about how it spies on Americans https://news.ycombinator.com/item?id=50259604
@@ -9,11 +9,12 @@ HN digest 2026-10-28 (UTC): 19 new stories at 300+ points
 - 323 pts, 249 comments: Police are using AI to pull over drivers for 'suspicious' behavior https://news.ycombinator.com/item?id=50261819
 - 320 pts, 203 comments: The Mythical Man-Month in the Age of AI https://news.ycombinator.com/item?id=50255298
 - 318 pts, 410 comments: New 14‑inch MacBook Pro with M6 https://news.ycombinator.com/item?id=50261352
-- 309 pts, 186 comments: Websites Should Be Printable https://news.ycombinator.com/item?id=50241664
+- 311 pts, 235 comments: Amazon Is Gutting Its AI Division After Sustained Failure https://news.ycombinator.com/item?id=50261589
 - 307 pts, 109 comments: Ghostty 1.4.0 https://news.ycombinator.com/item?id=50261998
 - 306 pts, 379 comments: New iMac with M6 https://news.ycombinator.com/item?id=50258538
 - 304 pts, 153 comments: Python's experimental JIT to be removed https://news.ycombinator.com/item?id=50257419
 - 304 pts, 118 comments: Concerning behavior from a popular open-weight AI model https://news.ycombinator.com/item?id=50246658
+- 303 pts, 128 comments: Survival LLM: AI assistant and emergency library that runs on your own computer https://news.ycombinator.com/item?id=50264853
 - 303 pts, 107 comments: Show HN: A Truly Modular Keyboard https://news.ycombinator.com/item?id=50228115
 - 302 pts, 317 comments: Software may be getting worse, but it used to be horrible https://news.ycombinator.com/item?id=50257548
 - 302 pts, 182 comments: In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real https://news.ycombinator.com/item?id=50248005

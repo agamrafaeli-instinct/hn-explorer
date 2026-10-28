@@ -1,5 +1,27 @@
 [
  {
+  "id": "50264853",
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "points": 303,
+  "comments": 128,
+  "author": "Luc",
+  "hn": "https://news.ycombinator.com/item?id=50264853",
+  "url": "https://www.brangus.io/survival-llm",
+  "created_at": "2026-10-27T19:55:06Z",
+  "reported_at": 1793173123
+ },
+ {
+  "id": "50261589",
+  "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+  "points": 311,
+  "comments": 235,
+  "author": "dpflan",
+  "hn": "https://news.ycombinator.com/item?id=50261589",
+  "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+  "created_at": "2026-10-27T16:25:30Z",
+  "reported_at": 1793173123
+ },
+ {
   "id": "50261352",
   "title": "New 14\u2011inch MacBook Pro with M6",
   "points": 318,
