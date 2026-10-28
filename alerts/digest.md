@@ -1,8 +1,8 @@
-HN digest 2026-10-28 (UTC): 20 new stories at 300+ points
+HN digest 2026-10-28 (UTC): 21 new stories at 300+ points
 - 635 pts, 424 comments: ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History https://news.ycombinator.com/item?id=50272749
 - 549 pts, 209 comments: Ten days later, Git on macOS still trusts the compromised eMudhra certificates https://news.ycombinator.com/item?id=50271640
+- 483 pts, 415 comments: Gemini 4 Carbon https://news.ycombinator.com/item?id=50276792
 - 417 pts, 234 comments: Genie 4 https://news.ycombinator.com/item?id=50261319
-- 376 pts, 113 comments: The US government is hiding secret court ruling about how it spies on Americans https://news.ycombinator.com/item?id=50259604
 - 359 pts, 165 comments: Wikipedia's Cleanup of AI-Generated Content https://news.ycombinator.com/item?id=50257326
 - 336 pts, 177 comments: Anthropic trained Claude on illegally obtained Stanford professors' books https://news.ycombinator.com/item?id=50260814
 - 332 pts, 173 comments: Git for the US Code https://news.ycombinator.com/item?id=50268380
@@ -10,12 +10,13 @@ HN digest 2026-10-28 (UTC): 20 new stories at 300+ points
 - 323 pts, 249 comments: Police are using AI to pull over drivers for 'suspicious' behavior https://news.ycombinator.com/item?id=50261819
 - 321 pts, 170 comments: Tailscale SSH: Investigation and remediation update https://news.ycombinator.com/item?id=50264857
 - 318 pts, 410 comments: New 14‑inch MacBook Pro with M6 https://news.ycombinator.com/item?id=50261352
+- 314 pts, 373 comments: Kentucky man becomes the first humanist granted religious exemption from AI https://news.ycombinator.com/item?id=50273396
+- 313 pts, 369 comments: Wealth Inequality in America drawn to scale https://news.ycombinator.com/item?id=50270764
 - 311 pts, 235 comments: Amazon Is Gutting Its AI Division After Sustained Failure https://news.ycombinator.com/item?id=50261589
+- 310 pts, 304 comments: Early progress on accelerating drug development with Claude https://news.ycombinator.com/item?id=50265609
 - 307 pts, 109 comments: Ghostty 1.4.0 https://news.ycombinator.com/item?id=50261998
+- 306 pts, 143 comments: The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand https://news.ycombinator.com/item?id=50243060
 - 306 pts, 379 comments: New iMac with M6 https://news.ycombinator.com/item?id=50258538
 - 305 pts, 177 comments: Discord will soon let anyone find public server messages through Google https://news.ycombinator.com/item?id=50263854
-- 304 pts, 153 comments: Python's experimental JIT to be removed https://news.ycombinator.com/item?id=50257419
 - 303 pts, 128 comments: Survival LLM: AI assistant and emergency library that runs on your own computer https://news.ycombinator.com/item?id=50264853
-- 303 pts, 107 comments: Show HN: A Truly Modular Keyboard https://news.ycombinator.com/item?id=50228115
 - 302 pts, 317 comments: Software may be getting worse, but it used to be horrible https://news.ycombinator.com/item?id=50257548
-- 300 pts, 55 comments: The EPA Is Quietly Killing Its Web Archive https://news.ycombinator.com/item?id=50249275

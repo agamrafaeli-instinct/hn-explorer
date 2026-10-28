@@ -1,4 +1,9 @@
-HN new 300+ stories, last 12h, updated 2026-10-28 17:27 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-28 19:28 UTC. Forward only ids not sent before.
+50276792 | 483 pts, 415 comments | Gemini 4 Carbon | https://news.ycombinator.com/item?id=50276792
+50273396 | 314 pts, 373 comments | Kentucky man becomes the first humanist granted religious exemption from AI | https://news.ycombinator.com/item?id=50273396
+50270764 | 313 pts, 369 comments | Wealth Inequality in America drawn to scale | https://news.ycombinator.com/item?id=50270764
+50265609 | 310 pts, 304 comments | Early progress on accelerating drug development with Claude | https://news.ycombinator.com/item?id=50265609
+50243060 | 306 pts, 143 comments | The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand | https://news.ycombinator.com/item?id=50243060
 50272749 | 635 pts, 424 comments | ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History | https://news.ycombinator.com/item?id=50272749
 50271640 | 549 pts, 209 comments | Ten days later, Git on macOS still trusts the compromised eMudhra certificates | https://news.ycombinator.com/item?id=50271640
 50234796 | 324 pts, 57 comments | Ink droplets in motion snag top prize in Nikon Small World contest | https://news.ycombinator.com/item?id=50234796

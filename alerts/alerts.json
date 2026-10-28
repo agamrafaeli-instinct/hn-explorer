@@ -1,5 +1,60 @@
 [
  {
+  "id": "50276792",
+  "title": "Gemini 4 Carbon",
+  "points": 483,
+  "comments": 415,
+  "author": "acossta",
+  "hn": "https://news.ycombinator.com/item?id=50276792",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "created_at": "2026-10-28T17:01:23Z",
+  "reported_at": 1793215716
+ },
+ {
+  "id": "50273396",
+  "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+  "points": 314,
+  "comments": 373,
+  "author": "danso",
+  "hn": "https://news.ycombinator.com/item?id=50273396",
+  "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+  "created_at": "2026-10-28T13:41:30Z",
+  "reported_at": 1793215716
+ },
+ {
+  "id": "50270764",
+  "title": "Wealth Inequality in America drawn to scale",
+  "points": 313,
+  "comments": 369,
+  "author": "haraball",
+  "hn": "https://news.ycombinator.com/item?id=50270764",
+  "url": "https://dreamagainusa.org/",
+  "created_at": "2026-10-28T08:48:21Z",
+  "reported_at": 1793215716
+ },
+ {
+  "id": "50265609",
+  "title": "Early progress on accelerating drug development with Claude",
+  "points": 310,
+  "comments": 304,
+  "author": "dataking",
+  "hn": "https://news.ycombinator.com/item?id=50265609",
+  "url": "https://www.anthropic.com/research/early-progress-drug-development",
+  "created_at": "2026-10-27T20:50:42Z",
+  "reported_at": 1793215716
+ },
+ {
+  "id": "50243060",
+  "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+  "points": 306,
+  "comments": 143,
+  "author": "seddona",
+  "hn": "https://news.ycombinator.com/item?id=50243060",
+  "url": "https://www.circuithub.com/post/unveiling-the-grid",
+  "created_at": "2026-10-26T13:13:31Z",
+  "reported_at": 1793215716
+ },
+ {
   "id": "50272749",
   "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
   "points": 635,
