@@ -1,5 +1,16 @@
 [
  {
+  "id": "50280864",
+  "title": "Leak Exposes 41,000 Homeland Security Workers\u2013Including Undercover ICE Agents",
+  "points": 309,
+  "comments": 168,
+  "author": "Aboutplants",
+  "hn": "https://news.ycombinator.com/item?id=50280864",
+  "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+  "created_at": "2026-10-28T21:03:24Z",
+  "reported_at": 1793251300
+ },
+ {
   "id": "50265393",
   "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
   "points": 302,

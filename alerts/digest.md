@@ -14,8 +14,8 @@ HN digest 2026-10-29 (UTC): 20 new stories at 300+ points
 - 313 pts, 369 comments: Wealth Inequality in America drawn to scale https://news.ycombinator.com/item?id=50270764
 - 311 pts, 235 comments: Amazon Is Gutting Its AI Division After Sustained Failure https://news.ycombinator.com/item?id=50261589
 - 310 pts, 304 comments: Early progress on accelerating drug development with Claude https://news.ycombinator.com/item?id=50265609
+- 309 pts, 168 comments: Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents https://news.ycombinator.com/item?id=50280864
 - 306 pts, 143 comments: The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand https://news.ycombinator.com/item?id=50243060
 - 305 pts, 177 comments: Discord will soon let anyone find public server messages through Google https://news.ycombinator.com/item?id=50263854
 - 303 pts, 128 comments: Survival LLM: AI assistant and emergency library that runs on your own computer https://news.ycombinator.com/item?id=50264853
 - 302 pts, 219 comments: Code-execution flaw in UEFI firmware threatens most servers on planet Earth https://news.ycombinator.com/item?id=50265393
-- 302 pts, 317 comments: Software may be getting worse, but it used to be horrible https://news.ycombinator.com/item?id=50257548
