@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-10-29 21:18 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-29 23:15 UTC. Forward only ids not sent before.
+50296470 | 394 pts, 226 comments | Binance-hacker-1029 – $5.6B stolen from Binance | https://news.ycombinator.com/item?id=50296470
+50290177 | 304 pts, 163 comments | LLM Voice | https://news.ycombinator.com/item?id=50290177
 50294702 | 1357 pts, 254 comments | Patrick Stewart has died | https://news.ycombinator.com/item?id=50294702
 50287919 | 348 pts, 543 comments | DoorDash to acquire Instacart | https://news.ycombinator.com/item?id=50287919
 50285452 | 305 pts, 172 comments | Zero click, silent, remote Android DoS | https://news.ycombinator.com/item?id=50285452
@@ -8,4 +10,3 @@ HN new 300+ stories, last 12h, updated 2026-10-29 21:18 UTC. Forward only ids no
 50289418 | 339 pts, 75 comments | Mistral Large 4 (Le Chonk) is now Open Weight | https://news.ycombinator.com/item?id=50289418
 50251200 | 307 pts, 213 comments | OpenAI's agents talked to each other through the CPU Cache | https://news.ycombinator.com/item?id=50251200
 50280974 | 305 pts, 46 comments | A Health Update | https://news.ycombinator.com/item?id=50280974
-50284255 | 353 pts, 110 comments | Claude Code regularly sends each background agent’s transcript to its model | https://news.ycombinator.com/item?id=50284255
