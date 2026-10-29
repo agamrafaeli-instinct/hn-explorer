@@ -1,4 +1,4 @@
-HN digest 2026-10-29 (UTC): 19 new stories at 300+ points
+HN digest 2026-10-29 (UTC): 20 new stories at 300+ points
 - 483 pts, 415 comments: Gemini 4 Carbon https://news.ycombinator.com/item?id=50276792
 - 411 pts, 90 comments: Why Is This Fingerprinting Script Creating Bioweapons? https://news.ycombinator.com/item?id=50276998
 - 403 pts, 693 comments: MacBook Pro with PROLED XDR Display and Touch https://news.ycombinator.com/item?id=50276940
@@ -9,6 +9,7 @@ HN digest 2026-10-29 (UTC): 19 new stories at 300+ points
 - 339 pts, 75 comments: Mistral Large 4 (Le Chonk) is now Open Weight https://news.ycombinator.com/item?id=50289418
 - 334 pts, 280 comments: StackOverflow now gets fewer than 1000 questions a month https://news.ycombinator.com/item?id=50282454
 - 333 pts, 105 comments: CNC Stone Carving https://news.ycombinator.com/item?id=50274409
+- 324 pts, 279 comments: Google Search is now less than half of Alphabet’s revenue https://news.ycombinator.com/item?id=50291945
 - 314 pts, 373 comments: Kentucky man becomes the first humanist granted religious exemption from AI https://news.ycombinator.com/item?id=50273396
 - 313 pts, 369 comments: Wealth Inequality in America drawn to scale https://news.ycombinator.com/item?id=50270764
 - 310 pts, 304 comments: Early progress on accelerating drug development with Claude https://news.ycombinator.com/item?id=50265609

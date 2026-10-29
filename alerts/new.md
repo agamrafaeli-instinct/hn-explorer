@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-29 17:27 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-29 19:29 UTC. Forward only ids not sent before.
+50291945 | 324 pts, 279 comments | Google Search is now less than half of Alphabet’s revenue | https://news.ycombinator.com/item?id=50291945
 50288867 | 374 pts, 282 comments | ‘You Are Done’: The letter sent to King by the F.B.I (2014) | https://news.ycombinator.com/item?id=50288867
 50288019 | 303 pts, 224 comments | Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5 | https://news.ycombinator.com/item?id=50288019
 50289418 | 339 pts, 75 comments | Mistral Large 4 (Le Chonk) is now Open Weight | https://news.ycombinator.com/item?id=50289418
