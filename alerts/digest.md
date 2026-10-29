@@ -1,4 +1,4 @@
-HN digest 2026-10-28 (UTC): 22 new stories at 300+ points
+HN digest 2026-10-29 (UTC): 21 new stories at 300+ points
 - 635 pts, 424 comments: ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History https://news.ycombinator.com/item?id=50272749
 - 549 pts, 209 comments: Ten days later, Git on macOS still trusts the compromised eMudhra certificates https://news.ycombinator.com/item?id=50271640
 - 483 pts, 415 comments: Gemini 4 Carbon https://news.ycombinator.com/item?id=50276792
@@ -8,7 +8,6 @@ HN digest 2026-10-28 (UTC): 22 new stories at 300+ points
 - 333 pts, 105 comments: CNC Stone Carving https://news.ycombinator.com/item?id=50274409
 - 332 pts, 173 comments: Git for the US Code https://news.ycombinator.com/item?id=50268380
 - 324 pts, 57 comments: Ink droplets in motion snag top prize in Nikon Small World contest https://news.ycombinator.com/item?id=50234796
-- 323 pts, 249 comments: Police are using AI to pull over drivers for 'suspicious' behavior https://news.ycombinator.com/item?id=50261819
 - 321 pts, 170 comments: Tailscale SSH: Investigation and remediation update https://news.ycombinator.com/item?id=50264857
 - 318 pts, 410 comments: New 14‑inch MacBook Pro with M6 https://news.ycombinator.com/item?id=50261352
 - 314 pts, 373 comments: Kentucky man becomes the first humanist granted religious exemption from AI https://news.ycombinator.com/item?id=50273396

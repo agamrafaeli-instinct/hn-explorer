@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-10-28 23:14 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-29 01:36 UTC. Forward only ids not sent before.
 50265393 | 302 pts, 219 comments | Code-execution flaw in UEFI firmware threatens most servers on planet Earth | https://news.ycombinator.com/item?id=50265393
 50276998 | 411 pts, 90 comments | Why Is This Fingerprinting Script Creating Bioweapons? | https://news.ycombinator.com/item?id=50276998
 50276940 | 403 pts, 693 comments | MacBook Pro with PROLED XDR Display and Touch | https://news.ycombinator.com/item?id=50276940
@@ -12,6 +12,3 @@ HN new 300+ stories, last 12h, updated 2026-10-28 23:14 UTC. Forward only ids no
 50272749 | 635 pts, 424 comments | ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History | https://news.ycombinator.com/item?id=50272749
 50271640 | 549 pts, 209 comments | Ten days later, Git on macOS still trusts the compromised eMudhra certificates | https://news.ycombinator.com/item?id=50271640
 50234796 | 324 pts, 57 comments | Ink droplets in motion snag top prize in Nikon Small World contest | https://news.ycombinator.com/item?id=50234796
-50268380 | 332 pts, 173 comments | Git for the US Code | https://news.ycombinator.com/item?id=50268380
-50264857 | 321 pts, 170 comments | Tailscale SSH: Investigation and remediation update | https://news.ycombinator.com/item?id=50264857
-50263854 | 305 pts, 177 comments | Discord will soon let anyone find public server messages through Google | https://news.ycombinator.com/item?id=50263854
