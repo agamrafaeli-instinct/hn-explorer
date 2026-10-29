@@ -1,5 +1,27 @@
 [
  {
+  "id": "50282838",
+  "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+  "points": 346,
+  "comments": 77,
+  "author": "csmantle",
+  "hn": "https://news.ycombinator.com/item?id=50282838",
+  "url": "https://divagr.com/blog/qwenputer",
+  "created_at": "2026-10-29T00:25:45Z",
+  "reported_at": 1793259634
+ },
+ {
+  "id": "50282454",
+  "title": "StackOverflow now gets fewer than 1000 questions a month",
+  "points": 334,
+  "comments": 280,
+  "author": "babelfish",
+  "hn": "https://news.ycombinator.com/item?id=50282454",
+  "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+  "created_at": "2026-10-28T23:35:02Z",
+  "reported_at": 1793259634
+ },
+ {
   "id": "50280864",
   "title": "Leak Exposes 41,000 Homeland Security Workers\u2013Including Undercover ICE Agents",
   "points": 309,
