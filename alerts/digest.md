@@ -1,21 +1,19 @@
-HN digest 2026-10-29 (UTC): 20 new stories at 300+ points
-- 483 pts, 415 comments: Gemini 4 Carbon https://news.ycombinator.com/item?id=50276792
+HN digest 2026-10-29 (UTC): 18 new stories at 300+ points
+- 1357 pts, 254 comments: Patrick Stewart has died https://news.ycombinator.com/item?id=50294702
 - 411 pts, 90 comments: Why Is This Fingerprinting Script Creating Bioweapons? https://news.ycombinator.com/item?id=50276998
 - 403 pts, 693 comments: MacBook Pro with PROLED XDR Display and Touch https://news.ycombinator.com/item?id=50276940
 - 374 pts, 282 comments: ‘You Are Done’: The letter sent to King by the F.B.I (2014) https://news.ycombinator.com/item?id=50288867
 - 356 pts, 147 comments: Emacs Turns 50 https://news.ycombinator.com/item?id=50273171
 - 353 pts, 110 comments: Claude Code regularly sends each background agent’s transcript to its model https://news.ycombinator.com/item?id=50284255
+- 348 pts, 543 comments: DoorDash to acquire Instacart https://news.ycombinator.com/item?id=50287919
 - 346 pts, 77 comments: Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 https://news.ycombinator.com/item?id=50282838
 - 339 pts, 75 comments: Mistral Large 4 (Le Chonk) is now Open Weight https://news.ycombinator.com/item?id=50289418
 - 334 pts, 280 comments: StackOverflow now gets fewer than 1000 questions a month https://news.ycombinator.com/item?id=50282454
 - 333 pts, 105 comments: CNC Stone Carving https://news.ycombinator.com/item?id=50274409
 - 324 pts, 279 comments: Google Search is now less than half of Alphabet’s revenue https://news.ycombinator.com/item?id=50291945
-- 314 pts, 373 comments: Kentucky man becomes the first humanist granted religious exemption from AI https://news.ycombinator.com/item?id=50273396
-- 313 pts, 369 comments: Wealth Inequality in America drawn to scale https://news.ycombinator.com/item?id=50270764
-- 310 pts, 304 comments: Early progress on accelerating drug development with Claude https://news.ycombinator.com/item?id=50265609
 - 309 pts, 168 comments: Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents https://news.ycombinator.com/item?id=50280864
 - 307 pts, 213 comments: OpenAI's agents talked to each other through the CPU Cache https://news.ycombinator.com/item?id=50251200
-- 306 pts, 143 comments: The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand https://news.ycombinator.com/item?id=50243060
+- 305 pts, 172 comments: Zero click, silent, remote Android DoS https://news.ycombinator.com/item?id=50285452
 - 305 pts, 46 comments: A Health Update https://news.ycombinator.com/item?id=50280974
 - 303 pts, 224 comments: Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5 https://news.ycombinator.com/item?id=50288019
 - 302 pts, 219 comments: Code-execution flaw in UEFI firmware threatens most servers on planet Earth https://news.ycombinator.com/item?id=50265393

@@ -1,5 +1,38 @@
 [
  {
+  "id": "50294702",
+  "title": "Patrick Stewart has died",
+  "points": 1357,
+  "comments": 254,
+  "author": "j4mie",
+  "hn": "https://news.ycombinator.com/item?id=50294702",
+  "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+  "created_at": "2026-10-29T19:41:39Z",
+  "reported_at": 1793308732
+ },
+ {
+  "id": "50287919",
+  "title": "DoorDash to acquire Instacart",
+  "points": 348,
+  "comments": 543,
+  "author": "WalterSobchak",
+  "hn": "https://news.ycombinator.com/item?id=50287919",
+  "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+  "created_at": "2026-10-29T12:33:05Z",
+  "reported_at": 1793308732
+ },
+ {
+  "id": "50285452",
+  "title": "Zero click, silent, remote Android DoS",
+  "points": 305,
+  "comments": 172,
+  "author": "MarkBlah",
+  "hn": "https://news.ycombinator.com/item?id=50285452",
+  "url": "https://smsofdeath.com/",
+  "created_at": "2026-10-29T07:08:50Z",
+  "reported_at": 1793308732
+ },
+ {
   "id": "50291945",
   "title": "Google Search is now less than half of Alphabet\u2019s revenue",
   "points": 324,
