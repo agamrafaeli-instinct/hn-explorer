@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-10-29 01:36 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-29 03:23 UTC. Forward only ids not sent before.
 50265393 | 302 pts, 219 comments | Code-execution flaw in UEFI firmware threatens most servers on planet Earth | https://news.ycombinator.com/item?id=50265393
 50276998 | 411 pts, 90 comments | Why Is This Fingerprinting Script Creating Bioweapons? | https://news.ycombinator.com/item?id=50276998
 50276940 | 403 pts, 693 comments | MacBook Pro with PROLED XDR Display and Touch | https://news.ycombinator.com/item?id=50276940
