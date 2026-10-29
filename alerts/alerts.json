@@ -1,5 +1,16 @@
 [
  {
+  "id": "50280974",
+  "title": "A Health Update",
+  "points": 305,
+  "comments": 46,
+  "author": "frizlab",
+  "hn": "https://news.ycombinator.com/item?id=50280974",
+  "url": "https://furbo.org/2026/10/28/a-health-update/",
+  "created_at": "2026-10-28T21:13:21Z",
+  "reported_at": 1793281204
+ },
+ {
   "id": "50284255",
   "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
   "points": 353,
