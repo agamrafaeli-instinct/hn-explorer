@@ -1,10 +1,11 @@
-HN digest 2026-10-29 (UTC): 21 new stories at 300+ points
+HN digest 2026-10-29 (UTC): 20 new stories at 300+ points
 - 635 pts, 424 comments: ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History https://news.ycombinator.com/item?id=50272749
 - 549 pts, 209 comments: Ten days later, Git on macOS still trusts the compromised eMudhra certificates https://news.ycombinator.com/item?id=50271640
 - 483 pts, 415 comments: Gemini 4 Carbon https://news.ycombinator.com/item?id=50276792
 - 411 pts, 90 comments: Why Is This Fingerprinting Script Creating Bioweapons? https://news.ycombinator.com/item?id=50276998
 - 403 pts, 693 comments: MacBook Pro with PROLED XDR Display and Touch https://news.ycombinator.com/item?id=50276940
 - 356 pts, 147 comments: Emacs Turns 50 https://news.ycombinator.com/item?id=50273171
+- 353 pts, 110 comments: Claude Code regularly sends each background agent’s transcript to its model https://news.ycombinator.com/item?id=50284255
 - 346 pts, 77 comments: Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 https://news.ycombinator.com/item?id=50282838
 - 334 pts, 280 comments: StackOverflow now gets fewer than 1000 questions a month https://news.ycombinator.com/item?id=50282454
 - 333 pts, 105 comments: CNC Stone Carving https://news.ycombinator.com/item?id=50274409
@@ -13,10 +14,8 @@ HN digest 2026-10-29 (UTC): 21 new stories at 300+ points
 - 321 pts, 170 comments: Tailscale SSH: Investigation and remediation update https://news.ycombinator.com/item?id=50264857
 - 314 pts, 373 comments: Kentucky man becomes the first humanist granted religious exemption from AI https://news.ycombinator.com/item?id=50273396
 - 313 pts, 369 comments: Wealth Inequality in America drawn to scale https://news.ycombinator.com/item?id=50270764
-- 311 pts, 235 comments: Amazon Is Gutting Its AI Division After Sustained Failure https://news.ycombinator.com/item?id=50261589
 - 310 pts, 304 comments: Early progress on accelerating drug development with Claude https://news.ycombinator.com/item?id=50265609
 - 309 pts, 168 comments: Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents https://news.ycombinator.com/item?id=50280864
 - 306 pts, 143 comments: The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand https://news.ycombinator.com/item?id=50243060
 - 305 pts, 177 comments: Discord will soon let anyone find public server messages through Google https://news.ycombinator.com/item?id=50263854
-- 303 pts, 128 comments: Survival LLM: AI assistant and emergency library that runs on your own computer https://news.ycombinator.com/item?id=50264853
 - 302 pts, 219 comments: Code-execution flaw in UEFI firmware threatens most servers on planet Earth https://news.ycombinator.com/item?id=50265393
