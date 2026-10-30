@@ -1,5 +1,27 @@
 [
  {
+  "id": "50293047",
+  "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+  "points": 307,
+  "comments": 213,
+  "author": "mgh2",
+  "hn": "https://news.ycombinator.com/item?id=50293047",
+  "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+  "created_at": "2026-10-29T17:43:48Z",
+  "reported_at": 1793337678
+ },
+ {
+  "id": "50286987",
+  "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+  "points": 308,
+  "comments": 151,
+  "author": "882542F3884314B",
+  "hn": "https://news.ycombinator.com/item?id=50286987",
+  "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+  "created_at": "2026-10-29T10:42:41Z",
+  "reported_at": 1793337678
+ },
+ {
   "id": "50291054",
   "title": "H.264 Is Magic (2016)",
   "points": 330,

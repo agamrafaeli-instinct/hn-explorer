@@ -1,4 +1,4 @@
-HN digest 2026-10-30 (UTC): 16 new stories at 300+ points
+HN digest 2026-10-30 (UTC): 18 new stories at 300+ points
 - 1357 pts, 254 comments: Patrick Stewart has died https://news.ycombinator.com/item?id=50294702
 - 394 pts, 226 comments: Binance-hacker-1029 – $5.6B stolen from Binance https://news.ycombinator.com/item?id=50296470
 - 374 pts, 282 comments: ‘You Are Done’: The letter sent to King by the F.B.I (2014) https://news.ycombinator.com/item?id=50288867
@@ -10,6 +10,8 @@ HN digest 2026-10-30 (UTC): 16 new stories at 300+ points
 - 330 pts, 124 comments: H.264 Is Magic (2016) https://news.ycombinator.com/item?id=50291054
 - 324 pts, 279 comments: Google Search is now less than half of Alphabet’s revenue https://news.ycombinator.com/item?id=50291945
 - 309 pts, 168 comments: Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents https://news.ycombinator.com/item?id=50280864
+- 308 pts, 151 comments: Chained PHP2Shell exploit roots 25 servers, including US Government servers https://news.ycombinator.com/item?id=50286987
+- 307 pts, 213 comments: Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang https://news.ycombinator.com/item?id=50293047
 - 307 pts, 213 comments: OpenAI's agents talked to each other through the CPU Cache https://news.ycombinator.com/item?id=50251200
 - 305 pts, 172 comments: Zero click, silent, remote Android DoS https://news.ycombinator.com/item?id=50285452
 - 305 pts, 46 comments: A Health Update https://news.ycombinator.com/item?id=50280974
