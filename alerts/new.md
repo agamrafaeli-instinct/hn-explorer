@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-29 23:15 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-30 01:39 UTC. Forward only ids not sent before.
+50291054 | 330 pts, 124 comments | H.264 Is Magic (2016) | https://news.ycombinator.com/item?id=50291054
 50296470 | 394 pts, 226 comments | Binance-hacker-1029 – $5.6B stolen from Binance | https://news.ycombinator.com/item?id=50296470
 50290177 | 304 pts, 163 comments | LLM Voice | https://news.ycombinator.com/item?id=50290177
 50294702 | 1357 pts, 254 comments | Patrick Stewart has died | https://news.ycombinator.com/item?id=50294702
