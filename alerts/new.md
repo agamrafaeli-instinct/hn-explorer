@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-10-30 21:15 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-30 23:12 UTC. Forward only ids not sent before.
+50305025 | 324 pts, 242 comments | Northflank Breached | https://news.ycombinator.com/item?id=50305025
 50305693 | 333 pts, 252 comments | AI isn't replacing SREs, it's deskilling them | https://news.ycombinator.com/item?id=50305693
 50300683 | 399 pts, 365 comments | Backdoor in Claude Code for VS Code extension on the Cursor Marketplace | https://news.ycombinator.com/item?id=50300683
 50298436 | 318 pts, 214 comments | Herdr has released native app | https://news.ycombinator.com/item?id=50298436
@@ -8,4 +9,3 @@ HN new 300+ stories, last 12h, updated 2026-10-30 21:15 UTC. Forward only ids no
 50302334 | 472 pts, 137 comments | Backdoors in official Claude Code extensions | https://news.ycombinator.com/item?id=50302334
 50287775 | 307 pts, 424 comments | If IPv4 were land | https://news.ycombinator.com/item?id=50287775
 50296486 | 303 pts, 112 comments | We ran AI agent swarms in Minecraft and Mindustry | https://news.ycombinator.com/item?id=50296486
-50290668 | 303 pts, 352 comments | I went to Mexico to test-drive the cars Americans can’t buy | https://news.ycombinator.com/item?id=50290668

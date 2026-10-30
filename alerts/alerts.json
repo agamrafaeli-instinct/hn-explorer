@@ -1,5 +1,16 @@
 [
  {
+  "id": "50305025",
+  "title": "Northflank Breached",
+  "points": 324,
+  "comments": 242,
+  "author": "js4ever",
+  "hn": "https://news.ycombinator.com/item?id=50305025",
+  "url": "https://status.northflank.com",
+  "created_at": "2026-10-30T15:10:31Z",
+  "reported_at": 1793401942
+ },
+ {
   "id": "50305693",
   "title": "AI isn't replacing SREs, it's deskilling them",
   "points": 333,
