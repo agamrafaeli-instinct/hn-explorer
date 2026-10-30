@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-10-30 19:25 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-10-30 21:15 UTC. Forward only ids not sent before.
 50305693 | 333 pts, 252 comments | AI isn't replacing SREs, it's deskilling them | https://news.ycombinator.com/item?id=50305693
 50300683 | 399 pts, 365 comments | Backdoor in Claude Code for VS Code extension on the Cursor Marketplace | https://news.ycombinator.com/item?id=50300683
 50298436 | 318 pts, 214 comments | Herdr has released native app | https://news.ycombinator.com/item?id=50298436

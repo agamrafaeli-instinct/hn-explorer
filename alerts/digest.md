@@ -1,4 +1,4 @@
-HN digest 2026-10-30 (UTC): 19 new stories at 300+ points
+HN digest 2026-10-30 (UTC): 18 new stories at 300+ points
 - 1357 pts, 254 comments: Patrick Stewart has died https://news.ycombinator.com/item?id=50294702
 - 472 pts, 137 comments: Backdoors in official Claude Code extensions https://news.ycombinator.com/item?id=50302334
 - 422 pts, 109 comments: elect.horse https://news.ycombinator.com/item?id=50301462
@@ -9,7 +9,6 @@ HN digest 2026-10-30 (UTC): 19 new stories at 300+ points
 - 339 pts, 217 comments: US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech https://news.ycombinator.com/item?id=50302814
 - 333 pts, 252 comments: AI isn't replacing SREs, it's deskilling them https://news.ycombinator.com/item?id=50305693
 - 330 pts, 124 comments: H.264 Is Magic (2016) https://news.ycombinator.com/item?id=50291054
-- 324 pts, 279 comments: Google Search is now less than half of Alphabet’s revenue https://news.ycombinator.com/item?id=50291945
 - 318 pts, 214 comments: Herdr has released native app https://news.ycombinator.com/item?id=50298436
 - 308 pts, 151 comments: Chained PHP2Shell exploit roots 25 servers, including US Government servers https://news.ycombinator.com/item?id=50286987
 - 307 pts, 424 comments: If IPv4 were land https://news.ycombinator.com/item?id=50287775
