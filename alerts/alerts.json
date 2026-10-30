@@ -1,5 +1,27 @@
 [
  {
+  "id": "50300683",
+  "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "points": 399,
+  "comments": 365,
+  "author": "_chall",
+  "hn": "https://news.ycombinator.com/item?id=50300683",
+  "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "created_at": "2026-10-30T07:09:12Z",
+  "reported_at": 1793380972
+ },
+ {
+  "id": "50298436",
+  "title": "Herdr has released native app",
+  "points": 318,
+  "comments": 214,
+  "author": "cherioo",
+  "hn": "https://news.ycombinator.com/item?id=50298436",
+  "url": "https://github.com/herdrdev/herdr-app",
+  "created_at": "2026-10-30T00:42:41Z",
+  "reported_at": 1793380972
+ },
+ {
   "id": "50302814",
   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
   "points": 339,
