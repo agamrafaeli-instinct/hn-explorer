@@ -1,13 +1,13 @@
-HN digest 2026-10-30 (UTC): 20 new stories at 300+ points
+HN digest 2026-10-30 (UTC): 19 new stories at 300+ points
 - 1357 pts, 254 comments: Patrick Stewart has died https://news.ycombinator.com/item?id=50294702
 - 472 pts, 137 comments: Backdoors in official Claude Code extensions https://news.ycombinator.com/item?id=50302334
 - 422 pts, 109 comments: elect.horse https://news.ycombinator.com/item?id=50301462
 - 399 pts, 365 comments: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace https://news.ycombinator.com/item?id=50300683
 - 394 pts, 226 comments: Binance-hacker-1029 – $5.6B stolen from Binance https://news.ycombinator.com/item?id=50296470
 - 393 pts, 1 comments: Claude Code VS Code extension with backdoor released on Cursor marketplace https://news.ycombinator.com/item?id=50301983
-- 374 pts, 282 comments: ‘You Are Done’: The letter sent to King by the F.B.I (2014) https://news.ycombinator.com/item?id=50288867
 - 348 pts, 543 comments: DoorDash to acquire Instacart https://news.ycombinator.com/item?id=50287919
 - 339 pts, 217 comments: US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech https://news.ycombinator.com/item?id=50302814
+- 333 pts, 252 comments: AI isn't replacing SREs, it's deskilling them https://news.ycombinator.com/item?id=50305693
 - 330 pts, 124 comments: H.264 Is Magic (2016) https://news.ycombinator.com/item?id=50291054
 - 324 pts, 279 comments: Google Search is now less than half of Alphabet’s revenue https://news.ycombinator.com/item?id=50291945
 - 318 pts, 214 comments: Herdr has released native app https://news.ycombinator.com/item?id=50298436
@@ -18,4 +18,3 @@ HN digest 2026-10-30 (UTC): 20 new stories at 300+ points
 - 304 pts, 163 comments: LLM Voice https://news.ycombinator.com/item?id=50290177
 - 303 pts, 112 comments: We ran AI agent swarms in Minecraft and Mindustry https://news.ycombinator.com/item?id=50296486
 - 303 pts, 352 comments: I went to Mexico to test-drive the cars Americans can’t buy https://news.ycombinator.com/item?id=50290668
-- 303 pts, 224 comments: Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5 https://news.ycombinator.com/item?id=50288019
