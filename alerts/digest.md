@@ -1,16 +1,18 @@
-HN digest 2026-10-31 (UTC): 15 new stories at 300+ points
+HN digest 2026-10-31 (UTC): 17 new stories at 300+ points
 - 472 pts, 137 comments: Backdoors in official Claude Code extensions https://news.ycombinator.com/item?id=50302334
 - 422 pts, 109 comments: elect.horse https://news.ycombinator.com/item?id=50301462
 - 399 pts, 365 comments: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace https://news.ycombinator.com/item?id=50300683
 - 393 pts, 1 comments: Claude Code VS Code extension with backdoor released on Cursor marketplace https://news.ycombinator.com/item?id=50301983
+- 369 pts, 221 comments: Serbia just elected the world's brainiest parliament https://news.ycombinator.com/item?id=50314654
 - 339 pts, 217 comments: US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech https://news.ycombinator.com/item?id=50302814
 - 333 pts, 252 comments: AI isn't replacing SREs, it's deskilling them https://news.ycombinator.com/item?id=50305693
 - 324 pts, 242 comments: Northflank Breached https://news.ycombinator.com/item?id=50305025
 - 318 pts, 214 comments: Herdr has released native app https://news.ycombinator.com/item?id=50298436
+- 315 pts, 49 comments: Florilegium: Procedural Flowers in LaTeX https://news.ycombinator.com/item?id=50305637
 - 311 pts, 216 comments: The $6.3B Binance hack was pulled off in just 20 minutes https://news.ycombinator.com/item?id=50303172
 - 308 pts, 85 comments: My favourite PowerMac is a Nintendo Wii https://news.ycombinator.com/item?id=50307190
 - 307 pts, 424 comments: If IPv4 were land https://news.ycombinator.com/item?id=50287775
 - 304 pts, 252 comments: Anthropic may not secure investment-grade rating after IPO, Blackstone says https://news.ycombinator.com/item?id=50307219
 - 303 pts, 174 comments: Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man https://news.ycombinator.com/item?id=50309647
-- 303 pts, 112 comments: We ran AI agent swarms in Minecraft and Mindustry https://news.ycombinator.com/item?id=50296486
 - 302 pts, 57 comments: Azure's Weakest Link – Five Full Cross-Tenant Compromises https://news.ycombinator.com/item?id=50301854
+- 301 pts, 88 comments: The federated code forge https://news.ycombinator.com/item?id=50305573

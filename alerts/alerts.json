@@ -1,5 +1,38 @@
 [
  {
+  "id": "50314654",
+  "title": "Serbia just elected the world's brainiest parliament",
+  "points": 369,
+  "comments": 221,
+  "author": "input_sh",
+  "hn": "https://news.ycombinator.com/item?id=50314654",
+  "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+  "created_at": "2026-10-31T10:21:30Z",
+  "reported_at": 1793453258
+ },
+ {
+  "id": "50305637",
+  "title": "Florilegium: Procedural Flowers in LaTeX",
+  "points": 315,
+  "comments": 49,
+  "author": "nanna",
+  "hn": "https://news.ycombinator.com/item?id=50305637",
+  "url": "https://github.com/kevinraymond/florilegium",
+  "created_at": "2026-10-30T15:48:12Z",
+  "reported_at": 1793453258
+ },
+ {
+  "id": "50305573",
+  "title": "The federated code forge",
+  "points": 301,
+  "comments": 88,
+  "author": "zlliang",
+  "hn": "https://news.ycombinator.com/item?id=50305573",
+  "url": "https://tangled.org/blog/forge/",
+  "created_at": "2026-10-30T15:44:29Z",
+  "reported_at": 1793453258
+ },
+ {
   "id": "50309647",
   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
   "points": 303,
