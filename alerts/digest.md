@@ -1,11 +1,10 @@
-HN digest 2026-10-31 (UTC): 15 new stories at 300+ points
+HN digest 2026-10-31 (UTC): 14 new stories at 300+ points
 - 472 pts, 137 comments: Backdoors in official Claude Code extensions https://news.ycombinator.com/item?id=50302334
 - 422 pts, 109 comments: elect.horse https://news.ycombinator.com/item?id=50301462
 - 399 pts, 365 comments: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace https://news.ycombinator.com/item?id=50300683
 - 393 pts, 1 comments: Claude Code VS Code extension with backdoor released on Cursor marketplace https://news.ycombinator.com/item?id=50301983
 - 339 pts, 217 comments: US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech https://news.ycombinator.com/item?id=50302814
 - 333 pts, 252 comments: AI isn't replacing SREs, it's deskilling them https://news.ycombinator.com/item?id=50305693
-- 330 pts, 124 comments: H.264 Is Magic (2016) https://news.ycombinator.com/item?id=50291054
 - 324 pts, 242 comments: Northflank Breached https://news.ycombinator.com/item?id=50305025
 - 318 pts, 214 comments: Herdr has released native app https://news.ycombinator.com/item?id=50298436
 - 311 pts, 216 comments: The $6.3B Binance hack was pulled off in just 20 minutes https://news.ycombinator.com/item?id=50303172
