@@ -1,9 +1,7 @@
-HN digest 2026-10-31 (UTC): 13 new stories at 300+ points
-- 399 pts, 365 comments: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace https://news.ycombinator.com/item?id=50300683
+HN digest 2026-10-31 (UTC): 12 new stories at 300+ points
 - 369 pts, 221 comments: Serbia just elected the world's brainiest parliament https://news.ycombinator.com/item?id=50314654
 - 333 pts, 252 comments: AI isn't replacing SREs, it's deskilling them https://news.ycombinator.com/item?id=50305693
 - 324 pts, 242 comments: Northflank Breached https://news.ycombinator.com/item?id=50305025
-- 318 pts, 214 comments: Herdr has released native app https://news.ycombinator.com/item?id=50298436
 - 315 pts, 49 comments: Florilegium: Procedural Flowers in LaTeX https://news.ycombinator.com/item?id=50305637
 - 311 pts, 216 comments: The $6.3B Binance hack was pulled off in just 20 minutes https://news.ycombinator.com/item?id=50303172
 - 309 pts, 112 comments: Tell HN: Scribd Breached https://news.ycombinator.com/item?id=50312756
@@ -11,4 +9,5 @@ HN digest 2026-10-31 (UTC): 13 new stories at 300+ points
 - 304 pts, 252 comments: Anthropic may not secure investment-grade rating after IPO, Blackstone says https://news.ycombinator.com/item?id=50307219
 - 303 pts, 174 comments: Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man https://news.ycombinator.com/item?id=50309647
 - 302 pts, 57 comments: Azure's Weakest Link – Five Full Cross-Tenant Compromises https://news.ycombinator.com/item?id=50301854
+- 301 pts, 281 comments: Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It https://news.ycombinator.com/item?id=50304419
 - 301 pts, 88 comments: The federated code forge https://news.ycombinator.com/item?id=50305573
