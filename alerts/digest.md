@@ -1,4 +1,4 @@
-HN digest 2026-10-31 (UTC): 16 new stories at 300+ points
+HN digest 2026-10-31 (UTC): 15 new stories at 300+ points
 - 472 pts, 137 comments: Backdoors in official Claude Code extensions https://news.ycombinator.com/item?id=50302334
 - 422 pts, 109 comments: elect.horse https://news.ycombinator.com/item?id=50301462
 - 399 pts, 365 comments: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace https://news.ycombinator.com/item?id=50300683
@@ -13,5 +13,4 @@ HN digest 2026-10-31 (UTC): 16 new stories at 300+ points
 - 304 pts, 252 comments: Anthropic may not secure investment-grade rating after IPO, Blackstone says https://news.ycombinator.com/item?id=50307219
 - 303 pts, 174 comments: Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man https://news.ycombinator.com/item?id=50309647
 - 303 pts, 112 comments: We ran AI agent swarms in Minecraft and Mindustry https://news.ycombinator.com/item?id=50296486
-- 303 pts, 352 comments: I went to Mexico to test-drive the cars Americans can’t buy https://news.ycombinator.com/item?id=50290668
 - 302 pts, 57 comments: Azure's Weakest Link – Five Full Cross-Tenant Compromises https://news.ycombinator.com/item?id=50301854
