@@ -1,5 +1,27 @@
 [
  {
+  "id": "50307219",
+  "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+  "points": 304,
+  "comments": 252,
+  "author": "petethomas",
+  "hn": "https://news.ycombinator.com/item?id=50307219",
+  "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+  "created_at": "2026-10-30T17:27:25Z",
+  "reported_at": 1793432009
+ },
+ {
+  "id": "50301854",
+  "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
+  "points": 302,
+  "comments": 57,
+  "author": "swq115",
+  "hn": "https://news.ycombinator.com/item?id=50301854",
+  "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+  "created_at": "2026-10-30T10:06:15Z",
+  "reported_at": 1793432009
+ },
+ {
   "id": "50303172",
   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
   "points": 311,

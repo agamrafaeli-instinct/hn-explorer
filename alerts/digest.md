@@ -8,8 +8,8 @@ HN digest 2026-10-31 (UTC): 14 new stories at 300+ points
 - 324 pts, 242 comments: Northflank Breached https://news.ycombinator.com/item?id=50305025
 - 318 pts, 214 comments: Herdr has released native app https://news.ycombinator.com/item?id=50298436
 - 311 pts, 216 comments: The $6.3B Binance hack was pulled off in just 20 minutes https://news.ycombinator.com/item?id=50303172
-- 308 pts, 151 comments: Chained PHP2Shell exploit roots 25 servers, including US Government servers https://news.ycombinator.com/item?id=50286987
 - 307 pts, 424 comments: If IPv4 were land https://news.ycombinator.com/item?id=50287775
-- 307 pts, 213 comments: Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang https://news.ycombinator.com/item?id=50293047
+- 304 pts, 252 comments: Anthropic may not secure investment-grade rating after IPO, Blackstone says https://news.ycombinator.com/item?id=50307219
 - 303 pts, 112 comments: We ran AI agent swarms in Minecraft and Mindustry https://news.ycombinator.com/item?id=50296486
 - 303 pts, 352 comments: I went to Mexico to test-drive the cars Americans can’t buy https://news.ycombinator.com/item?id=50290668
+- 302 pts, 57 comments: Azure's Weakest Link – Five Full Cross-Tenant Compromises https://news.ycombinator.com/item?id=50301854
