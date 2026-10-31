@@ -1,6 +1,5 @@
-HN digest 2026-10-31 (UTC): 12 new stories at 300+ points
+HN digest 2026-10-31 (UTC): 11 new stories at 300+ points
 - 369 pts, 221 comments: Serbia just elected the world's brainiest parliament https://news.ycombinator.com/item?id=50314654
-- 333 pts, 252 comments: AI isn't replacing SREs, it's deskilling them https://news.ycombinator.com/item?id=50305693
 - 324 pts, 242 comments: Northflank Breached https://news.ycombinator.com/item?id=50305025
 - 315 pts, 49 comments: Florilegium: Procedural Flowers in LaTeX https://news.ycombinator.com/item?id=50305637
 - 311 pts, 216 comments: The $6.3B Binance hack was pulled off in just 20 minutes https://news.ycombinator.com/item?id=50303172
