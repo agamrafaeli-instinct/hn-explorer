@@ -1,4 +1,5 @@
-HN digest 2026-10-31 (UTC): 11 new stories at 300+ points
+HN digest 2026-10-31 (UTC): 13 new stories at 300+ points
+- 447 pts, 173 comments: HackerTube: YouTube built from videos recommended by HN https://news.ycombinator.com/item?id=50319510
 - 369 pts, 221 comments: Serbia just elected the world's brainiest parliament https://news.ycombinator.com/item?id=50314654
 - 324 pts, 242 comments: Northflank Breached https://news.ycombinator.com/item?id=50305025
 - 315 pts, 49 comments: Florilegium: Procedural Flowers in LaTeX https://news.ycombinator.com/item?id=50305637
@@ -10,3 +11,4 @@ HN digest 2026-10-31 (UTC): 11 new stories at 300+ points
 - 302 pts, 57 comments: Azure's Weakest Link – Five Full Cross-Tenant Compromises https://news.ycombinator.com/item?id=50301854
 - 301 pts, 281 comments: Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It https://news.ycombinator.com/item?id=50304419
 - 301 pts, 88 comments: The federated code forge https://news.ycombinator.com/item?id=50305573
+- 300 pts, 367 comments: Cisco gives engineer unlimited AI tokens to rewrite legacy code https://news.ycombinator.com/item?id=50304122
