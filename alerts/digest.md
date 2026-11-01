@@ -1,12 +1,13 @@
-HN digest 2026-11-01 (UTC): 13 new stories at 300+ points
+HN digest 2026-11-01 (UTC): 14 new stories at 300+ points
 - 447 pts, 173 comments: HackerTube: YouTube built from videos recommended by HN https://news.ycombinator.com/item?id=50319510
+- 405 pts, 114 comments: Show HN: HackerBooks – HackerTube, but for books mentioned on HN https://news.ycombinator.com/item?id=50326821
 - 343 pts, 96 comments: An Italian farmer found some unknown seeds in his attic and planted them https://news.ycombinator.com/item?id=50320963
 - 340 pts, 160 comments: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 https://news.ycombinator.com/item?id=50319143
 - 339 pts, 168 comments: Norway makes shithouses great again https://news.ycombinator.com/item?id=50324388
 - 331 pts, 160 comments: Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard https://news.ycombinator.com/item?id=50320995
+- 317 pts, 109 comments: Police chief unplugs Flock cameras after company ignores contract cancellation https://news.ycombinator.com/item?id=50326118
 - 317 pts, 180 comments: Anthropic blocks users for anything touching training larger models https://news.ycombinator.com/item?id=50319358
 - 310 pts, 172 comments: Jepsen: ParticleDB 1.1.4 https://news.ycombinator.com/item?id=50316100
-- 309 pts, 112 comments: Tell HN: Scribd Breached https://news.ycombinator.com/item?id=50312756
 - 308 pts, 228 comments: Digital minimalism https://news.ycombinator.com/item?id=50313661
 - 303 pts, 149 comments: Do the math: How we took over ChatGPT accounts https://news.ycombinator.com/item?id=50314699
 - 303 pts, 178 comments: Molly (Signal fork) has not been updated since 3 months and is vulnerable https://news.ycombinator.com/item?id=50314666

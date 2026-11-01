@@ -1,5 +1,27 @@
 [
  {
+  "id": "50326821",
+  "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+  "points": 405,
+  "comments": 114,
+  "author": "roansh",
+  "hn": "https://news.ycombinator.com/item?id=50326821",
+  "url": "https://hackerbooks.org",
+  "created_at": "2026-11-01T15:58:28Z",
+  "reported_at": 1793560853
+ },
+ {
+  "id": "50326118",
+  "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+  "points": 317,
+  "comments": 109,
+  "author": "entryleveljobsc",
+  "hn": "https://news.ycombinator.com/item?id=50326118",
+  "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+  "created_at": "2026-11-01T14:36:13Z",
+  "reported_at": 1793560853
+ },
+ {
   "id": "50316100",
   "title": "Jepsen: ParticleDB 1.1.4",
   "points": 310,
