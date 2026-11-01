@@ -1,15 +1,13 @@
-HN digest 2026-11-01 (UTC): 14 new stories at 300+ points
+HN digest 2026-11-01 (UTC): 12 new stories at 300+ points
 - 447 pts, 173 comments: HackerTube: YouTube built from videos recommended by HN https://news.ycombinator.com/item?id=50319510
-- 369 pts, 221 comments: Serbia just elected the world's brainiest parliament https://news.ycombinator.com/item?id=50314654
 - 343 pts, 96 comments: An Italian farmer found some unknown seeds in his attic and planted them https://news.ycombinator.com/item?id=50320963
 - 340 pts, 160 comments: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 https://news.ycombinator.com/item?id=50319143
 - 339 pts, 168 comments: Norway makes shithouses great again https://news.ycombinator.com/item?id=50324388
+- 331 pts, 160 comments: Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard https://news.ycombinator.com/item?id=50320995
 - 317 pts, 180 comments: Anthropic blocks users for anything touching training larger models https://news.ycombinator.com/item?id=50319358
-- 315 pts, 49 comments: Florilegium: Procedural Flowers in LaTeX https://news.ycombinator.com/item?id=50305637
 - 309 pts, 112 comments: Tell HN: Scribd Breached https://news.ycombinator.com/item?id=50312756
 - 308 pts, 228 comments: Digital minimalism https://news.ycombinator.com/item?id=50313661
 - 303 pts, 149 comments: Do the math: How we took over ChatGPT accounts https://news.ycombinator.com/item?id=50314699
 - 303 pts, 178 comments: Molly (Signal fork) has not been updated since 3 months and is vulnerable https://news.ycombinator.com/item?id=50314666
 - 301 pts, 281 comments: Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It https://news.ycombinator.com/item?id=50304419
-- 301 pts, 88 comments: The federated code forge https://news.ycombinator.com/item?id=50305573
 - 300 pts, 367 comments: Cisco gives engineer unlimited AI tokens to rewrite legacy code https://news.ycombinator.com/item?id=50304122
