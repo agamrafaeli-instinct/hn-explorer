@@ -1,5 +1,27 @@
 [
  {
+  "id": "50320963",
+  "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+  "points": 343,
+  "comments": 96,
+  "author": "ecares",
+  "hn": "https://news.ycombinator.com/item?id=50320963",
+  "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+  "created_at": "2026-10-31T22:41:06Z",
+  "reported_at": 1793518687
+ },
+ {
+  "id": "50319358",
+  "title": "Anthropic blocks users for anything touching training larger models",
+  "points": 317,
+  "comments": 180,
+  "author": "pretext",
+  "hn": "https://news.ycombinator.com/item?id=50319358",
+  "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+  "created_at": "2026-10-31T19:39:19Z",
+  "reported_at": 1793518687
+ },
+ {
   "id": "50319143",
   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
   "points": 340,

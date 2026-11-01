@@ -1,7 +1,9 @@
-HN digest 2026-11-01 (UTC): 15 new stories at 300+ points
+HN digest 2026-11-01 (UTC): 17 new stories at 300+ points
 - 447 pts, 173 comments: HackerTube: YouTube built from videos recommended by HN https://news.ycombinator.com/item?id=50319510
 - 369 pts, 221 comments: Serbia just elected the world's brainiest parliament https://news.ycombinator.com/item?id=50314654
+- 343 pts, 96 comments: An Italian farmer found some unknown seeds in his attic and planted them https://news.ycombinator.com/item?id=50320963
 - 340 pts, 160 comments: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 https://news.ycombinator.com/item?id=50319143
+- 317 pts, 180 comments: Anthropic blocks users for anything touching training larger models https://news.ycombinator.com/item?id=50319358
 - 315 pts, 49 comments: Florilegium: Procedural Flowers in LaTeX https://news.ycombinator.com/item?id=50305637
 - 309 pts, 112 comments: Tell HN: Scribd Breached https://news.ycombinator.com/item?id=50312756
 - 308 pts, 228 comments: Digital minimalism https://news.ycombinator.com/item?id=50313661
