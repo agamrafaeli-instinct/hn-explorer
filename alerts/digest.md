@@ -1,4 +1,4 @@
-HN digest 2026-11-01 (UTC): 15 new stories at 300+ points
+HN digest 2026-11-01 (UTC): 13 new stories at 300+ points
 - 447 pts, 173 comments: HackerTube: YouTube built from videos recommended by HN https://news.ycombinator.com/item?id=50319510
 - 369 pts, 221 comments: Serbia just elected the world's brainiest parliament https://news.ycombinator.com/item?id=50314654
 - 343 pts, 96 comments: An Italian farmer found some unknown seeds in his attic and planted them https://news.ycombinator.com/item?id=50320963
@@ -7,10 +7,8 @@ HN digest 2026-11-01 (UTC): 15 new stories at 300+ points
 - 315 pts, 49 comments: Florilegium: Procedural Flowers in LaTeX https://news.ycombinator.com/item?id=50305637
 - 309 pts, 112 comments: Tell HN: Scribd Breached https://news.ycombinator.com/item?id=50312756
 - 308 pts, 228 comments: Digital minimalism https://news.ycombinator.com/item?id=50313661
-- 308 pts, 85 comments: My favourite PowerMac is a Nintendo Wii https://news.ycombinator.com/item?id=50307190
 - 303 pts, 149 comments: Do the math: How we took over ChatGPT accounts https://news.ycombinator.com/item?id=50314699
 - 303 pts, 178 comments: Molly (Signal fork) has not been updated since 3 months and is vulnerable https://news.ycombinator.com/item?id=50314666
-- 303 pts, 174 comments: Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man https://news.ycombinator.com/item?id=50309647
 - 301 pts, 281 comments: Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It https://news.ycombinator.com/item?id=50304419
 - 301 pts, 88 comments: The federated code forge https://news.ycombinator.com/item?id=50305573
 - 300 pts, 367 comments: Cisco gives engineer unlimited AI tokens to rewrite legacy code https://news.ycombinator.com/item?id=50304122
