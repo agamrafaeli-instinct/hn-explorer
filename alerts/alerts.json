@@ -1,5 +1,38 @@
 [
  {
+  "id": "50327650",
+  "title": "Patrick Stewart taught us what good men do with power",
+  "points": 323,
+  "comments": 228,
+  "author": "rhaynes",
+  "hn": "https://news.ycombinator.com/item?id=50327650",
+  "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+  "created_at": "2026-11-01T17:28:16Z",
+  "reported_at": 1793574742
+ },
+ {
+  "id": "50326099",
+  "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+  "points": 355,
+  "comments": 123,
+  "author": "entryleveljobsc",
+  "hn": "https://news.ycombinator.com/item?id=50326099",
+  "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+  "created_at": "2026-11-01T14:34:43Z",
+  "reported_at": 1793574742
+ },
+ {
+  "id": "50322173",
+  "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+  "points": 307,
+  "comments": 189,
+  "author": "doodlesdev",
+  "hn": "https://news.ycombinator.com/item?id=50322173",
+  "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+  "created_at": "2026-11-01T02:19:53Z",
+  "reported_at": 1793574742
+ },
+ {
   "id": "50326821",
   "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
   "points": 405,
