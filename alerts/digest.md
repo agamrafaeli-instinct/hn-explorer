@@ -1,12 +1,15 @@
-HN digest 2026-10-31 (UTC): 13 new stories at 300+ points
+HN digest 2026-11-01 (UTC): 16 new stories at 300+ points
 - 447 pts, 173 comments: HackerTube: YouTube built from videos recommended by HN https://news.ycombinator.com/item?id=50319510
 - 369 pts, 221 comments: Serbia just elected the world's brainiest parliament https://news.ycombinator.com/item?id=50314654
-- 324 pts, 242 comments: Northflank Breached https://news.ycombinator.com/item?id=50305025
+- 340 pts, 160 comments: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 https://news.ycombinator.com/item?id=50319143
 - 315 pts, 49 comments: Florilegium: Procedural Flowers in LaTeX https://news.ycombinator.com/item?id=50305637
 - 311 pts, 216 comments: The $6.3B Binance hack was pulled off in just 20 minutes https://news.ycombinator.com/item?id=50303172
 - 309 pts, 112 comments: Tell HN: Scribd Breached https://news.ycombinator.com/item?id=50312756
+- 308 pts, 228 comments: Digital minimalism https://news.ycombinator.com/item?id=50313661
 - 308 pts, 85 comments: My favourite PowerMac is a Nintendo Wii https://news.ycombinator.com/item?id=50307190
 - 304 pts, 252 comments: Anthropic may not secure investment-grade rating after IPO, Blackstone says https://news.ycombinator.com/item?id=50307219
+- 303 pts, 149 comments: Do the math: How we took over ChatGPT accounts https://news.ycombinator.com/item?id=50314699
+- 303 pts, 178 comments: Molly (Signal fork) has not been updated since 3 months and is vulnerable https://news.ycombinator.com/item?id=50314666
 - 303 pts, 174 comments: Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man https://news.ycombinator.com/item?id=50309647
 - 302 pts, 57 comments: Azure's Weakest Link – Five Full Cross-Tenant Compromises https://news.ycombinator.com/item?id=50301854
 - 301 pts, 281 comments: Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It https://news.ycombinator.com/item?id=50304419
