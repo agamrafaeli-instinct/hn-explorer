@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-11-02 17:30 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-02 19:32 UTC. Forward only ids not sent before.
+50341174 | 373 pts, 98 comments | Astra can read and write weights to improve Qwen | https://news.ycombinator.com/item?id=50341174
+50325253 | 301 pts, 94 comments | Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust | https://news.ycombinator.com/item?id=50325253
 50337608 | 696 pts, 349 comments | WTF Ubuntu? | https://news.ycombinator.com/item?id=50337608
 50333339 | 321 pts, 95 comments | Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN | https://news.ycombinator.com/item?id=50333339
 50331402 | 376 pts, 223 comments | OccupySaaS | https://news.ycombinator.com/item?id=50331402
