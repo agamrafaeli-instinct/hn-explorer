@@ -1,5 +1,27 @@
 [
  {
+  "id": "50331402",
+  "title": "OccupySaaS",
+  "points": 376,
+  "comments": 223,
+  "author": "misswaterfairy",
+  "hn": "https://news.ycombinator.com/item?id=50331402",
+  "url": "https://occupysaas.com/",
+  "created_at": "2026-11-02T00:17:27Z",
+  "reported_at": 1793627253
+ },
+ {
+  "id": "50330939",
+  "title": "U.S. workers took home their smallest share of capital since at least 1947",
+  "points": 309,
+  "comments": 179,
+  "author": "qlte",
+  "hn": "https://news.ycombinator.com/item?id=50330939",
+  "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+  "created_at": "2026-11-01T23:20:31Z",
+  "reported_at": 1793627253
+ },
+ {
   "id": "50328251",
   "title": "Mathematics has changed. Let's act like it",
   "points": 310,
