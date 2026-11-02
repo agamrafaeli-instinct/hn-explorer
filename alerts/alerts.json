@@ -1,5 +1,38 @@
 [
  {
+  "id": "50340088",
+  "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+  "points": 376,
+  "comments": 225,
+  "author": "aarushyadav",
+  "hn": "https://news.ycombinator.com/item?id=50340088",
+  "url": null,
+  "created_at": "2026-11-02T17:16:17Z",
+  "reported_at": 1793654592
+ },
+ {
+  "id": "50335615",
+  "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+  "points": 320,
+  "comments": 368,
+  "author": "fergie",
+  "hn": "https://news.ycombinator.com/item?id=50335615",
+  "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+  "created_at": "2026-11-02T11:50:13Z",
+  "reported_at": 1793654592
+ },
+ {
+  "id": "50331957",
+  "title": "Bones may release proteins that slow aging and extend life span",
+  "points": 305,
+  "comments": 119,
+  "author": "EA-3167",
+  "hn": "https://news.ycombinator.com/item?id=50331957",
+  "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+  "created_at": "2026-11-02T01:31:07Z",
+  "reported_at": 1793654592
+ },
+ {
   "id": "50341174",
   "title": "Astra can read and write weights to improve Qwen",
   "points": 373,
