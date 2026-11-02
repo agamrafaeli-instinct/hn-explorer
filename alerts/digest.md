@@ -1,9 +1,10 @@
-HN digest 2026-11-02 (UTC): 16 new stories at 300+ points
+HN digest 2026-11-02 (UTC): 17 new stories at 300+ points
 - 696 pts, 349 comments: WTF Ubuntu? https://news.ycombinator.com/item?id=50337608
 - 376 pts, 225 comments: Show HN: Subvocal – Talk to your computer without making noise https://news.ycombinator.com/item?id=50340088
 - 376 pts, 223 comments: OccupySaaS https://news.ycombinator.com/item?id=50331402
 - 373 pts, 98 comments: Astra can read and write weights to improve Qwen https://news.ycombinator.com/item?id=50341174
 - 355 pts, 123 comments: Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case https://news.ycombinator.com/item?id=50326099
+- 338 pts, 84 comments: If you love a website, back it up https://news.ycombinator.com/item?id=50336518
 - 325 pts, 216 comments: Postgres 19 is late because so many more bugs are being found now https://news.ycombinator.com/item?id=50312408
 - 323 pts, 228 comments: Patrick Stewart taught us what good men do with power https://news.ycombinator.com/item?id=50327650
 - 321 pts, 95 comments: Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN https://news.ycombinator.com/item?id=50333339
