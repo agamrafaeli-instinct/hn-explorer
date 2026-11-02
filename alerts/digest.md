@@ -1,5 +1,4 @@
-HN digest 2026-11-01 (UTC): 16 new stories at 300+ points
-- 447 pts, 173 comments: HackerTube: YouTube built from videos recommended by HN https://news.ycombinator.com/item?id=50319510
+HN digest 2026-11-02 (UTC): 14 new stories at 300+ points
 - 405 pts, 114 comments: Show HN: HackerBooks – HackerTube, but for books mentioned on HN https://news.ycombinator.com/item?id=50326821
 - 355 pts, 123 comments: Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case https://news.ycombinator.com/item?id=50326099
 - 343 pts, 96 comments: An Italian farmer found some unknown seeds in his attic and planted them https://news.ycombinator.com/item?id=50320963
@@ -14,4 +13,3 @@ HN digest 2026-11-01 (UTC): 16 new stories at 300+ points
 - 307 pts, 189 comments: Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing https://news.ycombinator.com/item?id=50322173
 - 303 pts, 149 comments: Do the math: How we took over ChatGPT accounts https://news.ycombinator.com/item?id=50314699
 - 303 pts, 178 comments: Molly (Signal fork) has not been updated since 3 months and is vulnerable https://news.ycombinator.com/item?id=50314666
-- 300 pts, 367 comments: Cisco gives engineer unlimited AI tokens to rewrite legacy code https://news.ycombinator.com/item?id=50304122
