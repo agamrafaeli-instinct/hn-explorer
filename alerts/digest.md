@@ -1,15 +1,12 @@
-HN digest 2026-11-02 (UTC): 14 new stories at 300+ points
+HN digest 2026-11-02 (UTC): 11 new stories at 300+ points
 - 405 pts, 114 comments: Show HN: HackerBooks – HackerTube, but for books mentioned on HN https://news.ycombinator.com/item?id=50326821
 - 355 pts, 123 comments: Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case https://news.ycombinator.com/item?id=50326099
 - 343 pts, 96 comments: An Italian farmer found some unknown seeds in his attic and planted them https://news.ycombinator.com/item?id=50320963
-- 340 pts, 160 comments: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 https://news.ycombinator.com/item?id=50319143
 - 339 pts, 168 comments: Norway makes shithouses great again https://news.ycombinator.com/item?id=50324388
 - 331 pts, 160 comments: Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard https://news.ycombinator.com/item?id=50320995
 - 323 pts, 228 comments: Patrick Stewart taught us what good men do with power https://news.ycombinator.com/item?id=50327650
 - 317 pts, 109 comments: Police chief unplugs Flock cameras after company ignores contract cancellation https://news.ycombinator.com/item?id=50326118
 - 317 pts, 180 comments: Anthropic blocks users for anything touching training larger models https://news.ycombinator.com/item?id=50319358
+- 316 pts, 233 comments: The AI cost of JavaScript frameworks https://news.ycombinator.com/item?id=50323088
 - 310 pts, 172 comments: Jepsen: ParticleDB 1.1.4 https://news.ycombinator.com/item?id=50316100
-- 308 pts, 228 comments: Digital minimalism https://news.ycombinator.com/item?id=50313661
 - 307 pts, 189 comments: Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing https://news.ycombinator.com/item?id=50322173
-- 303 pts, 149 comments: Do the math: How we took over ChatGPT accounts https://news.ycombinator.com/item?id=50314699
-- 303 pts, 178 comments: Molly (Signal fork) has not been updated since 3 months and is vulnerable https://news.ycombinator.com/item?id=50314666
