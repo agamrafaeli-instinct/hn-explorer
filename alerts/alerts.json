@@ -1,5 +1,27 @@
 [
  {
+  "id": "50328896",
+  "title": "Ask HN: Which TV do you recommend for privacy?",
+  "points": 309,
+  "comments": 460,
+  "author": "LecroJS",
+  "hn": "https://news.ycombinator.com/item?id=50328896",
+  "url": null,
+  "created_at": "2026-11-01T19:35:27Z",
+  "reported_at": 1793606344
+ },
+ {
+  "id": "50312408",
+  "title": "Postgres 19 is late because so many more bugs are being found now",
+  "points": 325,
+  "comments": 216,
+  "author": "soheilpro",
+  "hn": "https://news.ycombinator.com/item?id=50312408",
+  "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+  "created_at": "2026-10-31T01:38:56Z",
+  "reported_at": 1793606344
+ },
+ {
   "id": "50323088",
   "title": "The AI cost of JavaScript frameworks",
   "points": 316,
