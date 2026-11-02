@@ -1,5 +1,16 @@
 [
  {
+  "id": "50337608",
+  "title": "WTF Ubuntu?",
+  "points": 696,
+  "comments": 349,
+  "author": "chalmovsky",
+  "hn": "https://news.ycombinator.com/item?id=50337608",
+  "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+  "created_at": "2026-11-02T14:52:00Z",
+  "reported_at": 1793640650
+ },
+ {
   "id": "50333339",
   "title": "Show HN: Wikihack \u2013 HackerTube, but for Wikipedia articles mentioned on HN",
   "points": 321,
