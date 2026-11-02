@@ -2,10 +2,10 @@ HN digest 2026-11-02 (UTC): 14 new stories at 300+ points
 - 405 pts, 114 comments: Show HN: HackerBooks – HackerTube, but for books mentioned on HN https://news.ycombinator.com/item?id=50326821
 - 376 pts, 223 comments: OccupySaaS https://news.ycombinator.com/item?id=50331402
 - 355 pts, 123 comments: Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case https://news.ycombinator.com/item?id=50326099
-- 339 pts, 168 comments: Norway makes shithouses great again https://news.ycombinator.com/item?id=50324388
 - 331 pts, 160 comments: Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard https://news.ycombinator.com/item?id=50320995
 - 325 pts, 216 comments: Postgres 19 is late because so many more bugs are being found now https://news.ycombinator.com/item?id=50312408
 - 323 pts, 228 comments: Patrick Stewart taught us what good men do with power https://news.ycombinator.com/item?id=50327650
+- 321 pts, 95 comments: Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN https://news.ycombinator.com/item?id=50333339
 - 317 pts, 109 comments: Police chief unplugs Flock cameras after company ignores contract cancellation https://news.ycombinator.com/item?id=50326118
 - 316 pts, 233 comments: The AI cost of JavaScript frameworks https://news.ycombinator.com/item?id=50323088
 - 310 pts, 338 comments: Mathematics has changed. Let's act like it https://news.ycombinator.com/item?id=50328251
