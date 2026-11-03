@@ -1,8 +1,11 @@
-HN digest 2026-11-03 (UTC): 16 new stories at 300+ points
-- 696 pts, 349 comments: WTF Ubuntu? https://news.ycombinator.com/item?id=50337608
+HN digest 2026-11-03 (UTC): 19 new stories at 300+ points
+- 538 pts, 171 comments: Postman silently auto-installs AI plugins and attempts to share all API data https://news.ycombinator.com/item?id=50354960
 - 468 pts, 105 comments: The 'Astra can read and write weights to improve Qwen' post is misleading https://news.ycombinator.com/item?id=50351111
 - 376 pts, 225 comments: Show HN: Subvocal – Talk to your computer without making noise https://news.ycombinator.com/item?id=50340088
 - 373 pts, 98 comments: Astra can read and write weights to improve Qwen https://news.ycombinator.com/item?id=50341174
+- 363 pts, 128 comments: Jailbreaking my car's navigation system just so I can change the time https://news.ycombinator.com/item?id=50339288
+- 354 pts, 153 comments: Could a modern chess engine on a Pentium have defeated Kasparov in 1996? https://news.ycombinator.com/item?id=50349276
+- 341 pts, 272 comments: Google will turn off search for schools that reject AI https://news.ycombinator.com/item?id=50353192
 - 338 pts, 84 comments: If you love a website, back it up https://news.ycombinator.com/item?id=50336518
 - 331 pts, 79 comments: Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks https://news.ycombinator.com/item?id=50341462
 - 320 pts, 368 comments: Supermarket freezers across Europe hit by second suspected cyber-attack https://news.ycombinator.com/item?id=50335615

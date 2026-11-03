@@ -1,5 +1,49 @@
 [
  {
+  "id": "50354960",
+  "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+  "points": 538,
+  "comments": 171,
+  "author": "sidgarimella",
+  "hn": "https://news.ycombinator.com/item?id=50354960",
+  "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+  "created_at": "2026-11-03T17:22:37Z",
+  "reported_at": 1793734527
+ },
+ {
+  "id": "50353192",
+  "title": "Google will turn off search for schools that reject AI",
+  "points": 341,
+  "comments": 272,
+  "author": "ceejayoz",
+  "hn": "https://news.ycombinator.com/item?id=50353192",
+  "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+  "created_at": "2026-11-03T15:25:47Z",
+  "reported_at": 1793734527
+ },
+ {
+  "id": "50349276",
+  "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+  "points": 354,
+  "comments": 153,
+  "author": "markusw",
+  "hn": "https://news.ycombinator.com/item?id=50349276",
+  "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+  "created_at": "2026-11-03T07:56:21Z",
+  "reported_at": 1793734527
+ },
+ {
+  "id": "50339288",
+  "title": "Jailbreaking my car's navigation system just so I can change the time",
+  "points": 363,
+  "comments": 128,
+  "author": "xx_ns",
+  "hn": "https://news.ycombinator.com/item?id=50339288",
+  "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+  "created_at": "2026-11-02T16:29:19Z",
+  "reported_at": 1793734527
+ },
+ {
   "id": "50351111",
   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
   "points": 468,
