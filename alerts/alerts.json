@@ -1,5 +1,16 @@
 [
  {
+  "id": "50341462",
+  "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+  "points": 331,
+  "comments": 79,
+  "author": "majorchord",
+  "hn": "https://news.ycombinator.com/item?id=50341462",
+  "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+  "created_at": "2026-11-02T18:39:38Z",
+  "reported_at": 1793670212
+ },
+ {
   "id": "50336518",
   "title": "If you love a website, back it up",
   "points": 338,

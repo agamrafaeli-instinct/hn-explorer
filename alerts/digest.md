@@ -1,18 +1,16 @@
-HN digest 2026-11-02 (UTC): 17 new stories at 300+ points
+HN digest 2026-11-03 (UTC): 15 new stories at 300+ points
 - 696 pts, 349 comments: WTF Ubuntu? https://news.ycombinator.com/item?id=50337608
 - 376 pts, 225 comments: Show HN: Subvocal – Talk to your computer without making noise https://news.ycombinator.com/item?id=50340088
 - 376 pts, 223 comments: OccupySaaS https://news.ycombinator.com/item?id=50331402
 - 373 pts, 98 comments: Astra can read and write weights to improve Qwen https://news.ycombinator.com/item?id=50341174
-- 355 pts, 123 comments: Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case https://news.ycombinator.com/item?id=50326099
 - 338 pts, 84 comments: If you love a website, back it up https://news.ycombinator.com/item?id=50336518
+- 331 pts, 79 comments: Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks https://news.ycombinator.com/item?id=50341462
 - 325 pts, 216 comments: Postgres 19 is late because so many more bugs are being found now https://news.ycombinator.com/item?id=50312408
-- 323 pts, 228 comments: Patrick Stewart taught us what good men do with power https://news.ycombinator.com/item?id=50327650
 - 321 pts, 95 comments: Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN https://news.ycombinator.com/item?id=50333339
 - 320 pts, 368 comments: Supermarket freezers across Europe hit by second suspected cyber-attack https://news.ycombinator.com/item?id=50335615
 - 316 pts, 233 comments: The AI cost of JavaScript frameworks https://news.ycombinator.com/item?id=50323088
 - 310 pts, 338 comments: Mathematics has changed. Let's act like it https://news.ycombinator.com/item?id=50328251
 - 309 pts, 179 comments: U.S. workers took home their smallest share of capital since at least 1947 https://news.ycombinator.com/item?id=50330939
 - 309 pts, 460 comments: Ask HN: Which TV do you recommend for privacy? https://news.ycombinator.com/item?id=50328896
-- 307 pts, 189 comments: Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing https://news.ycombinator.com/item?id=50322173
 - 305 pts, 119 comments: Bones may release proteins that slow aging and extend life span https://news.ycombinator.com/item?id=50331957
 - 301 pts, 94 comments: Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust https://news.ycombinator.com/item?id=50325253
