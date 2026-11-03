@@ -1,4 +1,4 @@
-HN digest 2026-11-03 (UTC): 16 new stories at 300+ points
+HN digest 2026-11-03 (UTC): 17 new stories at 300+ points
 - 696 pts, 349 comments: WTF Ubuntu? https://news.ycombinator.com/item?id=50337608
 - 376 pts, 225 comments: Show HN: Subvocal – Talk to your computer without making noise https://news.ycombinator.com/item?id=50340088
 - 376 pts, 223 comments: OccupySaaS https://news.ycombinator.com/item?id=50331402
@@ -8,6 +8,7 @@ HN digest 2026-11-03 (UTC): 16 new stories at 300+ points
 - 325 pts, 216 comments: Postgres 19 is late because so many more bugs are being found now https://news.ycombinator.com/item?id=50312408
 - 321 pts, 95 comments: Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN https://news.ycombinator.com/item?id=50333339
 - 320 pts, 368 comments: Supermarket freezers across Europe hit by second suspected cyber-attack https://news.ycombinator.com/item?id=50335615
+- 313 pts, 234 comments: The SEC Should Block Anthropic's IPO to Protect the Public https://news.ycombinator.com/item?id=50344919
 - 311 pts, 322 comments: US boy names that became girl names and vice versa https://news.ycombinator.com/item?id=50339397
 - 310 pts, 338 comments: Mathematics has changed. Let's act like it https://news.ycombinator.com/item?id=50328251
 - 309 pts, 179 comments: U.S. workers took home their smallest share of capital since at least 1947 https://news.ycombinator.com/item?id=50330939
