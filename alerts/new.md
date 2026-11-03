@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-11-03 01:43 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-03 03:28 UTC. Forward only ids not sent before.
+50339397 | 311 pts, 322 comments | US boy names that became girl names and vice versa | https://news.ycombinator.com/item?id=50339397
 50341462 | 331 pts, 79 comments | Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks | https://news.ycombinator.com/item?id=50341462
 50336518 | 338 pts, 84 comments | If you love a website, back it up | https://news.ycombinator.com/item?id=50336518
 50340088 | 376 pts, 225 comments | Show HN: Subvocal – Talk to your computer without making noise | https://news.ycombinator.com/item?id=50340088
@@ -8,5 +9,3 @@ HN new 300+ stories, last 12h, updated 2026-11-03 01:43 UTC. Forward only ids no
 50325253 | 301 pts, 94 comments | Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust | https://news.ycombinator.com/item?id=50325253
 50337608 | 696 pts, 349 comments | WTF Ubuntu? | https://news.ycombinator.com/item?id=50337608
 50333339 | 321 pts, 95 comments | Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN | https://news.ycombinator.com/item?id=50333339
-50331402 | 376 pts, 223 comments | OccupySaaS | https://news.ycombinator.com/item?id=50331402
-50330939 | 309 pts, 179 comments | U.S. workers took home their smallest share of capital since at least 1947 | https://news.ycombinator.com/item?id=50330939
