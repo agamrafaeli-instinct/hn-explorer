@@ -1,5 +1,49 @@
 [
  {
+  "id": "50351111",
+  "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+  "points": 468,
+  "comments": 105,
+  "author": "syllogism",
+  "hn": "https://news.ycombinator.com/item?id=50351111",
+  "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+  "created_at": "2026-11-03T12:21:17Z",
+  "reported_at": 1793719355
+ },
+ {
+  "id": "50346849",
+  "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+  "points": 307,
+  "comments": 68,
+  "author": "bpierre",
+  "hn": "https://news.ycombinator.com/item?id=50346849",
+  "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+  "created_at": "2026-11-03T01:33:43Z",
+  "reported_at": 1793719355
+ },
+ {
+  "id": "50340619",
+  "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+  "points": 302,
+  "comments": 84,
+  "author": "tomrod",
+  "hn": "https://news.ycombinator.com/item?id=50340619",
+  "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+  "created_at": "2026-11-02T17:47:40Z",
+  "reported_at": 1793719355
+ },
+ {
+  "id": "50339221",
+  "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
+  "points": 306,
+  "comments": 50,
+  "author": "stared",
+  "hn": "https://news.ycombinator.com/item?id=50339221",
+  "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+  "created_at": "2026-11-02T16:25:26Z",
+  "reported_at": 1793719355
+ },
+ {
   "id": "50346981",
   "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
   "points": 303,
