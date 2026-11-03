@@ -1,18 +1,16 @@
-HN digest 2026-11-03 (UTC): 17 new stories at 300+ points
+HN digest 2026-11-03 (UTC): 15 new stories at 300+ points
 - 696 pts, 349 comments: WTF Ubuntu? https://news.ycombinator.com/item?id=50337608
 - 376 pts, 225 comments: Show HN: Subvocal – Talk to your computer without making noise https://news.ycombinator.com/item?id=50340088
 - 376 pts, 223 comments: OccupySaaS https://news.ycombinator.com/item?id=50331402
 - 373 pts, 98 comments: Astra can read and write weights to improve Qwen https://news.ycombinator.com/item?id=50341174
 - 338 pts, 84 comments: If you love a website, back it up https://news.ycombinator.com/item?id=50336518
 - 331 pts, 79 comments: Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks https://news.ycombinator.com/item?id=50341462
-- 325 pts, 216 comments: Postgres 19 is late because so many more bugs are being found now https://news.ycombinator.com/item?id=50312408
 - 321 pts, 95 comments: Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN https://news.ycombinator.com/item?id=50333339
 - 320 pts, 368 comments: Supermarket freezers across Europe hit by second suspected cyber-attack https://news.ycombinator.com/item?id=50335615
 - 313 pts, 234 comments: The SEC Should Block Anthropic's IPO to Protect the Public https://news.ycombinator.com/item?id=50344919
 - 311 pts, 322 comments: US boy names that became girl names and vice versa https://news.ycombinator.com/item?id=50339397
 - 310 pts, 338 comments: Mathematics has changed. Let's act like it https://news.ycombinator.com/item?id=50328251
 - 309 pts, 179 comments: U.S. workers took home their smallest share of capital since at least 1947 https://news.ycombinator.com/item?id=50330939
-- 309 pts, 460 comments: Ask HN: Which TV do you recommend for privacy? https://news.ycombinator.com/item?id=50328896
 - 305 pts, 245 comments: Anthropic's internal AI use, at retail prices, now exceeds its employee pay https://news.ycombinator.com/item?id=50339494
 - 305 pts, 119 comments: Bones may release proteins that slow aging and extend life span https://news.ycombinator.com/item?id=50331957
 - 301 pts, 94 comments: Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust https://news.ycombinator.com/item?id=50325253
