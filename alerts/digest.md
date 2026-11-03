@@ -8,10 +8,10 @@ HN digest 2026-11-03 (UTC): 16 new stories at 300+ points
 - 325 pts, 216 comments: Postgres 19 is late because so many more bugs are being found now https://news.ycombinator.com/item?id=50312408
 - 321 pts, 95 comments: Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN https://news.ycombinator.com/item?id=50333339
 - 320 pts, 368 comments: Supermarket freezers across Europe hit by second suspected cyber-attack https://news.ycombinator.com/item?id=50335615
-- 316 pts, 233 comments: The AI cost of JavaScript frameworks https://news.ycombinator.com/item?id=50323088
 - 311 pts, 322 comments: US boy names that became girl names and vice versa https://news.ycombinator.com/item?id=50339397
 - 310 pts, 338 comments: Mathematics has changed. Let's act like it https://news.ycombinator.com/item?id=50328251
 - 309 pts, 179 comments: U.S. workers took home their smallest share of capital since at least 1947 https://news.ycombinator.com/item?id=50330939
 - 309 pts, 460 comments: Ask HN: Which TV do you recommend for privacy? https://news.ycombinator.com/item?id=50328896
+- 305 pts, 245 comments: Anthropic's internal AI use, at retail prices, now exceeds its employee pay https://news.ycombinator.com/item?id=50339494
 - 305 pts, 119 comments: Bones may release proteins that slow aging and extend life span https://news.ycombinator.com/item?id=50331957
 - 301 pts, 94 comments: Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust https://news.ycombinator.com/item?id=50325253
