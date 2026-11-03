@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-11-03 21:25 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-03 23:20 UTC. Forward only ids not sent before.
+50323123 | 301 pts, 154 comments | Resisting Cognitive Surrender | https://news.ycombinator.com/item?id=50323123
 50355251 | 356 pts, 118 comments | Qwen 3.8 27B on my laptop can interpret model weights, too | https://news.ycombinator.com/item?id=50355251
 50353229 | 371 pts, 294 comments | Kalshi and its co-founders face felony charges for violating Utah gambling laws | https://news.ycombinator.com/item?id=50353229
 50352757 | 386 pts, 120 comments | OpenAI seems to be silently re-enabling model training on Codex chats | https://news.ycombinator.com/item?id=50352757
