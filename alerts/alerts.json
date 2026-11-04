@@ -1,5 +1,16 @@
 [
  {
+  "id": "50358562",
+  "title": "Safari introduces Adaptive Dark Mode in 27.3",
+  "points": 326,
+  "comments": 190,
+  "author": "paddingtone",
+  "hn": "https://news.ycombinator.com/item?id=50358562",
+  "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+  "created_at": "2026-11-03T21:39:05Z",
+  "reported_at": 1793762831
+ },
+ {
   "id": "50354358",
   "title": "Stringman, an $800 open-source room scale gripper robot",
   "points": 378,

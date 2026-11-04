@@ -8,7 +8,7 @@ HN digest 2026-11-04 (UTC): 20 new stories at 300+ points
 - 356 pts, 118 comments: Qwen 3.8 27B on my laptop can interpret model weights, too https://news.ycombinator.com/item?id=50355251
 - 354 pts, 153 comments: Could a modern chess engine on a Pentium have defeated Kasparov in 1996? https://news.ycombinator.com/item?id=50349276
 - 341 pts, 272 comments: Google will turn off search for schools that reject AI https://news.ycombinator.com/item?id=50353192
-- 331 pts, 79 comments: Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks https://news.ycombinator.com/item?id=50341462
+- 326 pts, 190 comments: Safari introduces Adaptive Dark Mode in 27.3 https://news.ycombinator.com/item?id=50358562
 - 315 pts, 182 comments: Mac at Any Scale https://news.ycombinator.com/item?id=50352758
 - 315 pts, 127 comments: Fujifilm to boost tape production 5x as AI fuels archiving demand https://news.ycombinator.com/item?id=50336918
 - 313 pts, 234 comments: The SEC Should Block Anthropic's IPO to Protect the Public https://news.ycombinator.com/item?id=50344919
