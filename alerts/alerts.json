@@ -1,5 +1,16 @@
 [
  {
+  "id": "50360164",
+  "title": "C++26 Disapproved",
+  "points": 316,
+  "comments": 208,
+  "author": "thatxliner",
+  "hn": "https://news.ycombinator.com/item?id=50360164",
+  "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+  "created_at": "2026-11-04T00:33:22Z",
+  "reported_at": 1793792071
+ },
+ {
   "id": "50346755",
   "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
   "points": 324,

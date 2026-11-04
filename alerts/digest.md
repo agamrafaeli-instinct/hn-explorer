@@ -1,4 +1,4 @@
-HN digest 2026-11-04 (UTC): 20 new stories at 300+ points
+HN digest 2026-11-04 (UTC): 21 new stories at 300+ points
 - 538 pts, 171 comments: Postman silently auto-installs AI plugins and attempts to share all API data https://news.ycombinator.com/item?id=50354960
 - 468 pts, 105 comments: The 'Astra can read and write weights to improve Qwen' post is misleading https://news.ycombinator.com/item?id=50351111
 - 386 pts, 120 comments: OpenAI seems to be silently re-enabling model training on Codex chats https://news.ycombinator.com/item?id=50352757
@@ -11,6 +11,7 @@ HN digest 2026-11-04 (UTC): 20 new stories at 300+ points
 - 326 pts, 190 comments: Safari introduces Adaptive Dark Mode in 27.3 https://news.ycombinator.com/item?id=50358562
 - 324 pts, 67 comments: Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels https://news.ycombinator.com/item?id=50346755
 - 323 pts, 50 comments: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer https://news.ycombinator.com/item?id=50358582
+- 316 pts, 208 comments: C++26 Disapproved https://news.ycombinator.com/item?id=50360164
 - 315 pts, 182 comments: Mac at Any Scale https://news.ycombinator.com/item?id=50352758
 - 315 pts, 127 comments: Fujifilm to boost tape production 5x as AI fuels archiving demand https://news.ycombinator.com/item?id=50336918
 - 314 pts, 137 comments: US tech giants' hidden AI debt swells 90% to $3.2T in 6 months https://news.ycombinator.com/item?id=50358422
