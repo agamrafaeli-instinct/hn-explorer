@@ -1,14 +1,15 @@
-HN digest 2026-11-03 (UTC): 19 new stories at 300+ points
+HN digest 2026-11-04 (UTC): 20 new stories at 300+ points
 - 538 pts, 171 comments: Postman silently auto-installs AI plugins and attempts to share all API data https://news.ycombinator.com/item?id=50354960
 - 468 pts, 105 comments: The 'Astra can read and write weights to improve Qwen' post is misleading https://news.ycombinator.com/item?id=50351111
 - 386 pts, 120 comments: OpenAI seems to be silently re-enabling model training on Codex chats https://news.ycombinator.com/item?id=50352757
+- 378 pts, 143 comments: Stringman, an $800 open-source room scale gripper robot https://news.ycombinator.com/item?id=50354358
 - 371 pts, 294 comments: Kalshi and its co-founders face felony charges for violating Utah gambling laws https://news.ycombinator.com/item?id=50353229
 - 363 pts, 128 comments: Jailbreaking my car's navigation system just so I can change the time https://news.ycombinator.com/item?id=50339288
 - 356 pts, 118 comments: Qwen 3.8 27B on my laptop can interpret model weights, too https://news.ycombinator.com/item?id=50355251
 - 354 pts, 153 comments: Could a modern chess engine on a Pentium have defeated Kasparov in 1996? https://news.ycombinator.com/item?id=50349276
 - 341 pts, 272 comments: Google will turn off search for schools that reject AI https://news.ycombinator.com/item?id=50353192
-- 338 pts, 84 comments: If you love a website, back it up https://news.ycombinator.com/item?id=50336518
 - 331 pts, 79 comments: Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks https://news.ycombinator.com/item?id=50341462
+- 315 pts, 182 comments: Mac at Any Scale https://news.ycombinator.com/item?id=50352758
 - 315 pts, 127 comments: Fujifilm to boost tape production 5x as AI fuels archiving demand https://news.ycombinator.com/item?id=50336918
 - 313 pts, 234 comments: The SEC Should Block Anthropic's IPO to Protect the Public https://news.ycombinator.com/item?id=50344919
 - 311 pts, 322 comments: US boy names that became girl names and vice versa https://news.ycombinator.com/item?id=50339397

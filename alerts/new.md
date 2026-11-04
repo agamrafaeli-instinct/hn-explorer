@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-11-03 23:20 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-04 01:41 UTC. Forward only ids not sent before.
+50354358 | 378 pts, 143 comments | Stringman, an $800 open-source room scale gripper robot | https://news.ycombinator.com/item?id=50354358
+50352758 | 315 pts, 182 comments | Mac at Any Scale | https://news.ycombinator.com/item?id=50352758
 50323123 | 301 pts, 154 comments | Resisting Cognitive Surrender | https://news.ycombinator.com/item?id=50323123
 50355251 | 356 pts, 118 comments | Qwen 3.8 27B on my laptop can interpret model weights, too | https://news.ycombinator.com/item?id=50355251
 50353229 | 371 pts, 294 comments | Kalshi and its co-founders face felony charges for violating Utah gambling laws | https://news.ycombinator.com/item?id=50353229
@@ -12,4 +14,3 @@ HN new 300+ stories, last 12h, updated 2026-11-03 23:20 UTC. Forward only ids no
 50346849 | 307 pts, 68 comments | DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs | https://news.ycombinator.com/item?id=50346849
 50340619 | 302 pts, 84 comments | Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You | https://news.ycombinator.com/item?id=50340619
 50339221 | 306 pts, 50 comments | Show HN: Warsaw in voxels – An interactive 3D map of the city centre | https://news.ycombinator.com/item?id=50339221
-50346981 | 303 pts, 90 comments | Show HN: Hacker Times, a New York Times-inspired version of Hacker News | https://news.ycombinator.com/item?id=50346981
