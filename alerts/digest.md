@@ -1,13 +1,10 @@
-HN digest 2026-11-04 (UTC): 23 new stories at 300+ points
-- 538 pts, 171 comments: Postman silently auto-installs AI plugins and attempts to share all API data https://news.ycombinator.com/item?id=50354960
+HN digest 2026-11-04 (UTC): 20 new stories at 300+ points
 - 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
 - 386 pts, 120 comments: OpenAI seems to be silently re-enabling model training on Codex chats https://news.ycombinator.com/item?id=50352757
 - 378 pts, 143 comments: Stringman, an $800 open-source room scale gripper robot https://news.ycombinator.com/item?id=50354358
 - 371 pts, 294 comments: Kalshi and its co-founders face felony charges for violating Utah gambling laws https://news.ycombinator.com/item?id=50353229
-- 363 pts, 128 comments: Jailbreaking my car's navigation system just so I can change the time https://news.ycombinator.com/item?id=50339288
+- 366 pts, 121 comments: AMD expects to outsell Intel in Q4 for the first time in history https://news.ycombinator.com/item?id=50367125
 - 356 pts, 118 comments: Qwen 3.8 27B on my laptop can interpret model weights, too https://news.ycombinator.com/item?id=50355251
-- 354 pts, 153 comments: Could a modern chess engine on a Pentium have defeated Kasparov in 1996? https://news.ycombinator.com/item?id=50349276
-- 341 pts, 272 comments: Google will turn off search for schools that reject AI https://news.ycombinator.com/item?id=50353192
 - 337 pts, 171 comments: Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux https://news.ycombinator.com/item?id=50362905
 - 328 pts, 206 comments: Kitty 0.50 https://news.ycombinator.com/item?id=50362980
 - 326 pts, 190 comments: Safari introduces Adaptive Dark Mode in 27.3 https://news.ycombinator.com/item?id=50358562
