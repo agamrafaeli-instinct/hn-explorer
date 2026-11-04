@@ -1,6 +1,5 @@
-HN digest 2026-11-04 (UTC): 25 new stories at 300+ points
+HN digest 2026-11-04 (UTC): 22 new stories at 300+ points
 - 538 pts, 171 comments: Postman silently auto-installs AI plugins and attempts to share all API data https://news.ycombinator.com/item?id=50354960
-- 468 pts, 105 comments: The 'Astra can read and write weights to improve Qwen' post is misleading https://news.ycombinator.com/item?id=50351111
 - 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
 - 386 pts, 120 comments: OpenAI seems to be silently re-enabling model training on Codex chats https://news.ycombinator.com/item?id=50352757
 - 378 pts, 143 comments: Stringman, an $800 open-source room scale gripper robot https://news.ycombinator.com/item?id=50354358
@@ -14,13 +13,11 @@ HN digest 2026-11-04 (UTC): 25 new stories at 300+ points
 - 325 pts, 88 comments: Tell HN: Gemini trains on chat history, even for subscribers (personal accounts) https://news.ycombinator.com/item?id=50363461
 - 324 pts, 67 comments: Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels https://news.ycombinator.com/item?id=50346755
 - 323 pts, 50 comments: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer https://news.ycombinator.com/item?id=50358582
+- 317 pts, 185 comments: North Korean fake job interview led to $6.3B Binance heist https://news.ycombinator.com/item?id=50365755
 - 316 pts, 208 comments: C++26 Disapproved https://news.ycombinator.com/item?id=50360164
 - 315 pts, 182 comments: Mac at Any Scale https://news.ycombinator.com/item?id=50352758
 - 315 pts, 127 comments: Fujifilm to boost tape production 5x as AI fuels archiving demand https://news.ycombinator.com/item?id=50336918
 - 314 pts, 80 comments: Jelly Sheet https://news.ycombinator.com/item?id=50361268
 - 314 pts, 137 comments: US tech giants' hidden AI debt swells 90% to $3.2T in 6 months https://news.ycombinator.com/item?id=50358422
 - 312 pts, 23 comments: The Internals of PostgreSQL https://news.ycombinator.com/item?id=50358702
-- 307 pts, 68 comments: DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs https://news.ycombinator.com/item?id=50346849
-- 306 pts, 50 comments: Show HN: Warsaw in voxels – An interactive 3D map of the city centre https://news.ycombinator.com/item?id=50339221
-- 302 pts, 84 comments: Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You https://news.ycombinator.com/item?id=50340619
 - 301 pts, 154 comments: Resisting Cognitive Surrender https://news.ycombinator.com/item?id=50323123
