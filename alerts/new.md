@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-11-04 17:30 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-04 19:38 UTC. Forward only ids not sent before.
+50362980 | 328 pts, 206 comments | Kitty 0.50 | https://news.ycombinator.com/item?id=50362980
 50365755 | 317 pts, 185 comments | North Korean fake job interview led to $6.3B Binance heist | https://news.ycombinator.com/item?id=50365755
 50364336 | 420 pts, 293 comments | AI is forcing us to pay off 40 years of technical debt | https://news.ycombinator.com/item?id=50364336
 50363461 | 325 pts, 88 comments | Tell HN: Gemini trains on chat history, even for subscribers (personal accounts) | https://news.ycombinator.com/item?id=50363461
@@ -8,4 +9,3 @@ HN new 300+ stories, last 12h, updated 2026-11-04 17:30 UTC. Forward only ids no
 50360164 | 316 pts, 208 comments | C++26 Disapproved | https://news.ycombinator.com/item?id=50360164
 50346755 | 324 pts, 67 comments | Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels | https://news.ycombinator.com/item?id=50346755
 50358582 | 323 pts, 50 comments | The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer | https://news.ycombinator.com/item?id=50358582
-50358422 | 314 pts, 137 comments | US tech giants' hidden AI debt swells 90% to $3.2T in 6 months | https://news.ycombinator.com/item?id=50358422
