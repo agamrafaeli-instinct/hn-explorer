@@ -11,8 +11,8 @@ HN digest 2026-11-04 (UTC): 20 new stories at 300+ points
 - 326 pts, 190 comments: Safari introduces Adaptive Dark Mode in 27.3 https://news.ycombinator.com/item?id=50358562
 - 315 pts, 182 comments: Mac at Any Scale https://news.ycombinator.com/item?id=50352758
 - 315 pts, 127 comments: Fujifilm to boost tape production 5x as AI fuels archiving demand https://news.ycombinator.com/item?id=50336918
+- 314 pts, 137 comments: US tech giants' hidden AI debt swells 90% to $3.2T in 6 months https://news.ycombinator.com/item?id=50358422
 - 313 pts, 234 comments: The SEC Should Block Anthropic's IPO to Protect the Public https://news.ycombinator.com/item?id=50344919
-- 311 pts, 322 comments: US boy names that became girl names and vice versa https://news.ycombinator.com/item?id=50339397
 - 307 pts, 68 comments: DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs https://news.ycombinator.com/item?id=50346849
 - 306 pts, 50 comments: Show HN: Warsaw in voxels – An interactive 3D map of the city centre https://news.ycombinator.com/item?id=50339221
 - 305 pts, 245 comments: Anthropic's internal AI use, at retail prices, now exceeds its employee pay https://news.ycombinator.com/item?id=50339494

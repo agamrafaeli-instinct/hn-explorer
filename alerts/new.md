@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-11-04 03:27 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-04 05:34 UTC. Forward only ids not sent before.
+50358422 | 314 pts, 137 comments | US tech giants' hidden AI debt swells 90% to $3.2T in 6 months | https://news.ycombinator.com/item?id=50358422
 50358562 | 326 pts, 190 comments | Safari introduces Adaptive Dark Mode in 27.3 | https://news.ycombinator.com/item?id=50358562
 50354358 | 378 pts, 143 comments | Stringman, an $800 open-source room scale gripper robot | https://news.ycombinator.com/item?id=50354358
 50352758 | 315 pts, 182 comments | Mac at Any Scale | https://news.ycombinator.com/item?id=50352758
