@@ -1,5 +1,6 @@
 HN digest 2026-11-05 (UTC): 19 new stories at 300+ points
 - 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
+- 426 pts, 96 comments: Sshole https://news.ycombinator.com/item?id=50378228
 - 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
 - 366 pts, 121 comments: AMD expects to outsell Intel in Q4 for the first time in history https://news.ycombinator.com/item?id=50367125
 - 337 pts, 171 comments: Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux https://news.ycombinator.com/item?id=50362905
@@ -8,7 +9,6 @@ HN digest 2026-11-05 (UTC): 19 new stories at 300+ points
 - 323 pts, 234 comments: A thousand fewer paths to root https://news.ycombinator.com/item?id=50372929
 - 321 pts, 338 comments: Ask HN: What's your current AI agentic setup? https://news.ycombinator.com/item?id=50366117
 - 317 pts, 185 comments: North Korean fake job interview led to $6.3B Binance heist https://news.ycombinator.com/item?id=50365755
-- 316 pts, 208 comments: C++26 Disapproved https://news.ycombinator.com/item?id=50360164
 - 315 pts, 182 comments: Images 2.6 https://news.ycombinator.com/item?id=50372945
 - 314 pts, 80 comments: Jelly Sheet https://news.ycombinator.com/item?id=50361268
 - 312 pts, 85 comments: Kimi K3.1 Pro model weights are out https://news.ycombinator.com/item?id=50366999
