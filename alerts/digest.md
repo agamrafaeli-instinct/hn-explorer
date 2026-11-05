@@ -1,11 +1,8 @@
-HN digest 2026-11-05 (UTC): 18 new stories at 300+ points
+HN digest 2026-11-05 (UTC): 16 new stories at 300+ points
 - 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
 - 426 pts, 96 comments: Sshole https://news.ycombinator.com/item?id=50378228
-- 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
 - 366 pts, 121 comments: AMD expects to outsell Intel in Q4 for the first time in history https://news.ycombinator.com/item?id=50367125
-- 337 pts, 171 comments: Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux https://news.ycombinator.com/item?id=50362905
 - 328 pts, 206 comments: Kitty 0.50 https://news.ycombinator.com/item?id=50362980
-- 325 pts, 88 comments: Tell HN: Gemini trains on chat history, even for subscribers (personal accounts) https://news.ycombinator.com/item?id=50363461
 - 323 pts, 234 comments: A thousand fewer paths to root https://news.ycombinator.com/item?id=50372929
 - 321 pts, 338 comments: Ask HN: What's your current AI agentic setup? https://news.ycombinator.com/item?id=50366117
 - 317 pts, 185 comments: North Korean fake job interview led to $6.3B Binance heist https://news.ycombinator.com/item?id=50365755
@@ -17,3 +14,4 @@ HN digest 2026-11-05 (UTC): 18 new stories at 300+ points
 - 305 pts, 227 comments: Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016) https://news.ycombinator.com/item?id=50366522
 - 302 pts, 108 comments: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding https://news.ycombinator.com/item?id=50369925
 - 302 pts, 297 comments: Geoffrey Hinton: it might turn out we were better off without AI https://news.ycombinator.com/item?id=50363554
+- 301 pts, 154 comments: Insects don't swarm at LED lights https://news.ycombinator.com/item?id=50370610
