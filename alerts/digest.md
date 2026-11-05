@@ -1,4 +1,4 @@
-HN digest 2026-11-05 (UTC): 16 new stories at 300+ points
+HN digest 2026-11-05 (UTC): 15 new stories at 300+ points
 - 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
 - 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
 - 366 pts, 121 comments: AMD expects to outsell Intel in Q4 for the first time in history https://news.ycombinator.com/item?id=50367125
@@ -10,7 +10,6 @@ HN digest 2026-11-05 (UTC): 16 new stories at 300+ points
 - 317 pts, 185 comments: North Korean fake job interview led to $6.3B Binance heist https://news.ycombinator.com/item?id=50365755
 - 316 pts, 208 comments: C++26 Disapproved https://news.ycombinator.com/item?id=50360164
 - 314 pts, 80 comments: Jelly Sheet https://news.ycombinator.com/item?id=50361268
-- 314 pts, 137 comments: US tech giants' hidden AI debt swells 90% to $3.2T in 6 months https://news.ycombinator.com/item?id=50358422
 - 312 pts, 85 comments: Kimi K3.1 Pro model weights are out https://news.ycombinator.com/item?id=50366999
 - 312 pts, 23 comments: The Internals of PostgreSQL https://news.ycombinator.com/item?id=50358702
 - 308 pts, 620 comments: US voters roundly reject data centers in ballot measures https://news.ycombinator.com/item?id=50365982
