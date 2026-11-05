@@ -1,10 +1,9 @@
-HN digest 2026-11-05 (UTC): 17 new stories at 300+ points
+HN digest 2026-11-05 (UTC): 16 new stories at 300+ points
 - 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
 - 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
 - 366 pts, 121 comments: AMD expects to outsell Intel in Q4 for the first time in history https://news.ycombinator.com/item?id=50367125
 - 337 pts, 171 comments: Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux https://news.ycombinator.com/item?id=50362905
 - 328 pts, 206 comments: Kitty 0.50 https://news.ycombinator.com/item?id=50362980
-- 326 pts, 190 comments: Safari introduces Adaptive Dark Mode in 27.3 https://news.ycombinator.com/item?id=50358562
 - 325 pts, 88 comments: Tell HN: Gemini trains on chat history, even for subscribers (personal accounts) https://news.ycombinator.com/item?id=50363461
 - 324 pts, 67 comments: Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels https://news.ycombinator.com/item?id=50346755
 - 323 pts, 50 comments: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer https://news.ycombinator.com/item?id=50358582
