@@ -1,4 +1,4 @@
-HN digest 2026-11-05 (UTC): 19 new stories at 300+ points
+HN digest 2026-11-05 (UTC): 18 new stories at 300+ points
 - 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
 - 426 pts, 96 comments: Sshole https://news.ycombinator.com/item?id=50378228
 - 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
@@ -10,11 +10,10 @@ HN digest 2026-11-05 (UTC): 19 new stories at 300+ points
 - 321 pts, 338 comments: Ask HN: What's your current AI agentic setup? https://news.ycombinator.com/item?id=50366117
 - 317 pts, 185 comments: North Korean fake job interview led to $6.3B Binance heist https://news.ycombinator.com/item?id=50365755
 - 315 pts, 182 comments: Images 2.6 https://news.ycombinator.com/item?id=50372945
-- 314 pts, 80 comments: Jelly Sheet https://news.ycombinator.com/item?id=50361268
 - 312 pts, 85 comments: Kimi K3.1 Pro model weights are out https://news.ycombinator.com/item?id=50366999
-- 312 pts, 23 comments: The Internals of PostgreSQL https://news.ycombinator.com/item?id=50358702
 - 310 pts, 142 comments: A new Go API for JSON https://news.ycombinator.com/item?id=50369106
 - 308 pts, 620 comments: US voters roundly reject data centers in ballot measures https://news.ycombinator.com/item?id=50365982
+- 306 pts, 63 comments: Lemmings CSS Animation https://news.ycombinator.com/item?id=50375354
 - 305 pts, 227 comments: Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016) https://news.ycombinator.com/item?id=50366522
 - 302 pts, 108 comments: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding https://news.ycombinator.com/item?id=50369925
 - 302 pts, 297 comments: Geoffrey Hinton: it might turn out we were better off without AI https://news.ycombinator.com/item?id=50363554
