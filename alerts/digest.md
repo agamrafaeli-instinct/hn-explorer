@@ -1,4 +1,4 @@
-HN digest 2026-11-04 (UTC): 18 new stories at 300+ points
+HN digest 2026-11-05 (UTC): 18 new stories at 300+ points
 - 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
 - 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
 - 378 pts, 143 comments: Stringman, an $800 open-source room scale gripper robot https://news.ycombinator.com/item?id=50354358
@@ -16,4 +16,4 @@ HN digest 2026-11-04 (UTC): 18 new stories at 300+ points
 - 314 pts, 137 comments: US tech giants' hidden AI debt swells 90% to $3.2T in 6 months https://news.ycombinator.com/item?id=50358422
 - 312 pts, 85 comments: Kimi K3.1 Pro model weights are out https://news.ycombinator.com/item?id=50366999
 - 312 pts, 23 comments: The Internals of PostgreSQL https://news.ycombinator.com/item?id=50358702
-- 301 pts, 154 comments: Resisting Cognitive Surrender https://news.ycombinator.com/item?id=50323123
+- 308 pts, 620 comments: US voters roundly reject data centers in ballot measures https://news.ycombinator.com/item?id=50365982
