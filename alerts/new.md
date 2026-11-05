@@ -1,4 +1,5 @@
-HN new 300+ stories, last 12h, updated 2026-11-05 17:36 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-05 19:32 UTC. Forward only ids not sent before.
+50379704 | 399 pts, 64 comments | Alpine Linux Security Advisory: OpenSSH-server password authentication bypass | https://news.ycombinator.com/item?id=50379704
 50370610 | 301 pts, 154 comments | Insects don't swarm at LED lights | https://news.ycombinator.com/item?id=50370610
 50375354 | 306 pts, 63 comments | Lemmings CSS Animation | https://news.ycombinator.com/item?id=50375354
 50378228 | 426 pts, 96 comments | Sshole | https://news.ycombinator.com/item?id=50378228
