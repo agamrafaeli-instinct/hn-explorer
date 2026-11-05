@@ -1,4 +1,6 @@
-HN new 300+ stories, last 12h, updated 2026-11-05 19:32 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-05 21:24 UTC. Forward only ids not sent before.
+50380810 | 309 pts, 211 comments | Motorola Signature 27 with GrapheneOS support | https://news.ycombinator.com/item?id=50380810
+50378625 | 330 pts, 280 comments | Discord is ditching Electron and its new app uses less RAM | https://news.ycombinator.com/item?id=50378625
 50379704 | 399 pts, 64 comments | Alpine Linux Security Advisory: OpenSSH-server password authentication bypass | https://news.ycombinator.com/item?id=50379704
 50370610 | 301 pts, 154 comments | Insects don't swarm at LED lights | https://news.ycombinator.com/item?id=50370610
 50375354 | 306 pts, 63 comments | Lemmings CSS Animation | https://news.ycombinator.com/item?id=50375354

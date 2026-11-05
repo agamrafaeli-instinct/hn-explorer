@@ -1,14 +1,15 @@
-HN digest 2026-11-05 (UTC): 16 new stories at 300+ points
+HN digest 2026-11-05 (UTC): 17 new stories at 300+ points
 - 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
 - 426 pts, 96 comments: Sshole https://news.ycombinator.com/item?id=50378228
 - 399 pts, 64 comments: Alpine Linux Security Advisory: OpenSSH-server password authentication bypass https://news.ycombinator.com/item?id=50379704
 - 366 pts, 121 comments: AMD expects to outsell Intel in Q4 for the first time in history https://news.ycombinator.com/item?id=50367125
-- 328 pts, 206 comments: Kitty 0.50 https://news.ycombinator.com/item?id=50362980
+- 330 pts, 280 comments: Discord is ditching Electron and its new app uses less RAM https://news.ycombinator.com/item?id=50378625
 - 323 pts, 234 comments: A thousand fewer paths to root https://news.ycombinator.com/item?id=50372929
 - 321 pts, 338 comments: Ask HN: What's your current AI agentic setup? https://news.ycombinator.com/item?id=50366117
 - 315 pts, 182 comments: Images 2.6 https://news.ycombinator.com/item?id=50372945
 - 312 pts, 85 comments: Kimi K3.1 Pro model weights are out https://news.ycombinator.com/item?id=50366999
 - 310 pts, 142 comments: A new Go API for JSON https://news.ycombinator.com/item?id=50369106
+- 309 pts, 211 comments: Motorola Signature 27 with GrapheneOS support https://news.ycombinator.com/item?id=50380810
 - 308 pts, 620 comments: US voters roundly reject data centers in ballot measures https://news.ycombinator.com/item?id=50365982
 - 306 pts, 63 comments: Lemmings CSS Animation https://news.ycombinator.com/item?id=50375354
 - 305 pts, 227 comments: Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016) https://news.ycombinator.com/item?id=50366522
