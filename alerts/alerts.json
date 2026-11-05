@@ -1,5 +1,49 @@
 [
  {
+  "id": "50372929",
+  "title": "A thousand fewer paths to root",
+  "points": 323,
+  "comments": 234,
+  "author": "dangelosaurus",
+  "hn": "https://news.ycombinator.com/item?id=50372929",
+  "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+  "created_at": "2026-11-04T23:33:14Z",
+  "reported_at": 1793871363
+ },
+ {
+  "id": "50369106",
+  "title": "A new Go API for JSON",
+  "points": 310,
+  "comments": 142,
+  "author": "olexsmir",
+  "hn": "https://news.ycombinator.com/item?id=50369106",
+  "url": "https://go.dev/blog/jsonv2",
+  "created_at": "2026-11-04T17:52:11Z",
+  "reported_at": 1793871363
+ },
+ {
+  "id": "50366522",
+  "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+  "points": 305,
+  "comments": 227,
+  "author": "zenincognito",
+  "hn": "https://news.ycombinator.com/item?id=50366522",
+  "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+  "created_at": "2026-11-04T15:01:44Z",
+  "reported_at": 1793871363
+ },
+ {
+  "id": "50366117",
+  "title": "Ask HN: What's your current AI agentic setup?",
+  "points": 321,
+  "comments": 338,
+  "author": "eggbrain",
+  "hn": "https://news.ycombinator.com/item?id=50366117",
+  "url": null,
+  "created_at": "2026-11-04T14:37:22Z",
+  "reported_at": 1793871363
+ },
+ {
   "id": "50363554",
   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
   "points": 302,

@@ -1,4 +1,4 @@
-HN digest 2026-11-05 (UTC): 15 new stories at 300+ points
+HN digest 2026-11-05 (UTC): 18 new stories at 300+ points
 - 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
 - 420 pts, 293 comments: AI is forcing us to pay off 40 years of technical debt https://news.ycombinator.com/item?id=50364336
 - 366 pts, 121 comments: AMD expects to outsell Intel in Q4 for the first time in history https://news.ycombinator.com/item?id=50367125
@@ -6,11 +6,14 @@ HN digest 2026-11-05 (UTC): 15 new stories at 300+ points
 - 328 pts, 206 comments: Kitty 0.50 https://news.ycombinator.com/item?id=50362980
 - 325 pts, 88 comments: Tell HN: Gemini trains on chat history, even for subscribers (personal accounts) https://news.ycombinator.com/item?id=50363461
 - 324 pts, 67 comments: Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels https://news.ycombinator.com/item?id=50346755
-- 323 pts, 50 comments: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer https://news.ycombinator.com/item?id=50358582
+- 323 pts, 234 comments: A thousand fewer paths to root https://news.ycombinator.com/item?id=50372929
+- 321 pts, 338 comments: Ask HN: What's your current AI agentic setup? https://news.ycombinator.com/item?id=50366117
 - 317 pts, 185 comments: North Korean fake job interview led to $6.3B Binance heist https://news.ycombinator.com/item?id=50365755
 - 316 pts, 208 comments: C++26 Disapproved https://news.ycombinator.com/item?id=50360164
 - 314 pts, 80 comments: Jelly Sheet https://news.ycombinator.com/item?id=50361268
 - 312 pts, 85 comments: Kimi K3.1 Pro model weights are out https://news.ycombinator.com/item?id=50366999
 - 312 pts, 23 comments: The Internals of PostgreSQL https://news.ycombinator.com/item?id=50358702
+- 310 pts, 142 comments: A new Go API for JSON https://news.ycombinator.com/item?id=50369106
 - 308 pts, 620 comments: US voters roundly reject data centers in ballot measures https://news.ycombinator.com/item?id=50365982
+- 305 pts, 227 comments: Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016) https://news.ycombinator.com/item?id=50366522
 - 302 pts, 297 comments: Geoffrey Hinton: it might turn out we were better off without AI https://news.ycombinator.com/item?id=50363554
