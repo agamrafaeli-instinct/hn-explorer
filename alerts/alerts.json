@@ -1,5 +1,27 @@
 [
  {
+  "id": "50372945",
+  "title": "Images 2.6",
+  "points": 315,
+  "comments": 182,
+  "author": "davidbarker",
+  "hn": "https://news.ycombinator.com/item?id=50372945",
+  "url": "https://openai.com/index/introducing-images-2-6/",
+  "created_at": "2026-11-04T23:35:44Z",
+  "reported_at": 1793878301
+ },
+ {
+  "id": "50369925",
+  "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+  "points": 302,
+  "comments": 108,
+  "author": "Philpax",
+  "hn": "https://news.ycombinator.com/item?id=50369925",
+  "url": "https://www.ricursive.com/ripple",
+  "created_at": "2026-11-04T18:53:29Z",
+  "reported_at": 1793878301
+ },
+ {
   "id": "50372929",
   "title": "A thousand fewer paths to root",
   "points": 323,
