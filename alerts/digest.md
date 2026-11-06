@@ -1,9 +1,8 @@
-HN digest 2026-11-06 (UTC): 18 new stories at 300+ points
+HN digest 2026-11-06 (UTC): 17 new stories at 300+ points
 - 523 pts, 1204 comments: Tesla to wind down Cybertruck production https://news.ycombinator.com/item?id=50391456
 - 512 pts, 254 comments: Search for everyone https://news.ycombinator.com/item?id=50383740
 - 500 pts, 170 comments: Claude Code sends your email address to websites https://news.ycombinator.com/item?id=50385272
 - 427 pts, 159 comments: Goodbye from Salon https://news.ycombinator.com/item?id=50383739
-- 399 pts, 64 comments: Alpine Linux Security Advisory: OpenSSH-server password authentication bypass https://news.ycombinator.com/item?id=50379704
 - 368 pts, 150 comments: Blender's UI and Runtime: Much Faster Than GPUI https://news.ycombinator.com/item?id=50389333
 - 340 pts, 283 comments: Britain to make salary disclosure in job ads mandatory https://news.ycombinator.com/item?id=50389222
 - 330 pts, 280 comments: Discord is ditching Electron and its new app uses less RAM https://news.ycombinator.com/item?id=50378625
