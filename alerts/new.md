@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-11-06 01:50 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-06 03:29 UTC. Forward only ids not sent before.
 50385272 | 500 pts, 170 comments | Claude Code sends your email address to websites | https://news.ycombinator.com/item?id=50385272
 50384233 | 320 pts, 104 comments | MS Paint Remote Code Execution Vulnerability | https://news.ycombinator.com/item?id=50384233
 50383740 | 512 pts, 254 comments | Search for everyone | https://news.ycombinator.com/item?id=50383740
@@ -10,4 +10,3 @@ HN new 300+ stories, last 12h, updated 2026-11-06 01:50 UTC. Forward only ids no
 50379704 | 399 pts, 64 comments | Alpine Linux Security Advisory: OpenSSH-server password authentication bypass | https://news.ycombinator.com/item?id=50379704
 50370610 | 301 pts, 154 comments | Insects don't swarm at LED lights | https://news.ycombinator.com/item?id=50370610
 50375354 | 306 pts, 63 comments | Lemmings CSS Animation | https://news.ycombinator.com/item?id=50375354
-50378228 | 426 pts, 96 comments | Sshole | https://news.ycombinator.com/item?id=50378228

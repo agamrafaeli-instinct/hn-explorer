@@ -1,4 +1,4 @@
-HN digest 2026-11-06 (UTC): 20 new stories at 300+ points
+HN digest 2026-11-06 (UTC): 19 new stories at 300+ points
 - 512 pts, 254 comments: Search for everyone https://news.ycombinator.com/item?id=50383740
 - 500 pts, 170 comments: Claude Code sends your email address to websites https://news.ycombinator.com/item?id=50385272
 - 427 pts, 159 comments: Goodbye from Salon https://news.ycombinator.com/item?id=50383739
@@ -11,7 +11,6 @@ HN digest 2026-11-06 (UTC): 20 new stories at 300+ points
 - 315 pts, 182 comments: Images 2.6 https://news.ycombinator.com/item?id=50372945
 - 310 pts, 142 comments: A new Go API for JSON https://news.ycombinator.com/item?id=50369106
 - 309 pts, 211 comments: Motorola Signature 27 with GrapheneOS support https://news.ycombinator.com/item?id=50380810
-- 308 pts, 620 comments: US voters roundly reject data centers in ballot measures https://news.ycombinator.com/item?id=50365982
 - 306 pts, 63 comments: Lemmings CSS Animation https://news.ycombinator.com/item?id=50375354
 - 305 pts, 272 comments: I wish tech companies knew more about me https://news.ycombinator.com/item?id=50378942
 - 305 pts, 227 comments: Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016) https://news.ycombinator.com/item?id=50366522
