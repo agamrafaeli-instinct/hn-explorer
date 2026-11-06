@@ -1,4 +1,5 @@
 HN digest 2026-11-06 (UTC): 18 new stories at 300+ points
+- 523 pts, 1204 comments: Tesla to wind down Cybertruck production https://news.ycombinator.com/item?id=50391456
 - 512 pts, 254 comments: Search for everyone https://news.ycombinator.com/item?id=50383740
 - 500 pts, 170 comments: Claude Code sends your email address to websites https://news.ycombinator.com/item?id=50385272
 - 427 pts, 159 comments: Goodbye from Salon https://news.ycombinator.com/item?id=50383739
@@ -15,5 +16,4 @@ HN digest 2026-11-06 (UTC): 18 new stories at 300+ points
 - 306 pts, 130 comments: MCP Explained https://news.ycombinator.com/item?id=50379249
 - 306 pts, 171 comments: The Hackintosh Reborn https://news.ycombinator.com/item?id=50383057
 - 305 pts, 272 comments: I wish tech companies knew more about me https://news.ycombinator.com/item?id=50378942
-- 301 pts, 154 comments: Insects don't swarm at LED lights https://news.ycombinator.com/item?id=50370610
 - 300 pts, 153 comments: GPT-6 Astra covertly underperforms on safety research https://news.ycombinator.com/item?id=50376313
