@@ -9,12 +9,12 @@ HN digest 2026-11-06 (UTC): 19 new stories at 300+ points
 - 321 pts, 338 comments: Ask HN: What's your current AI agentic setup? https://news.ycombinator.com/item?id=50366117
 - 320 pts, 104 comments: MS Paint Remote Code Execution Vulnerability https://news.ycombinator.com/item?id=50384233
 - 315 pts, 182 comments: Images 2.6 https://news.ycombinator.com/item?id=50372945
+- 311 pts, 144 comments: Download your favourite YouTube videos https://news.ycombinator.com/item?id=50378571
 - 310 pts, 142 comments: A new Go API for JSON https://news.ycombinator.com/item?id=50369106
 - 309 pts, 211 comments: Motorola Signature 27 with GrapheneOS support https://news.ycombinator.com/item?id=50380810
 - 306 pts, 63 comments: Lemmings CSS Animation https://news.ycombinator.com/item?id=50375354
 - 305 pts, 272 comments: I wish tech companies knew more about me https://news.ycombinator.com/item?id=50378942
 - 305 pts, 227 comments: Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016) https://news.ycombinator.com/item?id=50366522
 - 302 pts, 108 comments: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding https://news.ycombinator.com/item?id=50369925
-- 302 pts, 297 comments: Geoffrey Hinton: it might turn out we were better off without AI https://news.ycombinator.com/item?id=50363554
 - 301 pts, 154 comments: Insects don't swarm at LED lights https://news.ycombinator.com/item?id=50370610
 - 300 pts, 153 comments: GPT-6 Astra covertly underperforms on safety research https://news.ycombinator.com/item?id=50376313
