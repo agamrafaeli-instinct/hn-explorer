@@ -5,14 +5,14 @@ HN digest 2026-11-06 (UTC): 17 new stories at 300+ points
 - 427 pts, 159 comments: Goodbye from Salon https://news.ycombinator.com/item?id=50383739
 - 368 pts, 150 comments: Blender's UI and Runtime: Much Faster Than GPUI https://news.ycombinator.com/item?id=50389333
 - 340 pts, 283 comments: Britain to make salary disclosure in job ads mandatory https://news.ycombinator.com/item?id=50389222
-- 330 pts, 280 comments: Discord is ditching Electron and its new app uses less RAM https://news.ycombinator.com/item?id=50378625
 - 320 pts, 104 comments: MS Paint Remote Code Execution Vulnerability https://news.ycombinator.com/item?id=50384233
 - 319 pts, 153 comments: Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue https://news.ycombinator.com/item?id=50385870
 - 317 pts, 97 comments: Window Sweaters https://news.ycombinator.com/item?id=50381383
+- 315 pts, 159 comments: Deus Ex https://news.ycombinator.com/item?id=50393758
 - 311 pts, 197 comments: Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS https://news.ycombinator.com/item?id=50390124
 - 311 pts, 144 comments: Download your favourite YouTube videos https://news.ycombinator.com/item?id=50378571
-- 309 pts, 211 comments: Motorola Signature 27 with GrapheneOS support https://news.ycombinator.com/item?id=50380810
 - 306 pts, 130 comments: MCP Explained https://news.ycombinator.com/item?id=50379249
 - 306 pts, 171 comments: The Hackintosh Reborn https://news.ycombinator.com/item?id=50383057
 - 305 pts, 272 comments: I wish tech companies knew more about me https://news.ycombinator.com/item?id=50378942
+- 300 pts, 4 comments: RIP Cybertruck https://news.ycombinator.com/item?id=50393154
 - 300 pts, 153 comments: GPT-6 Astra covertly underperforms on safety research https://news.ycombinator.com/item?id=50376313

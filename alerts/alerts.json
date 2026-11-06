@@ -1,5 +1,27 @@
 [
  {
+  "id": "50393758",
+  "title": "Deus Ex",
+  "points": 315,
+  "comments": 159,
+  "author": "cybersoyuz",
+  "hn": "https://news.ycombinator.com/item?id=50393758",
+  "url": "https://www.filfre.net/2026/11/deus-ex/",
+  "created_at": "2026-11-06T15:44:36Z",
+  "reported_at": 1794007082
+ },
+ {
+  "id": "50393154",
+  "title": "RIP Cybertruck",
+  "points": 300,
+  "comments": 4,
+  "author": "voxadam",
+  "hn": "https://news.ycombinator.com/item?id=50393154",
+  "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+  "created_at": "2026-11-06T15:01:38Z",
+  "reported_at": 1794007082
+ },
+ {
   "id": "50391456",
   "title": "Tesla to wind down Cybertruck production",
   "points": 523,
