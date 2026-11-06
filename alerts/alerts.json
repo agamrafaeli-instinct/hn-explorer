@@ -1,5 +1,38 @@
 [
  {
+  "id": "50390124",
+  "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+  "points": 311,
+  "comments": 197,
+  "author": "microtonal",
+  "hn": "https://news.ycombinator.com/item?id=50390124",
+  "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+  "created_at": "2026-11-06T09:27:12Z",
+  "reported_at": 1793972880
+ },
+ {
+  "id": "50389333",
+  "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+  "points": 368,
+  "comments": 150,
+  "author": "ppmpreetham",
+  "hn": "https://news.ycombinator.com/item?id=50389333",
+  "url": "https://github.com/ppmpreetham/BUI",
+  "created_at": "2026-11-06T07:40:35Z",
+  "reported_at": 1793972880
+ },
+ {
+  "id": "50389222",
+  "title": "Britain to make salary disclosure in job ads mandatory",
+  "points": 340,
+  "comments": 283,
+  "author": "1659447091",
+  "hn": "https://news.ycombinator.com/item?id=50389222",
+  "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+  "created_at": "2026-11-06T07:22:04Z",
+  "reported_at": 1793972880
+ },
+ {
   "id": "50379249",
   "title": "MCP Explained",
   "points": 306,
