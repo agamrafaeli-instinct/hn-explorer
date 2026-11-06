@@ -1,8 +1,7 @@
-HN digest 2026-11-06 (UTC): 20 new stories at 300+ points
+HN digest 2026-11-06 (UTC): 19 new stories at 300+ points
 - 512 pts, 254 comments: Search for everyone https://news.ycombinator.com/item?id=50383740
 - 500 pts, 170 comments: Claude Code sends your email address to websites https://news.ycombinator.com/item?id=50385272
 - 427 pts, 159 comments: Goodbye from Salon https://news.ycombinator.com/item?id=50383739
-- 426 pts, 96 comments: Sshole https://news.ycombinator.com/item?id=50378228
 - 399 pts, 64 comments: Alpine Linux Security Advisory: OpenSSH-server password authentication bypass https://news.ycombinator.com/item?id=50379704
 - 368 pts, 150 comments: Blender's UI and Runtime: Much Faster Than GPUI https://news.ycombinator.com/item?id=50389333
 - 340 pts, 283 comments: Britain to make salary disclosure in job ads mandatory https://news.ycombinator.com/item?id=50389222
