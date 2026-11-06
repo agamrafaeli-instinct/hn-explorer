@@ -1,4 +1,4 @@
-HN digest 2026-11-06 (UTC): 19 new stories at 300+ points
+HN digest 2026-11-06 (UTC): 20 new stories at 300+ points
 - 512 pts, 254 comments: Search for everyone https://news.ycombinator.com/item?id=50383740
 - 500 pts, 170 comments: Claude Code sends your email address to websites https://news.ycombinator.com/item?id=50385272
 - 427 pts, 159 comments: Goodbye from Salon https://news.ycombinator.com/item?id=50383739
@@ -8,6 +8,7 @@ HN digest 2026-11-06 (UTC): 19 new stories at 300+ points
 - 323 pts, 234 comments: A thousand fewer paths to root https://news.ycombinator.com/item?id=50372929
 - 321 pts, 338 comments: Ask HN: What's your current AI agentic setup? https://news.ycombinator.com/item?id=50366117
 - 320 pts, 104 comments: MS Paint Remote Code Execution Vulnerability https://news.ycombinator.com/item?id=50384233
+- 317 pts, 97 comments: Window Sweaters https://news.ycombinator.com/item?id=50381383
 - 315 pts, 182 comments: Images 2.6 https://news.ycombinator.com/item?id=50372945
 - 311 pts, 144 comments: Download your favourite YouTube videos https://news.ycombinator.com/item?id=50378571
 - 310 pts, 142 comments: A new Go API for JSON https://news.ycombinator.com/item?id=50369106
