@@ -1,5 +1,71 @@
 [
  {
+  "id": "50385272",
+  "title": "Claude Code sends your email address to websites",
+  "points": 500,
+  "comments": 170,
+  "author": "motoroco",
+  "hn": "https://news.ycombinator.com/item?id=50385272",
+  "url": "https://github.com/anthropics/claude-code/issues/107757",
+  "created_at": "2026-11-05T22:17:15Z",
+  "reported_at": 1793929821
+ },
+ {
+  "id": "50384233",
+  "title": "MS Paint Remote Code Execution Vulnerability",
+  "points": 320,
+  "comments": 104,
+  "author": "kuberwastaken",
+  "hn": "https://news.ycombinator.com/item?id=50384233",
+  "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+  "created_at": "2026-11-05T20:43:42Z",
+  "reported_at": 1793929821
+ },
+ {
+  "id": "50383740",
+  "title": "Search for everyone",
+  "points": 512,
+  "comments": 254,
+  "author": "elashri",
+  "hn": "https://news.ycombinator.com/item?id=50383740",
+  "url": "https://kagi.com/changelog#11820",
+  "created_at": "2026-11-05T20:03:34Z",
+  "reported_at": 1793929821
+ },
+ {
+  "id": "50383739",
+  "title": "Goodbye from Salon",
+  "points": 427,
+  "comments": 159,
+  "author": "mkeeter",
+  "hn": "https://news.ycombinator.com/item?id=50383739",
+  "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+  "created_at": "2026-11-05T20:03:29Z",
+  "reported_at": 1793929821
+ },
+ {
+  "id": "50378942",
+  "title": "I wish tech companies knew more about me",
+  "points": 305,
+  "comments": 272,
+  "author": "freetonik",
+  "hn": "https://news.ycombinator.com/item?id=50378942",
+  "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+  "created_at": "2026-11-05T13:40:52Z",
+  "reported_at": 1793929821
+ },
+ {
+  "id": "50376313",
+  "title": "GPT-6 Astra covertly underperforms on safety research",
+  "points": 300,
+  "comments": 153,
+  "author": "lucrbvi",
+  "hn": "https://news.ycombinator.com/item?id=50376313",
+  "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+  "created_at": "2026-11-05T07:44:30Z",
+  "reported_at": 1793929821
+ },
+ {
   "id": "50380810",
   "title": "Motorola Signature 27 with GrapheneOS support",
   "points": 309,

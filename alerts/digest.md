@@ -1,18 +1,21 @@
-HN digest 2026-11-05 (UTC): 17 new stories at 300+ points
-- 449 pts, 130 comments: Residential proxies detected on White House network https://news.ycombinator.com/item?id=50371246
+HN digest 2026-11-06 (UTC): 20 new stories at 300+ points
+- 512 pts, 254 comments: Search for everyone https://news.ycombinator.com/item?id=50383740
+- 500 pts, 170 comments: Claude Code sends your email address to websites https://news.ycombinator.com/item?id=50385272
+- 427 pts, 159 comments: Goodbye from Salon https://news.ycombinator.com/item?id=50383739
 - 426 pts, 96 comments: Sshole https://news.ycombinator.com/item?id=50378228
 - 399 pts, 64 comments: Alpine Linux Security Advisory: OpenSSH-server password authentication bypass https://news.ycombinator.com/item?id=50379704
-- 366 pts, 121 comments: AMD expects to outsell Intel in Q4 for the first time in history https://news.ycombinator.com/item?id=50367125
 - 330 pts, 280 comments: Discord is ditching Electron and its new app uses less RAM https://news.ycombinator.com/item?id=50378625
 - 323 pts, 234 comments: A thousand fewer paths to root https://news.ycombinator.com/item?id=50372929
 - 321 pts, 338 comments: Ask HN: What's your current AI agentic setup? https://news.ycombinator.com/item?id=50366117
+- 320 pts, 104 comments: MS Paint Remote Code Execution Vulnerability https://news.ycombinator.com/item?id=50384233
 - 315 pts, 182 comments: Images 2.6 https://news.ycombinator.com/item?id=50372945
-- 312 pts, 85 comments: Kimi K3.1 Pro model weights are out https://news.ycombinator.com/item?id=50366999
 - 310 pts, 142 comments: A new Go API for JSON https://news.ycombinator.com/item?id=50369106
 - 309 pts, 211 comments: Motorola Signature 27 with GrapheneOS support https://news.ycombinator.com/item?id=50380810
 - 308 pts, 620 comments: US voters roundly reject data centers in ballot measures https://news.ycombinator.com/item?id=50365982
 - 306 pts, 63 comments: Lemmings CSS Animation https://news.ycombinator.com/item?id=50375354
+- 305 pts, 272 comments: I wish tech companies knew more about me https://news.ycombinator.com/item?id=50378942
 - 305 pts, 227 comments: Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016) https://news.ycombinator.com/item?id=50366522
 - 302 pts, 108 comments: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding https://news.ycombinator.com/item?id=50369925
 - 302 pts, 297 comments: Geoffrey Hinton: it might turn out we were better off without AI https://news.ycombinator.com/item?id=50363554
 - 301 pts, 154 comments: Insects don't swarm at LED lights https://news.ycombinator.com/item?id=50370610
+- 300 pts, 153 comments: GPT-6 Astra covertly underperforms on safety research https://news.ycombinator.com/item?id=50376313
