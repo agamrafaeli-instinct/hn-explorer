@@ -1,5 +1,27 @@
 [
  {
+  "id": "50399933",
+  "title": "Libghostty 1.0",
+  "points": 415,
+  "comments": 69,
+  "author": "mfiguiere",
+  "hn": "https://news.ycombinator.com/item?id=50399933",
+  "url": "https://mitchellh.com/writing/libghostty-1-0",
+  "created_at": "2026-11-06T23:30:52Z",
+  "reported_at": 1794029194
+ },
+ {
+  "id": "50388001",
+  "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+  "points": 306,
+  "comments": 246,
+  "author": "ChrisArchitect",
+  "hn": "https://news.ycombinator.com/item?id=50388001",
+  "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+  "created_at": "2026-11-06T04:00:28Z",
+  "reported_at": 1794029194
+ },
+ {
   "id": "50392118",
   "title": "Gemini Omni 1.2 Flash",
   "points": 303,
