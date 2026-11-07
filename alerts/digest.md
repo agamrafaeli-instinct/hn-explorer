@@ -5,7 +5,6 @@ HN digest 2026-11-07 (UTC): 17 new stories at 300+ points
 - 340 pts, 283 comments: Britain to make salary disclosure in job ads mandatory https://news.ycombinator.com/item?id=50389222
 - 325 pts, 70 comments: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost https://news.ycombinator.com/item?id=50397429
 - 319 pts, 153 comments: Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue https://news.ycombinator.com/item?id=50385870
-- 317 pts, 97 comments: Window Sweaters https://news.ycombinator.com/item?id=50381383
 - 315 pts, 159 comments: Deus Ex https://news.ycombinator.com/item?id=50393758
 - 311 pts, 197 comments: Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS https://news.ycombinator.com/item?id=50390124
 - 306 pts, 246 comments: US FAA says it will phase out floppy disks from air traffic control by 2028 https://news.ycombinator.com/item?id=50388001
@@ -15,4 +14,5 @@ HN digest 2026-11-07 (UTC): 17 new stories at 300+ points
 - 305 pts, 53 comments: Pwn.college https://news.ycombinator.com/item?id=50387796
 - 303 pts, 124 comments: Awesome repositories are no longer awesome https://news.ycombinator.com/item?id=50377821
 - 303 pts, 220 comments: Gemini Omni 1.2 Flash https://news.ycombinator.com/item?id=50392118
+- 300 pts, 233 comments: AI is dramatically accelerating AI research https://news.ycombinator.com/item?id=50397994
 - 300 pts, 4 comments: RIP Cybertruck https://news.ycombinator.com/item?id=50393154
