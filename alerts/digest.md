@@ -1,4 +1,4 @@
-HN digest 2026-11-07 (UTC): 13 new stories at 300+ points
+HN digest 2026-11-07 (UTC): 14 new stories at 300+ points
 - 523 pts, 1204 comments: Tesla to wind down Cybertruck production https://news.ycombinator.com/item?id=50391456
 - 415 pts, 69 comments: Libghostty 1.0 https://news.ycombinator.com/item?id=50399933
 - 328 pts, 102 comments: Need for Speed Underground 2 online in the browser https://news.ycombinator.com/item?id=50403052
@@ -10,5 +10,6 @@ HN digest 2026-11-07 (UTC): 13 new stories at 300+ points
 - 305 pts, 53 comments: Pwn.college https://news.ycombinator.com/item?id=50387796
 - 303 pts, 124 comments: Awesome repositories are no longer awesome https://news.ycombinator.com/item?id=50377821
 - 303 pts, 220 comments: Gemini Omni 1.2 Flash https://news.ycombinator.com/item?id=50392118
+- 300 pts, 605 comments: Anthropic IPO buyers see valuation as low as $1.1T https://news.ycombinator.com/item?id=50394906
 - 300 pts, 233 comments: AI is dramatically accelerating AI research https://news.ycombinator.com/item?id=50397994
 - 300 pts, 4 comments: RIP Cybertruck https://news.ycombinator.com/item?id=50393154
