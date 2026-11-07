@@ -1,5 +1,16 @@
 [
  {
+  "id": "50377821",
+  "title": "Awesome repositories are no longer awesome",
+  "points": 303,
+  "comments": 124,
+  "author": "erikgahner",
+  "hn": "https://news.ycombinator.com/item?id=50377821",
+  "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+  "created_at": "2026-11-05T11:16:51Z",
+  "reported_at": 1794037239
+ },
+ {
   "id": "50399933",
   "title": "Libghostty 1.0",
   "points": 415,

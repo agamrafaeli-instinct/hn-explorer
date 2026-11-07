@@ -8,11 +8,11 @@ HN digest 2026-11-07 (UTC): 17 new stories at 300+ points
 - 317 pts, 97 comments: Window Sweaters https://news.ycombinator.com/item?id=50381383
 - 315 pts, 159 comments: Deus Ex https://news.ycombinator.com/item?id=50393758
 - 311 pts, 197 comments: Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS https://news.ycombinator.com/item?id=50390124
-- 311 pts, 144 comments: Download your favourite YouTube videos https://news.ycombinator.com/item?id=50378571
 - 306 pts, 246 comments: US FAA says it will phase out floppy disks from air traffic control by 2028 https://news.ycombinator.com/item?id=50388001
 - 306 pts, 130 comments: MCP Explained https://news.ycombinator.com/item?id=50379249
 - 306 pts, 171 comments: The Hackintosh Reborn https://news.ycombinator.com/item?id=50383057
 - 305 pts, 109 comments: From Linux to Wikipedia: How Volunteers Build the Internet https://news.ycombinator.com/item?id=50388122
 - 305 pts, 53 comments: Pwn.college https://news.ycombinator.com/item?id=50387796
+- 303 pts, 124 comments: Awesome repositories are no longer awesome https://news.ycombinator.com/item?id=50377821
 - 303 pts, 220 comments: Gemini Omni 1.2 Flash https://news.ycombinator.com/item?id=50392118
 - 300 pts, 4 comments: RIP Cybertruck https://news.ycombinator.com/item?id=50393154
