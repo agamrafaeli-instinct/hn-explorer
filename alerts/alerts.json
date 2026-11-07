@@ -1,5 +1,27 @@
 [
  {
+  "id": "50392118",
+  "title": "Gemini Omni 1.2 Flash",
+  "points": 303,
+  "comments": 220,
+  "author": "thisisauserid",
+  "hn": "https://news.ycombinator.com/item?id=50392118",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "created_at": "2026-11-06T13:35:27Z",
+  "reported_at": 1794022021
+ },
+ {
+  "id": "50388122",
+  "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+  "points": 305,
+  "comments": 109,
+  "author": "jonbaer",
+  "hn": "https://news.ycombinator.com/item?id=50388122",
+  "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+  "created_at": "2026-11-06T04:17:49Z",
+  "reported_at": 1794022021
+ },
+ {
   "id": "50397429",
   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
   "points": 325,
