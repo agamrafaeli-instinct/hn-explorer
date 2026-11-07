@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-11-07 09:25 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-07 11:15 UTC. Forward only ids not sent before.
 50397994 | 300 pts, 233 comments | AI is dramatically accelerating AI research | https://news.ycombinator.com/item?id=50397994
 50377821 | 303 pts, 124 comments | Awesome repositories are no longer awesome | https://news.ycombinator.com/item?id=50377821
 50399933 | 415 pts, 69 comments | Libghostty 1.0 | https://news.ycombinator.com/item?id=50399933

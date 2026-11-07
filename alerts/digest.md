@@ -1,15 +1,13 @@
-HN digest 2026-11-07 (UTC): 17 new stories at 300+ points
+HN digest 2026-11-07 (UTC): 15 new stories at 300+ points
 - 523 pts, 1204 comments: Tesla to wind down Cybertruck production https://news.ycombinator.com/item?id=50391456
 - 415 pts, 69 comments: Libghostty 1.0 https://news.ycombinator.com/item?id=50399933
 - 368 pts, 150 comments: Blender's UI and Runtime: Much Faster Than GPUI https://news.ycombinator.com/item?id=50389333
 - 340 pts, 283 comments: Britain to make salary disclosure in job ads mandatory https://news.ycombinator.com/item?id=50389222
 - 325 pts, 70 comments: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost https://news.ycombinator.com/item?id=50397429
-- 319 pts, 153 comments: Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue https://news.ycombinator.com/item?id=50385870
 - 315 pts, 159 comments: Deus Ex https://news.ycombinator.com/item?id=50393758
 - 311 pts, 197 comments: Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS https://news.ycombinator.com/item?id=50390124
 - 306 pts, 246 comments: US FAA says it will phase out floppy disks from air traffic control by 2028 https://news.ycombinator.com/item?id=50388001
 - 306 pts, 130 comments: MCP Explained https://news.ycombinator.com/item?id=50379249
-- 306 pts, 171 comments: The Hackintosh Reborn https://news.ycombinator.com/item?id=50383057
 - 305 pts, 109 comments: From Linux to Wikipedia: How Volunteers Build the Internet https://news.ycombinator.com/item?id=50388122
 - 305 pts, 53 comments: Pwn.college https://news.ycombinator.com/item?id=50387796
 - 303 pts, 124 comments: Awesome repositories are no longer awesome https://news.ycombinator.com/item?id=50377821
