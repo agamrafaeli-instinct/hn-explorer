@@ -1,15 +1,17 @@
-HN digest 2026-11-07 (UTC): 14 new stories at 300+ points
-- 523 pts, 1204 comments: Tesla to wind down Cybertruck production https://news.ycombinator.com/item?id=50391456
+HN digest 2026-11-07 (UTC): 16 new stories at 300+ points
 - 415 pts, 69 comments: Libghostty 1.0 https://news.ycombinator.com/item?id=50399933
 - 328 pts, 102 comments: Need for Speed Underground 2 online in the browser https://news.ycombinator.com/item?id=50403052
+- 326 pts, 186 comments: The end of Microsoft Research's AI Frontiers group https://news.ycombinator.com/item?id=50406563
 - 325 pts, 70 comments: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost https://news.ycombinator.com/item?id=50397429
 - 315 pts, 159 comments: Deus Ex https://news.ycombinator.com/item?id=50393758
 - 314 pts, 161 comments: Every Mac comes with an (undocumented) family member classifier https://news.ycombinator.com/item?id=50403097
+- 311 pts, 216 comments: Apple’s grey list: Words and phrases your iPhone won’t help you spell https://news.ycombinator.com/item?id=50406111
 - 306 pts, 246 comments: US FAA says it will phase out floppy disks from air traffic control by 2028 https://news.ycombinator.com/item?id=50388001
 - 305 pts, 109 comments: From Linux to Wikipedia: How Volunteers Build the Internet https://news.ycombinator.com/item?id=50388122
 - 305 pts, 53 comments: Pwn.college https://news.ycombinator.com/item?id=50387796
 - 303 pts, 124 comments: Awesome repositories are no longer awesome https://news.ycombinator.com/item?id=50377821
 - 303 pts, 220 comments: Gemini Omni 1.2 Flash https://news.ycombinator.com/item?id=50392118
+- 301 pts, 246 comments: Asahi Linux Progress Linux 7.3 https://news.ycombinator.com/item?id=50401867
 - 300 pts, 605 comments: Anthropic IPO buyers see valuation as low as $1.1T https://news.ycombinator.com/item?id=50394906
 - 300 pts, 233 comments: AI is dramatically accelerating AI research https://news.ycombinator.com/item?id=50397994
 - 300 pts, 4 comments: RIP Cybertruck https://news.ycombinator.com/item?id=50393154
