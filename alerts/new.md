@@ -1,4 +1,4 @@
-HN new 300+ stories, last 12h, updated 2026-11-07 11:15 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-07 13:31 UTC. Forward only ids not sent before.
 50397994 | 300 pts, 233 comments | AI is dramatically accelerating AI research | https://news.ycombinator.com/item?id=50397994
 50377821 | 303 pts, 124 comments | Awesome repositories are no longer awesome | https://news.ycombinator.com/item?id=50377821
 50399933 | 415 pts, 69 comments | Libghostty 1.0 | https://news.ycombinator.com/item?id=50399933
@@ -7,5 +7,3 @@ HN new 300+ stories, last 12h, updated 2026-11-07 11:15 UTC. Forward only ids no
 50388122 | 305 pts, 109 comments | From Linux to Wikipedia: How Volunteers Build the Internet | https://news.ycombinator.com/item?id=50388122
 50397429 | 325 pts, 70 comments | A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost | https://news.ycombinator.com/item?id=50397429
 50387796 | 305 pts, 53 comments | Pwn.college | https://news.ycombinator.com/item?id=50387796
-50393758 | 315 pts, 159 comments | Deus Ex | https://news.ycombinator.com/item?id=50393758
-50393154 | 300 pts, 4 comments | RIP Cybertruck | https://news.ycombinator.com/item?id=50393154
