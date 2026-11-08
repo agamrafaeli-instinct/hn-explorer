@@ -1,5 +1,38 @@
 [
  {
+  "id": "50410107",
+  "title": "Goodbye Claude, Hello Pi",
+  "points": 490,
+  "comments": 323,
+  "author": "karagenit",
+  "hn": "https://news.ycombinator.com/item?id=50410107",
+  "url": "https://caleb.software/posts/claude-to-pi.html",
+  "created_at": "2026-11-08T03:11:48Z",
+  "reported_at": 1794152056
+ },
+ {
+  "id": "50406222",
+  "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+  "points": 348,
+  "comments": 98,
+  "author": "antiuniverse",
+  "hn": "https://news.ycombinator.com/item?id=50406222",
+  "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+  "created_at": "2026-11-07T17:19:00Z",
+  "reported_at": 1794152056
+ },
+ {
+  "id": "50403507",
+  "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+  "points": 388,
+  "comments": 387,
+  "author": "thunderbong",
+  "hn": "https://news.ycombinator.com/item?id=50403507",
+  "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+  "created_at": "2026-11-07T11:11:15Z",
+  "reported_at": 1794152056
+ },
+ {
   "id": "50407882",
   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
   "points": 316,
