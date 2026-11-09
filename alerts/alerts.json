@@ -1,5 +1,38 @@
 [
  {
+  "id": "50418016",
+  "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+  "points": 349,
+  "comments": 362,
+  "author": "karimf",
+  "hn": "https://news.ycombinator.com/item?id=50418016",
+  "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+  "created_at": "2026-11-08T22:20:09Z",
+  "reported_at": 1794189452
+ },
+ {
+  "id": "50416801",
+  "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+  "points": 383,
+  "comments": 297,
+  "author": "vincentchau",
+  "hn": "https://news.ycombinator.com/item?id=50416801",
+  "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+  "created_at": "2026-11-08T20:26:43Z",
+  "reported_at": 1794189452
+ },
+ {
+  "id": "50411961",
+  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+  "points": 365,
+  "comments": 158,
+  "author": "joshcsimmons",
+  "hn": "https://news.ycombinator.com/item?id=50411961",
+  "url": "https://github.com/synchopate/llama-modchip",
+  "created_at": "2026-11-08T10:22:04Z",
+  "reported_at": 1794189452
+ },
+ {
   "id": "50415628",
   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
   "points": 317,
