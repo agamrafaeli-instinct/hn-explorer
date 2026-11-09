@@ -1,5 +1,82 @@
 [
  {
+  "id": "50420035",
+  "title": "RIP, Harvest",
+  "points": 355,
+  "comments": 107,
+  "author": "zdw",
+  "hn": "https://news.ycombinator.com/item?id=50420035",
+  "url": "https://aphyr.com/posts/427-rip-harvest",
+  "created_at": "2026-11-09T01:58:21Z",
+  "reported_at": 1794219561
+ },
+ {
+  "id": "50419215",
+  "title": "Unlocking any car from X brand in most of the world",
+  "points": 362,
+  "comments": 144,
+  "author": "infosecau",
+  "hn": "https://news.ycombinator.com/item?id=50419215",
+  "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+  "created_at": "2026-11-09T00:10:50Z",
+  "reported_at": 1794219561
+ },
+ {
+  "id": "50418176",
+  "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+  "points": 497,
+  "comments": 143,
+  "author": "dcoulmbe",
+  "hn": "https://news.ycombinator.com/item?id=50418176",
+  "url": "https://ketchup3d.github.io/app/",
+  "created_at": "2026-11-08T22:35:35Z",
+  "reported_at": 1794219561
+ },
+ {
+  "id": "50416158",
+  "title": "Outlook.com is rejecting email from domains without DMARC",
+  "points": 410,
+  "comments": 289,
+  "author": "xmddmx",
+  "hn": "https://news.ycombinator.com/item?id=50416158",
+  "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+  "created_at": "2026-11-08T19:20:32Z",
+  "reported_at": 1794219561
+ },
+ {
+  "id": "50412318",
+  "title": "Person of Interest",
+  "points": 302,
+  "comments": 191,
+  "author": "krthr",
+  "hn": "https://news.ycombinator.com/item?id=50412318",
+  "url": "https://krthr.co/person-of-interest/",
+  "created_at": "2026-11-08T11:23:28Z",
+  "reported_at": 1794219561
+ },
+ {
+  "id": "50412067",
+  "title": "Writing as a thinking tool",
+  "points": 360,
+  "comments": 89,
+  "author": "jruohonen",
+  "hn": "https://news.ycombinator.com/item?id=50412067",
+  "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+  "created_at": "2026-11-08T10:41:52Z",
+  "reported_at": 1794219561
+ },
+ {
+  "id": "50403066",
+  "title": "Running a law firm on Free software",
+  "points": 304,
+  "comments": 142,
+  "author": "DeepLogin",
+  "hn": "https://news.ycombinator.com/item?id=50403066",
+  "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+  "created_at": "2026-11-07T09:39:06Z",
+  "reported_at": 1794219561
+ },
+ {
   "id": "50418016",
   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
   "points": 349,
