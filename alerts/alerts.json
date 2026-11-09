@@ -1,5 +1,104 @@
 [
  {
+  "id": "50429906",
+  "title": "Claude Fable 5.2 and Mythos 5.2",
+  "points": 645,
+  "comments": 335,
+  "author": "meetpateltech",
+  "hn": "https://news.ycombinator.com/item?id=50429906",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "created_at": "2026-11-09T18:56:29Z",
+  "reported_at": 1794258214
+ },
+ {
+  "id": "50427362",
+  "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+  "points": 387,
+  "comments": 213,
+  "author": "ocd",
+  "hn": "https://news.ycombinator.com/item?id=50427362",
+  "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+  "created_at": "2026-11-09T16:00:45Z",
+  "reported_at": 1794258214
+ },
+ {
+  "id": "50426582",
+  "title": "I saw your HN comment",
+  "points": 385,
+  "comments": 281,
+  "author": "joshstrange",
+  "hn": "https://news.ycombinator.com/item?id=50426582",
+  "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+  "created_at": "2026-11-09T15:01:03Z",
+  "reported_at": 1794258214
+ },
+ {
+  "id": "50424704",
+  "title": "Humans will never again create a project quite like Wikipedia",
+  "points": 458,
+  "comments": 396,
+  "author": "edward",
+  "hn": "https://news.ycombinator.com/item?id=50424704",
+  "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+  "created_at": "2026-11-09T12:30:20Z",
+  "reported_at": 1794258214
+ },
+ {
+  "id": "50424581",
+  "title": "Fold Epic Paper Airplanes",
+  "points": 708,
+  "comments": 124,
+  "author": "vismit2000",
+  "hn": "https://news.ycombinator.com/item?id=50424581",
+  "url": "https://www.foldableflight.com",
+  "created_at": "2026-11-09T12:19:22Z",
+  "reported_at": 1794258214
+ },
+ {
+  "id": "50422069",
+  "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+  "points": 603,
+  "comments": 420,
+  "author": "rzk",
+  "hn": "https://news.ycombinator.com/item?id=50422069",
+  "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+  "created_at": "2026-11-09T07:04:25Z",
+  "reported_at": 1794258214
+ },
+ {
+  "id": "50418975",
+  "title": "I'm not convinced the AI bubble exists",
+  "points": 534,
+  "comments": 912,
+  "author": "matteoraso",
+  "hn": "https://news.ycombinator.com/item?id=50418975",
+  "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+  "created_at": "2026-11-08T23:44:36Z",
+  "reported_at": 1794258214
+ },
+ {
+  "id": "50418182",
+  "title": "Chimera Vocal Synth",
+  "points": 333,
+  "comments": 58,
+  "author": "nmstoker",
+  "hn": "https://news.ycombinator.com/item?id=50418182",
+  "url": "https://chimera-vocal-synth.vercel.app/",
+  "created_at": "2026-11-08T22:36:03Z",
+  "reported_at": 1794258214
+ },
+ {
+  "id": "50416053",
+  "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+  "points": 335,
+  "comments": 140,
+  "author": "indigodaddy",
+  "hn": "https://news.ycombinator.com/item?id=50416053",
+  "url": "https://duxlabs.dev/",
+  "created_at": "2026-11-08T19:08:51Z",
+  "reported_at": 1794258214
+ },
+ {
   "id": "50420035",
   "title": "RIP, Harvest",
   "points": 355,
