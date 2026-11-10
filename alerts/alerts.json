@@ -1,5 +1,71 @@
 [
  {
+  "id": "50436640",
+  "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+  "points": 403,
+  "comments": 141,
+  "author": "aloukissas",
+  "hn": "https://news.ycombinator.com/item?id=50436640",
+  "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+  "created_at": "2026-11-10T06:01:08Z",
+  "reported_at": 1794315474
+ },
+ {
+  "id": "50433659",
+  "title": "Fable 5.2 one-shotted my nephew's dream game",
+  "points": 424,
+  "comments": 344,
+  "author": "lexandstuff",
+  "hn": "https://news.ycombinator.com/item?id=50433659",
+  "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+  "created_at": "2026-11-09T23:08:13Z",
+  "reported_at": 1794315474
+ },
+ {
+  "id": "50429024",
+  "title": "Muse Ember: Our smallest, most efficient model",
+  "points": 314,
+  "comments": 135,
+  "author": "dvaplima",
+  "hn": "https://news.ycombinator.com/item?id=50429024",
+  "url": "https://research.meta.ai/blog/muse-ember",
+  "created_at": "2026-11-09T17:58:46Z",
+  "reported_at": 1794315474
+ },
+ {
+  "id": "50428907",
+  "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+  "points": 391,
+  "comments": 68,
+  "author": "a585gupt",
+  "hn": "https://news.ycombinator.com/item?id=50428907",
+  "url": "https://www.watched.earth",
+  "created_at": "2026-11-09T17:51:31Z",
+  "reported_at": 1794315474
+ },
+ {
+  "id": "50428801",
+  "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+  "points": 319,
+  "comments": 295,
+  "author": "pera",
+  "hn": "https://news.ycombinator.com/item?id=50428801",
+  "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+  "created_at": "2026-11-09T17:42:55Z",
+  "reported_at": 1794315474
+ },
+ {
+  "id": "50426175",
+  "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+  "points": 326,
+  "comments": 224,
+  "author": "speckx",
+  "hn": "https://news.ycombinator.com/item?id=50426175",
+  "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+  "created_at": "2026-11-09T14:31:39Z",
+  "reported_at": 1794315474
+ },
+ {
   "id": "50431144",
   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
   "points": 309,
