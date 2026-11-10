@@ -1,4 +1,12 @@
-HN new 300+ stories, last 12h, updated 2026-11-09 21:03 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-10 04:18 UTC. Forward only ids not sent before.
+50431144 | 309 pts, 230 comments | Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far | https://news.ycombinator.com/item?id=50431144
+50431058 | 538 pts, 274 comments | USPS now offers official ZIP Code boundary polygons | https://news.ycombinator.com/item?id=50431058
+50429734 | 308 pts, 28 comments | E-means: Outperforming k-means in one-tenth the epochs | https://news.ycombinator.com/item?id=50429734
+50429475 | 323 pts, 503 comments | Too many men suffering in silence, national health report finds (Canada) | https://news.ycombinator.com/item?id=50429475
+50429426 | 476 pts, 113 comments | Google Gemini routes personal Drive files and emails to human annotators | https://news.ycombinator.com/item?id=50429426
+50429068 | 310 pts, 665 comments | Claude Fable 5.2 and Mythos 5.2 | https://news.ycombinator.com/item?id=50429068
+50428724 | 310 pts, 187 comments | Going back two years on Hacker News is like entering another, better universe | https://news.ycombinator.com/item?id=50428724
+50416363 | 303 pts, 210 comments | How I'm fighting the AI brain fry | https://news.ycombinator.com/item?id=50416363
 50429906 | 645 pts, 335 comments | Claude Fable 5.2 and Mythos 5.2 | https://news.ycombinator.com/item?id=50429906
 50427362 | 387 pts, 213 comments | Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system | https://news.ycombinator.com/item?id=50427362
 50426582 | 385 pts, 281 comments | I saw your HN comment | https://news.ycombinator.com/item?id=50426582
@@ -8,10 +16,3 @@ HN new 300+ stories, last 12h, updated 2026-11-09 21:03 UTC. Forward only ids no
 50418975 | 534 pts, 912 comments | I'm not convinced the AI bubble exists | https://news.ycombinator.com/item?id=50418975
 50418182 | 333 pts, 58 comments | Chimera Vocal Synth | https://news.ycombinator.com/item?id=50418182
 50416053 | 335 pts, 140 comments | Dux: Free, open-source Wayland desktop shell with file manager and theming | https://news.ycombinator.com/item?id=50416053
-50420035 | 355 pts, 107 comments | RIP, Harvest | https://news.ycombinator.com/item?id=50420035
-50419215 | 362 pts, 144 comments | Unlocking any car from X brand in most of the world | https://news.ycombinator.com/item?id=50419215
-50418176 | 497 pts, 143 comments | KetchUp – Open-source SketchUp alternative built with Rust and WebGPU | https://news.ycombinator.com/item?id=50418176
-50416158 | 410 pts, 289 comments | Outlook.com is rejecting email from domains without DMARC | https://news.ycombinator.com/item?id=50416158
-50412318 | 302 pts, 191 comments | Person of Interest | https://news.ycombinator.com/item?id=50412318
-50412067 | 360 pts, 89 comments | Writing as a thinking tool | https://news.ycombinator.com/item?id=50412067
-50403066 | 304 pts, 142 comments | Running a law firm on Free software | https://news.ycombinator.com/item?id=50403066

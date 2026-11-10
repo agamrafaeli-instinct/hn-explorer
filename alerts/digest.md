@@ -1,21 +1,25 @@
-HN digest 2026-11-09 (UTC): 20 new stories at 300+ points
+HN digest 2026-11-10 (UTC): 24 new stories at 300+ points
 - 708 pts, 124 comments: Fold Epic Paper Airplanes https://news.ycombinator.com/item?id=50424581
 - 645 pts, 335 comments: Claude Fable 5.2 and Mythos 5.2 https://news.ycombinator.com/item?id=50429906
 - 603 pts, 420 comments: Is Opus 5.5 nerfed? Thinking patterns changed on November 3 https://news.ycombinator.com/item?id=50422069
+- 538 pts, 274 comments: USPS now offers official ZIP Code boundary polygons https://news.ycombinator.com/item?id=50431058
 - 534 pts, 912 comments: I'm not convinced the AI bubble exists https://news.ycombinator.com/item?id=50418975
 - 497 pts, 143 comments: KetchUp – Open-source SketchUp alternative built with Rust and WebGPU https://news.ycombinator.com/item?id=50418176
+- 476 pts, 113 comments: Google Gemini routes personal Drive files and emails to human annotators https://news.ycombinator.com/item?id=50429426
 - 458 pts, 396 comments: Humans will never again create a project quite like Wikipedia https://news.ycombinator.com/item?id=50424704
 - 410 pts, 289 comments: Outlook.com is rejecting email from domains without DMARC https://news.ycombinator.com/item?id=50416158
 - 387 pts, 213 comments: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system https://news.ycombinator.com/item?id=50427362
 - 385 pts, 281 comments: I saw your HN comment https://news.ycombinator.com/item?id=50426582
-- 383 pts, 297 comments: Nvidia Board of Directors Is Investigating Jensen Huang https://news.ycombinator.com/item?id=50416801
-- 365 pts, 158 comments: Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU https://news.ycombinator.com/item?id=50411961
 - 362 pts, 144 comments: Unlocking any car from X brand in most of the world https://news.ycombinator.com/item?id=50419215
 - 360 pts, 89 comments: Writing as a thinking tool https://news.ycombinator.com/item?id=50412067
 - 355 pts, 107 comments: RIP, Harvest https://news.ycombinator.com/item?id=50420035
-- 349 pts, 362 comments: Nvidia CEO Jensen Huang's letter to staff about affair https://news.ycombinator.com/item?id=50418016
 - 335 pts, 140 comments: Dux: Free, open-source Wayland desktop shell with file manager and theming https://news.ycombinator.com/item?id=50416053
 - 333 pts, 58 comments: Chimera Vocal Synth https://news.ycombinator.com/item?id=50418182
-- 317 pts, 199 comments: Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders https://news.ycombinator.com/item?id=50415628
+- 323 pts, 503 comments: Too many men suffering in silence, national health report finds (Canada) https://news.ycombinator.com/item?id=50429475
+- 310 pts, 665 comments: Claude Fable 5.2 and Mythos 5.2 https://news.ycombinator.com/item?id=50429068
+- 310 pts, 187 comments: Going back two years on Hacker News is like entering another, better universe https://news.ycombinator.com/item?id=50428724
+- 309 pts, 230 comments: Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far https://news.ycombinator.com/item?id=50431144
+- 308 pts, 28 comments: E-means: Outperforming k-means in one-tenth the epochs https://news.ycombinator.com/item?id=50429734
 - 304 pts, 142 comments: Running a law firm on Free software https://news.ycombinator.com/item?id=50403066
+- 303 pts, 210 comments: How I'm fighting the AI brain fry https://news.ycombinator.com/item?id=50416363
 - 302 pts, 191 comments: Person of Interest https://news.ycombinator.com/item?id=50412318

@@ -1,5 +1,93 @@
 [
  {
+  "id": "50431144",
+  "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+  "points": 309,
+  "comments": 230,
+  "author": "theanonymousone",
+  "hn": "https://news.ycombinator.com/item?id=50431144",
+  "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+  "created_at": "2026-11-09T20:04:55Z",
+  "reported_at": 1794284294
+ },
+ {
+  "id": "50431058",
+  "title": "USPS now offers official ZIP Code boundary polygons",
+  "points": 538,
+  "comments": 274,
+  "author": "munro",
+  "hn": "https://news.ycombinator.com/item?id=50431058",
+  "url": "https://postalpro.usps.com/zcb",
+  "created_at": "2026-11-09T19:58:59Z",
+  "reported_at": 1794284294
+ },
+ {
+  "id": "50429734",
+  "title": "E-means: Outperforming k-means in one-tenth the epochs",
+  "points": 308,
+  "comments": 28,
+  "author": "porridgeraisin",
+  "hn": "https://news.ycombinator.com/item?id=50429734",
+  "url": "https://e-means.github.io/",
+  "created_at": "2026-11-09T18:45:43Z",
+  "reported_at": 1794284294
+ },
+ {
+  "id": "50429475",
+  "title": "Too many men suffering in silence, national health report finds (Canada)",
+  "points": 323,
+  "comments": 503,
+  "author": "nosecreek",
+  "hn": "https://news.ycombinator.com/item?id=50429475",
+  "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+  "created_at": "2026-11-09T18:27:58Z",
+  "reported_at": 1794284294
+ },
+ {
+  "id": "50429426",
+  "title": "Google Gemini routes personal Drive files and emails to human annotators",
+  "points": 476,
+  "comments": 113,
+  "author": "gf74918",
+  "hn": "https://news.ycombinator.com/item?id=50429426",
+  "url": "https://github.com/thisisme6598/gemini_files/",
+  "created_at": "2026-11-09T18:24:38Z",
+  "reported_at": 1794284294
+ },
+ {
+  "id": "50429068",
+  "title": "Claude Fable 5.2 and Mythos 5.2",
+  "points": 310,
+  "comments": 665,
+  "author": "lairv",
+  "hn": "https://news.ycombinator.com/item?id=50429068",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "created_at": "2026-11-09T18:01:10Z",
+  "reported_at": 1794284294
+ },
+ {
+  "id": "50428724",
+  "title": "Going back two years on Hacker News is like entering another, better universe",
+  "points": 310,
+  "comments": 187,
+  "author": "EmX_3000",
+  "hn": "https://news.ycombinator.com/item?id=50428724",
+  "url": "https://news.ycombinator.com/front?day=2024-11-08",
+  "created_at": "2026-11-09T17:36:20Z",
+  "reported_at": 1794284294
+ },
+ {
+  "id": "50416363",
+  "title": "How I'm fighting the AI brain fry",
+  "points": 303,
+  "comments": 210,
+  "author": "kyunez",
+  "hn": "https://news.ycombinator.com/item?id=50416363",
+  "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+  "created_at": "2026-11-08T19:37:42Z",
+  "reported_at": 1794284294
+ },
+ {
   "id": "50429906",
   "title": "Claude Fable 5.2 and Mythos 5.2",
   "points": 645,
