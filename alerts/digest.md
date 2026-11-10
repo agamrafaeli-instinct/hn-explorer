@@ -1,22 +1,27 @@
-HN digest 2026-11-10 (UTC): 23 new stories at 300+ points
+HN digest 2026-11-10 (UTC): 28 new stories at 300+ points
 - 708 pts, 124 comments: Fold Epic Paper Airplanes https://news.ycombinator.com/item?id=50424581
 - 645 pts, 335 comments: Claude Fable 5.2 and Mythos 5.2 https://news.ycombinator.com/item?id=50429906
 - 603 pts, 420 comments: Is Opus 5.5 nerfed? Thinking patterns changed on November 3 https://news.ycombinator.com/item?id=50422069
 - 538 pts, 274 comments: USPS now offers official ZIP Code boundary polygons https://news.ycombinator.com/item?id=50431058
 - 534 pts, 912 comments: I'm not convinced the AI bubble exists https://news.ycombinator.com/item?id=50418975
+- 527 pts, 168 comments: AlphaProof Code https://news.ycombinator.com/item?id=50439193
+- 487 pts, 97 comments: .name Grandfathered https://news.ycombinator.com/item?id=50442736
 - 476 pts, 113 comments: Google Gemini routes personal Drive files and emails to human annotators https://news.ycombinator.com/item?id=50429426
+- 463 pts, 168 comments: Smart home devices should work without the internet https://news.ycombinator.com/item?id=50441707
 - 458 pts, 396 comments: Humans will never again create a project quite like Wikipedia https://news.ycombinator.com/item?id=50424704
 - 424 pts, 344 comments: Fable 5.2 one-shotted my nephew's dream game https://news.ycombinator.com/item?id=50433659
 - 403 pts, 141 comments: Amazon saves millions by replacing Sonnet 4.6 with Strands Decider https://news.ycombinator.com/item?id=50436640
 - 391 pts, 68 comments: Show HN: Every satellite that passed over any place this week, and its photos https://news.ycombinator.com/item?id=50428907
 - 387 pts, 213 comments: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system https://news.ycombinator.com/item?id=50427362
 - 385 pts, 281 comments: I saw your HN comment https://news.ycombinator.com/item?id=50426582
+- 342 pts, 46 comments: Blender 5.3 released with Gaussian Splat support https://news.ycombinator.com/item?id=50442426
 - 335 pts, 140 comments: Dux: Free, open-source Wayland desktop shell with file manager and theming https://news.ycombinator.com/item?id=50416053
 - 333 pts, 58 comments: Chimera Vocal Synth https://news.ycombinator.com/item?id=50418182
 - 326 pts, 224 comments: Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics https://news.ycombinator.com/item?id=50426175
 - 323 pts, 503 comments: Too many men suffering in silence, national health report finds (Canada) https://news.ycombinator.com/item?id=50429475
 - 319 pts, 295 comments: When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385 https://news.ycombinator.com/item?id=50428801
 - 314 pts, 135 comments: Muse Ember: Our smallest, most efficient model https://news.ycombinator.com/item?id=50429024
+- 310 pts, 161 comments: Locating the source of a mysterious beep https://news.ycombinator.com/item?id=50434310
 - 310 pts, 665 comments: Claude Fable 5.2 and Mythos 5.2 https://news.ycombinator.com/item?id=50429068
 - 310 pts, 187 comments: Going back two years on Hacker News is like entering another, better universe https://news.ycombinator.com/item?id=50428724
 - 309 pts, 230 comments: Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far https://news.ycombinator.com/item?id=50431144

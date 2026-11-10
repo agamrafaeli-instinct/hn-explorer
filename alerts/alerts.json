@@ -1,5 +1,60 @@
 [
  {
+  "id": "50442736",
+  "title": ".name Grandfathered",
+  "points": 487,
+  "comments": 97,
+  "author": "p4bl0",
+  "hn": "https://news.ycombinator.com/item?id=50442736",
+  "url": "https://neil.fraser.name/news/2026/11/10/",
+  "created_at": "2026-11-10T16:37:44Z",
+  "reported_at": 1794344373
+ },
+ {
+  "id": "50442426",
+  "title": "Blender 5.3 released with Gaussian Splat support",
+  "points": 342,
+  "comments": 46,
+  "author": "amlib",
+  "hn": "https://news.ycombinator.com/item?id=50442426",
+  "url": "https://www.blender.org/download/releases/5-3/",
+  "created_at": "2026-11-10T16:15:43Z",
+  "reported_at": 1794344373
+ },
+ {
+  "id": "50441707",
+  "title": "Smart home devices should work without the internet",
+  "points": 463,
+  "comments": 168,
+  "author": "skittleson",
+  "hn": "https://news.ycombinator.com/item?id=50441707",
+  "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+  "created_at": "2026-11-10T15:25:20Z",
+  "reported_at": 1794344373
+ },
+ {
+  "id": "50439193",
+  "title": "AlphaProof Code",
+  "points": 527,
+  "comments": 168,
+  "author": "ilreb",
+  "hn": "https://news.ycombinator.com/item?id=50439193",
+  "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "created_at": "2026-11-10T12:11:12Z",
+  "reported_at": 1794344373
+ },
+ {
+  "id": "50434310",
+  "title": "Locating the source of a mysterious beep",
+  "points": 310,
+  "comments": 161,
+  "author": "bigwheels",
+  "hn": "https://news.ycombinator.com/item?id=50434310",
+  "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+  "created_at": "2026-11-10T00:10:46Z",
+  "reported_at": 1794344373
+ },
+ {
   "id": "50436640",
   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
   "points": 403,
