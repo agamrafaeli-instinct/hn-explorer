@@ -1,5 +1,49 @@
 [
  {
+  "id": "50445401",
+  "title": "Scion is back and is going to sell a kei truck in America",
+  "points": 335,
+  "comments": 251,
+  "author": "NaOH",
+  "hn": "https://news.ycombinator.com/item?id=50445401",
+  "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+  "created_at": "2026-11-10T19:50:46Z",
+  "reported_at": 1794363269
+ },
+ {
+  "id": "50443824",
+  "title": "Synaptics patent claims stop work on DisplayLink drivers",
+  "points": 300,
+  "comments": 164,
+  "author": "speckx",
+  "hn": "https://news.ycombinator.com/item?id=50443824",
+  "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+  "created_at": "2026-11-10T18:02:02Z",
+  "reported_at": 1794363269
+ },
+ {
+  "id": "50443427",
+  "title": "Val Town is winding down",
+  "points": 308,
+  "comments": 82,
+  "author": "tosh",
+  "hn": "https://news.ycombinator.com/item?id=50443427",
+  "url": "https://blog.val.town/winding-down",
+  "created_at": "2026-11-10T17:31:14Z",
+  "reported_at": 1794363269
+ },
+ {
+  "id": "50438318",
+  "title": "AI usage generates a fragile codebase",
+  "points": 389,
+  "comments": 410,
+  "author": "plun9",
+  "hn": "https://news.ycombinator.com/item?id=50438318",
+  "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "created_at": "2026-11-10T10:25:58Z",
+  "reported_at": 1794363269
+ },
+ {
   "id": "50442736",
   "title": ".name Grandfathered",
   "points": 487,
