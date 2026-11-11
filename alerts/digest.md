@@ -1,19 +1,17 @@
-HN digest 2026-11-11 (UTC): 19 new stories at 300+ points
+HN digest 2026-11-11 (UTC): 17 new stories at 300+ points
+- 758 pts, 283 comments: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h https://news.ycombinator.com/item?id=50452455
 - 527 pts, 168 comments: AlphaProof Code https://news.ycombinator.com/item?id=50439193
 - 487 pts, 97 comments: .name Grandfathered https://news.ycombinator.com/item?id=50442736
+- 467 pts, 483 comments: Apple has new Mac app coming to make running local AI models easy https://news.ycombinator.com/item?id=50446520
 - 463 pts, 168 comments: Smart home devices should work without the internet https://news.ycombinator.com/item?id=50441707
-- 424 pts, 344 comments: Fable 5.2 one-shotted my nephew's dream game https://news.ycombinator.com/item?id=50433659
 - 405 pts, 409 comments: Starlink Mini 2 https://news.ycombinator.com/item?id=50444129
-- 403 pts, 141 comments: Amazon saves millions by replacing Sonnet 4.6 with Strands Decider https://news.ycombinator.com/item?id=50436640
 - 399 pts, 190 comments: Tracking Anthropic-discovered vulnerabilities https://news.ycombinator.com/item?id=50447074
-- 391 pts, 68 comments: Show HN: Every satellite that passed over any place this week, and its photos https://news.ycombinator.com/item?id=50428907
 - 389 pts, 410 comments: AI usage generates a fragile codebase https://news.ycombinator.com/item?id=50438318
 - 367 pts, 108 comments: Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives https://news.ycombinator.com/item?id=50443812
+- 356 pts, 126 comments: Protecting SSH Keys with macOS Secure Enclave https://news.ycombinator.com/item?id=50449748
 - 342 pts, 46 comments: Blender 5.3 released with Gaussian Splat support https://news.ycombinator.com/item?id=50442426
 - 335 pts, 251 comments: Scion is back and is going to sell a kei truck in America https://news.ycombinator.com/item?id=50445401
-- 326 pts, 224 comments: Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics https://news.ycombinator.com/item?id=50426175
-- 319 pts, 295 comments: When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385 https://news.ycombinator.com/item?id=50428801
-- 314 pts, 135 comments: Muse Ember: Our smallest, most efficient model https://news.ycombinator.com/item?id=50429024
+- 322 pts, 58 comments: Six Math Essentials https://news.ycombinator.com/item?id=50446246
 - 311 pts, 331 comments: Ableton Live 13 https://news.ycombinator.com/item?id=50439695
 - 310 pts, 161 comments: Locating the source of a mysterious beep https://news.ycombinator.com/item?id=50434310
 - 308 pts, 82 comments: Val Town is winding down https://news.ycombinator.com/item?id=50443427

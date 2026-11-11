@@ -1,5 +1,49 @@
 [
  {
+  "id": "50452455",
+  "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+  "points": 758,
+  "comments": 283,
+  "author": "eyvindn",
+  "hn": "https://news.ycombinator.com/item?id=50452455",
+  "url": "https://pietromiotti.com/latest/maya-site/?maya",
+  "created_at": "2026-11-11T12:05:22Z",
+  "reported_at": 1794420136
+ },
+ {
+  "id": "50449748",
+  "title": "Protecting SSH Keys with macOS Secure Enclave",
+  "points": 356,
+  "comments": 126,
+  "author": "js2",
+  "hn": "https://news.ycombinator.com/item?id=50449748",
+  "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+  "created_at": "2026-11-11T04:28:57Z",
+  "reported_at": 1794420136
+ },
+ {
+  "id": "50446520",
+  "title": "Apple has new Mac app coming to make running local AI models easy",
+  "points": 467,
+  "comments": 483,
+  "author": "linolevan",
+  "hn": "https://news.ycombinator.com/item?id=50446520",
+  "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+  "created_at": "2026-11-10T21:25:03Z",
+  "reported_at": 1794420136
+ },
+ {
+  "id": "50446246",
+  "title": "Six Math Essentials",
+  "points": 322,
+  "comments": 58,
+  "author": "digital55",
+  "hn": "https://news.ycombinator.com/item?id=50446246",
+  "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+  "created_at": "2026-11-10T20:58:44Z",
+  "reported_at": 1794420136
+ },
+ {
   "id": "50447074",
   "title": "Tracking Anthropic-discovered vulnerabilities",
   "points": 399,
