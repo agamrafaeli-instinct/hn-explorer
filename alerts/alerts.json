@@ -1,5 +1,49 @@
 [
  {
+  "id": "50447074",
+  "title": "Tracking Anthropic-discovered vulnerabilities",
+  "points": 399,
+  "comments": 190,
+  "author": "panic",
+  "hn": "https://news.ycombinator.com/item?id=50447074",
+  "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+  "created_at": "2026-11-10T22:17:56Z",
+  "reported_at": 1794390589
+ },
+ {
+  "id": "50444129",
+  "title": "Starlink Mini 2",
+  "points": 405,
+  "comments": 409,
+  "author": "robertjfclarke",
+  "hn": "https://news.ycombinator.com/item?id=50444129",
+  "url": "https://starlink.com/mini-2",
+  "created_at": "2026-11-10T18:22:32Z",
+  "reported_at": 1794390589
+ },
+ {
+  "id": "50443812",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "points": 367,
+  "comments": 108,
+  "author": "paulirish",
+  "hn": "https://news.ycombinator.com/item?id=50443812",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "created_at": "2026-11-10T18:01:15Z",
+  "reported_at": 1794390589
+ },
+ {
+  "id": "50439695",
+  "title": "Ableton Live 13",
+  "points": 311,
+  "comments": 331,
+  "author": "phaser",
+  "hn": "https://news.ycombinator.com/item?id=50439695",
+  "url": "https://www.ableton.com/en/live/",
+  "created_at": "2026-11-10T12:58:04Z",
+  "reported_at": 1794390589
+ },
+ {
   "id": "50445401",
   "title": "Scion is back and is going to sell a kei truck in America",
   "points": 335,

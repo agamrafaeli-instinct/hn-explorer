@@ -1,24 +1,20 @@
-HN digest 2026-11-11 (UTC): 23 new stories at 300+ points
-- 538 pts, 274 comments: USPS now offers official ZIP Code boundary polygons https://news.ycombinator.com/item?id=50431058
+HN digest 2026-11-11 (UTC): 19 new stories at 300+ points
 - 527 pts, 168 comments: AlphaProof Code https://news.ycombinator.com/item?id=50439193
 - 487 pts, 97 comments: .name Grandfathered https://news.ycombinator.com/item?id=50442736
-- 476 pts, 113 comments: Google Gemini routes personal Drive files and emails to human annotators https://news.ycombinator.com/item?id=50429426
 - 463 pts, 168 comments: Smart home devices should work without the internet https://news.ycombinator.com/item?id=50441707
 - 424 pts, 344 comments: Fable 5.2 one-shotted my nephew's dream game https://news.ycombinator.com/item?id=50433659
+- 405 pts, 409 comments: Starlink Mini 2 https://news.ycombinator.com/item?id=50444129
 - 403 pts, 141 comments: Amazon saves millions by replacing Sonnet 4.6 with Strands Decider https://news.ycombinator.com/item?id=50436640
+- 399 pts, 190 comments: Tracking Anthropic-discovered vulnerabilities https://news.ycombinator.com/item?id=50447074
 - 391 pts, 68 comments: Show HN: Every satellite that passed over any place this week, and its photos https://news.ycombinator.com/item?id=50428907
 - 389 pts, 410 comments: AI usage generates a fragile codebase https://news.ycombinator.com/item?id=50438318
+- 367 pts, 108 comments: Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives https://news.ycombinator.com/item?id=50443812
 - 342 pts, 46 comments: Blender 5.3 released with Gaussian Splat support https://news.ycombinator.com/item?id=50442426
 - 335 pts, 251 comments: Scion is back and is going to sell a kei truck in America https://news.ycombinator.com/item?id=50445401
 - 326 pts, 224 comments: Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics https://news.ycombinator.com/item?id=50426175
-- 323 pts, 503 comments: Too many men suffering in silence, national health report finds (Canada) https://news.ycombinator.com/item?id=50429475
 - 319 pts, 295 comments: When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385 https://news.ycombinator.com/item?id=50428801
 - 314 pts, 135 comments: Muse Ember: Our smallest, most efficient model https://news.ycombinator.com/item?id=50429024
+- 311 pts, 331 comments: Ableton Live 13 https://news.ycombinator.com/item?id=50439695
 - 310 pts, 161 comments: Locating the source of a mysterious beep https://news.ycombinator.com/item?id=50434310
-- 310 pts, 665 comments: Claude Fable 5.2 and Mythos 5.2 https://news.ycombinator.com/item?id=50429068
-- 310 pts, 187 comments: Going back two years on Hacker News is like entering another, better universe https://news.ycombinator.com/item?id=50428724
-- 309 pts, 230 comments: Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far https://news.ycombinator.com/item?id=50431144
 - 308 pts, 82 comments: Val Town is winding down https://news.ycombinator.com/item?id=50443427
-- 308 pts, 28 comments: E-means: Outperforming k-means in one-tenth the epochs https://news.ycombinator.com/item?id=50429734
-- 303 pts, 210 comments: How I'm fighting the AI brain fry https://news.ycombinator.com/item?id=50416363
 - 300 pts, 164 comments: Synaptics patent claims stop work on DisplayLink drivers https://news.ycombinator.com/item?id=50443824
