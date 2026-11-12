@@ -1,5 +1,82 @@
 [
  {
+  "id": "50472038",
+  "title": "Rust 1.100",
+  "points": 321,
+  "comments": 138,
+  "author": "mbStavola",
+  "hn": "https://news.ycombinator.com/item?id=50472038",
+  "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+  "created_at": "2026-11-12T18:39:05Z",
+  "reported_at": 1794527520
+ },
+ {
+  "id": "50471793",
+  "title": "Rust 1.100",
+  "points": 308,
+  "comments": 9,
+  "author": "thesuperbigfrog",
+  "hn": "https://news.ycombinator.com/item?id=50471793",
+  "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+  "created_at": "2026-11-12T18:24:06Z",
+  "reported_at": 1794527520
+ },
+ {
+  "id": "50471731",
+  "title": "Service degradation on Microsoft 365",
+  "points": 413,
+  "comments": 402,
+  "author": "dkpk",
+  "hn": "https://news.ycombinator.com/item?id=50471731",
+  "url": "https://status.cloud.microsoft/",
+  "created_at": "2026-11-12T18:20:48Z",
+  "reported_at": 1794527520
+ },
+ {
+  "id": "50471668",
+  "title": "Ask HN: Microsoft/Azure Outage?",
+  "points": 401,
+  "comments": 1,
+  "author": "nazgulsenpai",
+  "hn": "https://news.ycombinator.com/item?id=50471668",
+  "url": null,
+  "created_at": "2026-11-12T18:17:13Z",
+  "reported_at": 1794527520
+ },
+ {
+  "id": "50471431",
+  "title": "Gemini 4 Hydrogen",
+  "points": 432,
+  "comments": 282,
+  "author": "dvaplima",
+  "hn": "https://news.ycombinator.com/item?id=50471431",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "created_at": "2026-11-12T18:01:48Z",
+  "reported_at": 1794527520
+ },
+ {
+  "id": "50465352",
+  "title": "Why writing correct software is hard and why math (alone) won\u2019t help us (2016)",
+  "points": 348,
+  "comments": 166,
+  "author": "AriFordsham",
+  "hn": "https://news.ycombinator.com/item?id=50465352",
+  "url": "https://pron.github.io/posts/correctness-and-complexity",
+  "created_at": "2026-11-12T10:28:26Z",
+  "reported_at": 1794527520
+ },
+ {
+  "id": "50458208",
+  "title": "Emacs in the Age of Magic",
+  "points": 303,
+  "comments": 153,
+  "author": "ggcr",
+  "hn": "https://news.ycombinator.com/item?id=50458208",
+  "url": "https://commandlinesystems.com/magic.txt",
+  "created_at": "2026-11-11T20:26:32Z",
+  "reported_at": 1794527520
+ },
+ {
   "id": "50467132",
   "title": "Jensen Huang resigns as Nvidia CEO immediately",
   "points": 373,

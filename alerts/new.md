@@ -1,4 +1,11 @@
-HN new 300+ stories, last 12h, updated 2026-11-12 18:35 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-12 23:52 UTC. Forward only ids not sent before.
+50472038 | 321 pts, 138 comments | Rust 1.100 | https://news.ycombinator.com/item?id=50472038
+50471793 | 308 pts, 9 comments | Rust 1.100 | https://news.ycombinator.com/item?id=50471793
+50471731 | 413 pts, 402 comments | Service degradation on Microsoft 365 | https://news.ycombinator.com/item?id=50471731
+50471668 | 401 pts, 1 comments | Ask HN: Microsoft/Azure Outage? | https://news.ycombinator.com/item?id=50471668
+50471431 | 432 pts, 282 comments | Gemini 4 Hydrogen | https://news.ycombinator.com/item?id=50471431
+50465352 | 348 pts, 166 comments | Why writing correct software is hard and why math (alone) won’t help us (2016) | https://news.ycombinator.com/item?id=50465352
+50458208 | 303 pts, 153 comments | Emacs in the Age of Magic | https://news.ycombinator.com/item?id=50458208
 50467132 | 373 pts, 13 comments | Jensen Huang resigns as Nvidia CEO immediately | https://news.ycombinator.com/item?id=50467132
 50467087 | 1747 pts, 1810 comments | Jensen Huang resigns | https://news.ycombinator.com/item?id=50467087
 50465829 | 646 pts, 659 comments | Anthropic IPO | https://news.ycombinator.com/item?id=50465829
@@ -6,8 +13,3 @@ HN new 300+ stories, last 12h, updated 2026-11-12 18:35 UTC. Forward only ids no
 50462177 | 339 pts, 181 comments | Critical RCE Vulnerability in Apache HTTP Server | https://news.ycombinator.com/item?id=50462177
 50459485 | 320 pts, 62 comments | Lock Your GitHub Actions | https://news.ycombinator.com/item?id=50459485
 50438261 | 574 pts, 131 comments | Socratic Tutor | https://news.ycombinator.com/item?id=50438261
-50459745 | 431 pts, 57 comments | 93% of paint splatters are valid Perl programs (2019) | https://news.ycombinator.com/item?id=50459745
-50459321 | 365 pts, 454 comments | Jensen Huang said to have had relationship with executive who reports to him | https://news.ycombinator.com/item?id=50459321
-50456791 | 435 pts, 131 comments | Gemini Decisions API | https://news.ycombinator.com/item?id=50456791
-50453288 | 379 pts, 71 comments | Hyper-Realistic Sand with WebGL2 | https://news.ycombinator.com/item?id=50453288
-50451903 | 304 pts, 115 comments | Using voltage glitching to unleash the A100 in my mining card | https://news.ycombinator.com/item?id=50451903
