@@ -1,5 +1,60 @@
 [
  {
+  "id": "50459745",
+  "title": "93% of paint splatters are valid Perl programs (2019)",
+  "points": 431,
+  "comments": 57,
+  "author": "zenincognito",
+  "hn": "https://news.ycombinator.com/item?id=50459745",
+  "url": "https://www.mcmillen.dev/sigbovik/",
+  "created_at": "2026-11-11T22:34:23Z",
+  "reported_at": 1794478592
+ },
+ {
+  "id": "50459321",
+  "title": "Jensen Huang said to have had relationship with executive who reports to him",
+  "points": 365,
+  "comments": 454,
+  "author": "louiereederson",
+  "hn": "https://news.ycombinator.com/item?id=50459321",
+  "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+  "created_at": "2026-11-11T22:03:58Z",
+  "reported_at": 1794478592
+ },
+ {
+  "id": "50456791",
+  "title": "Gemini Decisions API",
+  "points": 435,
+  "comments": 131,
+  "author": "iamdelirium",
+  "hn": "https://news.ycombinator.com/item?id=50456791",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "created_at": "2026-11-11T18:32:42Z",
+  "reported_at": 1794478592
+ },
+ {
+  "id": "50453288",
+  "title": "Hyper-Realistic Sand with WebGL2",
+  "points": 379,
+  "comments": 71,
+  "author": "everlier",
+  "hn": "https://news.ycombinator.com/item?id=50453288",
+  "url": "https://av.github.io/safe-sand/",
+  "created_at": "2026-11-11T13:39:29Z",
+  "reported_at": 1794478592
+ },
+ {
+  "id": "50451903",
+  "title": "Using voltage glitching to unleash the A100 in my mining card",
+  "points": 304,
+  "comments": 115,
+  "author": "lae",
+  "hn": "https://news.ycombinator.com/item?id=50451903",
+  "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+  "created_at": "2026-11-11T10:48:40Z",
+  "reported_at": 1794478592
+ },
+ {
   "id": "50459703",
   "title": "Nvidia is preparing to oust Jensen Huang",
   "points": 387,
