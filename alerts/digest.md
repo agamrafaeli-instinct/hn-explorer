@@ -1,18 +1,19 @@
-HN digest 2026-11-11 (UTC): 17 new stories at 300+ points
+HN digest 2026-11-12 (UTC): 18 new stories at 300+ points
+- 828 pts, 92 comments: Tim Peters has died https://news.ycombinator.com/item?id=50450488
 - 758 pts, 283 comments: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h https://news.ycombinator.com/item?id=50452455
-- 527 pts, 168 comments: AlphaProof Code https://news.ycombinator.com/item?id=50439193
-- 487 pts, 97 comments: .name Grandfathered https://news.ycombinator.com/item?id=50442736
+- 646 pts, 211 comments: AWS emulator https://news.ycombinator.com/item?id=50456631
 - 467 pts, 483 comments: Apple has new Mac app coming to make running local AI models easy https://news.ycombinator.com/item?id=50446520
-- 463 pts, 168 comments: Smart home devices should work without the internet https://news.ycombinator.com/item?id=50441707
 - 405 pts, 409 comments: Starlink Mini 2 https://news.ycombinator.com/item?id=50444129
+- 401 pts, 197 comments: A false smoke alarm almost drowned Jane Street's only NYC datacenter https://news.ycombinator.com/item?id=50455394
 - 399 pts, 190 comments: Tracking Anthropic-discovered vulnerabilities https://news.ycombinator.com/item?id=50447074
 - 389 pts, 410 comments: AI usage generates a fragile codebase https://news.ycombinator.com/item?id=50438318
+- 387 pts, 587 comments: Nvidia is preparing to oust Jensen Huang https://news.ycombinator.com/item?id=50459703
 - 367 pts, 108 comments: Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives https://news.ycombinator.com/item?id=50443812
 - 356 pts, 126 comments: Protecting SSH Keys with macOS Secure Enclave https://news.ycombinator.com/item?id=50449748
-- 342 pts, 46 comments: Blender 5.3 released with Gaussian Splat support https://news.ycombinator.com/item?id=50442426
+- 337 pts, 235 comments: I asked every TV manufacturer 17 questions about how they spy on you https://news.ycombinator.com/item?id=50453474
 - 335 pts, 251 comments: Scion is back and is going to sell a kei truck in America https://news.ycombinator.com/item?id=50445401
+- 323 pts, 304 comments: United Airlines bans AI agents from booking flights on behalf of travelers https://news.ycombinator.com/item?id=50458900
 - 322 pts, 58 comments: Six Math Essentials https://news.ycombinator.com/item?id=50446246
 - 311 pts, 331 comments: Ableton Live 13 https://news.ycombinator.com/item?id=50439695
-- 310 pts, 161 comments: Locating the source of a mysterious beep https://news.ycombinator.com/item?id=50434310
 - 308 pts, 82 comments: Val Town is winding down https://news.ycombinator.com/item?id=50443427
 - 300 pts, 164 comments: Synaptics patent claims stop work on DisplayLink drivers https://news.ycombinator.com/item?id=50443824

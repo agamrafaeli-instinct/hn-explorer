@@ -1,5 +1,71 @@
 [
  {
+  "id": "50459703",
+  "title": "Nvidia is preparing to oust Jensen Huang",
+  "points": 387,
+  "comments": 587,
+  "author": "jbredeche",
+  "hn": "https://news.ycombinator.com/item?id=50459703",
+  "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+  "created_at": "2026-11-11T22:31:06Z",
+  "reported_at": 1794445138
+ },
+ {
+  "id": "50458900",
+  "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "points": 323,
+  "comments": 304,
+  "author": "herpderperator",
+  "hn": "https://news.ycombinator.com/item?id=50458900",
+  "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+  "created_at": "2026-11-11T21:24:35Z",
+  "reported_at": 1794445138
+ },
+ {
+  "id": "50456631",
+  "title": "AWS emulator",
+  "points": 646,
+  "comments": 211,
+  "author": "super_linear",
+  "hn": "https://news.ycombinator.com/item?id=50456631",
+  "url": "https://github.com/aws/aws-emulator",
+  "created_at": "2026-11-11T18:21:38Z",
+  "reported_at": 1794445138
+ },
+ {
+  "id": "50455394",
+  "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+  "points": 401,
+  "comments": 197,
+  "author": "mbac32768",
+  "hn": "https://news.ycombinator.com/item?id=50455394",
+  "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+  "created_at": "2026-11-11T16:38:44Z",
+  "reported_at": 1794445138
+ },
+ {
+  "id": "50453474",
+  "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+  "points": 337,
+  "comments": 235,
+  "author": "Brajeshwar",
+  "hn": "https://news.ycombinator.com/item?id=50453474",
+  "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+  "created_at": "2026-11-11T13:56:05Z",
+  "reported_at": 1794445138
+ },
+ {
+  "id": "50450488",
+  "title": "Tim Peters has died",
+  "points": 828,
+  "comments": 92,
+  "author": "ayhanfuat",
+  "hn": "https://news.ycombinator.com/item?id=50450488",
+  "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+  "created_at": "2026-11-11T07:03:17Z",
+  "reported_at": 1794445138
+ },
+ {
   "id": "50452455",
   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
   "points": 758,
