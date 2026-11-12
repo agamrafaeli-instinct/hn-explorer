@@ -1,5 +1,82 @@
 [
  {
+  "id": "50467132",
+  "title": "Jensen Huang resigns as Nvidia CEO immediately",
+  "points": 373,
+  "comments": 13,
+  "author": "ksec",
+  "hn": "https://news.ycombinator.com/item?id=50467132",
+  "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+  "created_at": "2026-11-12T13:56:11Z",
+  "reported_at": 1794508502
+ },
+ {
+  "id": "50467087",
+  "title": "Jensen Huang resigns",
+  "points": 1747,
+  "comments": 1810,
+  "author": "lldb",
+  "hn": "https://news.ycombinator.com/item?id=50467087",
+  "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+  "created_at": "2026-11-12T13:52:29Z",
+  "reported_at": 1794508502
+ },
+ {
+  "id": "50465829",
+  "title": "Anthropic IPO",
+  "points": 646,
+  "comments": 659,
+  "author": "josephljohnston",
+  "hn": "https://news.ycombinator.com/item?id=50465829",
+  "url": "https://ipo.anthropic.com/us/",
+  "created_at": "2026-11-12T11:46:41Z",
+  "reported_at": 1794508502
+ },
+ {
+  "id": "50463899",
+  "title": "Humble Bundle just killed most of their security through vibecoding",
+  "points": 331,
+  "comments": 203,
+  "author": "rdmuser",
+  "hn": "https://news.ycombinator.com/item?id=50463899",
+  "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+  "created_at": "2026-11-12T06:52:48Z",
+  "reported_at": 1794508502
+ },
+ {
+  "id": "50462177",
+  "title": "Critical RCE Vulnerability in Apache HTTP Server",
+  "points": 339,
+  "comments": 181,
+  "author": "soheilpro",
+  "hn": "https://news.ycombinator.com/item?id=50462177",
+  "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+  "created_at": "2026-11-12T02:11:11Z",
+  "reported_at": 1794508502
+ },
+ {
+  "id": "50459485",
+  "title": "Lock Your GitHub Actions",
+  "points": 320,
+  "comments": 62,
+  "author": "gslin",
+  "hn": "https://news.ycombinator.com/item?id=50459485",
+  "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+  "created_at": "2026-11-11T22:16:41Z",
+  "reported_at": 1794508502
+ },
+ {
+  "id": "50438261",
+  "title": "Socratic Tutor",
+  "points": 574,
+  "comments": 131,
+  "author": "tosh",
+  "hn": "https://news.ycombinator.com/item?id=50438261",
+  "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+  "created_at": "2026-11-10T10:18:22Z",
+  "reported_at": 1794508502
+ },
+ {
   "id": "50459745",
   "title": "93% of paint splatters are valid Perl programs (2019)",
   "points": 431,

@@ -1,20 +1,23 @@
-HN digest 2026-11-12 (UTC): 19 new stories at 300+ points
+HN digest 2026-11-12 (UTC): 22 new stories at 300+ points
+- 1747 pts, 1810 comments: Jensen Huang resigns https://news.ycombinator.com/item?id=50467087
 - 828 pts, 92 comments: Tim Peters has died https://news.ycombinator.com/item?id=50450488
 - 758 pts, 283 comments: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h https://news.ycombinator.com/item?id=50452455
+- 646 pts, 659 comments: Anthropic IPO https://news.ycombinator.com/item?id=50465829
 - 646 pts, 211 comments: AWS emulator https://news.ycombinator.com/item?id=50456631
+- 574 pts, 131 comments: Socratic Tutor https://news.ycombinator.com/item?id=50438261
 - 467 pts, 483 comments: Apple has new Mac app coming to make running local AI models easy https://news.ycombinator.com/item?id=50446520
 - 435 pts, 131 comments: Gemini Decisions API https://news.ycombinator.com/item?id=50456791
 - 431 pts, 57 comments: 93% of paint splatters are valid Perl programs (2019) https://news.ycombinator.com/item?id=50459745
-- 405 pts, 409 comments: Starlink Mini 2 https://news.ycombinator.com/item?id=50444129
 - 401 pts, 197 comments: A false smoke alarm almost drowned Jane Street's only NYC datacenter https://news.ycombinator.com/item?id=50455394
-- 399 pts, 190 comments: Tracking Anthropic-discovered vulnerabilities https://news.ycombinator.com/item?id=50447074
 - 387 pts, 587 comments: Nvidia is preparing to oust Jensen Huang https://news.ycombinator.com/item?id=50459703
 - 379 pts, 71 comments: Hyper-Realistic Sand with WebGL2 https://news.ycombinator.com/item?id=50453288
-- 367 pts, 108 comments: Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives https://news.ycombinator.com/item?id=50443812
+- 373 pts, 13 comments: Jensen Huang resigns as Nvidia CEO immediately https://news.ycombinator.com/item?id=50467132
 - 365 pts, 454 comments: Jensen Huang said to have had relationship with executive who reports to him https://news.ycombinator.com/item?id=50459321
 - 356 pts, 126 comments: Protecting SSH Keys with macOS Secure Enclave https://news.ycombinator.com/item?id=50449748
+- 339 pts, 181 comments: Critical RCE Vulnerability in Apache HTTP Server https://news.ycombinator.com/item?id=50462177
 - 337 pts, 235 comments: I asked every TV manufacturer 17 questions about how they spy on you https://news.ycombinator.com/item?id=50453474
+- 331 pts, 203 comments: Humble Bundle just killed most of their security through vibecoding https://news.ycombinator.com/item?id=50463899
 - 323 pts, 304 comments: United Airlines bans AI agents from booking flights on behalf of travelers https://news.ycombinator.com/item?id=50458900
 - 322 pts, 58 comments: Six Math Essentials https://news.ycombinator.com/item?id=50446246
-- 311 pts, 331 comments: Ableton Live 13 https://news.ycombinator.com/item?id=50439695
+- 320 pts, 62 comments: Lock Your GitHub Actions https://news.ycombinator.com/item?id=50459485
 - 304 pts, 115 comments: Using voltage glitching to unleash the A100 in my mining card https://news.ycombinator.com/item?id=50451903
