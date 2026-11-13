@@ -1,24 +1,22 @@
-HN digest 2026-11-12 (UTC): 25 new stories at 300+ points
+HN digest 2026-11-13 (UTC): 23 new stories at 300+ points
 - 1747 pts, 1810 comments: Jensen Huang resigns https://news.ycombinator.com/item?id=50467087
-- 828 pts, 92 comments: Tim Peters has died https://news.ycombinator.com/item?id=50450488
 - 646 pts, 659 comments: Anthropic IPO https://news.ycombinator.com/item?id=50465829
-- 646 pts, 211 comments: AWS emulator https://news.ycombinator.com/item?id=50456631
 - 574 pts, 131 comments: Socratic Tutor https://news.ycombinator.com/item?id=50438261
+- 470 pts, 173 comments: Show HN: My $300 embroidery machine needed a subscription, so I built my own app https://news.ycombinator.com/item?id=50470488
 - 435 pts, 131 comments: Gemini Decisions API https://news.ycombinator.com/item?id=50456791
 - 432 pts, 282 comments: Gemini 4 Hydrogen https://news.ycombinator.com/item?id=50471431
 - 431 pts, 57 comments: 93% of paint splatters are valid Perl programs (2019) https://news.ycombinator.com/item?id=50459745
+- 428 pts, 324 comments: Nvidia employees petition to bring back Jensen Huang https://news.ycombinator.com/item?id=50477231
 - 413 pts, 402 comments: Service degradation on Microsoft 365 https://news.ycombinator.com/item?id=50471731
 - 401 pts, 1 comments: Ask HN: Microsoft/Azure Outage? https://news.ycombinator.com/item?id=50471668
-- 401 pts, 197 comments: A false smoke alarm almost drowned Jane Street's only NYC datacenter https://news.ycombinator.com/item?id=50455394
-- 387 pts, 587 comments: Nvidia is preparing to oust Jensen Huang https://news.ycombinator.com/item?id=50459703
+- 388 pts, 104 comments: Gemini 4 Hydrogen and Orchestrator https://news.ycombinator.com/item?id=50472260
 - 379 pts, 71 comments: Hyper-Realistic Sand with WebGL2 https://news.ycombinator.com/item?id=50453288
 - 373 pts, 13 comments: Jensen Huang resigns as Nvidia CEO immediately https://news.ycombinator.com/item?id=50467132
 - 365 pts, 454 comments: Jensen Huang said to have had relationship with executive who reports to him https://news.ycombinator.com/item?id=50459321
 - 348 pts, 166 comments: Why writing correct software is hard and why math (alone) won’t help us (2016) https://news.ycombinator.com/item?id=50465352
 - 339 pts, 181 comments: Critical RCE Vulnerability in Apache HTTP Server https://news.ycombinator.com/item?id=50462177
-- 337 pts, 235 comments: I asked every TV manufacturer 17 questions about how they spy on you https://news.ycombinator.com/item?id=50453474
+- 335 pts, 122 comments: I'm making LLMs work on small and old devices https://news.ycombinator.com/item?id=50468888
 - 331 pts, 203 comments: Humble Bundle just killed most of their security through vibecoding https://news.ycombinator.com/item?id=50463899
-- 323 pts, 304 comments: United Airlines bans AI agents from booking flights on behalf of travelers https://news.ycombinator.com/item?id=50458900
 - 321 pts, 138 comments: Rust 1.100 https://news.ycombinator.com/item?id=50472038
 - 320 pts, 62 comments: Lock Your GitHub Actions https://news.ycombinator.com/item?id=50459485
 - 308 pts, 9 comments: Rust 1.100 https://news.ycombinator.com/item?id=50471793

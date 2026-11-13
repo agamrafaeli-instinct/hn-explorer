@@ -1,5 +1,49 @@
 [
  {
+  "id": "50477231",
+  "title": "Nvidia employees petition to bring back Jensen Huang",
+  "points": 428,
+  "comments": 324,
+  "author": "lavendermon",
+  "hn": "https://news.ycombinator.com/item?id=50477231",
+  "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+  "created_at": "2026-11-13T02:16:24Z",
+  "reported_at": 1794554141
+ },
+ {
+  "id": "50472260",
+  "title": "Gemini 4 Hydrogen and Orchestrator",
+  "points": 388,
+  "comments": 104,
+  "author": "jonbaer",
+  "hn": "https://news.ycombinator.com/item?id=50472260",
+  "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+  "created_at": "2026-11-12T18:52:01Z",
+  "reported_at": 1794554141
+ },
+ {
+  "id": "50470488",
+  "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+  "points": 470,
+  "comments": 173,
+  "author": "simpsoka",
+  "hn": "https://news.ycombinator.com/item?id=50470488",
+  "url": "https://github.com/simpsoka/zigzag",
+  "created_at": "2026-11-12T17:02:42Z",
+  "reported_at": 1794554141
+ },
+ {
+  "id": "50468888",
+  "title": "I'm making LLMs work on small and old devices",
+  "points": 335,
+  "comments": 122,
+  "author": "mrashad74",
+  "hn": "https://news.ycombinator.com/item?id=50468888",
+  "url": "https://github.com/hyperionaidev/smolmaxxing/",
+  "created_at": "2026-11-12T15:23:10Z",
+  "reported_at": 1794554141
+ },
+ {
   "id": "50472038",
   "title": "Rust 1.100",
   "points": 321,
