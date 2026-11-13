@@ -1,7 +1,7 @@
-HN digest 2026-11-13 (UTC): 27 new stories at 300+ points
-- 1747 pts, 1810 comments: Jensen Huang resigns https://news.ycombinator.com/item?id=50467087
-- 646 pts, 659 comments: Anthropic IPO https://news.ycombinator.com/item?id=50465829
-- 574 pts, 131 comments: Socratic Tutor https://news.ycombinator.com/item?id=50438261
+HN digest 2026-11-13 (UTC): 26 new stories at 300+ points
+- 1068 pts, 642 comments: FAA issues national ground stop https://news.ycombinator.com/item?id=50489641
+- 791 pts, 248 comments: LibreOffice actually works 365 days a year https://news.ycombinator.com/item?id=50486482
+- 652 pts, 191 comments: Reverse engineering my Coway air purifier to ditch the cloud https://news.ycombinator.com/item?id=50474959
 - 470 pts, 173 comments: Show HN: My $300 embroidery machine needed a subscription, so I built my own app https://news.ycombinator.com/item?id=50470488
 - 432 pts, 282 comments: Gemini 4 Hydrogen https://news.ycombinator.com/item?id=50471431
 - 428 pts, 290 comments: Microsoft Outlook/365 still down after 12 hours https://news.ycombinator.com/item?id=50478609
@@ -11,18 +11,17 @@ HN digest 2026-11-13 (UTC): 27 new stories at 300+ points
 - 401 pts, 1 comments: Ask HN: Microsoft/Azure Outage? https://news.ycombinator.com/item?id=50471668
 - 394 pts, 423 comments: Former Nvidia CEO Huang had a relationship with a second employee, sources say https://news.ycombinator.com/item?id=50473190
 - 388 pts, 104 comments: Gemini 4 Hydrogen and Orchestrator https://news.ycombinator.com/item?id=50472260
-- 373 pts, 13 comments: Jensen Huang resigns as Nvidia CEO immediately https://news.ycombinator.com/item?id=50467132
 - 363 pts, 159 comments: Dwarf planet candidate appears which takes roughly 280 years to orbit our sun https://news.ycombinator.com/item?id=50472490
 - 348 pts, 166 comments: Why writing correct software is hard and why math (alone) won’t help us (2016) https://news.ycombinator.com/item?id=50465352
-- 339 pts, 181 comments: Critical RCE Vulnerability in Apache HTTP Server https://news.ycombinator.com/item?id=50462177
 - 335 pts, 136 comments: Chinese frontier AI models carry the fingerprint of export-controlled GPUs https://news.ycombinator.com/item?id=50474883
 - 335 pts, 122 comments: I'm making LLMs work on small and old devices https://news.ycombinator.com/item?id=50468888
-- 331 pts, 203 comments: Humble Bundle just killed most of their security through vibecoding https://news.ycombinator.com/item?id=50463899
 - 321 pts, 138 comments: Rust 1.100 https://news.ycombinator.com/item?id=50472038
-- 320 pts, 62 comments: Lock Your GitHub Actions https://news.ycombinator.com/item?id=50459485
 - 318 pts, 217 comments: Doomsday: Friday, 13 November, A.D. 2026 (1960) https://news.ycombinator.com/item?id=50482379
 - 315 pts, 247 comments: Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep https://news.ycombinator.com/item?id=50469994
 - 312 pts, 91 comments: Edge0-145B: Frontier AI Capabilities on Your Own Computer https://news.ycombinator.com/item?id=50475713
 - 309 pts, 161 comments: IceWM https://news.ycombinator.com/item?id=50478515
 - 308 pts, 9 comments: Rust 1.100 https://news.ycombinator.com/item?id=50471793
+- 306 pts, 128 comments: Abandoned Quake 4 expansion finished by modders and now playable https://news.ycombinator.com/item?id=50467618
+- 303 pts, 193 comments: AI is destroying the trust between writers and readers https://news.ycombinator.com/item?id=50481870
 - 303 pts, 153 comments: Emacs in the Age of Magic https://news.ycombinator.com/item?id=50458208
+- 300 pts, 88 comments: AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems https://news.ycombinator.com/item?id=50486748
