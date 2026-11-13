@@ -1,24 +1,28 @@
-HN digest 2026-11-13 (UTC): 23 new stories at 300+ points
+HN digest 2026-11-13 (UTC): 27 new stories at 300+ points
 - 1747 pts, 1810 comments: Jensen Huang resigns https://news.ycombinator.com/item?id=50467087
 - 646 pts, 659 comments: Anthropic IPO https://news.ycombinator.com/item?id=50465829
 - 574 pts, 131 comments: Socratic Tutor https://news.ycombinator.com/item?id=50438261
 - 470 pts, 173 comments: Show HN: My $300 embroidery machine needed a subscription, so I built my own app https://news.ycombinator.com/item?id=50470488
-- 435 pts, 131 comments: Gemini Decisions API https://news.ycombinator.com/item?id=50456791
 - 432 pts, 282 comments: Gemini 4 Hydrogen https://news.ycombinator.com/item?id=50471431
-- 431 pts, 57 comments: 93% of paint splatters are valid Perl programs (2019) https://news.ycombinator.com/item?id=50459745
+- 428 pts, 290 comments: Microsoft Outlook/365 still down after 12 hours https://news.ycombinator.com/item?id=50478609
 - 428 pts, 324 comments: Nvidia employees petition to bring back Jensen Huang https://news.ycombinator.com/item?id=50477231
+- 417 pts, 342 comments: Elevated errors on claude.ai, Claude Code, and platform.claude.com https://news.ycombinator.com/item?id=50481187
 - 413 pts, 402 comments: Service degradation on Microsoft 365 https://news.ycombinator.com/item?id=50471731
 - 401 pts, 1 comments: Ask HN: Microsoft/Azure Outage? https://news.ycombinator.com/item?id=50471668
+- 394 pts, 423 comments: Former Nvidia CEO Huang had a relationship with a second employee, sources say https://news.ycombinator.com/item?id=50473190
 - 388 pts, 104 comments: Gemini 4 Hydrogen and Orchestrator https://news.ycombinator.com/item?id=50472260
-- 379 pts, 71 comments: Hyper-Realistic Sand with WebGL2 https://news.ycombinator.com/item?id=50453288
 - 373 pts, 13 comments: Jensen Huang resigns as Nvidia CEO immediately https://news.ycombinator.com/item?id=50467132
-- 365 pts, 454 comments: Jensen Huang said to have had relationship with executive who reports to him https://news.ycombinator.com/item?id=50459321
+- 363 pts, 159 comments: Dwarf planet candidate appears which takes roughly 280 years to orbit our sun https://news.ycombinator.com/item?id=50472490
 - 348 pts, 166 comments: Why writing correct software is hard and why math (alone) won’t help us (2016) https://news.ycombinator.com/item?id=50465352
 - 339 pts, 181 comments: Critical RCE Vulnerability in Apache HTTP Server https://news.ycombinator.com/item?id=50462177
+- 335 pts, 136 comments: Chinese frontier AI models carry the fingerprint of export-controlled GPUs https://news.ycombinator.com/item?id=50474883
 - 335 pts, 122 comments: I'm making LLMs work on small and old devices https://news.ycombinator.com/item?id=50468888
 - 331 pts, 203 comments: Humble Bundle just killed most of their security through vibecoding https://news.ycombinator.com/item?id=50463899
 - 321 pts, 138 comments: Rust 1.100 https://news.ycombinator.com/item?id=50472038
 - 320 pts, 62 comments: Lock Your GitHub Actions https://news.ycombinator.com/item?id=50459485
+- 318 pts, 217 comments: Doomsday: Friday, 13 November, A.D. 2026 (1960) https://news.ycombinator.com/item?id=50482379
+- 315 pts, 247 comments: Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep https://news.ycombinator.com/item?id=50469994
+- 312 pts, 91 comments: Edge0-145B: Frontier AI Capabilities on Your Own Computer https://news.ycombinator.com/item?id=50475713
+- 309 pts, 161 comments: IceWM https://news.ycombinator.com/item?id=50478515
 - 308 pts, 9 comments: Rust 1.100 https://news.ycombinator.com/item?id=50471793
-- 304 pts, 115 comments: Using voltage glitching to unleash the A100 in my mining card https://news.ycombinator.com/item?id=50451903
 - 303 pts, 153 comments: Emacs in the Age of Magic https://news.ycombinator.com/item?id=50458208

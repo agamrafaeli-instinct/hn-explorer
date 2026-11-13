@@ -1,5 +1,104 @@
 [
  {
+  "id": "50482379",
+  "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+  "points": 318,
+  "comments": 217,
+  "author": "voxleone",
+  "hn": "https://news.ycombinator.com/item?id=50482379",
+  "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+  "created_at": "2026-11-13T12:10:24Z",
+  "reported_at": 1794588201
+ },
+ {
+  "id": "50481187",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "points": 417,
+  "comments": 342,
+  "author": "__vivek",
+  "hn": "https://news.ycombinator.com/item?id=50481187",
+  "url": "https://status.claude.com/incidents/nn11wk485zfn",
+  "created_at": "2026-11-13T10:18:13Z",
+  "reported_at": 1794588201
+ },
+ {
+  "id": "50478609",
+  "title": "Microsoft Outlook/365 still down after 12 hours",
+  "points": 428,
+  "comments": 290,
+  "author": "player85",
+  "hn": "https://news.ycombinator.com/item?id=50478609",
+  "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+  "created_at": "2026-11-13T05:08:23Z",
+  "reported_at": 1794588201
+ },
+ {
+  "id": "50478515",
+  "title": "IceWM",
+  "points": 309,
+  "comments": 161,
+  "author": "inatreecrown2",
+  "hn": "https://news.ycombinator.com/item?id=50478515",
+  "url": "https://ice-wm.org/",
+  "created_at": "2026-11-13T04:54:53Z",
+  "reported_at": 1794588201
+ },
+ {
+  "id": "50475713",
+  "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+  "points": 312,
+  "comments": 91,
+  "author": "sroussey",
+  "hn": "https://news.ycombinator.com/item?id=50475713",
+  "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+  "created_at": "2026-11-12T23:06:17Z",
+  "reported_at": 1794588201
+ },
+ {
+  "id": "50474883",
+  "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+  "points": 335,
+  "comments": 136,
+  "author": "firloop",
+  "hn": "https://news.ycombinator.com/item?id=50474883",
+  "url": "https://unemploymentlabs.com/checkpoint-forensics",
+  "created_at": "2026-11-12T21:56:11Z",
+  "reported_at": 1794588201
+ },
+ {
+  "id": "50473190",
+  "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+  "points": 394,
+  "comments": 423,
+  "author": "jbredeche",
+  "hn": "https://news.ycombinator.com/item?id=50473190",
+  "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+  "created_at": "2026-11-12T19:51:33Z",
+  "reported_at": 1794588201
+ },
+ {
+  "id": "50472490",
+  "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+  "points": 363,
+  "comments": 159,
+  "author": "cybermango",
+  "hn": "https://news.ycombinator.com/item?id=50472490",
+  "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+  "created_at": "2026-11-12T19:05:33Z",
+  "reported_at": 1794588201
+ },
+ {
+  "id": "50469994",
+  "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+  "points": 315,
+  "comments": 247,
+  "author": "CharlesW",
+  "hn": "https://news.ycombinator.com/item?id=50469994",
+  "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+  "created_at": "2026-11-12T16:29:13Z",
+  "reported_at": 1794588201
+ },
+ {
   "id": "50477231",
   "title": "Nvidia employees petition to bring back Jensen Huang",
   "points": 428,
