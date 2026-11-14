@@ -1,5 +1,38 @@
 [
  {
+  "id": "50493251",
+  "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+  "points": 352,
+  "comments": 180,
+  "author": "speckx",
+  "hn": "https://news.ycombinator.com/item?id=50493251",
+  "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "created_at": "2026-11-14T02:52:59Z",
+  "reported_at": 1794639586
+ },
+ {
+  "id": "50487864",
+  "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+  "points": 335,
+  "comments": 185,
+  "author": "crescit_eundo",
+  "hn": "https://news.ycombinator.com/item?id=50487864",
+  "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+  "created_at": "2026-11-13T18:40:44Z",
+  "reported_at": 1794639586
+ },
+ {
+  "id": "50487522",
+  "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+  "points": 335,
+  "comments": 164,
+  "author": "BobaFloutist",
+  "hn": "https://news.ycombinator.com/item?id=50487522",
+  "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+  "created_at": "2026-11-13T18:18:37Z",
+  "reported_at": 1794639586
+ },
+ {
   "id": "50489641",
   "title": "FAA issues national ground stop",
   "points": 1068,
