@@ -1,5 +1,60 @@
 [
  {
+  "id": "50493904",
+  "title": "Monkey Island: all 13 versions side by side",
+  "points": 301,
+  "comments": 87,
+  "author": "maximilianburke",
+  "hn": "https://news.ycombinator.com/item?id=50493904",
+  "url": "https://monkeyisland.pages.dev/",
+  "created_at": "2026-11-14T04:23:30Z",
+  "reported_at": 1794669603
+ },
+ {
+  "id": "50493062",
+  "title": "Ggml v1.0.0",
+  "points": 346,
+  "comments": 53,
+  "author": "cobychapple",
+  "hn": "https://news.ycombinator.com/item?id=50493062",
+  "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "created_at": "2026-11-14T02:28:29Z",
+  "reported_at": 1794669603
+ },
+ {
+  "id": "50491423",
+  "title": "Terminal borders that don't cost a cell",
+  "points": 346,
+  "comments": 149,
+  "author": "vinhnx",
+  "hn": "https://news.ycombinator.com/item?id=50491423",
+  "url": "https://www.joshka.net/cell-borders/",
+  "created_at": "2026-11-13T23:06:40Z",
+  "reported_at": 1794669603
+ },
+ {
+  "id": "50484658",
+  "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+  "points": 392,
+  "comments": 550,
+  "author": "helloplanets",
+  "hn": "https://news.ycombinator.com/item?id=50484658",
+  "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+  "created_at": "2026-11-13T15:08:44Z",
+  "reported_at": 1794669603
+ },
+ {
+  "id": "50454625",
+  "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+  "points": 301,
+  "comments": 115,
+  "author": "brownrout",
+  "hn": "https://news.ycombinator.com/item?id=50454625",
+  "url": "https://github.com/FrigadeHQ/yogurt",
+  "created_at": "2026-11-11T15:33:06Z",
+  "reported_at": 1794669603
+ },
+ {
   "id": "50493251",
   "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
   "points": 352,

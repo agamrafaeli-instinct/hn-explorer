@@ -1,23 +1,24 @@
-HN digest 2026-11-14 (UTC): 22 new stories at 300+ points
+HN digest 2026-11-14 (UTC): 23 new stories at 300+ points
 - 1068 pts, 642 comments: FAA issues national ground stop https://news.ycombinator.com/item?id=50489641
 - 791 pts, 248 comments: LibreOffice actually works 365 days a year https://news.ycombinator.com/item?id=50486482
 - 652 pts, 191 comments: Reverse engineering my Coway air purifier to ditch the cloud https://news.ycombinator.com/item?id=50474959
-- 470 pts, 173 comments: Show HN: My $300 embroidery machine needed a subscription, so I built my own app https://news.ycombinator.com/item?id=50470488
 - 428 pts, 290 comments: Microsoft Outlook/365 still down after 12 hours https://news.ycombinator.com/item?id=50478609
-- 428 pts, 324 comments: Nvidia employees petition to bring back Jensen Huang https://news.ycombinator.com/item?id=50477231
 - 417 pts, 342 comments: Elevated errors on claude.ai, Claude Code, and platform.claude.com https://news.ycombinator.com/item?id=50481187
 - 394 pts, 423 comments: Former Nvidia CEO Huang had a relationship with a second employee, sources say https://news.ycombinator.com/item?id=50473190
-- 388 pts, 104 comments: Gemini 4 Hydrogen and Orchestrator https://news.ycombinator.com/item?id=50472260
+- 392 pts, 550 comments: Jonathan Blow – If AI solved coding, why is my software still the same? [video] https://news.ycombinator.com/item?id=50484658
 - 363 pts, 159 comments: Dwarf planet candidate appears which takes roughly 280 years to orbit our sun https://news.ycombinator.com/item?id=50472490
 - 352 pts, 180 comments: Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs https://news.ycombinator.com/item?id=50493251
+- 346 pts, 53 comments: Ggml v1.0.0 https://news.ycombinator.com/item?id=50493062
+- 346 pts, 149 comments: Terminal borders that don't cost a cell https://news.ycombinator.com/item?id=50491423
 - 335 pts, 185 comments: $11.4M in Nvidia hardware vanishes during shipment from CA to TX https://news.ycombinator.com/item?id=50487864
 - 335 pts, 164 comments: It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad https://news.ycombinator.com/item?id=50487522
 - 335 pts, 136 comments: Chinese frontier AI models carry the fingerprint of export-controlled GPUs https://news.ycombinator.com/item?id=50474883
-- 335 pts, 122 comments: I'm making LLMs work on small and old devices https://news.ycombinator.com/item?id=50468888
 - 318 pts, 217 comments: Doomsday: Friday, 13 November, A.D. 2026 (1960) https://news.ycombinator.com/item?id=50482379
 - 315 pts, 247 comments: Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep https://news.ycombinator.com/item?id=50469994
 - 312 pts, 91 comments: Edge0-145B: Frontier AI Capabilities on Your Own Computer https://news.ycombinator.com/item?id=50475713
 - 309 pts, 161 comments: IceWM https://news.ycombinator.com/item?id=50478515
 - 306 pts, 128 comments: Abandoned Quake 4 expansion finished by modders and now playable https://news.ycombinator.com/item?id=50467618
 - 303 pts, 193 comments: AI is destroying the trust between writers and readers https://news.ycombinator.com/item?id=50481870
+- 301 pts, 87 comments: Monkey Island: all 13 versions side by side https://news.ycombinator.com/item?id=50493904
+- 301 pts, 115 comments: Show HN: Yogurt – Free, private, open-source alternative to Granola https://news.ycombinator.com/item?id=50454625
 - 300 pts, 88 comments: AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems https://news.ycombinator.com/item?id=50486748
