@@ -1,5 +1,49 @@
 [
  {
+  "id": "50506719",
+  "title": "The MacBook Pro's OLED PWM problem",
+  "points": 380,
+  "comments": 205,
+  "author": "MacAnorak",
+  "hn": "https://news.ycombinator.com/item?id=50506719",
+  "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+  "created_at": "2026-11-15T13:15:22Z",
+  "reported_at": 1794784204
+ },
+ {
+  "id": "50506180",
+  "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+  "points": 443,
+  "comments": 191,
+  "author": "JumpCrisscross",
+  "hn": "https://news.ycombinator.com/item?id=50506180",
+  "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+  "created_at": "2026-11-15T11:40:51Z",
+  "reported_at": 1794784204
+ },
+ {
+  "id": "50501594",
+  "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
+  "points": 309,
+  "comments": 163,
+  "author": "Skyfall106",
+  "hn": "https://news.ycombinator.com/item?id=50501594",
+  "url": "https://retrocomputing.stackexchange.com/questions/17957",
+  "created_at": "2026-11-14T22:22:49Z",
+  "reported_at": 1794784204
+ },
+ {
+  "id": "50496051",
+  "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+  "points": 304,
+  "comments": 185,
+  "author": "hacb",
+  "hn": "https://news.ycombinator.com/item?id=50496051",
+  "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+  "created_at": "2026-11-14T11:13:17Z",
+  "reported_at": 1794784204
+ },
+ {
   "id": "50507303",
   "title": "All AI-generated code should be Open Source",
   "points": 424,
