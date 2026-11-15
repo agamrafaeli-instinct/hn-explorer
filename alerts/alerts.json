@@ -1,5 +1,38 @@
 [
  {
+  "id": "50500963",
+  "title": "SpaceX catches the Starship to end Flight 15",
+  "points": 723,
+  "comments": 483,
+  "author": "ls612",
+  "hn": "https://news.ycombinator.com/item?id=50500963",
+  "url": "https://www.spacex.com/launches/starship-flight-15",
+  "created_at": "2026-11-14T21:22:24Z",
+  "reported_at": 1794708398
+ },
+ {
+  "id": "50497009",
+  "title": "Italy fines Meta $887M over Android users' data access",
+  "points": 336,
+  "comments": 223,
+  "author": "giuliomagnifico",
+  "hn": "https://news.ycombinator.com/item?id=50497009",
+  "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+  "created_at": "2026-11-14T13:48:06Z",
+  "reported_at": 1794708398
+ },
+ {
+  "id": "50496976",
+  "title": "KDE: The documentary [video]",
+  "points": 387,
+  "comments": 84,
+  "author": "mrkn1",
+  "hn": "https://news.ycombinator.com/item?id=50496976",
+  "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+  "created_at": "2026-11-14T13:43:28Z",
+  "reported_at": 1794708398
+ },
+ {
   "id": "50499017",
   "title": "Lovable apps expose passport details and more than 200K private messages",
   "points": 386,

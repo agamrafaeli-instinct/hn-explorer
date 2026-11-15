@@ -1,4 +1,7 @@
-HN new 300+ stories, last 12h, updated 2026-11-14 20:55 UTC. Forward only ids not sent before.
+HN new 300+ stories, last 12h, updated 2026-11-15 02:06 UTC. Forward only ids not sent before.
+50500963 | 723 pts, 483 comments | SpaceX catches the Starship to end Flight 15 | https://news.ycombinator.com/item?id=50500963
+50497009 | 336 pts, 223 comments | Italy fines Meta $887M over Android users' data access | https://news.ycombinator.com/item?id=50497009
+50496976 | 387 pts, 84 comments | KDE: The documentary [video] | https://news.ycombinator.com/item?id=50496976
 50499017 | 386 pts, 131 comments | Lovable apps expose passport details and more than 200K private messages | https://news.ycombinator.com/item?id=50499017
 50496602 | 355 pts, 141 comments | Tech Companies Are Trying to Shift the Concept of Privacy (Again) | https://news.ycombinator.com/item?id=50496602
 50492456 | 300 pts, 209 comments | Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks | https://news.ycombinator.com/item?id=50492456
