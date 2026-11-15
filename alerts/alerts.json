@@ -1,5 +1,38 @@
 [
  {
+  "id": "50507303",
+  "title": "All AI-generated code should be Open Source",
+  "points": 424,
+  "comments": 260,
+  "author": "jcubic",
+  "hn": "https://news.ycombinator.com/item?id=50507303",
+  "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+  "created_at": "2026-11-15T14:46:58Z",
+  "reported_at": 1794763418
+ },
+ {
+  "id": "50503255",
+  "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+  "points": 302,
+  "comments": 96,
+  "author": "nobody9999",
+  "hn": "https://news.ycombinator.com/item?id=50503255",
+  "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+  "created_at": "2026-11-15T02:00:54Z",
+  "reported_at": 1794763418
+ },
+ {
+  "id": "50502988",
+  "title": "Court denies motion to dismiss DRAM price fixing case",
+  "points": 389,
+  "comments": 169,
+  "author": "ybathaee",
+  "hn": "https://news.ycombinator.com/item?id=50502988",
+  "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+  "created_at": "2026-11-15T01:18:36Z",
+  "reported_at": 1794763418
+ },
+ {
   "id": "50501631",
   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
   "points": 424,
