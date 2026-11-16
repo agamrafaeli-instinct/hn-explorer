@@ -1,5 +1,27 @@
 [
  {
+  "id": "50513215",
+  "title": "Qwen4-Max",
+  "points": 376,
+  "comments": 128,
+  "author": "ilreb",
+  "hn": "https://news.ycombinator.com/item?id=50513215",
+  "url": "https://qwen.ai/blog?id=qwen4-max",
+  "created_at": "2026-11-16T02:14:44Z",
+  "reported_at": 1794813314
+ },
+ {
+  "id": "50509411",
+  "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+  "points": 493,
+  "comments": 211,
+  "author": "DeepLogin",
+  "hn": "https://news.ycombinator.com/item?id=50509411",
+  "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+  "created_at": "2026-11-15T18:36:10Z",
+  "reported_at": 1794813314
+ },
+ {
   "id": "50506719",
   "title": "The MacBook Pro's OLED PWM problem",
   "points": 380,
